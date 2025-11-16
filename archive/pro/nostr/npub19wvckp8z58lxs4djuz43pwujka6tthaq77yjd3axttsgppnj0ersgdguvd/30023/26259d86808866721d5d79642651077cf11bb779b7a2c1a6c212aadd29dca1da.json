@@ -1,0 +1,49 @@
+{
+  "id": "26259d86808866721d5d79642651077cf11bb779b7a2c1a6c212aadd29dca1da",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1755541371,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "dead-buildings-living-people"
+    ],
+    [
+      "title",
+      "Dead Buildings, Living People"
+    ],
+    [
+      "summary",
+      "An example of a shuttered Safeway wonderfully illustrating rent-seeking at its finest"
+    ],
+    [
+      "published_at",
+      "1755541371"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "twilight-zone"
+    ],
+    [
+      "t",
+      "dead-buildings"
+    ],
+    [
+      "t",
+      "rent-seeking"
+    ],
+    [
+      "t",
+      "absurdity-of-life"
+    ]
+  ],
+  "content": "This morning I sat in front of a shuttered Safeway with Whiskers, taking a break while walking him through the neighborhood.\n\nThe store is long closed. Cameras still watch every corner, and suddenly a voice came over the loudspeaker: “Please be advised, no loitering here. Please move on.”\n\nA dead building — no food, no jobs, no life — still defended like a fortress. Rent is collected. Security companies get paid. Cameras blink. Loudspeakers scold. But nothing of value is created.\n\nCity violations are posted on the entrance doors, and the landlord is likely already facing fines. The store didn’t close because the community stopped needing it. It closed because shoplifting got out of hand, and corporate math said retreat was easier than adaptation. The result? A hollow shell, guarded from the living.\n\nWhiskers and I were the only life in that space — aside from a couple of workers cleaning the lot. And we were the ones told to move on.",
+  "sig": "a84df2f56f22c19fcd98455666c11140c4a7a3c25450d13c4af333c1d2d828794ef2d8691104114b90cfba38dfeaf1b6901b776503cdc1f1119a298775b98ed7",
+  "_source": [
+    "primal backup"
+  ]
+}
