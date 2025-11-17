@@ -1,0 +1,86 @@
+{
+  "content": "_A weekly collection of sovereign thought, faith, and conviction._\n\n---\n\n## Editor’s Note\n\nAs I release this first issue, my heart is heavy. Wednesday, we lost Charlie Kirk, a leader whose strong \nChristian values and desire for dialogue always resonated with me. And yesterday we remembered Sept 11, \ntwenty-four years later. Both moments remind us why freedom, faith, and sovereignty must be guarded, \nlived, and shared.\n\nAcross Nostr and even in *Bitcoin Magazine*, tributes poured out for Charlie. What struck me most is \nthat many of those voices did not always agree with him, yet they still honored his courage, conviction, \nand personal responsibility. That is the measure of a life that touched deeply, even beyond its own circles.\n\nThis magazine will not be driven by headlines alone. It is a witness — week by week, issue by issue — \nto a deeper story of liberty and hope.\n\n---\n\n## Table of Contents\n\n### Sept 1, 2025\n\n- Paid: *A Timeline of Sovereign Labor: From Fiat Chains to the Chain Among the Stars*\n- Free: *[Sovereign Labor: The Worker as Creator](https://is.gd/5msEYI)*\n- Free: *[Labor Day in the Age of Inflation](https://is.gd/WS4rTf)*\n\n### Sept 2, 2025\n- Paid: *Cathedrals or Casinos — Bitcoin and the End of Disposable Tech*\n- Free: *[Lessons from Web2 — The Rise and Fall of Disposable Platforms](https://is.gd/G8vmoq)*\n- Free: *[Web3’s Mirage — Tokens, Ownership, and the Return of Disposability](https://is.gd/tseDoQ)*\n\n### Sept 3, 2025\n- Paid: *The Garden Without Walls: How Bitcoin Opens the Way to Human Flourishing*\n- Free: *[The Abundance of Sovereignty: Why Freedom Creates More, Not Less](https://is.gd/fC5M7C)*\n- Free: *[Why Hope Belongs to Builders](https://is.gd/Jhqq8G)*\n\n### Sept 4, 2025\n- Paid: *The Currency of Trust: How Bitcoin Restores What Fiat Has Stolen*\n- Free: *[The Generosity of Sovereignty](https://is.gd/WMLvfw)*\n- Free: *[Builders of the New Frontier](https://is.gd/eSsNv6)*\n\n### Sept 5, 2025\n- Paid: *Time, Scarcity, and Human Dignity: Bitcoin as the Architecture of Hope*\n- Free: *[When Patience Becomes Power](https://is.gd/SbLRPZ)*\n- Free: *[The Horizon Beyond Fiat](https://is.gd/JSQhVi)*\n\n### Sept 6, 2025\n- Sabbath: *[The Rhythm of Creation and Rest](https://is.gd/x2WBZN)*\n- Free: *[Sabbath Rest for a Sovereign People](https://is.gd/x6Gd6r)*\n- Free: *[Why Rest Is Resistance](https://is.gd/e01obV)*\n\n### Sept 7, 2025\n- Sunday: *[Bitcoin and the Renewal of Trust](https://is.gd/Io12Y6)* \n- Free: *[The First Day: A New Beginning for a Sovereign Age](https://is.gd/Id6DuF)*\n- Free: *[Why Hope Rises With the Dawn](https://is.gd/1Qsrci)*\n\n*Additional posts and notes from Sept 1–7 are available on Nostr under @Akamaister.*",
+  "created_at": 1763254821,
+  "id": "ae6f9345bac99d177bd5841df85f2a4a6223c416816ca13db026dab25153a17a",
+  "kind": 30023,
+  "pubkey": "fb700c6b97241eb0776a54c74e13ace5003a4a5619b81d7ef6c4f4fc80e625f6",
+  "sig": "adbe53d7f8872ead9ba82df5314686eff154a6ccabaf752fbae1889b0cea2a864544bafd7ab4df7f9607b2ade834123f25835f8f389ab58becda187eb4709493",
+  "tags": [
+    [
+      "d",
+      "continuum-magazine---issue-1-sept-1-7-2025"
+    ],
+    [
+      "title",
+      "Continuum Magazine - Issue #1 (Sept 1-7, 2025)"
+    ],
+    [
+      "published_at",
+      "1763254821"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "The first issue of Continuum Magazine brings together the Sept 1–7, 2025 writings: one paid article and two free reflections each day. Anchored in themes of sovereignty, faith, and conviction, this issue opens with a heavy remembrance of Sept 11 and the loss of Charlie Kirk, and moves through questions of labor, covenant, community, and renewal."
+    ],
+    [
+      "display_date",
+      "2025-10-06"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "magazine"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "faith"
+    ],
+    [
+      "t",
+      "freedom"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "community"
+    ],
+    [
+      "t",
+      "renewal"
+    ],
+    [
+      "t",
+      "charlie kirk"
+    ],
+    [
+      "t",
+      "sept11"
+    ],
+    [
+      "e",
+      "dc27bce986ba534be76d58bbabe531850d4237ca9c96e1a352944b7ef1fba640",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.snort.social"
+  ]
+}
