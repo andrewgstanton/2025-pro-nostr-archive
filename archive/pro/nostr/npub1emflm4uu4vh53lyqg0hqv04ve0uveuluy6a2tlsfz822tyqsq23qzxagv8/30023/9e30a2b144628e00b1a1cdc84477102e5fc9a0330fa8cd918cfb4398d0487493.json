@@ -1,0 +1,72 @@
+{
+  "content": "# Continuum Roadmap\n\n## v1.5 – Relay Recovery + LinkedIn Dashboard (August 2025)\n\n### 📡 Republish Low-Coverage Events\n\n**Goal:** Ensure important events (notes, articles, profiles) are discoverable across relays.\n\n- Detect events that are missing from key public relays\n- Add relay visibility badge per event (already implemented)\n- Add a \"Republish\" button to manually trigger rebroadcast\n- Future: schedule auto-rebroadcast for low-coverage events\n\nThis ensures that profiles and public content remain accessible without needing to rely on fallback imports from Primal or others.\n\n---\n\n### 👔 LinkedIn Dashboard (Separate from Nostr UI)\n\n**Goal:** Build a rich, resume-style view powered by `kind:3000` events (non-standard but structured).\n\n- Dashboard path: `/linkedin`\n- Use `kind:3000` events for structured data:\n  - `work_history`\n  - `education`\n  - `skills`\n  - `endorsements`\n  - `recommendations`\n- Parsed from uploaded LinkedIn ZIP OR created natively\n- Stored and optionally published to relays (opt-in)\n- Will NOT interfere with core `kind:0`, `1`, or `30023` Nostr flows\n\nFuture goals:\n- Enable 2-way sync with LinkedIn via AI agent (not OAuth)\n- Turn LinkedIn into an archival “skin” on top of sovereign identity\n- Eventually support resume-style PDF export and sharable link\n\n---\n\n### 📌 Why This Matters\n\nBy combining **republishing** with a full **LinkedIn-style dashboard**, `v1.5` ensures that your self-sovereign identity is:\n\n- Fully retrievable\n- Rich and professional\n- No longer reliant on centralized profile backups like Primal\n\nThis moves Continuum one step closer to being a **sovereign identity layer** that can also serve as your **professional root system**.",
+  "created_at": 1752896109,
+  "id": "9e30a2b144628e00b1a1cdc84477102e5fc9a0330fa8cd918cfb4398d0487493",
+  "kind": 30023,
+  "pubkey": "ced3fdd79cab2f48fc8043ee063eaccbf8ccf3fc26baa5fe0911d4a5901002a2",
+  "sig": "2edddadc28eb7fd879ff25fd5c75caebaf44ec2dce67e4fccd63aa8b479c987241237f19ee2ea9d88ebf3308d9ef0aa2d6884626fe5baa1417cdf366d743781f",
+  "tags": [
+    [
+      "d",
+      "v15--relay-recovery--linkedin-dashboard-august-2025"
+    ],
+    [
+      "title",
+      "v1.5 – Relay Recovery + LinkedIn Dashboard (August 2025)"
+    ],
+    [
+      "summary",
+      "relay rebroadcast and full featured LinkedIn Dashboard"
+    ],
+    [
+      "published_at",
+      "1752896109"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "continuum-pro"
+    ],
+    [
+      "t",
+      "sovereign publishing"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "digital freedom"
+    ],
+    [
+      "t",
+      "linkedin"
+    ],
+    [
+      "t",
+      "linkedin exit"
+    ],
+    [
+      "t",
+      "linked oasis"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://nostr.bitcoiner.social"
+  ]
+}

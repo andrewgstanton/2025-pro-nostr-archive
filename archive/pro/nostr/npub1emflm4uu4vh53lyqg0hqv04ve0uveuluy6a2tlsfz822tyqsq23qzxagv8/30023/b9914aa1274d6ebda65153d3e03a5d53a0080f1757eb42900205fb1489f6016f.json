@@ -1,0 +1,57 @@
+{
+  "content": "## v1.0.1 — Post-Publish Refresh Patch (2025-07-02)\n\n### 🔧 Patch Update\n\n- **Post-Publish Refresh Fix**\n  - Ensures that after publishing a new article or note, the local data is immediately refreshed\n  - Updates the SQLite database and in-memory dashboard state so the new event appears without requiring a manual reload\n  - Tagged in both `continuum` and `continuum-pro` for consistency",
+  "created_at": 1751653674,
+  "id": "b9914aa1274d6ebda65153d3e03a5d53a0080f1757eb42900205fb1489f6016f",
+  "kind": 30023,
+  "pubkey": "ced3fdd79cab2f48fc8043ee063eaccbf8ccf3fc26baa5fe0911d4a5901002a2",
+  "sig": "a26561a934da2b2b3e838b31fda3133221843f30dec705b69fd51c7cd7d3d14965ac46c62da560d0baf1884676d0318d129a18897d7c02512a96a9738d45511d",
+  "tags": [
+    [
+      "d",
+      "mycontinuum-changelog---v101--post-publish-refresh-patch-2025-07-02"
+    ],
+    [
+      "title",
+      "MyContinuum Changelog - v1.0.1 — Post-Publish Refresh Patch (2025-07-02)"
+    ],
+    [
+      "summary",
+      "Ensures that after publishing a new article or note, the local data is immediately refreshed"
+    ],
+    [
+      "published_at",
+      "1751653674"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "sovereign publishing"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "digital freedom"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ]
+}

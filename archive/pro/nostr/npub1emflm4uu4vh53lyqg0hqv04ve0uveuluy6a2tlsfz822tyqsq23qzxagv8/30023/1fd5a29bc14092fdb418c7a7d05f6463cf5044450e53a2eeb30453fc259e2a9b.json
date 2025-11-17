@@ -1,0 +1,47 @@
+{
+  "content": "# Nostr: The Neutral Protocol With a Bitcoin Gravity Well\n\nWhen people hear “Nostr,” they often think “Bitcoin.” It’s true that many early adopters were Bitcoiners — but Nostr itself is **not** Bitcoin-only. It’s a neutral, open protocol for publishing signed events. It doesn’t care if you’re a Bitcoiner, an Ethereum maxi, a Web3 founder, or completely outside the crypto world.\n\nYour identity on Nostr is simply a public key (`npub`). No blockchain, no foundation, no corporate owner. Anyone can use it.\n\n## Why Nostr Is the Most Decentralized Option Available\n\n- You control your keys — and by extension, your identity and data.  \n- Relays are voluntary and distributed. No single server controls the network.  \n- There’s no “core company” that can change the rules or shut it down.  \n- No token to pump, no foundation to please.\n\nIf you want decentralization in practice, not just in name, Nostr delivers it today.\n\n## The Bitcoin Gravitational Pull\n\nBecause Nostr is an open protocol, it naturally rewards the use of open, trust-minimized money — and Bitcoin fits that role perfectly. Lightning Network payments (“zaps”) integrate seamlessly, enabling instant, borderless value exchange between participants.\n\nThis creates a **gravitational pull**:\n\n- Newcomers might join for social networking, Web3 promotion, or community building.  \n- Over time, they see how Bitcoin and Lightning work *natively* on the protocol.  \n- The incentives and architecture slowly shift their thinking toward Bitcoin’s principles — without anyone forcing it.\n\nIt’s not ideology that does this — it’s the reality of using a censorship-resistant, ownerless network where the best tool for money *happens* to be Bitcoin.\n\n## Why This Matters for Communities Claiming to Value Decentralization\n\nIf your group says it wants decentralization, Nostr is worth a serious look. It:\n\n- Works for any community, not just “Bitcoin people.”  \n- Avoids false equivalences between Web3 tokens and Bitcoin.  \n- Lets you build your space without corporate or token dependencies.\n\nYou can use it for anything: group discussions, publishing articles, sharing media, or running events. And you can do it without compromising on the decentralization you say you value.\n\n## This Isn’t Theory — It’s Running Today\n\nI’m already putting this into practice through a project called *Continuum* — a decentralized publishing and identity tool built on Nostr (https://mycontinuum.xyz).   I use it to post these articles directly to the protocol, and I plan to open-source it so anyone can use, modify, or host their own version. This isn’t an abstract vision — it’s deployed and working right now.\n\n## A Call to Engage, Not Ignore\n\nNostr is here, it works, and it’s free. It’s the most genuinely decentralized communication layer we’ve ever had — and it’s already being used to publish the very articles you’re reading now.\n\nIf decentralization is more than a talking point for you, stop waiting for a “perfect” structure to be downloaded from above. Start building it, together, on a protocol that’s open to all.",
+  "created_at": 1754851414,
+  "id": "1fd5a29bc14092fdb418c7a7d05f6463cf5044450e53a2eeb30453fc259e2a9b",
+  "kind": 30023,
+  "pubkey": "ced3fdd79cab2f48fc8043ee063eaccbf8ccf3fc26baa5fe0911d4a5901002a2",
+  "sig": "27fc8b119dd78b096c9e0d03ef2ccd4a5db862ba52863f594505369e646e5dd213ef80ebfce25d1d390b87781a8f00b52eb79d4bffacbf78841ac5ba7828e7ac",
+  "tags": [
+    [
+      "d",
+      "nostr-the-neutral-protocol-with-a-bitcoin-gravity-well"
+    ],
+    [
+      "title",
+      "Nostr: The Neutral Protocol With a Bitcoin Gravity Well"
+    ],
+    [
+      "summary",
+      "Nostr ia a truly decentralized open protocol for publishing signed events."
+    ],
+    [
+      "published_at",
+      "1754851414"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "decentralization"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://relay.damus.io",
+    "wss://nostr.bitcoiner.social"
+  ]
+}

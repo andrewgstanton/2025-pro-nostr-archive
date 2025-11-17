@@ -1,0 +1,60 @@
+{
+  "content": "# Continuum Changelog\n\n## v1.4.0 – Profile, Article, and Note Management (July 2025)\n\n**Major milestone:** Adds full support for publishing, editing, and deleting notes, articles, and profile metadata — fully aligned with Nostr protocol standards.\n\n### ✍️ New Features\n\n- ✅ **Edit & Republish Articles (`kind:30023`)**\n  - Edits are republished as new signed events\n  - Old versions deleted via `kind:5`\n  - Title, content, tags, and summary are editable\n- ✅ **Edit Notes (`kind:1`)**\n  - Delete notes with confirmation\n  - UI refresh on removal\n- ✅ **Profile Metadata Management (`kind:0`)**\n  - Add/edit `name`, `about`, `picture`, `nip05`, `lud16`, etc.\n  - Publishes signed metadata as `kind:0` event\n  - Deletes old profile metadata on update\n  - Supports full edit screen or creation fallback\n\n### 🔐 Authorization\n\n- Viewer authorization (`viewer_is_authorized`) used to hide delete/edit buttons\n- Partial protection on API routes (will be hardened in v1.4.1)\n\n### 🧱 Infrastructure + Code Quality\n\n- Clean separation of routes:\n  - `/api/article/edit/<id>`\n  - `/nostr/edit_published_article/<id>`\n  - `/api/profile/publish`\n  - `/nostr/edit_published_profile/<event_id>`\n- Consistent use of `insert_event_to_db()`, `publish_event_to_relays()`, and `generate_event_id()` utilities\n- Added `event_id` support to `profiles` table for kind:0 traceability\n\n### 🧪 Bug Fixes & Dev Quality of Life\n\n- Fixed JSON decoding errors on `profile[\"content\"]` field\n- Normalized summary handling across article editing\n- Added logging for route hits, missing data, and database mismatches\n\n---\n\n## Next Up: `v1.4.1`\n\n- 🧼 Modal confirmations for all destructive actions\n- ✅ Flash messages on successful updates\n- 🔐 Hardened auth checks on all edit/delete API routes\n- 👁️ Live preview for markdown-based articles and profile cards",
+  "created_at": 1752895840,
+  "id": "e1edc714e10fabf4cec200adadc0e001405a89c491832251b47826c3a575999e",
+  "kind": 30023,
+  "pubkey": "ced3fdd79cab2f48fc8043ee063eaccbf8ccf3fc26baa5fe0911d4a5901002a2",
+  "sig": "453f4667bec5c8aee8e12e00dbf4d1a86838616e2514fa976e4dce29fb725fdf6daae873ecc9ab90baada525381a62e6ef90ccd232974cfbcd7471e848953dc5",
+  "tags": [
+    [
+      "d",
+      "v140--profile-article-and-note-management-july-2025"
+    ],
+    [
+      "title",
+      "v1.4.0 – Profile, Article, and Note Management (July 2025)"
+    ],
+    [
+      "summary",
+      "full support for profile, note and article management"
+    ],
+    [
+      "published_at",
+      "1752895840"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "continuum-pro"
+    ],
+    [
+      "t",
+      "sovereign publishing"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "digital freedom"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://nostr.bitcoiner.social"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "content": "# 🌀 MyContinuum Changelog\n\n## v1.2 – Multi-Identity Support & Dashboard Enhancements  \n**Release Date:** 2025-07-05\n\n### 🚀 Major Features\n\n- **Multi-Identity Support**\n  - Introduced `/api/identities` endpoint to list all identity JSON files.\n  - Identity selection modal only appears if more than one identity is present.\n  - Identity dropdown sorted alphabetically, with `default` listed first.\n  - Users can switch the **signing identity** dynamically from the UI.\n\n- **Decoupled Viewing vs. Signing**\n  - Dashboard now clearly separates:\n    - 🔐 **Signing Identity**: used for publishing (notes, articles, zaps)\n    - 👁 **Currently Viewing**: identity whose events are displayed\n  - Added buttons to:\n    - Load the current signing identity's dashboard\n    - Select another identity's dashboard\n\n### 💄 UI Improvements\n\n- Both NPUB and HEX keys are shown for signing and viewing identities\n- Identity nickname is displayed under the signing section\n- Dashboard auto-recovers if a session points to a deleted identity\n\n### 🐛 Fixes & Reliability\n\n- Robust error handling for missing or invalid identity sessions\n- Prevented crashes when loading stale or non-existent identity files\n- Improved fallback logic to default identity if issues are detected\n\n---\n\n➡️ This version lays the foundation for **multi-NPUB publishing**, fine-grained relay logic, and true sovereign identity tooling in upcoming releases.\n\n---",
+  "created_at": 1751773399,
+  "id": "69ca6882dbc1f8fb0624a38a1c472fd5b8fb75d9c217724c92718f2ea063a03c",
+  "kind": 30023,
+  "pubkey": "ced3fdd79cab2f48fc8043ee063eaccbf8ccf3fc26baa5fe0911d4a5901002a2",
+  "sig": "c8bd0518b5f2f4247a6a2fd84f29cded55f95fba602587c073aceadaa5230ff9f08525e2702a8a3f298c7d18569b2c9e5d48c3c2749bde6b65047ce80479500c",
+  "tags": [
+    [
+      "d",
+      "-mycontinuum-pro-changelog---v120--multi-identity-support--dashboard-enhancements"
+    ],
+    [
+      "title",
+      "🌀 MyContinuum (PRO) Changelog - v1.2.0 – Multi-Identity Support & Dashboard Enhancements"
+    ],
+    [
+      "summary",
+      "This version lays the foundation for **multi-NPUB publishing**, fine-grained relay logic, and true sovereign identity tooling in upcoming releases."
+    ],
+    [
+      "published_at",
+      "1751773399"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "continuum-pro"
+    ],
+    [
+      "t",
+      "sovereign publishing"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "digital freedom"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://nostr.bitcoiner.social"
+  ]
+}

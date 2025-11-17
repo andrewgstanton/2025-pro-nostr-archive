@@ -1,0 +1,61 @@
+{
+  "content": "# 📦 CHANGELOG — MyContinuum v1.3.0\n\n**Release Date:** July 8, 2025\n\n---\n\n## ✨ Major Features\n\n### 🔐 Identity Management\n- Add support for creating new `npub`/`nsec` identities from the UI\n- Prevent overwriting: fallback filenames like `nickname-1.json` if a name already exists\n- Automatically load newly created identity into session\n- Fully compatible with `identities/` directory structure\n\n### ✍️ Notes & Articles Enhancements\n- Post notes and articles from any selected identity (not just default)\n- Show active signing identity in UI\n- Add live Markdown preview toggle for both notes and articles\n- Support optional shortened URLs in preview (toggle switch)\n\n### 🔗 Smart URL Shortening\n- Auto-detect and shorten Markdown + raw URLs in article preview\n- Use `is.gd` as the primary shortener with TinyURL as a fallback\n- Added `shorten_url_smart()` utility in `utils.py`\n\n### 📡 Publishing Feedback\n- Show publishing status via floating modal\n- Real-time updates:\n  - `📡 Publishing to relays...`\n  - `✅ Successfully published!`\n  - `❌ Failed to publish.`\n- Fade out automatically after 5 seconds\n\n---\n\n## 🌍 Branding & Identity Launch\n\n- Created and published identity for **Blue Planet Ventures, Inc.**\n- Uploaded avatar and configured profile (bio, URL, handle)\n- Published launch note + welcome article via MyContinuum\n- URL: [https://bpv.one](https://bpv.one)\n\n---\n\n## 🛠️ Technical/Infra\n- Dockerfile updated to support `nostr.key` via GitHub dependency\n- `identity_utils.py` created for modular identity generation\n\n---\n\n## 🧭 Notes\n\n- Draft editing supported for both notes and articles\n- Published article editing (re-publish as new event) moved to v1.4+\n- True deletion via kind:5 delete event deferred to v1.4+\n\n---\n\n## 🔜 Coming in v1.4\n\n- Edit and re-publish published articles\n- UI polish for identity/profile switching\n- Basic kind:5 deletion support for notes/articles",
+  "created_at": 1752021894,
+  "id": "20201f5660b8e443c8fe933457c37aa9208353e4e8f74a5b89feee4027c43753",
+  "kind": 30023,
+  "pubkey": "ced3fdd79cab2f48fc8043ee063eaccbf8ccf3fc26baa5fe0911d4a5901002a2",
+  "sig": "c9522184e4b1744a5c627f3d5f8b25d1dfc79a26ca0139a1a0b1b51b16890145715a7d631d948b32fcfac4f5ab67a0deaf522fba5ed6a3aeda8da2b994cf7772",
+  "tags": [
+    [
+      "d",
+      "-changelog-pro-mycontinuum-v130"
+    ],
+    [
+      "title",
+      "📦 CHANGELOG (Pro)— MyContinuum v1.3.0"
+    ],
+    [
+      "summary",
+      "changelog for v1.3"
+    ],
+    [
+      "published_at",
+      "1752021894"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "continuum-pro"
+    ],
+    [
+      "t",
+      "sovereign publishing"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "digital freedom"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "content": "## [v1.3.5] - 2025-07-13\n\n### 🛠 Refactoring\n- Began modularizing route logic by moving selected routes out of `app.py` into separate files\n- Set foundation for future route isolation (to continue in v1.5.5)\n\n### 🐛 Bug Fixes\n- Fixed minor startup issues related to subprocess execution and environment loading\n- Improved reliability of identity detection on dashboard load\n- Standardized relay URL parsing logic (silent fixes)\n\n### 🔧 Internal Improvements\n- Reduced `app.py` from 800+ lines to ~300 lines\n- Maintained backward compatibility while restructuring\n\n---\n\n### Notes\n- Major refactors intentionally paused after v1.3.5 to focus on feature development in v1.4",
+  "created_at": 1752895642,
+  "id": "b06bdb8e82cb53744f97995a1f49937e28184722a758b71f1699e3673c9a372a",
+  "kind": 30023,
+  "pubkey": "ced3fdd79cab2f48fc8043ee063eaccbf8ccf3fc26baa5fe0911d4a5901002a2",
+  "sig": "c19210890d17f0833bcf917bd581287e7a5ff120deef913b3b7e4b111e835da961668e88411b5ee5c77ab29a3afe4c52e6a1846b8155157d50a08f65827aeefe",
+  "tags": [
+    [
+      "d",
+      "v135---2025-07-13"
+    ],
+    [
+      "title",
+      "[v1.3.5] - 2025-07-13"
+    ],
+    [
+      "summary",
+      "some refactoring of route logic"
+    ],
+    [
+      "published_at",
+      "1752895642"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "continuum-pro"
+    ],
+    [
+      "t",
+      "sovereign publishing"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "digital freedom"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://nostr.bitcoiner.social"
+  ]
+}

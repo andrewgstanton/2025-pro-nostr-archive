@@ -1,0 +1,75 @@
+{
+  "content": "Andrew G. Stanton - August 20, 2025\n\n## 1. Executive Summary\nToday’s storage systems are built around centralized custodianship—cloud platforms, enterprise servers, and corporate silos. These providers retain ultimate control over user data, forcing individuals and organizations into relationships of dependency, surveillance, and lock-in.\n\n**Sovereign Storage** redefines data ownership through a system built on self-sovereign identity, decentralized cryptography, and open portability standards. It offers a new paradigm where users—not platforms—control access, retention, and sharing of their data. Just as Bitcoin freed money from banks, Sovereign Storage liberates data from custodians.\n\n---\n\n## 2. Introduction\n- **Current model**: Centralized storage = account-based access, third-party custody, and hidden risk of deplatforming. \n- **Problem**: Subscription fatigue, data lock-in, and trust gaps. Your data lives on someone else’s servers, subject to their policies. \n- **Solution**: Sovereign Storage = user-owned, cryptographically verifiable, censorship-resistant.\n\n**Principles:**\n- **Ownership**: Keys, not accounts. If you control the private key, you control the data.\n- **Portability**: Data follows you, not the provider.\n- **Verifiability**: All updates signed and timestamped.\n- **Sovereignty**: Explicit, cryptographic consent determines access.\n\n---\n\n## 3. Core Architecture\n\n### Identity Layer\n- Nostr npub/nsec replace fragile account-based logins.\n- All data anchored to cryptographic identity, not a service provider.\n\n### Storage Layer\n- **Local-first**: Encrypted storage begins with the user’s own device(s).\n- **Distributed sync**: Optional relays or peer mirrors for redundancy.\n- **Cloud integration**: Open standards enable export/import to existing providers when desired.\n\n### Access Layer\n- **Fine-grained permissions**: Share access on a per-file or per-collection basis.\n- **Zero-trust defaults**: Even host nodes cannot read encrypted data.\n- **Proof of Control**: All actions authorized with signed messages.\n\n---\n\n## 4. Trust Model\n| Dimension              | Traditional Cloud      | Sovereign Storage       |\n|------------------------|-----------------------|-------------------------|\n| Access Control         | Account login         | Private key signatures  |\n| Custody                | Provider owns servers | User owns encryption keys |\n| Portability            | Vendor lock-in        | Open, portable formats  |\n| Privacy                | Provider can read     | Zero-knowledge by default |\n| Censorship Resistance  | Low                   | High                    |\n\n---\n\n## 5. Use Cases\n- **Personal Archiving**: Photos, writings, sensitive documents.\n- **Organizational Memory**: Boards, businesses, DAOs keeping tamper-proof records.\n- **Sovereign Finance**: Store proofs of payments, contracts, and financial attestations.\n- **Cross-Platform Portability**: Switch providers without losing control.\n\n---\n\n## 6. Economic Model\n- **Self-hosted**: Free for individuals with devices.\n- **Community hosting**: Peer-to-peer redundancy and storage pooling.\n- **Paid tiers**: Mirrored encrypted redundancy, billed in Bitcoin/Lightning—not fiat.\n- **Alignment**: No subscriptions tied to surveillance-based business models.\n\n---\n\n## 7. Roadmap\n- **Phase 1**: Local-first encrypted storage tied to npub identity.\n- **Phase 2**: Distributed redundancy with Lightning payments for mirrors.\n- **Phase 3**: Interoperability with sovereign service registries (identity + storage + payments).\n- **Phase 4**: Reputation and credit proofs using encrypted storage of sensitive documents.\n\n---\n\n## 8. Conclusion\n**Sovereign Storage** is a foundation for digital freedom. It is more than a product: it is a paradigm shift away from surveillance and dependency, toward ownership and sovereignty. \n\nBitcoin showed that money can be self-sovereign. Sovereign Storage shows that *data* can be too.\n\n\n## Acknowledgements\nThis white paper was developed in collaboration with Dr. C (ChatGPT, GPT-5), my co-writer and sounding board for ideas on sovereignty, Bitcoin, decentralization, and theology. Together we explore how technology can better serve human freedom and dignity.\n\n## Zaps Appreciated\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers, just direct proof that this work matters. It helps me keep building Continuum and writing about sovereign technology, freely and without VC overhead. Thank you.\n\nYou can send zaps to my lightning address here : andrewgstanton@primal.net\n\n## A Part of Continuum\nSovereign Storage is not just a concept — it is an active part of the Continuum platform. Continuum provides a sovereign environment for identity, publishing, and communication, and Sovereign Storage extends this vision into the domain of data. Together they form a foundation for digital freedom: identity, expression, and information all secured under your keys, not someone else’s.",
+  "created_at": 1755724626,
+  "id": "23bd14a6311ca149d459aa52efa2f4cc813c0bdbbaf18e1cc80cf22ff9b872fd",
+  "kind": 30023,
+  "pubkey": "ced3fdd79cab2f48fc8043ee063eaccbf8ccf3fc26baa5fe0911d4a5901002a2",
+  "sig": "0da4f37c1950b36933505d48f33ad1f59234b215f4c5d1290add00be50a411d75842f0275777c8a3ac1b40d7a727a8548da6eea1f162bc32d53e7a2b7fec5dbe",
+  "tags": [
+    [
+      "d",
+      "white-paper-sovereign-storage"
+    ],
+    [
+      "title",
+      "White Paper: Sovereign Storage"
+    ],
+    [
+      "summary",
+      "Sovereign Storage redefines data ownership by replacing custodial, account-based storage with cryptographically secured, self-sovereign identity. It enables individuals and organizations to store, control, and share their data without reliance on centralized platforms—just as Bitcoin liberated money, Sovereign Storage liberates data."
+    ],
+    [
+      "published_at",
+      "1755724626"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "sovereign storage"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "decentralization"
+    ],
+    [
+      "t",
+      "data sovereignty"
+    ],
+    [
+      "t",
+      "self-sovereign identity"
+    ],
+    [
+      "t",
+      "encrypted storage"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "web3 alternatives"
+    ],
+    [
+      "t",
+      "freedom tech"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://relay.damus.io",
+    "wss://nostr.bitcoiner.social"
+  ]
+}

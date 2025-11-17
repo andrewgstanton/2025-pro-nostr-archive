@@ -1,0 +1,69 @@
+{
+  "content": "# 👋 Welcome!!\n\n## This is the first post from my new Nostr identity — *Continuum* — signed with a freshly generated npub and published from a local instance of a self-hosted publishing system I’ve been building.\n\nNo platforms. No clients. No intermediaries.\nJust keys, code, and conviction.\n\nToday is July 4 — and while most of America is celebrating political independence, I want to mark something equally vital:\nA declaration of digital independence.\n\nIn a world dominated by walled gardens and centralized gatekeepers, publishing from your own machine — under your own identity — is a radical act of freedom.\n\nThat’s why I created this system:\nA sovereign dashboard for Nostr that allows you to write, edit, and publish both notes and articles from your own computer. You don’t need Primal. You don’t need anyone’s API keys. You just need your own.\n\nThis isn’t just a technical choice.\nIt’s a philosophical one.\n\nWe don’t need permission to create.\nWe don’t need to rent our identities.\nWe don’t need to ask for reach.\n\nThis article was:\n\nWritten and published from my local instance\n\nSigned with a new npub generated this morning and manually imported\n\nSent directly to the Nostr network — bypassing all third-party clients\n\nThe name Continuum represents more than a dashboard. It’s a statement:\nWe can reclaim our tools.\nWe can own our data.\nWe can build without asking permission.\n\nToday, I’m choosing freedom.\nIf you’re reading this — maybe you are too.\n\n🔗 https://github.com/andrewgstanton/continuum",
+  "created_at": 1751648799,
+  "id": "040ba5d13e5b7f0ee6b7d933e7d67ffae5b003ffb87f74d8607e0d3df83c30c1",
+  "kind": 30023,
+  "pubkey": "ced3fdd79cab2f48fc8043ee063eaccbf8ccf3fc26baa5fe0911d4a5901002a2",
+  "sig": "f4d9d490101b5ce9dd949565bc1653ce6b8ecf9914d209fbd88dec98d63d67410cb0a6785aa422ba6aa242faba39a2ffcf7c8f2677d8e45e843876d3debb396d",
+  "tags": [
+    [
+      "title",
+      "A Declaration of Digital Independence"
+    ],
+    [
+      "summary",
+      "Published on July 4 as a declaration of digital independence, this inaugural post from the Continuum identity was written, signed, and published using a fully self-hosted system. It introduces Continuum not just as a tool, but as a sovereign philosophy — rejecting platforms, reclaiming identity, and proving that we can publish from our own machines, without permission."
+    ],
+    [
+      "image",
+      "https://blossom.primal.net/8983ef0c3878a4fea4cbf0ad803e96f4f70e73118fb061732fc54801365f63b3.png"
+    ],
+    [
+      "d",
+      "a-declaration-of-digital-independence"
+    ],
+    [
+      "t",
+      "nost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "selfhosted"
+    ],
+    [
+      "t",
+      "sovereignsoftware"
+    ],
+    [
+      "t",
+      "digitalindependence"
+    ],
+    [
+      "t",
+      "july4"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "client",
+      "Primal"
+    ],
+    [
+      "published_at",
+      "1751647072"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ]
+}

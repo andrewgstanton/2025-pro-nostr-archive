@@ -1,0 +1,57 @@
+{
+  "content": "# 🧾 MyContinuum Changelog\n\n## v1.0.0 – First Full Release\n**Release Date:** July 1, 2025  \n**Tag:** `v1.0.0`\n\n### 🎉 Overview\nFirst full release.  This version delivers all baseline functionality for the self-hosted tool ready for public deployment under this repo.\n\n### ✨ Major Features\n- **SQLite database migration complete**\n  - All event data stored and queried from local SQLite\n- **Timezone support**\n  - Reads from `local_identity.json` (e.g., `\"timezone\": \"US/Pacific\"`)\n  - Falls back to UTC if missing or invalid\n- **Markdown rendering and preview**\n  - Full support for notes and articles\n- **Auto-generated note titles**\n  - First 10 non-image words from content\n  - Applied in `/api/notes`, `/api/timeline`\n- **Unified link styles**\n  - Consistent styling via `.standard-link` class across all pages\n- **Modal styles extracted**\n  - `modal.css` now shared across templates\n\n### 🧪 Platform Compatibility\n- ✅ Verified in Chrome, Safari, Brave, Firefox, and Edge\n- ✅ Tested on both macOS and Windows (WSL2 + Docker Desktop)\n- ✅ Supports Dockerized local deployment via `run.sh`\n\n### 🧰 Dev Enhancements\n- `local_identity.json-sample` provided as a template\n- Publish checkbox hidden if `nsec` is invalid\n- New `@app.template_filter('localtime')` logic for consistent time formatting\n- Edits to `edit_article.html` and `edit_note.html` to gracefully handle hidden fields\n\n### 🚧 Known Gaps\n- No image/media upload yet\n- No relay rebroadcasting or relay visibility UI\n- No support for likes, zaps, DMs, or replies yet\n- TinyURL shortening toggle in editor deferred to post-1.0.0\n- Hosted/paid tier features (e.g. article backups, relay syncing) not included here\n\n---",
+  "created_at": 1751653291,
+  "id": "a2d90c2301108ee58fc886319c15e2ecf2ba051bd499d6521652055638c06fc9",
+  "kind": 30023,
+  "pubkey": "ced3fdd79cab2f48fc8043ee063eaccbf8ccf3fc26baa5fe0911d4a5901002a2",
+  "sig": "b4743100954ca561c9d6d0e5f8f7f5f4fdeaf8afd69fb658ec6083f014a8310d05fa98b458083d96fce91f646ebcd78d0fccefdd927f1ff7eecf358c4bd87e3c",
+  "tags": [
+    [
+      "d",
+      "-mycontinuum-changelog---v100---first-full-release"
+    ],
+    [
+      "title",
+      "🧾 MyContinuum Changelog - v1.0.0 - First Full Release"
+    ],
+    [
+      "summary",
+      "First full release.  This version delivers all baseline functionality for the self-hosted tool ready for public deployment under this repo."
+    ],
+    [
+      "published_at",
+      "1751653291"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "sovereign publishing"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "digitial freedon"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ]
+}
