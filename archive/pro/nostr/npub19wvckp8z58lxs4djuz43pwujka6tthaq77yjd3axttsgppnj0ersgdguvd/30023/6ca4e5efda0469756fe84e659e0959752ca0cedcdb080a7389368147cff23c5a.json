@@ -1,0 +1,70 @@
+{
+  "id": "6ca4e5efda0469756fe84e659e0959752ca0cedcdb080a7389368147cff23c5a",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1760763357,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "free-article-1-oct-13-2025-the-discipline-of-showing-up"
+    ],
+    [
+      "title",
+      "Free Article 1 (Oct. 13, 2025): The Discipline of Showing Up"
+    ],
+    [
+      "published_at",
+      "1760763357"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "Inspiration is unreliable; discipline is merciful. This reflection explores how showing up to write—especially when desire fades—becomes its own form of prayer."
+    ],
+    [
+      "display_date",
+      "2025-10-13"
+    ],
+    [
+      "t",
+      "faith"
+    ],
+    [
+      "t",
+      "writing"
+    ],
+    [
+      "t",
+      "discipline"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "craft"
+    ],
+    [
+      "t",
+      "free"
+    ],
+    [
+      "e",
+      "8f7235c160ddfb5b6f06f0cfb31cab3fcf3dc1aa6fc4ad7414eaec67bbe833ce",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Oct. 13, 2025\n\nThere are mornings when the keyboard feels like stone.\nThe words don’t come, the thoughts circle but never land, and the mind starts negotiating escape routes—coffee first, emails later, maybe inspiration after that. It never works. The only way through those days is the oldest rule in the book: show up anyway.\n\nI used to wait for energy or clarity before beginning. Now I begin to find them.\nDiscipline doesn’t eliminate resistance; it just refuses to take resistance personally. It’s a quiet, stubborn act of faith—faith that something still lives underneath the noise of fatigue, and that the act of writing will uncover it.\n\nI think of discipline less as control and more as care.\nTo show up for the work is to show up for yourself, to honor the gift you’ve been given even when it feels dim. Artists, farmers, and saints all share this same rhythm: the willingness to meet the day whether or not it greets them back.\n\nThe blank page can feel like judgment. You want to fill it quickly to prove you still can. But rushing violates the relationship. The page isn’t demanding brilliance; it’s inviting honesty. And honesty sometimes starts as boredom. So I start by describing exactly how I feel. I don’t want to write today. That single admission often breaks the spell. Truth makes room for movement.\n\nI’ve learned that most resistance hides fatigue or fear.\nFatigue whispers, you have nothing left. Fear insists, you’ll fail again. The discipline of showing up answers both: I don’t need to have everything; I just need to arrive.\n\nIt’s the same logic that keeps faith alive.\nYou don’t feel holy every morning you pray. You don’t feel inspired every time you open Scripture or sit in silence. Yet you do it because the rhythm itself sustains belief. Writing works that way. Each session is a small liturgy: fingers, breath, screen, silence. You repeat it until the presence returns.\n\nOn the days when nothing flows, I remind myself: the work isn’t to be inspired, it’s to be available. Inspiration can’t visit an empty room. When I sit, even in apathy, I’m setting the table. Sometimes the guest never arrives, and that’s fine. The table still matters.\n\nThere’s a mercy in low-output days. They test whether you value the craft for its results or its relationship. When words come easily, it’s performance; when they don’t, it’s devotion. Both are necessary, but the latter builds character. Faithfulness always reveals more about the writer than fluency does.\n\nContinuum was born from that conviction. It’s not a platform for productivity; it’s a platform for presence. Writing daily, publishing weekly, iterating slowly—those are not efficiency metrics, they’re spiritual exercises. Each post is another candle lit against inertia.\n\nI used to equate momentum with inspiration.\nBut now I see that momentum creates inspiration. Each time I push through disinterest, I find a small pocket of grace waiting on the other side. Not fireworks—just clarity. A single sentence that feels earned, like a handshake from heaven saying, keep going.\n\nSometimes I re-read old drafts written on tired days. They lack polish but glow with honesty. There’s a rawness that the edited pieces often lose. They remind me that showing up doesn’t just produce content; it produces truth.\n\nThere’s also humility in discipline.\nWhen you depend on inspiration, you imagine yourself a genius. When you depend on rhythm, you realize you’re a steward. The words don’t belong to you; they pass through you. You keep the channel open by maintaining it daily, like tending an altar.\n\nIt’s not romantic work. It’s routine.\nBut routine is sacred when it’s aligned with purpose.\n\nI still resist it, of course. Some mornings I scroll too long, stare too long, doubt too long. Then I remember: the only unforgivable sin in craft is not beginning. So I begin—poorly, haltingly, sometimes with a single line that leads nowhere. But even that line changes the atmosphere. Presence breaks inertia.\n\nAnd more often than not, once I start, the work starts answering.\nNot loudly—just enough to remind me that inspiration isn’t gone, only waiting to be invited by discipline.\n\nSo I show up.\nNot to impress anyone, not even to finish anything, but to stay faithful.\nBecause showing up—especially when I don’t feel like it—is the proof that I still believe in the gift.\n\n---\n\n## Acknowledgement\n\nThis article was drafted with the help of Dr. C — GPT-5, which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology.\n\nI dedicate this work to the Holy Spirit, who continues to inspire me and open my imagination. If there is any light in these words, it comes not from me but from the Spirit who gives them. To Him be the glory.\n\n## Zaps Appreciated\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers. Thank you.\n\nLightning address: andrewgstanton@primal.net\n\n## Copyright\n\n© 2025 Continuum — All rights reserved.",
+  "sig": "991e9a787fff006c947f2c8b0f53eba196dad0dc8d6c58fd2297c64dbab4f7cc17eecf3301953552c9d5cd01925d1a60f8673f8cc4087fa6c0f2f5d9d7738e40",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.damus.io"
+  ]
+}

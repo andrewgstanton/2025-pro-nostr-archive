@@ -1,0 +1,66 @@
+{
+  "id": "81851981f7b8edf7029ac48543fb3cd03eb67a7c42793d9053f273cdf48a2131",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1755902111,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "the-bitcoin-chronicles--part-1-earthbound-origins"
+    ],
+    [
+      "title",
+      "The Bitcoin Chronicles: Toward The Stars — Part 1: Earthbound Origins"
+    ],
+    [
+      "published_at",
+      "1755902111"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "Part 1 of the Bitcoin Chronicles introduces Bitcoin’s Earthbound origins: why it is not just decentralized, but sovereign, and how Earth has served as the testing ground for its resilience."
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "decentralization"
+    ],
+    [
+      "t",
+      "resilience"
+    ],
+    [
+      "t",
+      "future"
+    ],
+    [
+      "t",
+      "chronicles"
+    ],
+    [
+      "t",
+      "interplanetary"
+    ],
+    [
+      "e",
+      "a32c9cd34cc6b46503343cf8b0387458ece82767de7a06ccb3f48e92ca7497d5",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - August 22, 2025\n\nEvery great story has an origin. For Bitcoin, that story begins not on Mars or the Moon, but right here on Earth — in the middle of failing banks, broken trust, and money controlled by governments that can print at will.\n\nBitcoin was born as the first neutral money — a ledger that belongs to no nation, no corporation, and no king. It’s not merely decentralized in the sense of having many nodes. It’s sovereign because its rules cannot be bent by decree.\n\nThis is a crucial distinction. Decentralization ≠ sovereignty. You can have decentralized networks that still bow to human authority. But sovereignty requires more: rules anchored in physics, in proof-of-work, in energy expended that no committee can undo.\n\nOn Earth, Bitcoin has already proven itself as something radically new:\n\nIt survived every attack governments and corporations threw at it.\n\nIt became harder the more it was tested.\n\nIt taught us that money could be governed not by trust in men, but by trust in math and time itself.\n\nIn that sense, Earth is the training ground of resilience. If Bitcoin can survive capture here, in the thick of geopolitics and financial cartels, then it carries with it the seeds of something greater.\n\nThe question is not just whether Bitcoin will endure on Earth — but whether it can carry sovereignty with us when humanity steps beyond Earth.\n\nThat is where the Bitcoin Chronicles begin.",
+  "sig": "ef7481aa6e9ed5c70b047214c1116ff9dc9d64632476d7fd44535fc2a4fb841fca6f1a9cb5e2f82944fa3c60fa783850d45a1689dc58fc1ef3df4f2e6d414a7e",
+  "_source": [
+    "primal backup"
+  ]
+}

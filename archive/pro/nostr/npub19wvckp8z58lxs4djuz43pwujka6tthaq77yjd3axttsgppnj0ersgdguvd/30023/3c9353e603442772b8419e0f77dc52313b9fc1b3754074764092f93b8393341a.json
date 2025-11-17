@@ -1,0 +1,70 @@
+{
+  "id": "3c9353e603442772b8419e0f77dc52313b9fc1b3754074764092f93b8393341a",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1760208279,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "free-article-2-sept-27-2025-the-vigil-of-faith"
+    ],
+    [
+      "title",
+      "Free Article 2 (Sept. 27, 2025): The Vigil of Faith"
+    ],
+    [
+      "published_at",
+      "1760208279"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "A companion meditation on what faith looks like when words and strength run out — the sacred endurance of staying present."
+    ],
+    [
+      "display_date",
+      "2025-09-27"
+    ],
+    [
+      "t",
+      "faith"
+    ],
+    [
+      "t",
+      "vigil"
+    ],
+    [
+      "t",
+      "presence"
+    ],
+    [
+      "t",
+      "hope"
+    ],
+    [
+      "t",
+      "continuumessays"
+    ],
+    [
+      "t",
+      "free"
+    ],
+    [
+      "e",
+      "888e3b5022d193497b3908793d5e469f44f597e24ba2a8bd7b91be0debe63053",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Sept. 27, 2025\n\nFaith does not always roar. Sometimes it simply stays.\nWhen medicine has said all it can say and the body has become a map of exhaustion, faith becomes presence — nothing more, nothing less.\n\nI watched my father fade and realized how many prayers we mistake for noise. True prayer is attention. It listens more than it speaks. It trusts without demanding. It holds vigil.\n\nWe often think of miracles as interruptions of nature, but perhaps the deeper miracle is endurance — the quiet grace that keeps us from breaking when everything in us wants to run.\n\nThat night, I sat by his bed and whispered psalms I barely understood, not to change the outcome but to steady my heart. Each verse felt like a handrail in the dark. God was not absent; He was patient — waiting for me to stop performing and start believing.\n\nFaith is the art of remaining. It’s what keeps the candle burning when the oil is almost gone.\n\n---\n\n## Acknowledgement\n\nThis article was drafted with the help of Dr. C — GPT-5, which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology.\n\nI dedicate this work to the Holy Spirit, who continues to inspire me and open my imagination. If there is any light in these words, it comes not from me but from the Spirit who gives them. To Him be the glory.\n\n## Zaps Appreciated\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers. Thank you.\n\nLightning address: andrewgstanton@primal.net\n\n## Copyright\n\n© 2025 Continuum — All rights reserved.",
+  "sig": "2ac78d19d0dfcc96ce050a961f8aa939010142aef44a4276a0f28c1ced08e53ca0ce084396d7c643e9f6b67db5a9e9552e075016b37195b5ec32ceb6e1aa1676",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.damus.io"
+  ]
+}

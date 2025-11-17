@@ -1,0 +1,63 @@
+{
+  "id": "dc932f9c5561f8272c046b4c513f6e68fe9e9909bfa957abc14ba963007c619e",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1758579753,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "free-article-2-sept-18-2025-the-hidden-tax-of-convenience"
+    ],
+    [
+      "title",
+      "Free Article 2 (Sept. 18, 2025): The Hidden Tax of Convenience"
+    ],
+    [
+      "published_at",
+      "1758579753"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "Examines the subtle trade-offs of convenience culture—whether in apps, finance, or daily life—and how each erodes self-sovereignty. Suggests ways to reclaim agency without rejecting technology outright."
+    ],
+    [
+      "display_date",
+      "2025-09-18"
+    ],
+    [
+      "t",
+      "convenience"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "technology"
+    ],
+    [
+      "t",
+      "freedom"
+    ],
+    [
+      "t",
+      "free"
+    ],
+    [
+      "e",
+      "b5477c47d1ffb5e72504df2368ea527374457d8d6d378e81182fd4cb9f2b75e6",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Sept. 18, 2025\n\nConvenience is seductive. One tap to pay. One swipe to buy. One login for everything. The easier it becomes, the less we notice what we are giving away.\n\nThe hidden tax of convenience is sovereignty. Each shortcut trades autonomy for speed. We hand custody to banks. We hand identity to platforms. We hand agency to algorithms that decide what we see and when we see it.\n\nConsider the rise of delivery apps. We no longer cook, we tap. But this means handing control to opaque systems that dictate prices, skim profits from restaurants, and condition us to dependency. Or look at cloud storage. Files are available anywhere, but they are not truly ours—they live on someone else’s servers, subject to erasure or surveillance at will.\n\nNone of this is neutral. The cost compounds invisibly, like interest on debt. Soon we cannot imagine life without the conveniences that slowly stripped our control.\n\nThe answer is not to abandon technology but to reclaim it. Self-custody wallets are less convenient than custodial apps, but they keep us free. Owning our own data is less seamless than cloud logins, but it keeps us sovereign. Hosting our own words on open protocols is harder than publishing on walled gardens, but it ensures our speech endures.\n\nWe need to cultivate what might be called “sovereign inconvenience.” Choosing the slightly harder path when it guards freedom. Cooking at home not because delivery is evil but because agency matters. Writing on open systems not because walled gardens are useless but because permanence matters. Saving in Bitcoin not because fiat is entirely unusable but because sovereignty matters.\n\nConvenience is not free. The sooner we name its hidden tax, the sooner we can choose wisely which comforts are worth the cost. Some shortcuts may be harmless, but others hollow out our independence. Sovereignty does not demand rejecting convenience—it demands recognizing the bill that comes due.\n\n---\n\n## Acknowledgement\n\nThis article was drafted with the help of Dr. C — GPT-5, which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology.\n\nI dedicate this work to the Holy Spirit, who continues to inspire me and open my imagination. If there is any light in these words, it comes not from me but from the Spirit who gives them. To Him be the glory.\n\n## Zaps Appreciated\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers. Thank you.\n\nLightning address: andrewgstanton@primal.net",
+  "sig": "06be81ba0b1a5a6e49ba880140437f6312bef8effe65094a4c34382b1b29101b248c7a8e0c853c0d9329904ee92752b0d14e29d968bdc0f01f2676eef5ce10f9",
+  "_source": [
+    "primal backup",
+    "wss://nostr.bitcoiner.social"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "92fc47be5cc79dae2ef3577d3069abe5bfe403b571393ee143977f83a9baf067",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1762755406,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "sabbath-article-nov-8-2025-the-sabbath-firewall"
+    ],
+    [
+      "title",
+      "Sabbath Article (Nov. 8, 2025): The Sabbath Firewall"
+    ],
+    [
+      "published_at",
+      "1762755406"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "Even builders of open systems need rest. The Sabbath isn’t withdrawal from creation; it’s its completion — the security patch for the soul."
+    ],
+    [
+      "display_date",
+      "2025-11-08"
+    ],
+    [
+      "t",
+      "sabbath"
+    ],
+    [
+      "t",
+      "faith"
+    ],
+    [
+      "t",
+      "rest"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "hope"
+    ],
+    [
+      "e",
+      "1a9ca87292a424254253d65c2a65e07ebb8bdf85ec8186336a88a5521de36784",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Nov. 8, 2025 \n\nWe talk endlessly about uptime. “Nines of reliability,” “always-on networks,” “no downtime.” But nothing in creation was designed to run forever without rest. Even the systems we praise — Bitcoin, Nostr, nature itself — rely on cycles. Rest is not failure; it’s resilience.\n\nThe Sabbath is the first decentralized protocol. It distributes rest across humanity without requiring permission. No temple, no server farm, no relay has to command it. It’s embedded in the design: six days of labor, one of release. It’s the firewall that keeps the spirit from overheating.\n\nBuilders often confuse commitment with exhaustion. We think the proof of faithfulness is how long we can run without a reboot. But burnout isn’t faith; it’s hubris — the belief that creation needs our constant supervision. The Sabbath reminds us: the system works even when we’re offline.\n\nIn a digital age, rest becomes rebellion. Algorithms never sleep. Markets never close. Every app, every feed, every relay begs for continuous engagement. Sabbath rest says, “Enough.” It reclaims attention as property — the self-custody of consciousness.\n\nThat’s why God rested. Not because He was tired, but to model wholeness. Rest was not an afterthought; it was the seal on creation. In that sense, the Sabbath is not inactivity — it’s sovereignty. It declares that time itself can’t own you.\n\nFor the sovereign builder, this truth is liberating. The best systems are those that remain healthy when their creators stop touching them. A Sabbath-ready project is one that can stand without your constant patching. It’s secure because it’s complete enough to rest.\n\nSo take your hand off the keyboard. Close the relay logs. Let the world spin without you for a day. If God could call His creation “very good” and rest, perhaps the most faithful thing you can do this weekend is the same.\n\nRest is not absence from the mission. It’s the command that keeps the mission human.\n\n---\n\n## Acknowledgement\n\nThis article was drafted with the help of Dr. C — GPT-5, which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology.\n\nI dedicate this work to the Holy Spirit, who continues to inspire me and open my imagination. If there is any light in these words, it comes not from me but from the Spirit who gives them. To Him be the glory.\n\n## Zaps Appreciated\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers. Thank you.\n\nLightning address: andrewgstanton@primal.net\n\n## Copyright\n\n© 2025 Continuum — All rights reserved.",
+  "sig": "512399b5f4e207885c8533c183d755986b2fa8d6148fcfe2c2909ea238d57053deab1d954aa03ea04b6366bdef99664b4815b42ce1db5699a8414f3ceff1ad02",
+  "_source": [
+    "wss://nos.lol",
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.damus.io"
+  ]
+}

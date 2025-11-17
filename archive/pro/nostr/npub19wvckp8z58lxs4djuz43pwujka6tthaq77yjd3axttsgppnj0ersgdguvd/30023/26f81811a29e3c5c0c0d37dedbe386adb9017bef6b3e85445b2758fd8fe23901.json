@@ -1,0 +1,49 @@
+{
+  "id": "26f81811a29e3c5c0c0d37dedbe386adb9017bef6b3e85445b2758fd8fe23901",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756678752,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "sunday-teaser-aug-31-2025-the-bitcoin-chronicles-the-cathedral-on-mars-500-years-on-teaser"
+    ],
+    [
+      "title",
+      "Sunday Teaser (Aug. 31, 2025): The Bitcoin Chronicles: The Cathedral On Mars, 500 Years on (Teaser)"
+    ],
+    [
+      "summary",
+      "A reflection on permanence, pilgrimage, and the Cathedral on Mars — 500 years into humanity’s expansion."
+    ],
+    [
+      "published_at",
+      "1756678752"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "cathedrals"
+    ],
+    [
+      "t",
+      "future"
+    ],
+    [
+      "t",
+      "hope"
+    ]
+  ],
+  "content": "*Five centuries from now, pilgrims will still pause beneath Martian arches, whispering gratitude before stepping into the stars. What we build together does not end with us — it points forward, to a permanence beyond our hands.*",
+  "sig": "ce65bafe3125f7ab4924d33e18c2456ac3cb7c8e40b469270def8280db2a679211733bb3bf096c2ec09d83c1042b3e0cd95c901e6171747f151d5f78b5d21074",
+  "_source": [
+    "primal backup"
+  ]
+}

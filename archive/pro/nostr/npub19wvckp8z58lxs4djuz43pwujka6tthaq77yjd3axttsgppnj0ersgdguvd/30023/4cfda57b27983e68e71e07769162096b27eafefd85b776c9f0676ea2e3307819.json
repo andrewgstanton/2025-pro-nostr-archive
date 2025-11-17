@@ -1,0 +1,82 @@
+{
+  "content": "Andrew G. Stanton - July 13, 2025\n\nWith v1.4 of Continuum, I crossed a threshold I’ve been working toward for months:\n\n✅ Import my LinkedIn data  \n✅ Extract the profile, positions, and skills  \n✅ Automatically generate a `npub/nsec` identity  \n✅ Create and publish a valid `kind:0` event to Nostr  \n✅ Make the identity visible — and usable — in the Continuum dashboard\n\nThis isn’t just “federated identity.”  \nIt’s **data liberation**.\n\nI can now carry a representation of my professional profile **outside the LinkedIn silo**, sign and update it with my own key, and use it across any Nostr relay — or platform that respects open data.\n\nThe process:\n1. Export my LinkedIn ZIP\n2. Continuum parses the raw CSVs\n3. It generates a `profile.json` and a new `identity.json` (if one doesn't exist)\n4. It signs a `kind:0` event with that identity's `nsec`\n5. The event is published to multiple relays and visible on Primal, Snort, and more\n6. The identity appears in my Continuum dashboard — alongside my others\n\nEven better — the import is **idempotent**. If the profile already exists, nothing is overwritten.\n\nAnd yes — I still use LinkedIn. But now it's a **relay**, not a prison.\n\nThis is just the beginning. Up next:\n- LinkedIn article → `kind:30023`\n- A resume view in the dashboard\n- Possibly zaps and notes from this identity\n\n---\n\n🔐 Sovereign identity.  \n🛠 Self-hosted infrastructure.  \n📡 Cross-protocol publishing.\n\nContinuum is where it all connects.",
+  "created_at": 1763239500,
+  "id": "4cfda57b27983e68e71e07769162096b27eafefd85b776c9f0676ea2e3307819",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "5605ed47bf64732c8b36fbfe27a9eb43c2ce6a83e0b7c212194be86364e4383fc0a23d79b731a86113ab306392c07df5663e69d2f5b6b3162545a913955ac6e4",
+  "tags": [
+    [
+      "d",
+      "turning-linkedin-data-into-a-nostr-identity--milestone-v14"
+    ],
+    [
+      "title",
+      "Turning LinkedIn Data into a Nostr Identity — Milestone v1.4"
+    ],
+    [
+      "published_at",
+      "1763239500"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "In Continuum v1.4, I successfully imported my LinkedIn profile into a sovereign Nostr identity. This article walks through how a LinkedIn export was transformed into a signed kind:0 event — published to relays and viewable inside the Continuum dashboard. It's a major milestone in bridging centralized platforms with decentralized identity."
+    ],
+    [
+      "display_date",
+      "2025-07-13"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "continuum-pro"
+    ],
+    [
+      "t",
+      "sovereign publishing"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "digital freedom"
+    ],
+    [
+      "t",
+      "linkedin"
+    ],
+    [
+      "t",
+      "linkedin exit"
+    ],
+    [
+      "t",
+      "linked oasis"
+    ],
+    [
+      "e",
+      "5eed887c7b504bbc874dd023342f81802697a7a5dd11fce15bbd9fea74f73299",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.damus.io"
+  ]
+}

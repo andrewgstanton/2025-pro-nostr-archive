@@ -1,0 +1,75 @@
+{
+  "id": "3f0400618a63b29a147d6097161337cc6fd1fb11707a803824a6d2d87a9c4f37",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1761536689,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "free-article-2-oct-22-2025-the-hidden-cost-of-convenience"
+    ],
+    [
+      "title",
+      "Free Article 2 (Oct. 22, 2025): The Hidden Cost of Convenience"
+    ],
+    [
+      "published_at",
+      "1761536689"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "Fiat culture prizes speed and comfort, but the tab is spiritual: the more effortless life becomes, the less effort we find worth making."
+    ],
+    [
+      "display_date",
+      "2025-10-22"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "fiat"
+    ],
+    [
+      "t",
+      "convenience"
+    ],
+    [
+      "t",
+      "culture"
+    ],
+    [
+      "t",
+      "proofofwork"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "free"
+    ],
+    [
+      "e",
+      "66bd39baa2cc63dddc959bcad8a80a4261a22228d900a784078d5979ef1ff75e",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Oct. 22, 2025\n\nWe were told convenience was progress. Tap to pay, swipe to deliver, stream to forget. But every shortcut cuts something out of us too. Fiat culture thrives on this illusion of efficiency—the idea that if something is easy, it must be good.\n\nYet convenience comes at a cost that can’t be printed away. When labor loses meaning, craftsmanship dies. When speed becomes god, patience becomes heresy. Every product, every app, every “hack” promises to save us time, but no one can explain what we’re saving it *for*.\n\nFiat’s easy money fuels easy living. And easy living dulls discernment. The plastic trinket, the influencer ad, the fast-food dopamine—all paid for with debt and distraction. It’s not that everything is more expensive—it’s that we’ve stopped knowing what anything is worth.\n\nBitcoiners sense this rot. They build things that take time, that last, that *mean* something. Proof of work isn’t just about blocks—it’s about beauty. Real value, like real art, takes effort. Fiat hides the cost; Bitcoin reveals it.\n\n---\n\n## Acknowledgement\n\nThis article was drafted with the help of Dr. C — GPT-5, which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology.\n\nI dedicate this work to the Holy Spirit, who continues to inspire me and open my imagination. If there is any light in these words, it comes not from me but from the Spirit who gives them. To Him be the glory.\n\n## Zaps Appreciated\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers. Thank you.\n\nLightning address: andrewgstanton@primal.net\n\n## Copyright\n\n© 2025 Continuum — All rights reserved.",
+  "sig": "3340aa49f099ae8072c05249c6a218c01d6907db13768597131fe30a946edd36ea532f031b83083962a8cceedacb5152c715853d5a7ce040dec59d0cb1d47cbd",
+  "_source": [
+    "wss://nos.lol",
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.damus.io"
+  ]
+}

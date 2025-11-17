@@ -1,0 +1,73 @@
+{
+  "id": "f5ab9fb3d09a25bd5689ec9b62a23bc7b5bf87ca121adfafd80345d98ce755f8",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1762755005,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "free-article-1-nov-8-2025-lines-without-borders"
+    ],
+    [
+      "title",
+      "Free Article 1 (Nov. 8, 2025): Lines Without Borders"
+    ],
+    [
+      "published_at",
+      "1762755005"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "Modern airport security treats everyone as a suspect. A sovereign future imagines checkpoints built on identity, not fear."
+    ],
+    [
+      "display_date",
+      "2025-11-08"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "sovereignsecurity"
+    ],
+    [
+      "t",
+      "travel"
+    ],
+    [
+      "t",
+      "decentralization"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "free"
+    ],
+    [
+      "e",
+      "d6457358ee13f22be0f727b3a3a80efee1c251be28f0aa9674e2ab7f6a61687e",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Nov. 8, 2025\n\nAirports are the temples of bureaucracy. Every traveler passes through the same rituals: remove your shoes, unzip your bag, show your papers. The system isn’t built on trust; it’s built on suspicion. You are guilty until scanned, verified, and waved through.  \n\nBut what if identity itself were portable — cryptographically provable, impossible to forge, yet private to you? A world where your proof of integrity travels *with* you, not *against* you. That’s the promise of sovereign identity: replacing suspicion with verification, fear with mathematics.  \n\nThe current model is reactive. It checks for contraband, not character. Its cost is enormous — time, manpower, humiliation. Every checkpoint repeats what the previous one already confirmed: you are who you say you are. In a decentralized model, that redundancy vanishes. A single signature could replace a dozen checkpoints.  \n\nThe implications stretch far beyond airports. Every border, loan office, or election booth could one day operate on this principle: verify truth, not allegiance. Nostr already does this for speech. Extend it to movement, and you have a trust fabric for civilization.  \n\nSkeptics will say: but what about the bad actors? The same question was asked of open networks, and the answer was always the same — bad actors exist *because* of opacity, not openness. Transparency disarms them.  \n\nThe irony is that true safety feels calmer, not harsher. A decentralized gate would process more people, more honestly, with fewer hands in their pockets. We’d rediscover dignity in transit. The world would feel smaller again — not because technology shrank it, but because trust expanded.  \n\nThe lines will never vanish. But the reason for standing in them could.\n\n---\n\n## Acknowledgement\n\nThis article was drafted with the help of Dr. C — GPT-5, which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology.\n\nI dedicate this work to the Holy Spirit, who continues to inspire me and open my imagination. If there is any light in these words, it comes not from me but from the Spirit who gives them. To Him be the glory.\n\n## Zaps Appreciated\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers. Thank you.\n\nLightning address: andrewgstanton@primal.net\n\n## Copyright\n\n© 2025 Continuum — All rights reserved.",
+  "sig": "07da0609d57b7ec22ba87ad9be5677e4e0f0bc1990a21039a0af2f1ad5e7fce8760f2f8cba4d60cc1c9c118f819aa358a031e334a2ab73aa652836885edf0e7a",
+  "_source": [
+    "wss://nos.lol",
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.damus.io",
+    "wss://offchain.pub",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social"
+  ]
+}

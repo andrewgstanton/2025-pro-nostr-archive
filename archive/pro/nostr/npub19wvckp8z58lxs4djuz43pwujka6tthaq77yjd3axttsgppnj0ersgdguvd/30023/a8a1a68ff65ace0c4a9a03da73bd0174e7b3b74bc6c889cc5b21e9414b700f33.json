@@ -1,0 +1,57 @@
+{
+  "id": "a8a1a68ff65ace0c4a9a03da73bd0174e7b3b74bc6c889cc5b21e9414b700f33",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756587899,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "how-to-create-your-own-nip-05-address-and-why-you-should"
+    ],
+    [
+      "title",
+      "How to Create Your Own NIP-05 Address (and Why You Should)"
+    ],
+    [
+      "summary",
+      "When I first joined Nostr, I didn’t understand NIP-05. I even signed up for Primal Premium, thinking that was the only way to get verified. Later I learned it’s just a simple JSON file you can host yourself — no private keys involved, nothing magical.  This guide explains what NIP-05 really is, why it matters, and how to set it up on your own domain. Whether you use a convenience service, a community domain, or host it sovereignly, the goal is the same: get verified, stay sovereign.  Includes a step-by-step walkthrough and a tip for GitHub Pages users (remember to add a .nojekyll file)."
+    ],
+    [
+      "published_at",
+      "1756587899"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "nip05"
+    ],
+    [
+      "t",
+      "identity"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Aug. 30, 2025\n\n\nWhen I first joined Nostr, I was confused about NIP-05. It wasn’t clear what it was, why it mattered, or how to set one up. Out of that confusion, I even signed up for Primal Premium because I thought that was the only way to get verified. Later, I discovered the truth: NIP-05 is simply a small JSON file you can host on your own domain. That’s it. No private keys involved. No magic. And it’s something you can — and should — control yourself.\n\nI want to share what I’ve learned, because I know I’m not the only one who felt lost in the beginning.\n\n---\n\n## What NIP-05 Is (and Isn’t)\n\nAt its core, NIP-05 is just a way to connect your Nostr public key (npub) with a human-readable name that looks like an email address. For example:\n\n```\nyou@yourdomain.com\n```\n\nBehind the scenes, this address points to a `.well-known/nostr.json` file on your domain that lists your npub. That’s all.\n\nWhat NIP-05 **isn’t**: it’s not tied to your private key, it doesn’t give anyone access to your account, and it doesn’t change how your posts are signed. Your npub/nsec keypair remains fully sovereign. NIP-05 is just a verification layer, like an ID badge that proves “this npub is really me.”\n\n---\n\n## Why It Matters\n\nSome might ask: “Why bother? Isn’t my npub enough?”\n\nHere’s why NIP-05 is worth setting up:\n\n- **Impersonation protection.** Without NIP-05, anyone can spin up an account and pretend to be you. I’ve seen multiple fake “Jeff Booth” accounts on Nostr. With NIP-05, only Jeff can link his npub to his real domain.\n- **Trust and credibility.** If you’re public-facing — a builder, a writer, a speaker, a leader — people want to know they’re following the real you. NIP-05 provides that assurance.\n- **Recognition.** A clean, simple identifier (like `name@domain.com`) is easier to share and remember than a long string of letters and numbers.\n\n---\n\n## Your Options for NIP-05\n\nWhen you’re new, you might not know where to start. Here are the main paths:\n\n1. **Convenience services.** Primal Premium and others will set up NIP-05 for you automatically. This is how I started. It works, but you’re paying for convenience, not sovereignty.\n\n2. **Community domains.** I sometimes offer addresses under `mycontinuum.xyz` as a shortcut for people just starting out. To be clear: this is only a convenience, not a way to track or surveil you. You can always move your NIP-05 elsewhere.\n\n3. **The sovereign way.** The best option is to set up your own domain. When you control the domain, nobody can take it away from you. This is what NIP-05 was designed for — verification that is portable, independent, and fully under your authority.\n\n---\n\n## Step-by-Step: Setting Up Your Own NIP-05\n\nHere’s how you can do it yourself:\n\n1. **Buy a domain.** Any registrar works — Namecheap, Porkbun, Cloudflare, etc.\n2. **Create a JSON file.** Save this as `nostr.json` with your npub inside:\n\n   ```json\n   {\n     \"names\": {\n       \"yourname\": \"npub1xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\"\n     }\n   }\n   ```\n\n3. **Upload it to your domain.** Place the file at:\n\n   ```\n   https://yourdomain.com/.well-known/nostr.json\n   ```\n\n   ⚡ **Tip for GitHub Pages users:** GitHub’s default Jekyll build will ignore folders starting with a dot (like `.well-known`). To fix this, create an empty file called `.nojekyll` in the root of your repository. That tells GitHub to serve the `.well-known` folder as-is.\n\n4. **Edit your Nostr profile.** Add `yourname@yourdomain.com` as your verified NIP-05 address.\n5. **Test it.** Check your profile on Primal, Amethyst, or Damus to see if it shows as verified.\n\nThat’s it — you’re sovereign.\n\n---\n\n## Closing: Sovereignty First\n\nWhen I first started, I didn’t understand any of this. I paid for Primal Premium just to get verified, because the technical details weren’t explained clearly. Now I know better — and I want you to know better, too.\n\nNIP-05 is simple. It’s just a text file on a domain. It never touches your private key. You can use a service if you want, or accept a community shortcut, but the ultimate goal is clear: **run your own domain and control your own verification.**\n\nThat’s what sovereignty looks like on Nostr.\n\n---\n\n## Acknowledgement\n\nThis article was drafted with the help of Dr. C - ChatGPT (GPT-5), which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology\n\n---\n\n## Zaps Appreciated\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers, just direct proof that this work matters. It helps me keep building Continuum and writing about sovereign technology, freely and without VC overhead. Thank you.\n\nYou can send zaps to my lightning address here : andrewgstanton​​​@primal.net",
+  "sig": "7832d9100a3413fb3eba04d82b58e540ca74c14084b9618684797fff749b447668b21d4bb6777dc2303c3774795e6ddd703049e3b9b7fb8c0428dffd6ce00e16",
+  "_source": [
+    "primal backup"
+  ]
+}

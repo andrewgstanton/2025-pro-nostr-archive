@@ -1,0 +1,70 @@
+{
+  "id": "4cc1d3d815a84c2296ba58dc239fdf2d04cd7cc342634d7323a6aea70199293d",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1755901858,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "the-bitcoin-chronicles--part-5-interplanetary-consensus"
+    ],
+    [
+      "title",
+      "The Bitcoin Chronicles: Toward The Stars  — Part 5: Interplanetary Consensus"
+    ],
+    [
+      "published_at",
+      "1755901858"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "Part 5 of the Bitcoin Chronicles examines interplanetary consensus, where distance prevents a single mempool. Bitcoin adapts as a federation of local layers, anchored across planets by proof-of-work, Lightning, and delay-tolerant networking."
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "consensus"
+    ],
+    [
+      "t",
+      "interplanetary"
+    ],
+    [
+      "t",
+      "lightning"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "decentralization"
+    ],
+    [
+      "t",
+      "chronicles"
+    ],
+    [
+      "t",
+      "future"
+    ],
+    [
+      "e",
+      "3565834c07b76a6e863f5497a96335f83a0ddb1562530d00c6f63e9e330499b9",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - August 22, 2025\n\nOn Earth, Bitcoin’s consensus feels seamless. Blocks are mined every ten minutes, nodes stay in sync, and disputes resolve through proof-of-work. Distance is trivial; latency is measured in milliseconds.\n\nBut between planets, consensus is no longer real-time. A block mined on Earth takes minutes to reach Mars, hours to reach the Belt, and days to reach Jupiter’s moons. In this vastness, one truth becomes clear:\n\n**There is no single, universal mempool in space.**\n\nInstead, Bitcoin must evolve into a **federation of local layers**:\n\n- **Local chains** keep daily life running — Mars, Ceres, Ganymede each have their own near-instant economies.\n- **Interplanetary anchors** bundle transactions into larger packets, sent across the void at intervals.\n- **Lightning and delay-tolerant networks** bridge the gaps, ensuring trade can flow even when final settlement lags behind.\n\nThis isn’t fragmentation. It’s sovereignty scaled outward. Each colony lives by Bitcoin’s unchanging rules: fixed supply, proof-of-work, immutability. But consensus is no longer about keeping the whole universe in lockstep. It’s about anchoring truth across time and distance.\n\nTrust doesn’t vanish — it stretches. A miner on Ceres trusts that Earth, Mars, and beyond are still bound by the same genesis block, the same 21 million. Even if they haven’t seen the latest Earth block yet, they know the rules haven’t changed.\n\nIn this way, Bitcoin becomes not just global money, but interplanetary money. A ledger of truth that holds across the stars because it is grounded not in human decree, but in physics and time.\n\nNext comes the question of the outer edges — where latency becomes years, and human civilization pushes into the deep dark.",
+  "sig": "1f1606c9be3dae99a22406d3f7bdc514373403ee3290fd0ab86b0864e3dc602c03f1510f9e75daed8c268bea645701f15a0670a42c156b85eee00935eb4d3728",
+  "_source": [
+    "primal backup"
+  ]
+}

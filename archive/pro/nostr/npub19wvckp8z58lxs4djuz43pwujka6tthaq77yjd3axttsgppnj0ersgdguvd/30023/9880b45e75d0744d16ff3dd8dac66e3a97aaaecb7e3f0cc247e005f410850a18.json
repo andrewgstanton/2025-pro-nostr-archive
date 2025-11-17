@@ -1,0 +1,70 @@
+{
+  "id": "9880b45e75d0744d16ff3dd8dac66e3a97aaaecb7e3f0cc247e005f410850a18",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1760208714,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "free-article-2-sept-15-2025-sovereignty-in-the-small-things"
+    ],
+    [
+      "title",
+      "Free Article 2 (Sept. 15, 2025): Sovereignty in the Small Things"
+    ],
+    [
+      "published_at",
+      "1760208714"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "This article reflects on how small habits (like using cash, cooking at home, or controlling our keys) train us for larger acts of sovereignty. It argues that freedom is first practiced in the details of daily life."
+    ],
+    [
+      "display_date",
+      "2025-09-15"
+    ],
+    [
+      "t",
+      "freedom"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "daily-life"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "practice"
+    ],
+    [
+      "t",
+      "free"
+    ],
+    [
+      "e",
+      "574e0f5bf5fe95e1aae24c5debb5f6fac2920acd77562e3056d4a4fc528087ff",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Sept. 15, 2025 \n\nWe often imagine sovereignty as a grand event: revolutions, declarations of independence, mass protests in the streets. But sovereignty, like all lasting things, begins in the small.  \n\n### The Myth of the Big Moment  \n\nThe world celebrates big moments: revolutions, wars, heroic acts. Yet every revolution was built on countless unseen habits. The American colonists did not one day decide to defy the crown; they had spent years practicing local governance, bartering independently, and living with a spirit of resilience. The “big moment” was only possible because of the small decisions leading up to it.  \n\n### Daily Choices That Shape Freedom  \n\n- **Cooking at home**: Learning how to feed yourself is the foundation of independence. Every meal prepared without reliance on fast food chains is an act of sovereignty.  \n- **Using cash or Bitcoin**: Refusing to rely entirely on digital surveillance systems preserves freedom in small but meaningful ways.  \n- **Guarding attention**: Choosing to read a book instead of scrolling endless feeds is sovereignty over the mind.  \n- **Practicing privacy**: Using encrypted communication for sensitive conversations trains us to value confidentiality.  \n\nThese decisions may seem minor, but they accumulate into a posture of sovereignty.  \n\n### Habits as Training Grounds  \n\nA person who cannot control their appetite for convenience will not stand firm when pressured by tyranny. A family that cannot live within its means cannot resist the lure of debt. A community that cannot protect small freedoms will not be able to defend large ones.  \n\nThe small is not trivial; it is the training ground for the great.  \n\n### Spiritual Foundations  \n\nJesus taught that “he who is faithful in little will be faithful in much.” Sovereignty follows the same law. Faithfulness in the small prepares us for the tests of the large. Without discipline in daily choices, we will be swept away when the storms of crisis come.  \n\n### Stories of the Small Leading to the Great  \n\nConsider the story of the early church. Their faithfulness in daily practices — meeting in homes, sharing meals, teaching children — eventually grew into a movement that reshaped civilization. None of it began with fanfare; it began in kitchens and living rooms.  \n\nIn contrast, societies that dismiss small things collapse under their own neglect. The Soviet Union ignored small freedoms — speech, press, religion — and as a result, no great freedom remained.  \n\n### Conclusion  \n\nThe daily habits we cultivate — privacy in communication, honesty in dealings, stewardship of money — are the building blocks of freedom. To dismiss the small is to despise the soil in which sovereignty grows. To embrace the small is to prepare for the great.  \n\n---\n\n## Acknowledgement\n\nThis article was drafted with the help of Dr. C — GPT-5, which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology.\n\nI dedicate this work to the Holy Spirit, who continues to inspire me and open my imagination. If there is any light in these words, it comes not from me but from the Spirit who gives them. To Him be the glory.\n\n## Zaps Appreciated\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers. Thank you.\n\nLightning address: andrewgstanton@primal.net",
+  "sig": "49b3b0f66b6dea3fe78b498543fb290f5622d7afb23d4f7af7f67f6fe3fdb9648db6d2bc3e762d8af75301e989ae79db8d5a617432b795d5d0c2a0a695c8b801",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.damus.io"
+  ]
+}

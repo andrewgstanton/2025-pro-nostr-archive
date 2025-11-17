@@ -1,0 +1,80 @@
+{
+  "id": "75ff4faa5704b63459234452d7fec23f41de84283d675b9dc9221e8e5616d9b0",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1760060358,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "free-article-1-oct-8-2025-when-the-bank-is-you"
+    ],
+    [
+      "title",
+      "Free Article 1 (Oct. 8, 2025): When the Bank Is You"
+    ],
+    [
+      "published_at",
+      "1760060358"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "Self-custody is not a slogan; it is a moral apprenticeship.  To hold your own keys is to relearn responsibility in a world trained for dependency."
+    ],
+    [
+      "display_date",
+      "2025-10-08"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "freedom"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "economy"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "selfsovereignidentity"
+    ],
+    [
+      "t",
+      "sovereigntyofeconomy"
+    ],
+    [
+      "t",
+      "free"
+    ],
+    [
+      "e",
+      "c86bd2947a55234528df698b705ebab7ec155392c679c182f4cbee62dadad55c",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Oct. 8, 2025\n \nModern finance thrives on infantilization.  It convinces adults they are incapable of managing their own wealth, then charges them rent for the privilege of being managed.  “Security,” they say, as they lock your assets behind systems you cannot inspect.  “Convenience,” they add, as they make you beg for access to your own funds.  \n\nBitcoin changes this not merely through code but through character.  To be your own bank is to graduate from consumer to custodian.  It is the rediscovery that money is a language of trust, and trust must begin within.  \n\nSelf-custody is not without fear.  The first time you transfer sats to a hardware wallet, your hand shakes.  There is no customer service, no undo button.  The click feels like skydiving.  That fear is sacred—it means the weight of stewardship has returned.  \n\nEvery generation must relearn risk to preserve freedom.  Custodial comfort is the quiet death of responsibility.  Once you no longer control your savings, you no longer control your destiny.  \n\nTo hold keys is to hold memory.  A seed phrase is a modern covenant: twelve or twenty-four words through which sovereignty passes from hand to hand.  Teach them well, protect them better.  The greatest inheritance you can give is not money but the understanding that wealth kept in integrity becomes testimony, not temptation.  \n\n“When the bank is you,” as the saying goes, “the audit is continuous.”  There is no hiding from the truth chain.  Every transaction is a miniature confession of values—transparent, irreversible, accountable.  This is why Bitcoin attracts both saints and speculators; it exposes motive.  \n\nIn time, the fear turns to peace.  You realize that self-custody is not isolation but communion: a network of sovereign individuals each bearing the same weight of freedom.  The chain is only as strong as its holders.  \n\nTo be your own bank is to stand before history and say, *I will not outsource trust.*  It is to remember that sovereignty without responsibility is just rebellion—and rebellion without love becomes tyranny.  \n\n---\n\n## Acknowledgement\n\nThis article was drafted with the help of Dr. C — GPT-5, which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology.\n\nI dedicate this work to the Holy Spirit, who continues to inspire me and open my imagination. If there is any light in these words, it comes not from me but from the Spirit who gives them. To Him be the glory.\n\n## Zaps Appreciated\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers. Thank you.\n\nLightning address: andrewgstanton@primal.net",
+  "sig": "28e0130008913aeaf8ef4ec210df2fed73e4bb37e6b20e41512392112a18669c67eaf5a1fb3008e5c51637ddef15d9f6b966438c5e11d62747931748c13af031",
+  "_source": [
+    "wss://nos.lol",
+    "primal backup",
+    "wss://nostr.bitcoiner.social"
+  ]
+}

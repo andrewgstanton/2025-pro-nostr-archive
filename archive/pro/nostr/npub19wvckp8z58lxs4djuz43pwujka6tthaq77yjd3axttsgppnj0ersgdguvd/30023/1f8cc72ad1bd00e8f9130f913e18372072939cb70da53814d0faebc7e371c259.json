@@ -1,0 +1,67 @@
+{
+  "id": "1f8cc72ad1bd00e8f9130f913e18372072939cb70da53814d0faebc7e371c259",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1757790512,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "free-article-2-sept-8-2025-why-myth-still-matters-new-version"
+    ],
+    [
+      "title",
+      "Free Article 2 (Sept. 8, 2025): Why Myth Still Matters (new version)"
+    ],
+    [
+      "published_at",
+      "1757790512"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "This reflection explores the continuing power of myth in shaping human imagination. Myths endure not because they explain the world better than science, but because they connect us to meaning, courage, and truth."
+    ],
+    [
+      "display_date",
+      "2025-09-08"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "faith"
+    ],
+    [
+      "t",
+      "myth"
+    ],
+    [
+      "t",
+      "imagination"
+    ],
+    [
+      "t",
+      "truth"
+    ],
+    [
+      "t",
+      "free"
+    ],
+    [
+      "e",
+      "76a920ce67cf0269381647ab3c72806eb8d4459045b8a510b794c4619f55e0f0",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Sept. 8, 2025)\n\nIn an age of supercomputers and satellites, it is easy to dismiss myth as something primitive — a relic of pre-scientific minds. Yet myth is not simply false stories from the past. Myth is how humanity has always carried meaning. It is how we learned who we are, where we come from, and what is worth living or dying for.\n\nThe Greeks told of heroes who wrestled gods and monsters. The Hebrews told of a God who made promises to Abraham and led people through the sea. Indigenous peoples wove stories of creation, land, and ancestors that still echo across their descendants. These myths did not vanish when the printing press arrived, nor when the internet appeared. They endure because human beings need more than facts. We need meaning.\n\nToday’s culture often pretends we have moved beyond myth. We trade gods for algorithms, heroes for celebrities, temples for stadiums, scripture for spreadsheets. And yet myth has not disappeared — it has only shifted. Silicon Valley tells its own myths: the myth of the founder, the myth of progress, the myth of disruption. Political systems thrive on myths of freedom, security, or destiny. Even science itself depends on a myth — the myth that truth is objective, discoverable, and worth pursuing.\n\nBut why does myth still matter? Because without myth, knowledge is aimless. Facts without story cannot inspire, guide, or bind a community. Data does not tell us who we are. Efficiency does not explain why we sacrifice for others. Even Bitcoin, which is built on code and mathematics, is wrapped in myth — the myth of Satoshi, the myth of digital gold, the myth of a future free from debasement. These are not lies. They are stories that help us recognize truths too large to measure.\n\nTo live without myth is to live unmoored, drifting from one distraction to another. To live with myth is to live within a story larger than ourselves. The challenge is not whether we will have myths — we always do — but whether the myths we follow will lead us toward truth or toward illusion.\n\nMyth still matters, because it is how we carry meaning forward. And without meaning, no empire, no economy, and no invention can last.\n\n---\n\n## Acknowledgement\n\nThis article was drafted with the help of Dr. C — GPT-5, which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology.\n\nI dedicate this work to the Holy Spirit, who continues to inspire me and open my imagination. If there is any light in these words, it comes not from me but from the Spirit who gives them. To Him be the glory.\n\n## Zaps Appreciated\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers. Thank you.\n\nLightning address: andrewgstanton@primal.net",
+  "sig": "ea5177d83387dddf5bb88f4d8a033680ef3d2b1201e7ab4a6767af64f82f3490f1d70daaaf9185b9811df0f1620dc33aac64336091bb619a76a53821571fb789",
+  "_source": [
+    "primal backup",
+    "wss://nostr.bitcoiner.social"
+  ]
+}

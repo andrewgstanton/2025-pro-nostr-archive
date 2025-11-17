@@ -1,0 +1,74 @@
+{
+  "content": "Andrew G. Stanton - July 1, 2025\n\nAfter just a few focused weeks of building from scratch, I'm excited to release [**Continuum**](https://github.com/andrewgstanton/continuum) — a self-hosted, Bitcoin-aligned dashboard for reclaiming your digital life.\n\nContinuum ingests and organizes your Nostr content — all **locally**, with full **Markdown editing**, **SQLite storage**, and **time zone support**. No platform lock-in. No reliance on Primal or any client.\n\n---\n\n## 🧭 What’s Inside (v1.0.0 Free Tier)\n- View, edit, and post Nostr notes + articles (kind 1 + 30023)\n- Local-first: SQLite DB + clean Docker setup\n- Timezone-aware timestamps via `local_identity.json`\n- Full Markdown preview + cleaner UI\n- Verified on macOS, Windows (WSL2), Chrome, Safari, Firefox, Edge\n\n---\n\n## ⚡ Built With:\n- Proof of Work 🛠️  \n- Bitcoin values 🌍  \n- Flask, SQLite, Docker 🐳  \n- Iterated daily w/ ChatGPT (and a lot of coffee ☕)\n\n---\n\n## 🔜 What’s Next (Paid Tier via `mycontinuum-pro`)\n- Multi-npub dashboard  \n- Relay restore + rebroadcast  \n- Zaps, reactions, replies  \n- Media manager + article drafts  \n- Hosted dashboard (opt-in)\n\n---\n\n## 🔗 Links\n- GitHub (Free Tier):  \n  https://github.com/andrewgstanton/continuum  \n- Setup guide:  \n  See `dashboard/DASHBOARD-README.md` in the repo\n\n---\n\nThis started as a side project. Now it’s a real working stack.\n\n**From walled gardens to sovereign tools** — that’s the shift.\n\nIf you’re a builder, a Bitcoiner, or just tired of surrendering your content:  \nThis one’s for you.",
+  "created_at": 1763237505,
+  "id": "68531bc23f43a22fbcde7ac7929b4fbd1add36d67f9c6a07627c4af41896b01e",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "d38466c7ebe13c3a7aec521b855747c49e4b5d669be745f9994be7438299d5b56f44dbee048c348427266c21d4b5624be483693c6a7c11e05e5fd9ead79e146b",
+  "tags": [
+    [
+      "d",
+      "-introducing-continuum-v100--your-self-hosted-signal-dashboard"
+    ],
+    [
+      "title",
+      "🚀 Introducing Continuum v1.0.0 — Your Self-Hosted Signal Dashboard"
+    ],
+    [
+      "published_at",
+      "1763237505"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "After just a few weeks of focused building, I'm releasing v1.0.0 of Continuum — a fully self-hosted, Bitcoin-aligned publishing dashboard for Nostr. This milestone marks a shift away from reliance on centralized clients like Primal, giving users full local control over their notes and articles with Markdown editing, SQLite storage, and timezone-aware publishing. Built with Docker, tested across browsers and platforms, and designed with sovereignty in mind, Continuum is now live and free to clone. Hosted and paid-tier features will follow. This is what it looks like to build protocol-first."
+    ],
+    [
+      "display_date",
+      "2025-07-01"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "proofofwork"
+    ],
+    [
+      "t",
+      "selfhosted"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "opensource"
+    ],
+    [
+      "t",
+      "indiedev"
+    ],
+    [
+      "e",
+      "9fe3500b923960ebc3b2a29ef57655456e483e83a441fbd6252ea130a0cdadee",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.damus.io"
+  ]
+}

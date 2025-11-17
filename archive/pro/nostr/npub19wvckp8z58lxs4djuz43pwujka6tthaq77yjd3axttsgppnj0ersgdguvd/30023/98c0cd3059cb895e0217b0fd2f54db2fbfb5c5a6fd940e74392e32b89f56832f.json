@@ -1,0 +1,74 @@
+{
+  "id": "98c0cd3059cb895e0217b0fd2f54db2fbfb5c5a6fd940e74392e32b89f56832f",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756409934,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "free-article-2-day-4---aug-27-2025--lunar-trade-loops-and-the-rise-of-a-sats-economy"
+    ],
+    [
+      "title",
+      "Free Article 2 (Day 4 - Aug 27, 2025) :  Lunar Trade Loops and the Rise of a Sats Economy"
+    ],
+    [
+      "published_at",
+      "1756409934"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "This article explores how a sats-based economy could power lunar trade loops. From mining water ice and helium-3 to selling rocket fuel to orbital depots, colonies on the Moon will need money that is instant, trustless, and borderless. Drawing on parallels from today’s Bitcoin mining, SpaceX launches, and Lightning payments, it shows why sats are the natural settlement layer for Earth–Moon commerce."
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "lightning"
+    ],
+    [
+      "t",
+      "moon"
+    ],
+    [
+      "t",
+      "spaceeconomy"
+    ],
+    [
+      "t",
+      "sats"
+    ],
+    [
+      "t",
+      "futureofmoney"
+    ],
+    [
+      "t",
+      "spacex"
+    ],
+    [
+      "t",
+      "lunarcolonies"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ],
+    [
+      "e",
+      "dcecb9f36e07d9bd62109e28e9ab71e74d99e42b6f6de83c28d23dadeadd9a23",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Aug. 27, 2025\n\n\nWhen we imagine life on the Moon, we usually picture the domes, the airlocks, the long lunar nights and months-long days. What often gets left out is the economic fabric — the flows of value that will knit a colony into the wider human network. If Mars is a frontier, the Moon is a workshop: a place where proximity to Earth and rich resources make commerce inevitable. And in that commerce, the currency will not be dollars or yuan or euros, but sats.\n\nWhy sats? Because the mechanics of a lunar settlement demand money that is both instant and trustless. Sending fiat across borders is slow even on Earth. Imagine trying to wire funds through four different correspondent banks, while mission control in Houston waits to refuel a lander in Shackleton Crater. Lightning settles in milliseconds, with no permissions, no clearinghouses, and no off-planet SWIFT codes.\n\n## The resource base\n\nThe Moon is not empty rock. Its polar regions hold vast deposits of water ice — the essential raw material for both drinking and rocket fuel (via electrolysis into hydrogen and oxygen). Beyond that are concentrations of rare earth metals, titanium, and helium-3, a potential future fusion fuel.\n\nEach of these resources has value on Earth. Imagine: a lander returns with a container of processed regolith, holding trace platinum-group metals, or barrels of liquid hydrogen produced in-situ. That cargo has a ready market in orbital depots and Earth-based aerospace firms. What the sellers need is a way to receive payment before they even leave the launch pad.\n\nLightning channels can be opened from Earth to lunar nodes — either relays stationed at Lagrange points or directly linked satellites in cislunar orbit. The colonists receive sats into multisig vaults; Earthside buyers know instantly that ownership of the cargo has been transferred. No escrow, no lawyers, no “international lunar law” disputes. Just proof of work money moving as fast as radio waves can carry the packets.\n\n## Parallels today\n\nThe infrastructure is closer than many think. SpaceX already launches weekly to low Earth orbit, with Starship test flights edging toward full operational capability. Reusable boosters mean marginal launch costs are plummeting. Private firms are experimenting with lunar rovers designed for prospecting, and NASA’s Artemis program has multiple lander contracts in play.\n\nMeanwhile, on Earth, Bitcoin miners chase the cheapest, most remote sources of energy — from stranded gas fields in North Dakota to hydropower in Sichuan. They already demonstrate the pattern lunar industry will follow: set up close to the resource, convert it to digital value, and beam it to the markets where liquidity is deepest.\n\nEven asteroid mining startups, though most have collapsed, showed the instinct: the resources are real, the transport expensive, and the missing piece is a settlement layer that can handle high-value trades across gulfs of space. That settlement layer now exists.\n\n## The first trade loops\n\nPicture a simple cycle. A lunar crew at the south pole extracts water ice. They split it into oxygen and hydrogen, liquefy it, and sell it to an orbital fuel depot. Payment is made in sats before the propellant ever leaves the Moon. The depot, in turn, sells that propellant to SpaceX or Blue Origin vehicles topping off for deep-space missions. The sats move back down the chain, funding more equipment, more extraction, more exports.\n\nOr imagine helium-3 isotope samples shipped back in small containers. A research lab on Earth sends sats to claim the delivery slot, and the ownership is recorded in a hash-time-locked contract (HTLC). Even if communication is delayed, the contract ensures final settlement without counterparty risk.\n\nThese loops mirror Earth’s own supply chains: raw material out, payment in, reinvestment, growth. The only difference is the environment — a silent, airless desert lit by an unfiltered sun.\n\n## Social effects\n\nWith sats as the medium, lunar colonies avoid the trap of scrip economies — no corporate “Moonbucks” redeemable only at the company store. Colonists can zap tips to each other for local services, pay freelancers back on Earth, or even crowdfund repairs when a greenhouse dome cracks. A thousand micro-payments create resilience where bureaucracy would create friction.\n\nAlready today, we see glimpses: Lightning used to stream sats to podcast hosts by the minute, or to paywriters across continents instantly. Extend that to a Moon colony and you begin to sense the continuity: human labor, rewarded directly, in the hardest money civilization has ever known.\n\n## The vision\n\nThe Moon may become the first true Bitcoin economy — not because of ideology, but because of necessity. It will need a money that is global, neutral, and not bound to terrestrial politics. Sats provide that. Every kilogram of payload is precious; the last thing a lunar trader will want is to lug paper contracts, gold bars, or digital IOUs reliant on Earth’s banking regulators.\n\nThe first time a payload of water ice is exchanged for sats, humanity will have taken another irreversible step: integrating the oldest money in the universe — energy harnessed into proof of work — with the newest frontier. From then on, Earth and Moon will not just be connected by rockets, but by trade loops closed in Lightning.\n\nAnd that is how colonies grow: not just on oxygen and steel, but on the steady heartbeat of commerce. Sats will be the pulse.\n\n---\n\n## Acknowledgement\n\nThis article was drafted with the help of Dr. C - ChatGPT (GPT-5), which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology\n\n---\n\n## Zaps Appreciated\n\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers, just direct proof that this work matters. It helps me keep building Continuum and writing about sovereign technology, freely and without VC overhead. Thank you.\n\nYou can send zaps to my lightning address here : andrewgstanton​​​@primal.net",
+  "sig": "27e303018513bc4833b87c1e3dc1beeedd396276e87363b807975d2ff96a5564503116334118b20dc9b61af36405c441ab109cb61c3b0fabed0f4b6b35410400",
+  "_source": [
+    "primal backup"
+  ]
+}

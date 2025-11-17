@@ -1,0 +1,49 @@
+{
+  "id": "271552ccca272a26d5efd2b0f648e5e4c1338fc3972d3826a3e38a0167bc4b15",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756244743,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "-free-article-1-day-3--aug-26-2025-can-you-exit"
+    ],
+    [
+      "title",
+      "📝 Free Article 1 (Day 3 – Aug. 26, 2025): Can You Exit?"
+    ],
+    [
+      "summary",
+      "A simple test for sovereignty — and why most platforms fail it."
+    ],
+    [
+      "published_at",
+      "1756244743"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "identity"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ]
+  ],
+  "content": "Most people confuse “participation” with “ownership.” They think because they have a profile and can post, they’re in control. But the real test of sovereignty is simpler: can you exit without losing yourself?\n\nTry this thought experiment:\n\n- If you delete your Twitter account today, what comes with you? Not your followers. Not your history. Not your name. It’s all tied to their database.\n- If you leave LinkedIn, does your resume come with you? No — it vanishes into their servers.\n- If YouTube bans you, what happens to your channel, your videos, your audience? It’s gone.\n\nExit is where the truth is revealed. Sovereignty without exit is a costume.\n\nWith Nostr, the equation flips. Your npub is portable. Your content is events you sign. Your followers aren’t “subscribers” inside one company — they’re people who’ve chosen to follow your key. You can leave any relay tomorrow, join another, or host your own, and your identity persists.\n\nThat’s why exit is the non-negotiable mark of sovereignty. If you can’t take your identity, value, and voice with you, you never owned them in the first place.",
+  "sig": "fa30d8687b05c69c91bd9e651420f578b11045e740db09022486eb509bea3bf88a2e81559c77bda47393f71a70d46cfb14475532abbbaf9ff16588b84790b2c4",
+  "_source": [
+    "primal backup"
+  ]
+}

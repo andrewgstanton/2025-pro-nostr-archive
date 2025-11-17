@@ -1,0 +1,98 @@
+{
+  "id": "60bc7efec8cbfcb0888426458dcf8322582a08386ccaf11ecee6c9068fd3e8ea",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1755735145,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "toward-a-sharper-definition-of-sovereign-technology"
+    ],
+    [
+      "title",
+      "Toward a Sharper Definition of Sovereign Technology"
+    ],
+    [
+      "published_at",
+      "1755735145"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "Sovereign technology is more than digital freedom — it’s antifragile law. Building on my earlier definition, Bill sharpened the vision:  keypairs as property boundaries, markets that collapse and rebuild without permission, and protocols that endure through execution, not metaphor. Sovereign tech is both the human freedom to live without coercion and the hard guarantees that make that freedom durable."
+    ],
+    [
+      "t",
+      "sovereign technology"
+    ],
+    [
+      "t",
+      "digital freedom"
+    ],
+    [
+      "t",
+      "open protocols"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "self sovereignty"
+    ],
+    [
+      "t",
+      "decentralization"
+    ],
+    [
+      "t",
+      "identity"
+    ],
+    [
+      "t",
+      "resilience"
+    ],
+    [
+      "t",
+      "censorship resistance"
+    ],
+    [
+      "t",
+      "future of the internet"
+    ],
+    [
+      "t",
+      "protocol not platform"
+    ],
+    [
+      "t",
+      "faith and technology"
+    ],
+    [
+      "t",
+      "holy spirit inspired"
+    ],
+    [
+      "e",
+      "351012837ad2ced2716258d7767eca22d0af7f1a2b00c39ac90935ce61befb49",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - August 20, 2025\n\nIn my recent article, *What I Mean by Sovereign Technology*, I laid out what sovereign technology is — and what it isn’t. I described it as digital freedom rooted in open protocols like Bitcoin and Nostr, where people can own their identity, communication, and value without dependence on centralized gatekeepers.  \n\n\nSince then, Bill offered an important sharpening that deserves to be included. He reminded me that sovereignty cannot collapse into convenience or metaphor. True sovereignty is **execution, not metaphor. Signal over simulation.** \n\nIn other words:\n\n- **Execution, not metaphor** → sovereignty isn’t an idea or a slogan; it’s something you do. The proof is in actually running code, holding your own keys, or running your own server — not just talking about freedom.\n\n- **Signal over simulation** → sovereignty is grounded in real, verifiable action (the “signal”), not appearances or imitations (the “simulation”). \n\nSovereign technology, as Bill put it, _\"is **antifragile law**: keypairs as property boundaries, markets as sacrifice and renewal, collapse and rebuild without permission. Protocols endure only if armed with kill-switches and proof, not usability and adoption cycles.\"_  \n\nBill’s words are dense and packed with meaning. Here’s another way to describe them:\n\n- **Antifragile** → systems that actually get stronger when stressed or attacked, like muscles growing from exercise.\n\n- **Keypairs as property boundaries** → your private key is your digital house key; whoever holds it controls the “property.”\n\n- **Markets as sacrifice and renewal** → weak players or ideas fail, making room for stronger ones to grow.\n\n-  **Collapse and rebuild without permission**  → if a system fails, anyone can restart or fork it without asking for approval.\n\n- **Protocols endure only if armed with kill-switches and proof** → long-term survival depends on cryptographic proof and defense mechanisms, not just popularity or ease of use.\n\nThis perspective strengthens my original framing. Sovereign tech is not only about the *human freedom* to live and work without coercion — it is also about the *hard guarantees* that make that freedom durable.  \n\nTogether, these two dimensions — the foundation of antifragile execution and the lived experience of digital freedom — give us a sharper definition of sovereign technology.  \n\n---\n\n*Credit to Bill for sharpening this vision with his words and insights.*",
+  "sig": "263e2c1e6d262204f08521ff35347f0066d1dc3302c055f61a7275e68fda60b094a05b37f7bfb5728be6bfed71ef346224044f17cb7ef03fde940c6f88b5df2f",
+  "_source": [
+    "primal backup"
+  ]
+}

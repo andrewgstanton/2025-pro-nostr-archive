@@ -1,0 +1,57 @@
+{
+  "id": "0093ccedc816249a16cb641d8f4e52683793542723f3475a73e18cc8d5ab4380",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756489238,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "paid-article-teaser-day-6---aug-29-2024-the-archive-beneath-the-ash"
+    ],
+    [
+      "title",
+      "Paid Article Teaser (Day 6 - Aug. 29, 2024: The Archive Beneath the Ash"
+    ],
+    [
+      "summary",
+      "A haunting glimpse into a post-collapse world where the incorruptible archive beneath the ash keeps truth alive. A short invitation into the Dust Chronicles."
+    ],
+    [
+      "published_at",
+      "1756489238"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "scifi"
+    ],
+    [
+      "t",
+      "dustchronicles"
+    ],
+    [
+      "t",
+      "teaser"
+    ],
+    [
+      "t",
+      "truth"
+    ],
+    [
+      "t",
+      "resilience"
+    ]
+  ],
+  "content": "*\"In the ashes of collapse, whispers remain — incorruptible, unbroken. What if scripture was carved not on stone, but on chains of time itself?\"*\n\n🔒 **Full article available for 500 sats.** Zap me and I’ll send it via encrypted DM while I finish building the automated unlock flow in Continuum.",
+  "sig": "31dbde7f0212facf798122d266cb7b343883a18b5e9ac31f3a3bd914578a984a76e9db99eabbbd6604bbda074913c85b4b7bbf28b23ed8604f7d2b7a81f26e66",
+  "_source": [
+    "primal backup"
+  ]
+}

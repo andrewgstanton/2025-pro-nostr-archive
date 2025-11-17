@@ -1,0 +1,103 @@
+{
+  "id": "b921ab4977170a0635ffc0997b391a2405a4edba92dd26d02cf05a4a4d30883c",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1758522751,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "why-i-left-web3-for-proof-of-work-–-part-1:-the-drift"
+    ],
+    [
+      "title",
+      "Why I Left Web3 for Proof of Work – Part 1: The Drift"
+    ],
+    [
+      "published_at",
+      "1758522751"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "After years immersed in Web3, I began to see through the noise—hype cycles, token gimmicks, and hollow decentralization claims. In this first part of my story, I trace the subtle drift that pulled me away from conviction—and how returning to Bitcoin and Proof of Work gave me clarity, purpose, and a plumb line to build on."
+    ],
+    [
+      "display_date",
+      "2025-05-18"
+    ],
+    [
+      "t",
+      "Bitcoin"
+    ],
+    [
+      "t",
+      "ProofOfWork"
+    ],
+    [
+      "t",
+      "Web3Exit"
+    ],
+    [
+      "t",
+      "WhyBitcoin"
+    ],
+    [
+      "t",
+      "BitcoinerJourney"
+    ],
+    [
+      "t",
+      "BuildWithConviction"
+    ],
+    [
+      "t",
+      "LongForm"
+    ],
+    [
+      "t",
+      "FaithAndFinance"
+    ],
+    [
+      "t",
+      "PoWNotPoS"
+    ],
+    [
+      "t",
+      "Startups"
+    ],
+    [
+      "t",
+      "NostrWriting"
+    ],
+    [
+      "t",
+      "SovereignTech"
+    ],
+    [
+      "t",
+      "BitcoinNotCrypto"
+    ],
+    [
+      "t",
+      "StillBuilding"
+    ],
+    [
+      "t",
+      "ConvictionOverCommunity"
+    ],
+    [
+      "e",
+      "553d2f827d3587a960bb235200ca673ecac25a092523294b26b2602c09c687ae",
+      "edit"
+    ]
+  ],
+  "content": "For years, I wandered through the Web3 space—intrigued by its promises, pulled in by buzzwords like “decentralization,” “DAOs,” and “stakeholder democracy.”\n\nBut over time, the signals got drowned out by noise.\n\nI saw venture capital pour into projects that had no product. I watched communities reward performative governance and token hype, rather than real work or impact. Even in faith-based circles, “Web3 for good” often meant shiny apps that served insiders more than outsiders.\n\nThen I found my way back to where I began: **Bitcoin.**\n\nNot as a speculative asset—but as a philosophy. A discipline. A foundation.\n\n**Proof of Work** doesn’t need marketing. It doesn’t ask for permission. It either works—or it doesn’t.\n\nWeb3 taught me a lot. But Bitcoin gave me a plumb line. And from now on, that’s the line I’m building on.\n\nThis is Part 1 of a multi-part series. Follow for future entries.\n\n**— Andrew G. Stanton**\nBitcoiner, builder, believer.\n\n***\n\n*This article was co-drafted using ChatGPT to accelerate the writing process. Final content was reviewed and edited by me.*\n\n***",
+  "sig": "6316a837ab1d07690cce1424e163b2600377ab7adebffc21588a08a3c2ec018c801c698b0eba6a5a7dbf286a67799f6a892dafdfb0eef10e3732b91d6b7ef65c",
+  "_source": [
+    "primal backup",
+    "wss://nostr.bitcoiner.social"
+  ]
+}

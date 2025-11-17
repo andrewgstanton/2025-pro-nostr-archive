@@ -1,0 +1,70 @@
+{
+  "content": "Andrew G. Stanton - July 8, 2025\n## 🛠️ MyContinuum: Free vs. Pro\n\n| Feature                                           | Free (Localhost)         | **Pro (Hosted / Private)**        |\n|--------------------------------------------------|---------------------------|------------------------------------|\n| Self-hosted dashboard (Docker)                   | ✅                        | ✅                                 |\n| Publish Notes & Articles                         | ✅                        | ✅                                 |\n| Multi-npub identity support                      | ❌                        | ✅ *(from v1.2.0)*                 |\n| Relay visibility per event                       | ❌                        | ✅ *(from v1.1.0)*                 |\n| Create new identities (`npub`/`nsec`)            | ❌                        | ✅ *(from v1.3.0)*                 |\n| Markdown preview + smart URL shortening          | ✅                        | ✅                                 |\n| Toggle short links in preview                    | ❌                        | ✅ *(from v1.3.0)*                 |\n| Publishing feedback modal                        | ❌                        | ✅ *(from v1.3.0)*                 |\n| Hosted dashboard                                 | ❌                        | ✅                                 |\n| Relay rebroadcasting                             | ❌                        | 🔜 *Coming in v1.4+*              |\n| Delete events (kind:5)                           | ❌                        | 🔜 *Coming in v1.4+*              |\n| Subscription/paid article support                | ❌                        | 🔜 *Coming in v1.5+*              |\n\n---\n\n### 💎 Pricing\n\n- **$15.00 USD / month**\n- **$13.50 / month** *(10% off when paid in Bitcoin via ⚡ Lightning)*  \n  *Because we believe in Bitcoin. Save using sats, build sovereign.*\n\n---\n\n### 📌 Terms & Commitments\n\n- Cancel anytime. You keep access to all features of the version you paid for.\n- Once **$10,000 in total revenue** is reached, **v1.1 to v1.5** will be open-sourced.\n\n---\n\n### 🤝 Interested in Continuum Pro?\n\nI'm currently offering early access and onboarding support directly. If you're interested in Continuum Pro or want to discuss self-hosted or team use:\n\n- 📡 Message me on [Primal](https://primal.net/andrewgstanton)\n\n**Let’s build sovereign tools together.**",
+  "created_at": 1763238295,
+  "id": "a1f29eefbda6e298389c437258f0fb3bf7f6ad48d3ea08c488d7e13e733c0683",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "3eba4eed6695a730074216770e2fb5dfe506fa7b31f955e8daa4e7aafa4551bc1e2e6ff11138b5d631b40336a9f124cb0f0bb54609a5b83fd74abd4056eecd23",
+  "tags": [
+    [
+      "d",
+      "-continuum-pricing--free-vs-pro"
+    ],
+    [
+      "title",
+      "🎯 Continuum Pricing — Free vs. Pro"
+    ],
+    [
+      "published_at",
+      "1763238295"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "Compare what’s included in the free self-hosted version vs. the hosted Pro plan. Includes roadmap, open source pledge, and Lightning discount."
+    ],
+    [
+      "display_date",
+      "2025-07-08"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "continuum-pro"
+    ],
+    [
+      "t",
+      "sovereign publishing"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "digital freedom"
+    ],
+    [
+      "e",
+      "8867aa53d0cd134062b470b8f2cad688406425279a23143185ce8d0dcc1a485a",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.damus.io"
+  ]
+}

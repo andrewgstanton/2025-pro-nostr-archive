@@ -1,0 +1,74 @@
+{
+  "id": "3680e1fefed54294be55fdf829c55f38e9ef881e61a9fd44fa60c79517d45b33",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1755901926,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "the-bitcoin-chronicles--part-4-asteroid-belt-economics"
+    ],
+    [
+      "title",
+      "The Bitcoin Chronicles: Toward The Stars  — Part 4: Asteroid Belt Economics"
+    ],
+    [
+      "published_at",
+      "1755901926"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "Part 4 of the Bitcoin Chronicles explores the Asteroid Belt as Bitcoin’s ultimate energy frontier, where abundant solar and nuclear power make proof-of-work a natural foundation for scattered, sovereign economies trading in sats."
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "asteroid belt"
+    ],
+    [
+      "t",
+      "mining"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "proof-of-work"
+    ],
+    [
+      "t",
+      "energy"
+    ],
+    [
+      "t",
+      "interplanetary"
+    ],
+    [
+      "t",
+      "chronicles"
+    ],
+    [
+      "t",
+      "future"
+    ],
+    [
+      "e",
+      "4b5432abbcf0c9f06843517f0f8407c1f148c3f0a319cdc2400efafbb6e5788c",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - August 22, 2025\n\nBetween Mars and Jupiter lies the Asteroid Belt — a region packed with metal-rich worlds, sunlight in abundance, and enough raw material to fuel civilizations. If Mars teaches us latency, the Belt teaches us energy.\n\nBitcoin thrives wherever there is cheap, abundant energy. On Earth, miners flock to hydropower in Sichuan, geothermal in Iceland, or stranded natural gas in Texas. In space, the Asteroid Belt is the ultimate energy frontier.\n\n- **Solar power**: With no atmosphere to block sunlight, colonies can harvest vast amounts of energy directly.\n- **Nuclear micro-reactors**: Compact, mobile, and perfect for outposts on tumbling rocks.\n- **Asteroid resources**: Metals and volatiles mined not only sustain life but can also be traded for sats across colonies.\n\nThis makes the Belt a natural home for proof-of-work at scale. Mining rigs could operate on autonomous stations, securing Bitcoin while paying for themselves in sats. Energy becomes civilization’s backbone, and Bitcoin its accounting layer.\n\nThe asteroid colonies would not be unified under a single flag. They would be scattered, diverse, often isolated. Yet Bitcoin offers them a common language of value. Whether it’s oxygen, water, nickel, or computing cycles, everything clears in sats.\n\nIn a way, the Asteroid Belt completes the vision. It shows Bitcoin not just surviving, but thriving where human governance is weakest and physics rules supreme.\n\nThe Belt would be less a frontier of nations and more a patchwork of sovereign economies — each bound together not by treaties, but by hash rate.\n\nAnd beyond the Belt, the challenge only grows: how do distant colonies maintain trust when days or weeks of latency separate them? That is the question of interplanetary consensus.",
+  "sig": "76f71e829444ae9a76080c2be77dc6935f23ff7cf3afcee74013e1fef5c0d662d2840b30e19ed0ccff20b65e6797724aa8f1c4980d0695ff8cb1b3472483ee45",
+  "_source": [
+    "primal backup"
+  ]
+}

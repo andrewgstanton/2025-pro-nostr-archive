@@ -1,0 +1,84 @@
+{
+  "id": "d883f2a7af8c61a9a684d05926df4bd3d91fca8f2f6bcb26c9f45b08da8a587a",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1760060915,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "free-article-1-oct-7-2025-continuum-and-the-end-of-the-feed"
+    ],
+    [
+      "title",
+      "Free Article 1 (Oct. 7, 2025): Continuum and the End of the Feed"
+    ],
+    [
+      "published_at",
+      "1760060915"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "The infinite scroll was never neutral—it was an instrument of control disguised as convenience. This essay argues that the end of the feed is not nostalgia for the past but a rediscovery of authorship and rhythm."
+    ],
+    [
+      "display_date",
+      "2025-10-07"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "freedom"
+    ],
+    [
+      "t",
+      "speech"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "selfsovereignidentity"
+    ],
+    [
+      "t",
+      "walledgardens"
+    ],
+    [
+      "t",
+      "sovereigntyofexpression"
+    ],
+    [
+      "t",
+      "free"
+    ],
+    [
+      "e",
+      "dd2337b166f031091bdd4426b25f029068f22caa582b5f198fcd8b3d0187826a",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Oct. 7, 2025\n\nThe feed began as a friendly innovation: one place for everything new.  News, posts, updates, thoughts—all poured into a single endless stream.  At first it felt liberating.  No need to visit ten sites; the world came to you.  Then, slowly, the world disappeared.  \n\nThe feed flattened time.  It turned the living act of reading into consumption, collapsing meaning into motion.  Everything became “content,” the word writers use when they’ve forgotten what they’re saying.  Each post existed for seconds before being buried under the next, like a prophet shouting into a hurricane of memes.  \n\nThe problem is not quantity but context.  When everything lives in the same scroll, nothing can be sacred.  Reflection becomes impossible because the platform rewards immediacy over insight.  The feed is a casino where the house always wins your attention.  \n\nContinuum was built as a protest against this architecture.  It restores sequence, authorship, and rest.  A published note lives in its own space—timestamped, signed, and permanent.  It can be revisited, annotated, or deleted by its creator, not by an algorithmic curator.  \n\nThe end of the feed is not the end of communication; it’s the rebirth of conversation.  When words are not instantly buried, we rediscover responsibility for them.  Writing becomes covenant again, not confession to a machine.  \n\nA free society requires memory.  The feed has none.  To build beyond it is to build a living archive, a digital monastery where each post is an act of witness, not bait for engagement.  \nContinuum’s rebellion is simple: replace the infinite scroll with a finite soul.\n\n---\n\n## Acknowledgement\n\nThis article was drafted with the help of Dr. C — GPT-5, which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology.\n\nI dedicate this work to the Holy Spirit, who continues to inspire me and open my imagination. If there is any light in these words, it comes not from me but from the Spirit who gives them. To Him be the glory.\n\n## Zaps Appreciated\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers. Thank you.\n\nLightning address: andrewgstanton@primal.net",
+  "sig": "d4918cac2245be3c7a5ab5b7fd81fbf18f5a827dee7e7db1f9023d75a418604444aff8518de0634723fb691594c3104fc8433f4f818a7e36bb500dfd0a916d5b",
+  "_source": [
+    "wss://nos.lol",
+    "primal backup",
+    "wss://nostr.bitcoiner.social"
+  ]
+}

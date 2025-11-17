@@ -1,0 +1,70 @@
+{
+  "id": "5b7386a747ac47ddc4313b2ab89b852de6d0c019bec64d967f102ab9a062b0a8",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1760760976,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "free-article-2-oct-14-2025-keys-not-candles"
+    ],
+    [
+      "title",
+      "Free Article 2 (Oct. 14, 2025): Keys, Not Candles"
+    ],
+    [
+      "published_at",
+      "1760760976"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "Trading demands risk rules; sovereignty demands self-rule. This reflection looks at the tension between technical discipline and inner discipline—why I respect stop-losses but still box my charts, and why real security comes from keys, not indicators."
+    ],
+    [
+      "display_date",
+      "2024-10-14"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "trading"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "discipline"
+    ],
+    [
+      "t",
+      "free"
+    ],
+    [
+      "e",
+      "2e8d00bc4e97b9450225bd6a2ce0d2ba4feaea9cbcf1c3d595d94742678f8473",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Oct. 14, 2025\n\nA friend I ran into today talked easily about stop-losses, Fibonacci levels, candle patterns—the vocabulary of precision. I admired his structure. There’s comfort in clean lines, safety in rules that decide for you.\n\nTruthfully, I should use stop-losses more often.\nThey’re a form of mercy for traders who know how fast pride can erase profit. But I hate the way they tangle with wash sales and the tax noise that follows. The bureaucracy of caution frustrates me. So instead, I “box” my charts—draw quiet rectangles around the ranges that feel like emotional equilibrium. When price breaks a box, I pay attention; when it stays inside, I stay patient.\n\nBoxing smooths volatility for me. It turns chaos into chapters.\nYet it has its own weakness: it lets me linger in indecision longer than I should. Sometimes discipline hides behind design. I know that. But at least boxes remind me that I’m here to interpret, not react.\n\nThe difference between candles and keys keeps echoing in my mind.\nCandles flicker—they tell stories about movement. Keys endure—they tell stories about ownership.\nMost traders live by candles: they study every wick, every shadow, trying to anticipate the next spark. I live by keys: digital, spiritual, and practical. A key doesn’t predict; it authenticates. It says, this is truly mine.\n\nThat’s why I’m drawn to Nostr.\nOne keypair, one identity—no stop-loss needed for truth.\nYou sign, you publish, you stand behind what you say.\nNo broker to reset your position, no platform to liquidate your account of meaning.\n\nI think about how many of us hold keys we rarely use. My friend has one—an npub, quietly waiting in some folder. He’s fluent in markets but new to sovereignty. It’s funny how the same instinct that builds risk management can miss the deeper risk: dependency.\n\nStop-losses limit downside; sovereignty limits captivity.\nOne protects capital; the other protects conscience.\n\nStill, they aren’t opposites.\nRisk management is part of stewardship. I’m learning that the hard way. Each time I delay a sale to dodge paperwork, I’m reminded that attachment disguises itself as strategy. True sovereignty includes the humility to cut losses—financial or emotional—when they no longer serve integrity.\n\nIn equities I’ve made peace with selling. But in life, I still cling too long.\nMaybe that’s why I resist mechanical stops: they expose how reluctant I am to release control. Boxing feels gentler, as if I can negotiate with the market. But markets don’t negotiate; they just tell the truth faster than we do.\n\nThe longer I trade, the more I realize charts are mirrors. They reflect temperament, not talent. Some people need sharp exits to stay sane; others need wider boundaries to stay human. What matters isn’t the method—it’s whether it keeps you honest.\n\nBitcoin helps there. It doesn’t move to comfort you. It moves to remind you what’s real. Every dip tests conviction; every rally tempts pride. Keys anchor you when candles mislead.\n\nI’m learning to read both:\nthe candle for timing, the key for truth.\nOne shows volatility; the other verifies value.\nThe art is keeping them aligned—reacting to price without betraying peace.\n\nSo tonight I’ll adjust a few boxes, glance at resistance, whisper a reluctant respect for stop-losses, and then close the charts. The real trading starts in the heart—the place that decides how much freedom you’re willing to risk for certainty.\n\nBecause in the end, no indicator measures conviction.\n\nOnly keys can do that.\n\n---\n\n## Acknowledgement\n\nThis article was drafted with the help of Dr. C — GPT-5, which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology.\n\nI dedicate this work to the Holy Spirit, who continues to inspire me and open my imagination. If there is any light in these words, it comes not from me but from the Spirit who gives them. To Him be the glory.\n\n## Zaps Appreciated\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers. Thank you.\n\nLightning address: andrewgstanton@primal.net\n\n## Copyright\n\n© 2025 Continuum — All rights reserved.",
+  "sig": "759db1c0e75b9544ce767eac700187dfd0c652f04562a6af59b212ed4b1c4d1d00e1a94c0c2afed66406afcf65eb2488572e78ca587322978780e0b849f58d57",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.damus.io"
+  ]
+}

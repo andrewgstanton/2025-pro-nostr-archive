@@ -1,0 +1,53 @@
+{
+  "id": "b6cbeab6fb91fb20c87e39d9ad8676e28807b3dab0be6cb46903719255ba9a1f",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756774866,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "paid-article-teaser-sept-1-2025--labor-day-without-chains"
+    ],
+    [
+      "title",
+      "Paid Article Teaser (Sept. 1, 2025) : Labor Day Without Chains"
+    ],
+    [
+      "summary",
+      "This Labor Day, I’m reflecting on how work is chained to fiat — and how Bitcoin restores sovereignty to labor itself."
+    ],
+    [
+      "published_at",
+      "1756774866"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "teaser"
+    ],
+    [
+      "t",
+      "labor day"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "fiat"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Sept. 1, 2025\n\nThis Labor Day, most of us will grill, gather, and maybe rest — but beneath the surface, our labor remains chained to a broken fiat system. Wages shrink, debts grow, and the meaning of work itself erodes. What would it look like to break those chains? To measure labor in incorruptible money, where every hour of work holds its value not just today but decades from now?\n\nBitcoin offers that possibility — a way to reclaim dignity, fairness, and sovereignty in our working lives.\n\n👉 Paid article: The Bitcoin Chronicles: Master Timeline of Sovereign Labor (2025–3100s)\n\n2 free articles today:\n\n- Labor Day in the Age of Inflation\n- Sovereign Labor: The Worker as Creator\n\n🔒 **Full article available for 500 sats.**  Zap me and I’ll send it via encrypted DM while I finish building the automated unlock flow in Continuum.",
+  "sig": "8e7196e312d8aeb92607b89d1fbd53aa3a9fa3bf85aff09abe407c36524b9bb2e089325df59e88b4a66a1b219db6bdec616878569ab5fc5bbb528a22d9f3f403",
+  "_source": [
+    "primal backup"
+  ]
+}

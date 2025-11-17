@@ -1,0 +1,57 @@
+{
+  "id": "1ec695316d73316f73becc878e29ff7272143c0098b10620d2b9178c45ee9a93",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756586610,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "paid-article-teaser-day-7---aug-30-2025-the-bitcoin-chronicles-the-first-interplanetary-trade-routes"
+    ],
+    [
+      "title",
+      "Paid Article Teaser (Day 7 - Aug. 30, 2025): The Bitcoin Chronicles: The First Interplanetary Trade Routes"
+    ],
+    [
+      "summary",
+      "A teaser glimpse into Day 7 — the rise of Bitcoin-powered trade across the solar system."
+    ],
+    [
+      "published_at",
+      "1756586610"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoinchronicles"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "trade"
+    ],
+    [
+      "t",
+      "mars"
+    ],
+    [
+      "t",
+      "moon"
+    ],
+    [
+      "t",
+      "scifi"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Aug. 30, 2025\n\nTrade has begun. Mars, Earth, and the Moon are no longer isolated outposts but nodes in a fragile new economy. Metals mined from Martian rock, biotech grown in Earth’s labs, and freighters passing through the Lunar Freeport — all connected by the same network of trustless sats.\nThe first interplanetary trade routes are forming, and with them comes a new balance of power. No governments, no fiat — only Bitcoin.\n\n👉 Paid article: *The First Interplanetary Trade Routes*\n\n2 free articles today:\n\n- *Lunar Freeport: Gateway Between Earth and Mars*\n- *Zap Across the Void: Lightning in Deep Space*\n\n🔒 **Full article available for 500 sats.** Zap me and I’ll send it via encrypted DM while I finish building the automated unlock flow in Continuum.",
+  "sig": "b086398d1bcf8a9b1fe0d8e60b633f8c22442317c310deaee4b782dd7e983a922fde7d23f05f58f880d4b4922b01636a3a785dc137c6e5571e962eb6303232ca",
+  "_source": [
+    "primal backup"
+  ]
+}

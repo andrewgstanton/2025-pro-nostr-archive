@@ -1,0 +1,62 @@
+{
+  "content": "Andrew G. Stanton - August 24, 2025\n\nPeople throw the word “sovereign” around a lot. Here are three quick checks I use:\n\n- **Custody**: Do I hold the keys? If not, I don’t control it.\n- **Identity**: Is my presence tied to my npub (or something I own), or is it rented from a platform?\n- **Exit**: If I leave, can I take my data, audience, and value with me?\n\nIf the answer is “no” to any of these, it’s not sovereignty — it’s just decentralization dressed up as freedom.\n\nFor a deeper dive, see today’s gated article “Sovereign ≠ Decentralized,” **available to unlock for 500 sats.**",
+  "created_at": 1763189852,
+  "id": "268b730bf2eb4b28cfddd9dee6a6ea184989789c3a39bd5b837c8a529734b48d",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "1d4b90ec63fd833933bc73d43d7df19f57d9a337de2784615852759c29a234e0501794d8ec8a3a55f3be9958a1632f8de0e1eb9fadade1dad1ac76f3c938ac17",
+  "tags": [
+    [
+      "d",
+      "-article-2-three-questions-to-test-sovereignty"
+    ],
+    [
+      "title",
+      "📝 Free Article 2 (Day 1 - Aug. 24, 2025): Three Questions to Test Sovereignty"
+    ],
+    [
+      "published_at",
+      "1763189852"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "A simple test you can apply to any platform, network, or income stream."
+    ],
+    [
+      "display_date",
+      "2025-08-24"
+    ],
+    [
+      "t",
+      "#bitcoin"
+    ],
+    [
+      "t",
+      "#nostr"
+    ],
+    [
+      "t",
+      "#sovereignty"
+    ],
+    [
+      "t",
+      "#freedom"
+    ],
+    [
+      "e",
+      "5bbef28dba37f6674780a3ff3eb511bc7492ae1d128685ddeb454ad915bae897",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.damus.io"
+  ]
+}

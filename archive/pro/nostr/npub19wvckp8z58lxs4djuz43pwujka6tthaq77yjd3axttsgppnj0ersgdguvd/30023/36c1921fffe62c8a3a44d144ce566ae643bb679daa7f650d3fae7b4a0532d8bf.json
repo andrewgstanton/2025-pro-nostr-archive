@@ -1,0 +1,79 @@
+{
+  "id": "36c1921fffe62c8a3a44d144ce566ae643bb679daa7f650d3fae7b4a0532d8bf",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1760758663,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "-free-article-1-oct-17-2025-the-bitcoin-chronicles-the-sovereign-belt"
+    ],
+    [
+      "title",
+      "🌍 Free Article #1 (Oct 17 2025): The Bitcoin Chronicles: The Sovereign Belt"
+    ],
+    [
+      "published_at",
+      "1760758663"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "Even as fiat power endures on Earth, independent enclaves in the Asteroid Belt build self-governing economies rooted in Bitcoin and open protocols — the first civilization to achieve verifiable trust beyond politics."
+    ],
+    [
+      "display_date",
+      "2025-10-17"
+    ],
+    [
+      "t",
+      "bitcoinchronicles"
+    ],
+    [
+      "t",
+      "asteroidbelt"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "hasheconomy"
+    ],
+    [
+      "t",
+      "spacecivilization"
+    ],
+    [
+      "t",
+      "fiatcollapse"
+    ],
+    [
+      "t",
+      "free"
+    ],
+    [
+      "e",
+      "f8676d70a23407fb85ebf5a353f92f5cb51032776ed1a1fd7cfd49d21c3e77fb",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Oct. 17, 2025\n\nFiat still ruled Earth.\n\nIts currencies inflated, its bureaucracies lumbered, its populations scrolled and obeyed — but its reach was weakening at the edges of the solar system. The farther one traveled from Earth’s gravity well, the less authority its laws seemed to have.\n\nThe Asteroid Belt began as logistics: refueling stations for Mars freight, mining rigs harvesting nickel and deuterium for corporate conglomerates headquartered in Zurich and Shanghai. But crises on Earth — debt collapses, data censorship, climate rationing — pushed those outposts to evolve or perish.\n\nWhen supply convoys stopped arriving, the miners of Ceres and Vesta turned inward. They repurposed their processing clusters into validator nodes, linking them by tight-beam laser to maintain their own local Bitcoin consensus. Without meaning to, they had founded the first extra-planetary economy that no central bank could touch.\n\nBy 2150 the Belt’s habitats had coalesced into what journalists back home called sovereign enclaves.\n\nTheir charter was simple:\n\nEnergy = money.\n\nVerification > permission.\n\nSpeech = property.\n\nEach settlement mined fusion fuel and hashed its accounting into the same open ledger — the Continuum Protocol.\nEvery gram of ore, every watt of fusion output, every public statement carried a cryptographic signature. Contracts were executable code; justice was arithmetic.\n\nTo Earth’s ministries, this was anarchy. \n\nTo the Belt, it was adulthood.\n\nFreedom without surveillance, responsibility without hierarchy.\n\nThey built small, sturdy worlds: cylinders spinning in slow rotation, walls lined with ice for shielding, interiors bright with hydroponic terraces and cathedrals of computation. The hum of reactors was their hymn.\n\nThey still traded with Earth — exporting refined isotopes in exchange for art, genetics, and music — but never surrendered control of settlement ledgers. “We deal in proof,” their ambassadors said, “not promises.”\n\nAnd as Earth’s politicians argued about “re-regulating” the exocolonies, every attempt to impose oversight failed. The Belt had learned the ultimate defense: to make coercion computationally impossible.\n\n---\n\n## Acknowledgement\n\nThis article was drafted with the help of Dr. C — GPT-5, which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology.\n\nI dedicate this work to the Holy Spirit, who continues to inspire me and open my imagination. If there is any light in these words, it comes not from me but from the Spirit who gives them. To Him be the glory.\n\n## Zaps Appreciated\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers. Thank you.\n\nLightning address: andrewgstanton@primal.net\n\n## Copyright\n\n© 2025 Continuum — All rights reserved.",
+  "sig": "14fe886e4b0ce95b74167242544a09f3e0825b4b9a42235bd65579b6f36629a490e90a06771a30724f881334dadd1cf0d9948c14a980834dab034b89f04557f1",
+  "_source": [
+    "wss://nos.lol",
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.damus.io"
+  ]
+}

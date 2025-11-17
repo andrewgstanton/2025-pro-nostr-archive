@@ -1,0 +1,66 @@
+{
+  "id": "681eb4bcbffe47ac491ac2087539495fe2e194d084250a1fe9048a24e5e65cb6",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1755902158,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "the-bitcoin-chronicles---table-of-contents"
+    ],
+    [
+      "title",
+      "The Bitcoin Chronicles: Toward The Stars - Table of Contents"
+    ],
+    [
+      "published_at",
+      "1755902158"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "I will be running  a 6 part series called The Bitcoin Chronicles -- imagining what it would mean for Bitcoin to become not just a global reserve currency but an interplanetary (and ultimately an intergalactic one). The question is not just whether Bitcoin will endure on Earth — but whether it can carry sovereignty with us when humanity steps beyond Earth.  That is where The Bitcoin Chronicles begin."
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "decentralization"
+    ],
+    [
+      "t",
+      "resilience"
+    ],
+    [
+      "t",
+      "future"
+    ],
+    [
+      "t",
+      "chronicles"
+    ],
+    [
+      "t",
+      "interplanetary"
+    ],
+    [
+      "e",
+      "a0642314803079a172481d1e20c09bfcacd5d014aacf4555f2e67b102b9a5f44",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - August 22, 2025\n\n## Part 1: Earthbound Origins\n\n- Bitcoin as the first neutral, sovereign money.\n- Why decentralization ≠ sovereignty, but sovereignty demands decentralization.\n- Earth as the “training ground” for resilience.\n\n## Part 2: Lunar Nodes\n\n- The Moon as Earth’s closest colony: ~1.3 second latency.\n- Lightning + local block explorers = workable circular economy.\n- How “first fruits” of sovereignty could be planted off-planet.\n\n## Part 3: Martian Bitcoin\n\n- Mars: 4–22 minutes delay → on-chain impractical for direct consensus.\n- Martian colonies must run semi-independent Bitcoin layers.\n- Sovereignty: Mars avoids becoming an Earth debt-colony by using Bitcoin.\n\n## Part 4: Asteroid Belt Economics\n\n- Mining asteroids = energy abundance (solar, nuclear, novel fuels).\n- Proof-of-Work literally scales with cosmic energy capture.\n- Colonies could “pay” each other with sats from asteroid resources.\n\n## Part 5: Interplanetary Consensus\n\n- No single “worldwide” mempool — instead, federations of local Bitcoin layers.\n- Lightning + delay-tolerant networking as the glue.\n- A future where humanity’s money works across planets because it’s grounded in physics, not politics.\n\n## Part 6: The Outer Edges\n\n- Beyond Mars: moons of Jupiter, Saturn, Oort Cloud, generation ships.\n- Even where latency breaks direct interaction, Bitcoin can remain the ledger of truth — time-stamped by thermodynamics, not Earthly decrees.",
+  "sig": "3a3afde2df3b42652d1ae840d9d7ac4dfc3e862dadc2a7fad0ee128598f078f074200411f4c98d36a340f0aad51e414665d8b705211e4d166a27a87889abf10b",
+  "_source": [
+    "primal backup"
+  ]
+}

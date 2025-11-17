@@ -1,0 +1,58 @@
+{
+  "content": "Andrew G. Stanton - June 6, 2025\n\nThis is my first test -- I'm writing a blog post (using primal long form post) on nostr once and using github actions to fetch and store article as a static page on github pages to be used in a website ([blog.stantonweb.com](https://blog.stantonweb.com)) and potentially other places.",
+  "created_at": 1763187113,
+  "id": "ad6a220afaec6ea1128657486dd175b37f29a3670920239b273d1bc24a5d8fb1",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "fa113997000d09f7d8e646d43babb2ecfb4e74687fea9dc8359e6a5ba02d09f4f62583574683c54d6c235457a992ad2addf1ad1cce88e41a732b0230984f31aa",
+  "tags": [
+    [
+      "d",
+      "first-test-article"
+    ],
+    [
+      "title",
+      "First Test Article"
+    ],
+    [
+      "published_at",
+      "1763187113"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "First Test Article"
+    ],
+    [
+      "display_date",
+      "2025-06-07"
+    ],
+    [
+      "image",
+      "https://blossom.primal.net/8215b8d9108993b7f7fe3f95b10d6c17205bf60ad696a961e28e67d5daec2414.png"
+    ],
+    [
+      "t",
+      "blog"
+    ],
+    [
+      "t",
+      "article"
+    ],
+    [
+      "e",
+      "873bc3f35046557749d8d2dcd298638f7dc7e618f3703681a76fc820d4054c16",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.damus.io"
+  ]
+}

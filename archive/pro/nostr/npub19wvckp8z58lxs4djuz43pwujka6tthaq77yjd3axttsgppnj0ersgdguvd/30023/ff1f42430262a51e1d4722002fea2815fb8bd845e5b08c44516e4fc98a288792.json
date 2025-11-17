@@ -1,0 +1,65 @@
+{
+  "id": "ff1f42430262a51e1d4722002fea2815fb8bd845e5b08c44516e4fc98a288792",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1755910487,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "bitcoin-the-only-asset-without-counterparty-risk"
+    ],
+    [
+      "title",
+      "Bitcoin: The Only Asset Without Counterparty Risk"
+    ],
+    [
+      "summary",
+      "Bitcoin is the only asset that eliminates counterparty risk when self-custodied. All other assets — cash, bonds, stocks, gold, art, real estate, altcoins — depend on issuers, custodians, or governments. Bitcoin’s only risks are sovereign: losing or leaking your keys."
+    ],
+    [
+      "published_at",
+      "1755910487"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "counterparty risk"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "self custody"
+    ],
+    [
+      "t",
+      "finance"
+    ],
+    [
+      "t",
+      "asset comparison"
+    ],
+    [
+      "t",
+      "decentralization"
+    ],
+    [
+      "t",
+      "volatility"
+    ]
+  ],
+  "content": "Andrew G. Stanton - August 22, 2025\n\nEvery financial asset carries risks. Some are obvious, others are hidden. The difference with Bitcoin is profound: when you self-custody it properly, it is the **only asset class in history with zero counterparty risk**.  \n\nThat doesn’t mean it’s risk-free — you can lose your keys, leak your phrase, or mis-send a transaction. But those are **sovereign risks** (your responsibility), not **systemic risks** (some other party defaulting or changing the rules).  \n\n---\n\n## Counterparty Risk in Other Assets  \n\n**Cash**  \n- Looks like a bearer asset, but its issuer (the state) constantly devalues it through inflation.  \n- Governments can demonetize notes overnight (India 2016).  \n- Stability is an illusion: you rely on the central bank’s ongoing promise.  \n\n**Bank Deposits**  \n- Technically loans to the bank. If the bank fails, you’re a creditor.  \n- Governments can freeze or seize deposits under capital controls.  \n\n**Bonds**  \n- Value depends entirely on the issuer repaying.  \n- Defaults, restructurings, or inflationary debasement all erode “safety.”  \n\n**Stocks**  \n- Held in “street name” through brokers and clearinghouses.  \n- Even if a company thrives, your ownership is mediated through layers of custodians.  \n\n**Gold**  \n- A physical bearer asset, but in practice stored in vaults or ETFs.  \n- Requires trust in assayers, custodians, and logistics.  \n\n**Fine Art**  \n- Value rests on provenance, expert verification, and market reputation.  \n- Fragile, hard to store, and dependent on galleries, insurers, and auction houses.  \n\n**Real Estate**  \n- Titles and property rights exist only through government registries.  \n- Property taxes, zoning laws, and eminent domain all make ownership conditional.  \n\n**Altcoins / Web3 Tokens**  \n- In theory, you can self-custody. In practice:  \n  - Low security budgets make chains vulnerable to attack.  \n  - Foundations and dev teams often hold upgrade keys.  \n  - Liquidity relies on centralized exchanges.  \n\n---\n\n## Bitcoin in Contrast  \n\n- **No issuer.** No one can dilute or demonetize it.  \n- **No custodian required.** If you hold your keys, you hold your coins.  \n- **No registry.** Ownership is defined by cryptographic proof, not by governments.  \n- **Global verification.** The network itself enforces the rules.  \n\nThe only risks are **sovereign risks**:  \n- Lose your keys → funds are gone.  \n- Leak your seed → funds can be stolen.  \n- Operational mistakes → mis-sent funds can’t be reversed.  \n\n---\n\n## Volatility Risk  \n\nEvery asset has volatility risk:  \n\n- **Cash / deposits:** “stable” day to day, but guaranteed erosion through inflation.  \n- **Bonds:** volatile with interest rate shifts and credit events.  \n- **Stocks:** high volatility, companies can collapse to zero.  \n- **Gold:** cyclical, often underperforms for decades.  \n- **Art / real estate:** look stable, but valuations can collapse in crises.  \n- **Altcoins:** extreme volatility, most never recover after crashes.  \n- **Bitcoin:** high short-term volatility, but decreasing over time as liquidity deepens.  \n\n**Difference:** Bitcoin’s volatility is the *price of sovereignty*. It is not managed by central banks or foundations. You accept short-term swings in exchange for long-term certainty: 21 million coins, fixed forever.  \n\n---\n\n## Comparison at a Glance  \n\n| Asset        | Counterparty Risks | Personal Risks | Volatility |\n|--------------|-------------------|----------------|------------|\n| **Cash**     | Inflation, demonetization | Theft, loss | Low short-term, guaranteed long-term erosion |\n| **Deposits** | Bank insolvency, freezes, bail-ins | Minimal (bank handles custody) | Stable until default/freeze |\n| **Bonds**    | Issuer default, inflation, political changes | Custodian dependence | Moderate (rates/credit) |\n| **Stocks**   | Corporate governance, broker/custodian chain | Custodian dependence | High |\n| **Gold**     | Custodian, assayer, ETF claims | Theft, storage risk | Moderate, long cycles |\n| **Art**      | Authentication, market reputation | Theft, damage | Illiquid, cyclical |\n| **Real Estate** | Taxes, zoning, eminent domain, registries | Upkeep, disasters | Low until crisis, then sharp |\n| **Altcoins** | Weak networks, dev teams, exchanges | Key loss/theft | Extreme, many never recover |\n| **Bitcoin**  | **None** (self-custody) | Key loss/theft, opsec mistakes | High short-term, trending lower |\n\n---\n\n## Conclusion  \n\nBitcoin is not risk-free — but it is **risk of a different kind**.  \n\nWith every other asset, you can do everything right and still lose because a counterparty defaults, a government changes the rules, or a custodian fails. With Bitcoin, the network will not fail you. The only failure possible is your own stewardship.  \n\nFor the first time in history, wealth exists without counterparty risk. Not a promise, not a claim, not a liability — just math, physics, and your keys.  \n\n---\n\n## Acknowledgement\n\nThis article was drafted with the help of Dr. C - ChatGPT (GPT-5), which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology\n\n---\n\n## Zaps Appreciated\n\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers, just direct proof that this work matters. It helps me keep building Continuum and writing about sovereign technology, freely and without VC overhead. Thank you.\n\nYou can send zaps to my lightning address here : andrewgstanton​​@primal.net",
+  "sig": "93fd00953d9a5901c17c0a156cec3db676a7f8c68015229b5575d961ead7a52868e8290da5a859c74bc802b28e91896e62e72e066e976fb245963a92cc350126",
+  "_source": [
+    "primal backup"
+  ]
+}

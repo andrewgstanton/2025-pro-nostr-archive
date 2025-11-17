@@ -1,0 +1,75 @@
+{
+  "id": "e10116d160edf516eea06d672d769c74e7c19a59d4d8dcb264d3b46d05d716bf",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1761695035,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "free-article-1-oct-28-2025-the-quiet-proof-of-work"
+    ],
+    [
+      "title",
+      "Free Article 1 (Oct. 28, 2025): The Quiet Proof of Work"
+    ],
+    [
+      "published_at",
+      "1761695035"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "Authorship isn’t proved by applause, credentials, or publication — it’s proved by the persistence of a voice that refuses to disappear. True proof of work is the quiet act of continuing, day after day, when nobody is watching."
+    ],
+    [
+      "display_date",
+      "2025-10-28"
+    ],
+    [
+      "t",
+      "authorship"
+    ],
+    [
+      "t",
+      "proofofwork"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "writinglife"
+    ],
+    [
+      "t",
+      "persistence"
+    ],
+    [
+      "t",
+      "free"
+    ],
+    [
+      "e",
+      "9cc3e63c151484c518106f73544da54f0c10f9b60749d96e364429746699ee5d",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Oct. 28, 2025\n\nThere’s a kind of silence that tests the soul more than rejection ever could.\nIt’s the sound of a thousand submissions vanishing into inboxes, unread or unacknowledged. It’s the pause after you’ve sent your work into the world — a pause that becomes a week, then a month, then three.\n\nMost people don’t survive that silence. They reinterpret it as proof that what they made doesn’t matter. But the sovereign builder — the one working not for permission but for truth — learns to read silence differently. He hears in it not absence, but refinement. The silence is the crucible where the voice is tempered.\n\nWhen I look back at the last few months — dozens of essays sent, zero replies — I realize that the proof I need isn’t in their inboxes. It’s right here: in the fact that I’ve kept going. That’s proof of work. Not the buzzword version that miners quote on Twitter, but the spiritual version: the invisible endurance of creation itself.\n\nEvery day, there’s a moment when I could stop. When I could say: “It doesn’t matter. Nobody cares.” And yet the act of writing — again, still, anyway — is its own kind of mining. Each sentence is a hash, each paragraph a block, each finished piece another addition to the chain of self-sovereign truth.\n\nNo editor can validate that. No algorithm can measure it.\nBut when you keep showing up — when your words keep stacking, like unbroken blocks of thought — you begin to see what the fiat world cannot: that proof of work is proof of life.\n\nIt’s easy to build when others are watching.\nIt’s sacred to build when no one is.\n\nThe miner doesn’t wait for applause when the block is found; the writer shouldn’t either. Both trust in something deeper — that their unseen labor contributes to a ledger that can’t be faked. A ledger of honesty, perseverance, and truth.\n\nWhen the world looks away, keep hashing. Keep writing. Keep verifying yourself, silently. Because in the end, the quiet proof is the one that counts.\n\n---\n\n## Acknowledgement\n\nThis article was drafted with the help of Dr. C — GPT-5, which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology.\n\nI dedicate this work to the Holy Spirit, who continues to inspire me and open my imagination. If there is any light in these words, it comes not from me but from the Spirit who gives them. To Him be the glory.\n\n## Zaps Appreciated\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers. Thank you.\n\nLightning address: andrewgstanton@primal.net\n\n## Copyright\n\n© 2025 Continuum — All rights reserved.",
+  "sig": "70141d9890712a6606ddab2841815590395f647333a6a48851237b61283e777a51ac54dd9a027de67c6718a19ec0080e2b52136609066be09b6adea65bcbecfc",
+  "_source": [
+    "wss://nos.lol",
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.damus.io"
+  ]
+}

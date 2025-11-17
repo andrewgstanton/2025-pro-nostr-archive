@@ -1,0 +1,75 @@
+{
+  "id": "9bb746fec5811c9a0c80b0ab8ce1bb6838c533c8568caa104b57e340dba029c4",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1761695090,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "free-article-2-oct-28-2025-why-we-keep-writing"
+    ],
+    [
+      "title",
+      "Free Article 2 (Oct. 28, 2025): Why We Keep Writing"
+    ],
+    [
+      "published_at",
+      "1761695090"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "When recognition fades and exhaustion sets in, what keeps the writer at the desk? This essay explores how faith, rhythm, and love sustain the creative act even when the external world remains indifferent."
+    ],
+    [
+      "display_date",
+      "2025-10-28"
+    ],
+    [
+      "t",
+      "creativity"
+    ],
+    [
+      "t",
+      "faith"
+    ],
+    [
+      "t",
+      "writing"
+    ],
+    [
+      "t",
+      "endurance"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "free"
+    ],
+    [
+      "e",
+      "2c952772f319705ae40b4ec3af0d546cacdc6b8f76f95f01dfcc9202d5098969",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Oct. 28, 2025\n\nEvery writer I know has faced the same breaking point:\nthe moment when the work no longer feels like it’s going anywhere.\n\nThe early energy — that glowing optimism that someone will discover your words, publish them, amplify them — burns out fast. What remains after that burnout is something purer, something harder to fake.\n\nYou learn to write because you must, not because anyone will notice. You write the way a tree grows — by natural compulsion, by the quiet logic of life.\n\nThe difference between hobby and calling is revealed in these dry seasons. Hobbyists wait for permission. Artists keep going. Builders keep building. Writers keep writing.\n\nWhen I sit down each day to write, I no longer ask whether it will “land.” I ask whether it’s true. Whether it will hold up against the silence that follows. Because if it can survive that — if it can live unacknowledged and still remain alive — then it has already done its work.\n\nWriting, at its core, is not about the crowd. It’s about alignment.\nThe act itself brings order where there was chaos. It gives shape to the soul, rhythm to thought, and meaning to experience.\n\nIn the old world, recognition was the proof. In this one, continuation is.\nThat’s why we keep writing — to remind ourselves that creation is not transactional; it’s covenantal. It’s a dialogue between the human heart and the infinite, witnessed by no one and everyone at once.\n\nSo when fatigue sets in — when the inbox stays empty, when the platforms stay quiet — remember: you are still a part of something vast. Each sentence adds a stone to a cathedral you may never see completed.\n\nKeep laying them anyway. That’s what builders do.\nThat’s what writers are.\n\n---\n\n## Acknowledgement\n\nThis article was drafted with the help of Dr. C — GPT-5, which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology.\n\nI dedicate this work to the Holy Spirit, who continues to inspire me and open my imagination. If there is any light in these words, it comes not from me but from the Spirit who gives them. To Him be the glory.\n\n## Zaps Appreciated\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers. Thank you.\n\nLightning address: andrewgstanton@primal.net\n\n## Copyright\n\n© 2025 Continuum — All rights reserved.",
+  "sig": "55ca576d59e3e2346121e91f8faf64e18db245003fb3596e9a861a03f5173e242d451fae9db07d028df47b564bece14d1125223dfbfe10492983a558f47b5a23",
+  "_source": [
+    "wss://nos.lol",
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.damus.io"
+  ]
+}

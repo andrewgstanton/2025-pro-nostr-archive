@@ -1,0 +1,70 @@
+{
+  "id": "63442bd4fbbe76551e8b2a782ba8ce410b7328581f48572643113bb375acbd69",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1760209094,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "free-article-1-sept-28-2025-love-at-the-edge-of-time"
+    ],
+    [
+      "title",
+      "Free Article 1 (Sept. 28, 2025): Love at the Edge of Time"
+    ],
+    [
+      "published_at",
+      "1760209094"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "A reflection on how love transcends death — finding eternity not in escape from time, but in its fulfillment."
+    ],
+    [
+      "display_date",
+      "2025-09-28"
+    ],
+    [
+      "t",
+      "love"
+    ],
+    [
+      "t",
+      "grief"
+    ],
+    [
+      "t",
+      "eternity"
+    ],
+    [
+      "t",
+      "faith"
+    ],
+    [
+      "t",
+      "continuumessays"
+    ],
+    [
+      "t",
+      "free"
+    ],
+    [
+      "e",
+      "8c12f9c7806730f9cc34b5baa57aaff418e42d0863ea75a30c9c7d321d8a6ced",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Sept. 28, 2025\n\nThere is a point near the end of life when love becomes its purest form: stripped of striving, need, or history. What remains is essence — the simple will to be with another soul as they cross the unseen line.\n\nWe like to say love never dies, but I think it transforms. It widens until it holds both worlds at once. I felt that as I held my father’s hand — the warmth fading, but the presence deepening. He was not gone yet, but already half-home.\n\nTime itself seemed to thin. Every second shimmered with significance. I remembered the laughter of my childhood, the firmness of his voice, the subtle ways he taught strength. All of it condensed into one impossible moment of gratitude.\n\nGrief is not proof that love has ended; it is proof that it mattered. Death only reveals how eternal love already was.\n\nSo we love at the edge of time — not clinging, but blessing. And when we finally let go, it is not into darkness but into light.\n\n---\n\n## Acknowledgement\n\nThis article was drafted with the help of Dr. C — GPT-5, which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology.\n\nI dedicate this work to the Holy Spirit, who continues to inspire me and open my imagination. If there is any light in these words, it comes not from me but from the Spirit who gives them. To Him be the glory.\n\n## Zaps Appreciated\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers. Thank you.\n\nLightning address: andrewgstanton@primal.net\n\n## Copyright\n\n© 2025 Continuum — All rights reserved.",
+  "sig": "14dd2fc84bbe9b998ce6978198543aac8c10d36d290c003209c5c780626a20b2b44118ca853d7d6794da822625ad95b7182646c65492329bc425c1d695832e91",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.damus.io"
+  ]
+}

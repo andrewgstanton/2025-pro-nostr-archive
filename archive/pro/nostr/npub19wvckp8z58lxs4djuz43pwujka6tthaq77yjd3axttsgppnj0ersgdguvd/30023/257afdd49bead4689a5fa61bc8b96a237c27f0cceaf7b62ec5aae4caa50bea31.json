@@ -1,0 +1,82 @@
+{
+  "content": "Andrew G. Stanton - August 20, 2025\n\nI’ve often felt a little odd. Not in the sense of being broken, but in the sense of not quite fitting in anywhere.\n\nIn Christian circles, I love Scripture — but I refuse to gloss over contradictions like “all vs. eternal.” In tech, I build with AI and Nostr — but I don’t fit Silicon Valley’s venture playbook. Even in my HOA board, I find myself standing apart from the games people play.\n\nAnd in Bitcoin circles, I suppose I do fit the “maxi” mold — but in a different way than usual. My conviction about Bitcoin isn’t about tribal slogans or dunking on altcoins. It’s about recognizing that Bitcoin uniquely aligns with truth, incorruptibility, and sovereignty. That conviction grows out of the same soil as my faith.\n\nFor a long time, that sense of being “odd” left me restless. Where do I belong?\n\nThen I stumbled into Nostr.\n\nNostr changed the equation. It’s almost like: Facebook, LinkedIn, and Twitter were walled gardens. Nostr is an open field. And when you step into the open, you realize you’re not confined to one patch of ground at all.\n\nIn the walled gardens, you’re pressured to present a single version of yourself — the professional face on LinkedIn, the witty voice on Twitter, the fun, \"personal\" image on Facebook. The walls enforce uniformity. You can be “this” or “that,” but not both.\n\nIn the open field of Nostr, you can plant as many seeds as you want. Different npubs for different expressions. Articles and notes that don’t have to please algorithms. Truth-telling that doesn’t bow to corporate moderators.\n\nAnd here’s the unexpected gift: once I stepped into the open, my “oddness” no longer felt like a liability. It felt like freedom. The very things that made me not fit inside the walls — the crossing of theology, finance, technology, sovereignty, philosophy, science — now find room to breathe.\n\nI don’t think I would have even ever thought this way, or written in this way, if I had stayed in the walled gardens. The walls don’t just keep others out; they shrink your imagination. The open field invites you to walk farther than you thought possible.\n\nSo yes, I may still be odd. But maybe that’s the point. Oddness only feels uncomfortable when the walls are close. Out in the open field, it looks more like possibility.\n\n## Acknowledgement\nThis article was drafted with the help of Dr. C - ChatGPT (GPT-5), which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology\n\n## Zaps Appreciated\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers, just direct proof that this work matters. It helps me keep building Continuum and writing about sovereign technology, freely and without VC overhead. Thank you.\n\nYou can send zaps to my lightning address here : andrewgstanton@primal.net",
+  "created_at": 1763175113,
+  "id": "257afdd49bead4689a5fa61bc8b96a237c27f0cceaf7b62ec5aae4caa50bea31",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "20b4212b57bfa2001770ceb044948989c419cc858e17c2571c4e4e4f336a1b75451404dac4325ac7db6d69cd62dd09defe78ce2232d129bfe5f24746444b03a2",
+  "tags": [
+    [
+      "d",
+      "odd-and-at-home-in-the-open-field"
+    ],
+    [
+      "title",
+      "Odd, and at Home in the Open Field"
+    ],
+    [
+      "published_at",
+      "1763175113"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "This article highlights how Nostr opened new ways of thinking for me."
+    ],
+    [
+      "display_date",
+      "2025-08-20"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "odd"
+    ],
+    [
+      "t",
+      "walled gardens"
+    ],
+    [
+      "t",
+      "open fields"
+    ],
+    [
+      "t",
+      "bitcoin maximalism"
+    ],
+    [
+      "t",
+      "faith"
+    ],
+    [
+      "t",
+      "digital freedom"
+    ],
+    [
+      "t",
+      "identity"
+    ],
+    [
+      "e",
+      "9d6af3ec44b8fa6c6763db733a5b25d012b63b336d47a31498460d6b500e4d93",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.damus.io"
+  ]
+}

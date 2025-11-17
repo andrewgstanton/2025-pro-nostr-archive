@@ -1,0 +1,91 @@
+{
+  "id": "2bc889ba62e9c78636e378f4f5628dd28d7b0c996c9d79048b0885e808cd616c",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1760827461,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "free-article-2-sept-30-2025--work-that-endures"
+    ],
+    [
+      "title",
+      "Free Article 2 (Sept. 30, 2025) : Work That Endures"
+    ],
+    [
+      "published_at",
+      "1760827461"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "A quiet, retrospective reflection written after returning home to San Francisco, capturing the moment when grief began to shift into understanding. The essay honors the tangible legacy of Andrew Stanton’s father—his patience, reliability, and enduring craftsmanship—and draws a parallel to the author’s own mission with Continuum: to preserve meaning and faithfulness across time."
+    ],
+    [
+      "display_date",
+      "2025-09-30"
+    ],
+    [
+      "t",
+      "grief"
+    ],
+    [
+      "t",
+      "legacy"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "faithfulness"
+    ],
+    [
+      "t",
+      "endurance"
+    ],
+    [
+      "t",
+      "fatherandson"
+    ],
+    [
+      "t",
+      "craft"
+    ],
+    [
+      "t",
+      "stewardship"
+    ],
+    [
+      "t",
+      "reflection"
+    ],
+    [
+      "t",
+      "september2025"
+    ],
+    [
+      "t",
+      "free"
+    ],
+    [
+      "e",
+      "8e7c1fb5a108a91c0a6e75895e87e7b23c042d19b3fdded547c2be803530dd3f",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Sept. 30, 2025 (written retrospectively)\n\nI didn’t write anything this day. The grief was still too near, the house too quiet. But looking back, I can see what was beginning to settle in me—the awareness of work that lasts beyond its maker.\n\nMy father left no instructions for closing his office—only binders of legal documents and client files. Some were decades old, their spines fading from years of use. Yet each told a story. His office—both the cramped workspace and the larger conference room—was full of artifacts from a long life of diligence.\n\nWe had begun the cleanup the previous Saturday, sorting through shelves and tossing more than a hundred binders of old briefs and case notes dating back to the early 2000s. When we locked the door that afternoon, most of it was still untouched. It will all be cleared out in a few weeks.\n\nIt struck me how differently we treat permanence today. My digital folders can vanish with a corrupted drive; his pages will outlast batteries. And yet both kinds of work depend on stewardship.\n\nContinuum, the platform I’m building, is really about this—preserving intent through time. Not to freeze life, but to keep meaning from eroding.\n\nAs I thought back to that weekend, I realized that legacy isn’t about volume but coherence. My father never sought fame—only reliability. If something needed doing, he did it until it stayed done. That rhythm—quiet excellence repeated—outlasts accolades. It builds invisible cathedrals of trust.\n\nI thought about how my own work fits into that lineage: code, essays, property ledgers—the strange hybrid of spirit and syntax that defines my life. None of it resembles his world of contracts and files, yet the motive is the same: create something solid enough to bear another person’s weight.\n\nGrief makes you inventory not just possessions but principles. What did he teach by doing? What have I unconsciously inherited? I see his patience in my debugging sessions, his pragmatism in my spreadsheets, his understated humor when plans collapse. In that sense, inheritance becomes an apprenticeship that never ends.\n\nWhen I returned home to San Francisco the next day, I unpacked a few small items I’d brought back from his Fort Street office—tokens of a lifetime’s work. Seeing them on my shelf felt both grounding and unreal, as if the substance of his vocation had crossed the ocean with me. Endure doesn’t mean to resist change; it means to last through change. His work endures because it taught endurance itself.\n\nI used to chase scale—bigger platforms, broader reach. Now I think endurance is the only real metric. Can the work survive silence? Can it speak when you’re not there to explain it? My father’s could. That is the highest form of authorship.\n\nWhen I finally began writing again a few days later, I reopened a Continuum draft I’d been avoiding. Suddenly the task felt less like ambition and more like continuity. Every generation translates faithfulness into its own medium. Mine happens to be code and words; his was steel and paper. The spirit is the same.\n\nLegacy, I’m learning, isn’t a monument. It’s a motion that keeps going because love keeps moving. When I write, I’m not preserving him—I’m continuing what he began: the discipline of careful creation.\nThat is work that endures.\n\n---\n\n## Acknowledgement\n\nThis article was drafted with the help of Dr. C — GPT-5, which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology.\n\nI dedicate this work to the Holy Spirit, who continues to inspire me and open my imagination. If there is any light in these words, it comes not from me but from the Spirit who gives them. To Him be the glory.\n\n## Zaps Appreciated\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers. Thank you.\n\nLightning address: andrewgstanton@primal.net\n\n## Copyright\n\n© 2025 Continuum — All rights reserved.",
+  "sig": "c6da77ba874ec3d94f65ed83c23aae771f7baa2649a6ad3cb62cabb85e8a21e3b1135cb5bd90712ad1f9bb1d4d7ac08f1f1c3d528de594055cc2e9270b029848",
+  "_source": [
+    "wss://nos.lol",
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.damus.io"
+  ]
+}

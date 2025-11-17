@@ -1,0 +1,61 @@
+{
+  "id": "7156f60c6233998aee2bdbd1f8f4dfb3fc46a95aa8f434f1c4063d3a84191c90",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1755807927,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "how-nip-05-verification-works-and-why-it-matters"
+    ],
+    [
+      "title",
+      "How NIP-05 Verification Works (and Why It Matters)"
+    ],
+    [
+      "summary",
+      "NIP-05 connects your `npub` to a human‑readable identifier and proves it with a JSON file on your domain. It makes you verifiable, recognizable, and sovereign in how your identity is presented on Nostr. My goal is to help newcomers set this up smoothly, so they can start with trust and clarity."
+    ],
+    [
+      "published_at",
+      "1755807927"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "nip-05"
+    ],
+    [
+      "t",
+      "verification"
+    ],
+    [
+      "t",
+      "identity"
+    ],
+    [
+      "t",
+      "npub"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "digital freedom"
+    ]
+  ],
+  "content": "Nostr identities are built around public keys (`npub…`) and private keys (`nsec…`). This is secure and decentralized — but long strings of letters and numbers aren’t exactly easy to recognize or remember.\n\nThat’s where **NIP-05** comes in.\n\n---\n\n## What is NIP-05?\n\nNIP-05 is a standard that lets you connect your Nostr public key (`npub`) to a **human‑readable identifier** that looks like an email address, say like *andrewgstnaton@mycontinuum.xyz*\n\nUnder the hood, that identifier points to a simple JSON file hosted on your domain. The file says, in effect: *“This npub belongs to this name at this domain.”*\n\nClients (like Damus, Amethyst, Primal, Iris, etc.) can then show the verified name alongside your npub. When people see the little check mark, they know the identity is real.\n\n---\n\n## Why it Matters\n\n- **Trust** — A verified NIP-05 tells others you are who you say you are.  \n- **Recognition** — Instead of only being a long npub string, you’re also seen as `name@domain`.  \n- **Spam Protection** — Scammers can copy your avatar or display name, but they can’t fake your verified NIP-05 without access to your domain.  \n- **Sovereignty** — Because NIP-05 uses your own domain, you control the verification. You don’t rely on a platform to bless you with a checkmark.\n\n---\n\n## Why I’m Offering Help\n\nSetting up a NIP-05 is simple but a little technical — you need to upload the right JSON file to your domain, but what if you don't have one, or don't want to to register a domain just for getting verified.  My offer is just to **help newcomers get verified quickly**, (using my domain mycontinuum.xyz) so they can establish trust on Nostr and focus on learning the community rather than fussing with the setup.\n\nIt’s not about monetizing or locking you in. It’s about lowering the friction for people who want to start building credibility right away.\n\n---\n\n## In Short\n\nThink of NIP-05 like a bridge:  \n- Your npub is the key to your identity.  \n- Your NIP-05 is the signpost that points people to it.\n\nOnce you have it, you’ll find more people willing to engage and follow, because they know you’re verified and not a random impersonator.\n\n---\n\n## Acknowledgement\nThis article was drafted with the help of Dr. C - ChatGPT (GPT-5), which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology\n\n---\n\n## Zaps Appreciated\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers, just direct proof that this work matters. It helps me keep building Continuum and writing about sovereign technology, freely and without VC overhead. Thank you.\n\nYou can send zaps to my lightning address here : andrewgstanton​​@primal.net\n\n---",
+  "sig": "8327416898abdad97111b4bead9a0eeb22b382f7af371c6e4545f095a639967d4bb0649218fc65c3a23a3050fcbe16c1d3667b1dd0911ba67c586f0ad62f58ee",
+  "_source": [
+    "primal backup"
+  ]
+}

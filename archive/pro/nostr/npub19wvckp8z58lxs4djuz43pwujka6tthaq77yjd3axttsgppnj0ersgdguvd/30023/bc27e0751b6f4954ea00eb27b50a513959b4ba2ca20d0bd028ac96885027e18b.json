@@ -1,0 +1,58 @@
+{
+  "content": "Andrew G. Stanton - Aug. 10, 2025\n\n# Nostr: The Neutral Protocol With a Bitcoin Gravity Well\n\nWhen people hear “Nostr,” they often think “Bitcoin.” It’s true that many early adopters were Bitcoiners — but Nostr itself is **not** Bitcoin-only. It’s a neutral, open protocol for publishing signed events. It doesn’t care if you’re a Bitcoiner, an Ethereum maxi, a Web3 founder, or completely outside the crypto world.\n\nYour identity on Nostr is simply a public key (`npub`). No blockchain, no foundation, no corporate owner. Anyone can use it.\n\n## Why Nostr Is the Most Decentralized Option Available\n\n- You control your keys — and by extension, your identity and data.  \n- Relays are voluntary and distributed. No single server controls the network.  \n- There’s no “core company” that can change the rules or shut it down.  \n- No token to pump, no foundation to please.\n\nIf you want decentralization in practice, not just in name, Nostr delivers it today.\n\n## The Bitcoin Gravitational Pull\n\nBecause Nostr is an open protocol, it naturally rewards the use of open, trust-minimized money — and Bitcoin fits that role perfectly. Lightning Network payments (“zaps”) integrate seamlessly, enabling instant, borderless value exchange between participants.\n\nThis creates a **gravitational pull**:\n\n- Newcomers might join for social networking, Web3 promotion, or community building.  \n- Over time, they see how Bitcoin and Lightning work *natively* on the protocol.  \n- The incentives and architecture slowly shift their thinking toward Bitcoin’s principles — without anyone forcing it.\n\nIt’s not ideology that does this — it’s the reality of using a censorship-resistant, ownerless network where the best tool for money *happens* to be Bitcoin.\n\n## Why This Matters for Communities Claiming to Value Decentralization\n\nIf your group says it wants decentralization, Nostr is worth a serious look. It:\n\n- Works for any community, not just “Bitcoin people.”  \n- Avoids false equivalences between Web3 tokens and Bitcoin.  \n- Lets you build your space without corporate or token dependencies.\n\nYou can use it for anything: group discussions, publishing articles, sharing media, or running events. And you can do it without compromising on the decentralization you say you value.\n\n## This Isn’t Theory — It’s Running Today\n\nI’m already putting this into practice through a project called *Continuum* — a decentralized publishing and identity tool built on Nostr (https://mycontinuum.xyz).   I use it to post these articles directly to the protocol, and I plan to open-source it so anyone can use, modify, or host their own version. This isn’t an abstract vision — it’s deployed and working right now.\n\n## A Call to Engage, Not Ignore\n\nNostr is here, it works, and it’s free. It’s the most genuinely decentralized communication layer we’ve ever had — and it’s already being used to publish the very articles you’re reading now.\n\nIf decentralization is more than a talking point for you, stop waiting for a “perfect” structure to be downloaded from above. Start building it, together, on a protocol that’s open to all.",
+  "created_at": 1763243954,
+  "id": "bc27e0751b6f4954ea00eb27b50a513959b4ba2ca20d0bd028ac96885027e18b",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "5da20b6f2b91c50c46704c88b8fa0c98d89e3e0a7994bc4572fd477e2d1023ca7e82d93cc4450f9e0abda8a73fb1f15bd4765337c4abda19f47b033f6793a209",
+  "tags": [
+    [
+      "d",
+      "nostr-the-neutral-protocol-with-a-bitcoin-gravity-well"
+    ],
+    [
+      "title",
+      "Nostr: The Neutral Protocol With a Bitcoin Gravity Well"
+    ],
+    [
+      "published_at",
+      "1763243954"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "Nostr ia a truly decentralized open protocol for publishing signed events."
+    ],
+    [
+      "display_date",
+      "2025-08-10"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "decentralization"
+    ],
+    [
+      "e",
+      "4d07660b4ae817711c767922a588a933231ba8ee13cd67950e8846cadc3ac8ad",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.damus.io"
+  ]
+}

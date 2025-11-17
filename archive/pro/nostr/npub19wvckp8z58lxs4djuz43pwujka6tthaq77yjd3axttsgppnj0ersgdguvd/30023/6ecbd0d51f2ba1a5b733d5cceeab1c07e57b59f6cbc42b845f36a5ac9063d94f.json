@@ -1,0 +1,78 @@
+{
+  "id": "6ecbd0d51f2ba1a5b733d5cceeab1c07e57b59f6cbc42b845f36a5ac9063d94f",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1760208571,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "the-meaning-of-eternal-aionios"
+    ],
+    [
+      "title",
+      "Part 3: The Meaning of “Eternal” (Aionios)"
+    ],
+    [
+      "published_at",
+      "1760208571"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "Part 3 of the Victorious Gospel series examines the Greek word aionios, usually translated “eternal.” While sometimes pointing to God’s endless life, it often means “age-long.” This opens the way to see judgment as real but temporary, serving God’s larger purpose of universal reconciliation."
+    ],
+    [
+      "display_date",
+      "2025-08-22"
+    ],
+    [
+      "t",
+      "victorious gospel"
+    ],
+    [
+      "t",
+      "all vs eternal"
+    ],
+    [
+      "t",
+      "aionios"
+    ],
+    [
+      "t",
+      "universal reconciliation"
+    ],
+    [
+      "t",
+      "judgment"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "paradox"
+    ],
+    [
+      "t",
+      "bible study"
+    ],
+    [
+      "e",
+      "a41f8f93c3809d6d0f6ed1968302bd11f51d85ae939e77e7c06425ec093f35fa",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - August 22, 2025\n\nIn the first two articles of this series, we named the contradiction: Scripture proclaims that God will save all, yet also warns of “eternal” judgment. If “all” means everyone without exception, and if “eternal” always means endless duration, then both cannot stand together. Something must give.\n\nWe saw that “all” in Paul’s letters retains its plain sense — every person. To shrink “all” into “some” does violence to the text. That leaves the other side of the tension: the word “eternal.”\n\n## Aionios: Rooted in “Age”\n\nThe Greek word aionios is usually translated “eternal” in English. But it is rooted in aion, meaning “age.” From that root, aionios can mean “of the age,” “age-long,” or “pertaining to an age.” Context determines whether the emphasis is on duration (long-lasting) or quality (belonging to an age).\n\nModern readers instinctively hear “eternal” as “endless time.” But that loads the word with a precision the Greek doesn’t always require.\n\n## Examples of Finite Usage\n\nSeveral passages make this plain:\n\n- Romans 16:25 – Paul speaks of the mystery “kept secret for long ages (chronois aioniois) but now revealed.” Clearly this was not hidden forever — it was hidden until Christ.\n\n- 2 Timothy 1:9 – God’s grace was “given us in Christ Jesus before eternal times (chronon aionion).” Again, “before forever” is nonsense. It refers to times before this present age.\n\n- Hebrews 9:26 – Christ appeared “at the culmination of the ages (aionon).” An age by definition has a beginning and an end.\n\nThese examples show that aion and aionios can describe something enduring, but bounded within an age.\n\n## Judgment as Age-Long\n\nWhen Jesus warns of “eternal fire” (Matt 25:41) or Paul writes of “eternal destruction” (2 Thess 1:9), the Greek phrases are kolasis aionios and olethron aionion. Both can be translated just as faithfully as “age-long punishment” or “punishment of the age.”\n\nThis doesn’t trivialize judgment. The fire and destruction are real, painful, and sobering. But they belong to an age, not to infinity. Judgment serves a role within God’s plan, not a rival destiny that runs alongside His kingdom forever.\n\n## Eternal When Applied to God\n\nIt is also true that aionios sometimes does mean everlasting. Romans 16:26 speaks of “the eternal God” (tou aioniou theou). John 17:3 defines “eternal life” as knowing God — a life that indeed has no end.\n\nThe difference is context. When aionios modifies God or divine life, endlessness fits. When it modifies fire, destruction, or judgment, the word admits a range of meaning.\n\n## Why It Matters\n\nThe contradiction stands only if we insist that aionios always means endless duration. If instead it often means “age-long,” then both sides of Scripture’s testimony can stand: God will save all, and God will judge with fire. The judgment is real, but not final. It purifies rather than perpetuates.\n\n## The Character of God\n\nThis reading aligns with God’s character throughout Scripture. In the Old Testament, judgment is fierce — exile, plague, fire — yet always restorative. Israel is punished, but then restored. Nations are disciplined, but also promised hope. Even wrath is never the last word.\n\nWould it make sense for this same God to establish a parallel universe of torment that never ends? Or is it more consistent that His judgments belong to ages, preparing creation for reconciliation?\n\n## Conclusion\n\nThe Greek aionios does not demand endlessness. It often refers to what belongs to an age — sometimes hidden, sometimes long, sometimes culminating — but not always infinite. Translating it as “eternal” in every case imports more than the text requires.\n\nIf “all” truly means all, and aionios can mean age-long, the contradiction dissolves. Judgment is real but not forever. Salvation is universal. God’s victory is total.\n\nIn the next part, we’ll explore how judgment itself functions — not as perpetual torment, but as a refining fire that leads to reconciliation.",
+  "sig": "58062979a132eb7b590374fd12f9c69ff992a614824bd38a0e831704989cba1b723dc5c47082003f497870052948430ecbabc229f1e6887c6638a007e0312003",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.damus.io"
+  ]
+}

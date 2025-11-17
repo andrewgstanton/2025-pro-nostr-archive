@@ -1,0 +1,70 @@
+{
+  "id": "a6937b1ae4e318c68f559279945eda5483f9933e634baef247f52ce73c69dbd1",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1755901761,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "the-bitcoin-chronicles--part-6-the-outer-edges"
+    ],
+    [
+      "title",
+      "The Bitcoin Chronicles: Toward The Stars — Part 6: The Outer Edges"
+    ],
+    [
+      "published_at",
+      "1755901761"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "Part 6 of the Bitcoin Chronicles envisions Bitcoin at the solar system’s edge and beyond, where latency spans years. Local chains diverge but keep the same rules, making Bitcoin a cosmic memory system — sovereignty carried into the stars."
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "cosmic money"
+    ],
+    [
+      "t",
+      "interstellar"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "decentralization"
+    ],
+    [
+      "t",
+      "future"
+    ],
+    [
+      "t",
+      "chronicles"
+    ],
+    [
+      "t",
+      "outer space"
+    ],
+    [
+      "e",
+      "cf891ab93e883341dcbc6709e8bf8dd9d8eebae378192d80f7ba2fa52011b4f3",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - August 22, 2025\n\nBeyond the Asteroid Belt, beyond Jupiter’s moons, lies the true deep. Out here, latency is not minutes or hours but years. A message to Saturn, Uranus, or Neptune takes hours; to the Kuiper Belt, days; to the stars, decades.\n\nIn such distances, the dream of a single, synchronous chain dissolves. Yet the essence of Bitcoin endures.\n\nCivilizations that set out into the dark will carry local forks of the chain — not forks of rules, but forks of timing. Each ship, each outpost, each world runs Bitcoin by the same laws: 21 million, proof-of-work, immutability. They will diverge in blocks but converge in truth.\n\nPicture a generation ship sailing toward Proxima Centauri. Its people mine, trade, and settle in sats, trusting the rules they carry. They know their chain is not in sync with Earth’s — but it doesn’t matter. Because when they arrive, they will bring their ledger of sovereignty, and reconciliation will mean anchoring, not abandoning.\n\nBitcoin becomes more than money. It becomes a civilizational memory system — a way for scattered human colonies, across ages and worlds, to stay bound not by empire, not by fiat, but by physics and time.\n\nOut here, the Outer Edges, Bitcoin ceases to be “global money.” It becomes cosmic money. A language of value that carries with us wherever energy, life, and will to freedom endure.\n\nAnd perhaps, when two civilizations meet again after centuries apart, their first act will be to merge their chains — proof-of-work reconciling the centuries, the cosmos bowing to the same 21 million.\n\nThe Chronicles close here, but the story is only beginning.",
+  "sig": "b81ee1bd4d09c3d3b7dbce2bb478ef755615432aeb66fa084e488727d30186fc9c0e2823189636481d24c306ca4f450c0ebf94f7049267cd204290ed81b712e5",
+  "_source": [
+    "primal backup"
+  ]
+}

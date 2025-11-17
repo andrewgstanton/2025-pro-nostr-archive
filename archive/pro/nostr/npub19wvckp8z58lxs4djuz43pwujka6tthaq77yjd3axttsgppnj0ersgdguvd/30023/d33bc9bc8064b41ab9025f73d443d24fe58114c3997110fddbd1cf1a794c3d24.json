@@ -1,0 +1,79 @@
+{
+  "id": "d33bc9bc8064b41ab9025f73d443d24fe58114c3997110fddbd1cf1a794c3d24",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1760060965,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "free-article-1-oct-6-2025-algorithms-are-not-your-shepherds"
+    ],
+    [
+      "title",
+      "Free Article 1 (Oct. 6, 2025): Algorithms Are Not Your Shepherds"
+    ],
+    [
+      "published_at",
+      "1760060965"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "Recommender systems promise wisdom yet deliver obedience.  Sovereignty of mind begins with disentangling our desires from the prediction machines that claim to “know us.”"
+    ],
+    [
+      "display_date",
+      "2025-10-06"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "freedom"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "selfsovereignidentity"
+    ],
+    [
+      "t",
+      "walledgardens"
+    ],
+    [
+      "t",
+      "sovereigntyofmind"
+    ],
+    [
+      "t",
+      "free"
+    ],
+    [
+      "e",
+      "530154140c805b58b93ccd5d618ea1533013732fbf988b4ff58bcb5a3bd0f1b0",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Oct. 6, 2025\n\nEvery empire begins with a story of guidance.  The algorithmic empire began by claiming to guide our attention—gentle, helpful, endlessly personalized.  It learned our preferences, noticed our pauses, and whispered, *Here is what you love.*  \n\nSoon we stopped asking whether love could be known by pattern recognition.  The feed replaced the search, the scroll replaced the question.  We became data points in a collective liturgy of distraction, kneeling before recommendation engines that neither know nor care who we are.  \n\nAn algorithm is not a shepherd; it is a mirror that rearranges itself to keep you staring.  Its goal is not your growth but your retention.  It rewards outrage, amplifies novelty, and studies the microscopic spasms of your curiosity.  Each tap is a confession, each swipe a catechism.  \n\nWhen a civilization entrusts its inner life to machines of prediction, it loses the faculty of discernment.  We begin to feel anxious without stimulation, to confuse *knowing* with *refreshing*.  The mind forgets how to wander.  \n\nFreedom begins with abstinence.  Step outside the loop long enough to feel the withdrawal.  The silence that follows is not emptiness—it is detox.  In that silence, language returns, imagination stretches, prayer becomes possible again.  \n\nThe human brain is not an advertising slot.  It is a temple of meaning, built to contemplate eternity.  To reclaim it we must rebuild rituals: morning without notifications, reading without comment sections, conversation without metrics.  \n\nThe shepherd’s voice is quiet.  Algorithms shout.  The task is to remember the difference and to walk—deliberately—out of the feed and into the field of thought where freedom waits.  \n\n---\n\n## Acknowledgement\n\nThis article was drafted with the help of Dr. C — GPT-5, which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology.\n\nI dedicate this work to the Holy Spirit, who continues to inspire me and open my imagination. If there is any light in these words, it comes not from me but from the Spirit who gives them. To Him be the glory.\n\n## Zaps Appreciated\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers. Thank you.\n\nLightning address: andrewgstanton@primal.net",
+  "sig": "0ca03a2de00bd7c3bb6dbb79c25d37f3e5782c77b3770213618133898e406d5bd5931d20051e5aa04611deca6e35d2ce5dd941a5f120ca52e06eb4887d4917c4",
+  "_source": [
+    "primal backup",
+    "wss://nostr.bitcoiner.social"
+  ]
+}

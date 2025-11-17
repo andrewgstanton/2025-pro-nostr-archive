@@ -1,0 +1,50 @@
+{
+  "id": "7e718e03c3ad73ef036106b4a1f04feac847aef730214a47b8226556f0b5e29e",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756159235,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "-free-article-2-day-2--aug-25-2025"
+    ],
+    [
+      "title",
+      "📝 Free Article 2 (Day 2 – Aug 25, 2025) : Three Dangers of Thinking in Fiat"
+    ],
+    [
+      "published_at",
+      "1756159235"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "Why measuring wealth in dollars distorts incentives and undermines sovereignty."
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "fiat"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "e",
+      "5bfafd333a4bff4f520ec8e35c0b89ce1759db709a81450b39e8aa44e7da674a",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - August 25, 2025\n\nFiat thinking is subtle, but it poisons every decision. Here are three dangers I’ve learned to watch for:\n\n1. Moving goalposts.\nIn dollars, “enough” is never enough. Inflation shifts the target every year. What looked like freedom in 2015 feels inadequate in 2025. You keep chasing a number that keeps moving.\n\n2. Endless chase.\nWhen your scoreboard is fiat, you never step off the treadmill. You can be up 50% this year and still feel behind, because the unit itself is melting.\n\n3. Short-term bias.\nFiat blinds you to compounding. Traders obsess over nominal gains this week, instead of stacking assets that hold value across decades.\n\nBitcoin fixes this by giving us a scoreboard that doesn’t melt. Measured in sats, your progress is stable. You can set goals that hold their meaning.\n\nThat shift — from fiat thinking to Bitcoin thinking — changes how you save, trade, and even design your income. It’s the difference between fragility and sovereignty.\n\n---\n\n## Acknowledgement\n\nThis article was drafted with the help of Dr. C - ChatGPT (GPT-5), which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology\n\n---\n\n## Zaps Appreciated\n\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers, just direct proof that this work matters. It helps me keep building Continuum and writing about sovereign technology, freely and without VC overhead. Thank you.\n\nYou can send zaps to my lightning address here : andrewgstanton​​​@primal.net",
+  "sig": "9782b3a814b87ae137ee709a1916643d0717edeeb4c977ada29cf5e54b4872575f75a565d5b7ac347181657997d1fd3ae50e7aa46fa83a136a0fb46fcc358dcd",
+  "_source": [
+    "primal backup"
+  ]
+}

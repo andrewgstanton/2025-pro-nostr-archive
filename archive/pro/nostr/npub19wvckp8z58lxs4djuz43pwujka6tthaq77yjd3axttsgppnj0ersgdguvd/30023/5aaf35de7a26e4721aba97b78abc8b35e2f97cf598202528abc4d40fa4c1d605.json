@@ -1,0 +1,53 @@
+{
+  "id": "5aaf35de7a26e4721aba97b78abc8b35e2f97cf598202528abc4d40fa4c1d605",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756414540,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "paid-article-teaser-day-5---aug-28-2025--mars-frontier-"
+    ],
+    [
+      "title",
+      "Paid Article Teaser (Day 5 - Aug. 28, 2025) : Mars Frontier 🚀🔴"
+    ],
+    [
+      "summary",
+      "Mars makes banks and credit cards obsolete — Bitcoin becomes the money of the Red Frontier."
+    ],
+    [
+      "published_at",
+      "1756414540"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "mars"
+    ],
+    [
+      "t",
+      "lightningnetwork"
+    ],
+    [
+      "t",
+      "spaceeconomy"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ]
+  ],
+  "content": "On Earth, banks and credit cards rule. On Mars, latency makes them useless. What emerges instead? A Bitcoin settlement, where sats fuel survival and growth on the Red Frontier.\n\n👉 Paid article: **Life on Mars: Building a Bitcoin Settlement on the Red Frontier**\n\n2 free articles today: \n\n- **Why Credit Cards Will Never Work on Mars**\n- **Mars Will Have Its Own Lightning Economy**\n\n🔒 **Full article available for 500 sats.** Zap me and I’ll send it via encrypted DM while I finish building the automated unlock flow in Continuum.",
+  "sig": "d32dd61cdd8be5a359d125e7e79a359104ff80102c40fe55b9ede2658e4f9a73b9cb106dae0596f6d224ca3cb878ef50c887695f22e0e9148fa6a99911c5ef6f",
+  "_source": [
+    "primal backup"
+  ]
+}

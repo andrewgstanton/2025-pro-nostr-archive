@@ -1,0 +1,53 @@
+{
+  "id": "bea9b041e56cf288084b2b2b502fe0c701ee681e5944e82f13d9626f948efe17",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756755614,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "-teaser-1-mars"
+    ],
+    [
+      "title",
+      "🚀 Teaser 1 (Mars)"
+    ],
+    [
+      "summary",
+      "Just as gold anchored frontier life in 19th-century California, Bitcoin will anchor humanity’s next frontiers—on the Moon, on Mars, and beyond."
+    ],
+    [
+      "published_at",
+      "1756755614"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "frontier"
+    ],
+    [
+      "t",
+      "mars"
+    ],
+    [
+      "t",
+      "hyperbitcoinization"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Sept. 1, 2025\n\nWhen humanity steps off Earth to build its first permanent colonies on the Moon or Mars, it won’t just be oxygen and water we need to survive. We’ll need money.\n\nOn the frontier, there is no room for fragility. In 19th-century California, miners and settlers relied on gold and silver because trust in institutions was scarce, but trust in physical scarcity was universal. Future Martian settlers will need the same kind of assurance—only this time, they’ll have Bitcoin.\n\nBitcoin carries that same promise, but digitally. Its scarcity is as absolute as the Martian night. Its rules don’t change depending on who is in office on Earth. For settlers staking their future in an unforgiving environment, that reliability is not optional—it’s survival.\n\n(Full article submitted to Bitcoin Magazine)",
+  "sig": "6f36befc71c0d7ad8e961e6d7b8db740739b83c429ba963074d139d78bf332b2da55b117dede93c15b67864b74357ebaead39369ad7b971d7e827bd5d1cf278a",
+  "_source": [
+    "primal backup"
+  ]
+}

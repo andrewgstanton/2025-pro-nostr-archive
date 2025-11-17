@@ -1,0 +1,86 @@
+{
+  "id": "1abde65146054ceac7ffafe61bb05c198e59972e7dfc40d6c7ae5a321bd0d7d0",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1760590168,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "a-note-on-faith-architecture-and-the-moral-weight-of-open-systems"
+    ],
+    [
+      "title",
+      "A note on faith, architecture, and the moral weight of open systems"
+    ],
+    [
+      "published_at",
+      "1760590168"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "A short author’s reflection on faith, architecture, and truth — clarifying that Continuum’s language of “cathedrals” and “builders of light” is not religious doctrine but a moral vision of integrity and openness rooted in the Victorious Gospel of Jesus Christ and accessible to all."
+    ],
+    [
+      "display_date",
+      "2025-10-15"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "faith"
+    ],
+    [
+      "t",
+      "victoriousgospel"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "truth"
+    ],
+    [
+      "t",
+      "openness"
+    ],
+    [
+      "t",
+      "integrity"
+    ],
+    [
+      "t",
+      "bitcoinchronicles"
+    ],
+    [
+      "t",
+      "architecture"
+    ],
+    [
+      "t",
+      "light"
+    ],
+    [
+      "e",
+      "5f22adbe80e7c7f7e6e68eff931daab461e6254b876635690ded69c89fa9d12c",
+      "edit"
+    ]
+  ],
+  "content": "### Author’s Note — On Meaning, Faith, and Building  \n\nWhen I write about cathedrals, light, and builders of freedom, I’m not describing a new religion.  \nI’m describing a way of thinking about truth.  \n\nArchitecture has always been one of humanity’s oldest metaphors for meaning.  \nEvery enduring structure — from a stone cathedral to a line of open-source code — is, in its own way, a statement of faith in continuity. Not necessarily faith in God, but faith in what is honest, transparent, and worth preserving.  \n\nBitcoin, Nostr, and Continuum aren’t sacred in themselves. They are **technologies of integrity** — systems designed so that truth doesn’t depend on permission or power. When I call them “cathedrals,” it’s because they embody that same human impulse: to build something that outlasts corruption.  \n\nThere is a spiritual resonance in that, yes. But it’s not about doctrine.  \nIt’s about responsibility — the quiet realization that what we build carries moral weight. Openness, verification, and proof are not religious ideas; they’re civic virtues that make trust possible in a digital world.  \n\nMy language draws on the imagery of faith and craftsmanship because both speak to devotion — to care, precision, and endurance. But this work isn’t about founding a creed. It’s about cultivating culture: the kind that treats transparency as sacred and truth as public property.  \n\nI come to this as a person of faith in the **Victorious Gospel of Jesus Christ** — a gospel of redemption, renewal, and freedom — yet I write for all who seek integrity, regardless of creed.  \n\nTo me, freedom is not rebellion; it’s stewardship. \n \nAnd the systems we build in light — the ledgers, relays, words, and works that hold their form when tested — are not temples. They are *evidence* that honesty can still scale.  \n\nThat’s all Continuum is meant to be: a framework for sovereign creation, a way to build without fear or secrecy, and a reminder that light — whether spiritual or literal — is always worth keeping on.  \n\n— *Andrew G. Stanton*  \nOctober 15, 2025",
+  "sig": "23625e9661776ebf06738204da24c525d07fce4b50415cafbf5a6826bddabf404d790be35e5215165bdb4d7d9c3249c0eb8837b05d80a1366ceb243291ad9c0f",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.damus.io"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "121daf06c6c80764a12958a0c23899a30cf5cf749d18c242d77b32e196c9ceb5",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756166130,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "sovereign--decentralized"
+    ],
+    [
+      "title",
+      "🔒 Paid Article Teaser (Day 1 – Aug. 24, 2025) : Sovereign ≠ Decentralized"
+    ],
+    [
+      "published_at",
+      "1756166130"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "Why sovereignty goes deeper than decentralization — and why confusing the two leaves us exposed."
+    ],
+    [
+      "t",
+      "#bitcoin"
+    ],
+    [
+      "t",
+      "#nostr"
+    ],
+    [
+      "t",
+      "#sovereignty"
+    ],
+    [
+      "t",
+      "#decentralization"
+    ],
+    [
+      "e",
+      "00547d107fbce6b74cb4d8daceef7cf9e65c78b917f43a33005b2aef5fbc3f72",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - August 24, 2025\n\nA lot of people equate sovereign with decentralized. They’re not the same.\n\n- **Decentralized** means the system isn’t controlled by a single party.\n- **Sovereign** means you aren’t controlled by the system.\n\nYou can be in a decentralized network and still lack sovereignty — if your keys, identity, or livelihood depend on someone else’s rules, you’re still captive.\n\nIn the full article, I break down:\n\n- Why decentralization alone isn’t enough to guarantee freedom\n- How “distributed fragility” (gig work, Web3 platforms, federated networks) mimics sovereignty but isn’t\n- The three irreducible marks of sovereignty: custody, identity, and exit\n\n----\n\n🔒 **Full article available for 500 sats**. Zap me and I’ll send it directly via encrypted DM while I finish building the automated unlock flow in Continuum.",
+  "sig": "cbfc6a64d9da50a3d068e8ac0bb2ffc533bd076f2b6a095f083d9497ab5e6e0d9d982fb050e4f6c0440b1b0c0d45c7142a33b85abf11a0a96dc8c4eedb086552",
+  "_source": [
+    "primal backup"
+  ]
+}

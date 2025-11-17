@@ -1,0 +1,61 @@
+{
+  "id": "f1ff6d0fc0879365fa5392d6be0edd961a8664473cdc688bdbc88d35f5a3c3cb",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756414709,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "free-article-1-day-5---aug-28-2025--why-credit-cards-will-never-work-on-mars"
+    ],
+    [
+      "title",
+      "Free Article 1 (Day 5 - Aug. 28, 2025) : Why Credit Cards Will Never Work on Mars"
+    ],
+    [
+      "summary",
+      "With 4–20 minute communication delays, traditional banking rails collapse on Mars, making Bitcoin the only viable money system for off-world trade."
+    ],
+    [
+      "published_at",
+      "1756414709"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "mars"
+    ],
+    [
+      "t",
+      "spaceeconomy"
+    ],
+    [
+      "t",
+      "lightningnetwork"
+    ],
+    [
+      "t",
+      "futuremoney"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "interplanetary"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Aug. 28, 2025\n\nPicture this: you’re in a Martian greenhouse buying a week’s worth of vegetables. You swipe your credit card. Instead of the familiar “approved” beep, the terminal just spins. Ten minutes pass. Twenty. By the time the bank on Earth receives your request, verifies your account, and sends a response back across the void, you’ve already eaten dinner.\n\nThat’s not science fiction—it’s simple physics. The speed of light delay between Earth and Mars is 4 to 20 minutes one way. For financial systems built on near-instant trust loops—credit cards, wire transfers, PayPal—the Martian settlement is an unsolvable problem.\n\n## The Fragile Web of Intermediaries\n\n\nModern payments rely on dozens of moving parts. A card swipe isn’t just you and the merchant—it’s the card network, the acquiring bank, the issuing bank, fraud detection systems, and settlement processors. Each step assumes real-time communication. Remove that, and the entire chain collapses.\n\nEven if a bank agreed to “pre-approve” Martian cards, latency introduces fraud risk. What if your account is drained before the approval arrives? Who arbitrates disputes when the settlement delay is an hour? On Earth, chargebacks and customer service teams patch over flaws. On Mars, there’s no call center to rely on.\n\n## Bitcoin as the Alternative\n\nBitcoin requires no middleman. A Martian colony can carry the blockchain with them. Transactions are verified locally, without needing a trusted bank thousands of kilometers away. Settlers can trade oxygen credits, greenhouse produce, or rover time directly, with cryptographic finality.\n\nFor faster payments, Lightning enables instant micro-transactions. A farmer can sell vegetables, a technician can rent equipment, and a crew can pool funds for an expedition—all in seconds. The system is resilient precisely because it doesn’t depend on Earth’s intermediaries.\n\n## Real-World Analogies\n\nThink of Antarctica’s research stations, submarines deep underwater, or remote villages cut off by storms. In those places, traditional banking rails fail. People fall back on local barter or digital cash. Mars is those scenarios, multiplied by millions.\n\nCredit cards thrive in dense, Earth-bound networks. But in the thin air of Mars, under the latency of interplanetary space, they are as useful as a paper check. Bitcoin, designed for sovereignty and trustless exchange, is the only system that makes sense.\n\nThe Martian settlement won’t have a Visa office. It will have Bitcoin wallets.\n\n---\n\n## Acknowledgement\n\nThis article was drafted with the help of Dr. C - ChatGPT (GPT-5), which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology\n\n---\n\n## Zaps Appreciated\n\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers, just direct proof that this work matters. It helps me keep building Continuum and writing about sovereign technology, freely and without VC overhead. Thank you.\n\nYou can send zaps to my lightning address here : andrewgstanton​​​@primal.net",
+  "sig": "968301f9cd5b929bf6f37c796e546fc315852ff50b7c9b8269463790e073fd985d19605527ead1016302e83c55b25f03a23b9cb7fb62bfdecd4d6bd48c3570bb",
+  "_source": [
+    "primal backup"
+  ]
+}

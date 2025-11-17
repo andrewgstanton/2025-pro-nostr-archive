@@ -1,0 +1,54 @@
+{
+  "id": "1eaf74b64f2739d2656032b622565314254cf8781f62bbcb65b3e7325abef508",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756159313,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "-free-article-1-day-2--aug-25-2025"
+    ],
+    [
+      "title",
+      "📝 Free Article 1 (Day 2 – Aug 25, 2025) :  My Sweep Rule in One Sentence"
+    ],
+    [
+      "published_at",
+      "1756159313"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "The simple discipline that turns fragile trading cashflow into a compounding Bitcoin treasury."
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "treasury"
+    ],
+    [
+      "t",
+      "trading"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "e",
+      "aa1bc9fced223fc85f801bedbba8f3fa24f689c851f5838311e9d2e32802d1b0",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - August 25, 2025\n\n**Every Friday, I sweep a fixed percentage of profits into BTC.** \n\nThis might sound mechanical — but that’s the point.\n\nThe habit protects me from the biggest trap in trading: emotional drift. If I only save when it “feels right,” I’ll justify skipping the hard weeks, or pulling back during chop, or even selling treasury in panic. That’s not sovereignty. That’s still dependence on mood and market.\n\nBy sweeping every week:\n\n- **Profits become permanent.** Each green week leaves a mark in Bitcoin.\n- **Losses don’t linger.** Even flat weeks still produce a token sweep, reinforcing discipline.\n\nTreasury compounds. The vault grows regardless of short-term noise.\n\nIt’s not just a financial habit; it’s a sovereignty habit. The sweep rule ensures my treasury builds like bedrock while trading remains a temporary engine.\n\n---\n\n## Acknowledgement\n\nThis article was drafted with the help of Dr. C - ChatGPT (GPT-5), which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology\n\n---\n\n## Zaps Appreciated\n\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers, just direct proof that this work matters. It helps me keep building Continuum and writing about sovereign technology, freely and without VC overhead. Thank you.\n\nYou can send zaps to my lightning address here : andrewgstanton​​​@primal.net",
+  "sig": "4a4d12290d976904a06009f5cffeaf3416bd19014ee8f60ea883a677587c6f898bc6341647fc82231165a2e952ca45b547f5371fa191149e74d27670ef20f216",
+  "_source": [
+    "primal backup"
+  ]
+}

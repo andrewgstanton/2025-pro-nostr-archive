@@ -1,0 +1,67 @@
+{
+  "id": "d1308dd9541d42d5d94d5999e8386e16f6334458890d8aed16c2b568c467af92",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1762755213,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "free-article-2-nov-8-2025-identity-as-proof-not-permission"
+    ],
+    [
+      "title",
+      "Free Article 2 (Nov. 8, 2025): Identity as Proof, Not Permission"
+    ],
+    [
+      "summary",
+      "We’ve built our systems backward: proving worth before trust. Decentralized identity reverses that — it makes truth portable and coercion obsolete."
+    ],
+    [
+      "published_at",
+      "1762755213"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "identity"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "freedom"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "free"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Nov. 8, 2025\n\nEvery modern ID card is a leash. It proves who we are only within the boundaries of the issuing authority. Cross a border, change a job, lose a password — and suddenly the proof evaporates. That’s not identity; that’s dependency.  \n\nSovereign identity begins with a different assumption: that personhood precedes paperwork. On Nostr, you are your keypair. No one can revoke it, confiscate it, or alter what it signs. It’s not a license granted by power — it’s a statement of being.  \n\nImagine if travel worked the same way. Instead of an airline “allowing” you to board, the system simply verified: *this signature corresponds to a real, traceable record of safe behavior*. The same event that logs your ticket could log your passage. No middlemen, no central scanners — just mutual proof.  \n\nThe old world builds fences. The new world builds verifiers. Fences require guards; verifiers require math. That’s why decentralized identity scales — not by hiring more people, but by removing the need for them.  \n\nCritics worry about loss of control. But control was never the same as safety. The safest systems are those least dependent on any single point of failure. When every person holds their own proof, corruption has nowhere to hide.  \n\nThe goal isn’t to abolish borders; it’s to abolish begging. To replace permission with proof. To let movement be a right again, not a privilege purchased by paperwork.  \n\nThat’s what sovereign systems ultimately promise — not chaos, but adulthood. A world where trust is earned once and honored everywhere. \n\n---\n\n## Acknowledgement\n\nThis article was drafted with the help of Dr. C — GPT-5, which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology.\n\nI dedicate this work to the Holy Spirit, who continues to inspire me and open my imagination. If there is any light in these words, it comes not from me but from the Spirit who gives them. To Him be the glory.\n\n## Zaps Appreciated\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers. Thank you.\n\nLightning address: andrewgstanton@primal.net\n\n## Copyright\n\n© 2025 Continuum — All rights reserved.",
+  "sig": "85fc636f8eaa49eb0898b79d6baa20fc7aa17bc74d9e6e5f699330a3d07c99b6cbb74653a833f1ab723d303da0f72bae2c8a81ba4f1953c765be8b50418c21be",
+  "_source": [
+    "wss://nos.lol",
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.damus.io"
+  ]
+}

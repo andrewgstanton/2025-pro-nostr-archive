@@ -1,0 +1,59 @@
+{
+  "id": "c3bbfcf4e5aabefe296e4b92ecc9c32b03a5b0e154f70c0c87789655729f6632",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1758136720,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "free-article-1-sept-16-2025-the-mirage-of-easy-fixes"
+    ],
+    [
+      "title",
+      "Free Article 1 (Sept. 16, 2025): The Mirage of Easy Fixes"
+    ],
+    [
+      "published_at",
+      "1758136720"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "A reflection on why quick fixes rarely lead to real sovereignty, using credit and finance as an example."
+    ],
+    [
+      "display_date",
+      "2025-09-16"
+    ],
+    [
+      "t",
+      "shortcuts"
+    ],
+    [
+      "t",
+      "finance"
+    ],
+    [
+      "t",
+      "illusion"
+    ],
+    [
+      "t",
+      "free"
+    ],
+    [
+      "e",
+      "63baabb872ea9e1af5808872b3d8262dbe1a6bc500bfb98482b1857f2c01a2b8",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Sept. 16, 2025\n\nThere is something intoxicating about an easy fix. Humans are wired to seek the shortest distance between problem and solution. When debt mounts, the quick fix is consolidation. When health falters, the quick fix is a pill. When relationships strain, the quick fix is distraction.\n\nBut in every sphere of life, shortcuts carry hidden costs. What looks like relief often turns into dependency. What feels like progress is often just delay.\n\nCredit is the perfect example. The promise of “balance transfer” cards is alluring: move $10,000 from a 22% APR card to one offering 0% for twelve months. On paper, the savings are dramatic. In reality, the cycle repeats — and usually worsens. The transfer fee (often 3–5%) immediately eats hundreds of dollars. The discipline required to pay down the balance before the promo expires is rarely there. And so, twelve months later, the debtor is not lighter but heavier.\n\nThe mirage of easy fixes works because we want to believe that the problem is external, not internal. If only the terms were different, if only someone would “restructure” the debt, then life would be smooth again. But the truth is, no structure can compensate for undisciplined habits. No program can override misaligned priorities.\n\nThis is not meant as condemnation, but as encouragement. The sovereign way is slower but more rewarding. There is no mirage in sacrifice. Paying down principal dollar by dollar, refusing new spending, learning to live on less — these are not glamorous. But they are real. And reality, not illusion, is the soil where freedom grows.\n\n---\n\n## Acknowledgement\n\nThis article was drafted with the help of Dr. C — GPT-5, which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology.\n\nI dedicate this work to the Holy Spirit, who continues to inspire me and open my imagination. If there is any light in these words, it comes not from me but from the Spirit who gives them. To Him be the glory.\n\n## Zaps Appreciated\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers. Thank you.\n\nLightning address: andrewgstanton@primal.net",
+  "sig": "f641cc178a3d0f6948edc0cec562d3b2fd440b75d60636a43919fdf39c5728738f6ada2601b5a929a98e9c10d9979671b1e2551c5dc4b08f81580f4190f57901",
+  "_source": [
+    "primal backup",
+    "wss://nostr.bitcoiner.social"
+  ]
+}

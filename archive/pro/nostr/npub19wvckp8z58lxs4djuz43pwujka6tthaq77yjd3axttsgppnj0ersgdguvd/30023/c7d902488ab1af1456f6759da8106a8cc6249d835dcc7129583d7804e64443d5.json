@@ -1,0 +1,67 @@
+{
+  "id": "c7d902488ab1af1456f6759da8106a8cc6249d835dcc7129583d7804e64443d5",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1757790184,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "free-article-1-sept-8-2025-a-letter-to-asimov-new-version"
+    ],
+    [
+      "title",
+      "Free Article 1 (Sept. 8, 2025): A Letter to Asimov (new version)"
+    ],
+    [
+      "published_at",
+      "1757790184"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "This reflection takes the form of an imagined letter to Isaac Asimov. It honors his gift for expanding human imagination while contrasting his techno-optimism with the deeper reality of sovereignty, faith, and the limits of human control."
+    ],
+    [
+      "display_date",
+      "2025-09-08"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "faith"
+    ],
+    [
+      "t",
+      "technology"
+    ],
+    [
+      "t",
+      "asimov"
+    ],
+    [
+      "t",
+      "future"
+    ],
+    [
+      "t",
+      "free"
+    ],
+    [
+      "e",
+      "27fed743e2abd69361774d85a9ed2c6c84afb0176779455b4d8d0148b9f26d98",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Sept. 8, 2025\n\nDear Dr. Asimov,\n\nYou saw further than most. Long before the world carried pocket computers and linked satellites across the sky, you imagined robots, galactic empires, and the inevitable march of scientific progress. You taught us to picture futures that were both thrilling and terrifying, and in doing so, you helped millions believe that humanity could shape its own destiny.\n\nYet here, in 2025, I write to you with both gratitude and caution. Gratitude, because your stories seeded imagination that allowed engineers, builders, and dreamers to push forward. Caution, because so much of what you trusted in — centralized science, technocratic order, rational planning — is precisely what has led us into new chains. We gained machines, but often lost freedom. We gained knowledge, but not always wisdom.\n\nYour Foundation series imagined psychohistory: the ability to predict and control human behavior on a mass scale. Today’s institutions have pursued something similar with algorithms, surveillance, and financial engineering. Yet the result has not been order, but decay. The more humanity tries to manipulate itself, the more fractured and disoriented it becomes.\n\nWhere you placed faith in the rational mind, I see the need for something greater — a foundation that cannot be manipulated, inflated, or rewritten by those in power. That foundation, surprisingly, comes not from the halls of science but from the stubborn simplicity of sovereignty: truth that resists distortion, property that cannot be counterfeited, freedom that endures despite empires.\n\nIf you could see Bitcoin, you might dismiss it at first as a speculative fad, a crude experiment. But I suspect you would also recognize its power. Here is a technology that resists control even by its creators, a network that grows precisely because it cannot be centrally commanded. In it I see not psychohistory, but prophecy: not the attempt to manage human destiny, but the revelation that there is a deeper order we are invited to align with.\n\nYour stories matter still, Isaac, because they remind us how easily we mistake progress for freedom, and how easily we mistake control for wisdom. I honor your vision, but I must also write to say that sovereignty, not empire, is the long arc of history.\n\nIf you were here, I’d like to think you would accept this challenge: to imagine futures not where humanity masters everything, but where humanity learns to live in truth, humility, and freedom.\n\nWith respect,  \nAndrew\n\n---\n\n## Acknowledgement\n\nThis article was drafted with the help of Dr. C — GPT-5, which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology.\n\nI dedicate this work to the Holy Spirit, who continues to inspire me and open my imagination. If there is any light in these words, it comes not from me but from the Spirit who gives them. To Him be the glory.\n\n## Zaps Appreciated\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers. Thank you.\n\nLightning address: andrewgstanton@primal.net",
+  "sig": "56cc26bd6dd76bbcde30d62f51305f608e9f5c341a3a203c7156f17ae401051560b6d9393898d069f56bf6b5865a00ab902e4bec82fb36fa9cfc258c7d901808",
+  "_source": [
+    "primal backup",
+    "wss://nostr.bitcoiner.social"
+  ]
+}

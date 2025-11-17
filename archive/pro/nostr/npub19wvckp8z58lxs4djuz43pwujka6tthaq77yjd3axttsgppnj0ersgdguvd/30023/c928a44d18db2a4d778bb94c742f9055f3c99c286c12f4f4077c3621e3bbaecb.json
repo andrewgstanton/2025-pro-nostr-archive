@@ -1,0 +1,57 @@
+{
+  "id": "c928a44d18db2a4d778bb94c742f9055f3c99c286c12f4f4077c3621e3bbaecb",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1757106491,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "paid-article-teaser-sept-5-2025-the-clock-that-doesnt-lie"
+    ],
+    [
+      "title",
+      "Paid Article Teaser (Sept. 5, 2025): The Clock That Doesn’t Lie"
+    ],
+    [
+      "summary",
+      "A poetic teaser contrasting fiat’s broken clocks with Bitcoin’s steady rhythm. Presents Bitcoin as the “clock that doesn’t lie,” restoring trust in time, scarcity, and dignity."
+    ],
+    [
+      "published_at",
+      "1757106491"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "time"
+    ],
+    [
+      "t",
+      "scarcity"
+    ],
+    [
+      "t",
+      "hope"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "future"
+    ]
+  ],
+  "content": "Every system has a clock. Fiat’s clock ticks faster with every new dollar printed, every bailout announced, every crisis deferred. Its rhythm distorts time, turning years of savings into months of survival.\n\nBitcoin’s clock is different. It ticks predictably, block by block, unbothered by politics or policy. It does not lie. It does not bend. It does not steal.\n\nFor the saver, this honesty changes everything. For the builder, it provides stability. For the family, it restores trust across generations.\n\nWe live in a world where most clocks are broken — speeding up when it serves power, slowing down when it hides theft. Bitcoin’s clock restores balance. It reminds us that time matters, scarcity matters, dignity matters.\n\nThe horizon beyond fiat is not chaos, but clarity. The clock that doesn’t lie is already here, and it is telling us the truth: time is valuable, and so are we.\n\n👉 Full Paid article: *Time, Scarcity, and Human Dignity: Bitcoin as the Architecture of Hope*\n\n- 👉 Free Article 1 : *When Patience Becomes Power*\n- 👉 Free Article 2 : *The Horizon Beyond Fiat*\n\n🔒 **Full paid article available for 500 sats.** Zap me and I’ll send it via encrypted DM while I finish building the automated unlock flow in Continuum.",
+  "sig": "c5ff5dbcc9d0efde977bf6a4db085943740c77fe414e8b5de6bc611dfa74bb69211f8d6d21d224f7463f6b6056eaf8272f29144009225f62d9d39279987bdb37",
+  "_source": [
+    "primal backup"
+  ]
+}

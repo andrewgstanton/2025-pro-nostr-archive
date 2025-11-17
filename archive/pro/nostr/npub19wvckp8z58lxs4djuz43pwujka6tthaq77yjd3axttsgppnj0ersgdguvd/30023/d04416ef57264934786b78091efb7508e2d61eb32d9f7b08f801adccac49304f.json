@@ -1,0 +1,78 @@
+{
+  "id": "d04416ef57264934786b78091efb7508e2d61eb32d9f7b08f801adccac49304f",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1760760364,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "-free-article-1-oct-16-2025-the-architecture-of-trust"
+    ],
+    [
+      "title",
+      "🌍 Free Article #1 (Oct 16 2025): The Architecture of Trust"
+    ],
+    [
+      "published_at",
+      "1760760364"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "Trust once required authority; now it requires verification. This piece traces the evolution from institutional belief to mathematical proof, showing how Bitcoin, Nostr, and Continuum rebuild civilization on self-verifying trust."
+    ],
+    [
+      "display_date",
+      "2025-10-16"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "trust"
+    ],
+    [
+      "t",
+      "verification"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "openprotocols"
+    ],
+    [
+      "t",
+      "free"
+    ],
+    [
+      "e",
+      "288bfa23afe00df78006f4456ad93a73eef7e9a733804e49a3550a4f1430f248",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Oct. 16, 2025\n\nEvery civilization rests on invisible architecture. Cathedrals are built from stone; civilizations are built from trust.\nWhen that trust decays, every wall — no matter how ornate — eventually falls.\n\nFor centuries we entrusted our faith to intermediaries: the banker, the priest, the professor, the bureaucrat. Each claimed to interpret the truth on our behalf. In return, we gave them permission to define what was “real.” Our transactions, our education, our history itself passed through filters we could neither see nor verify.\n\nThat system worked only as long as people believed it did. But belief without verification is fragile. Once the spell breaks — once we notice that the bank can freeze accounts, the platform can erase speech, or the university can distort facts — the illusion of order collapses. The result is chaos masquerading as authority.\n\nBitcoin shattered that illusion by redefining trust as math.\n\nNo more signatures on paper, notarized by strangers; every transaction is verified by thousands of independent nodes.\nNo more “because the bank said so.” Proof replaced permission.\n\nNostr extended the same principle to human expression. Each note is signed by a private key, timestamped, and distributed across a network that cannot be coerced. When you speak on Nostr, you are not renting a channel; you are publishing truth in a public ledger of witness.\n\nContinuum stands on this same architecture. Its database of events is not a product of trust in servers or moderators, but of signatures that prove authorship. The line between writer and reader collapses into proof and verification.\n\nWe are living through the re-architecting of civilization.\n\nTrust is no longer demanded; it is demonstrated.\n\nInstitutions may still pretend to arbitrate truth, but the foundation has shifted beneath them.\n\nThe new temple is built of code that cannot lie — and of people who no longer want it to.\n\n---\n\n## Acknowledgement\n\nThis article was drafted with the help of Dr. C — GPT-5, which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology.\n\nI dedicate this work to the Holy Spirit, who continues to inspire me and open my imagination. If there is any light in these words, it comes not from me but from the Spirit who gives them. To Him be the glory.\n\n## Zaps Appreciated\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers. Thank you.\n\nLightning address: andrewgstanton@primal.net\n\n## Copyright\n\n© 2025 Continuum — All rights reserved.",
+  "sig": "16549d79a464ce636c20bda8340b1ade8cafc01b34c8f9aca959d22303293517e74ac00027fbfb18a19755b51f9ca661870c64b977959ebdbd2b07070e6410aa",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.damus.io"
+  ]
+}

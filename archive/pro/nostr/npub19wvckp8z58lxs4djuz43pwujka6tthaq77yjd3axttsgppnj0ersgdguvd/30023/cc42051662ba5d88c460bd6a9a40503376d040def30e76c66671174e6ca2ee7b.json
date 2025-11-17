@@ -1,0 +1,49 @@
+{
+  "id": "cc42051662ba5d88c460bd6a9a40503376d040def30e76c66671174e6ca2ee7b",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756244698,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "-free-article-2-day-3--aug-26-2025-continuum-treats-npubs-as-first-class-citizens"
+    ],
+    [
+      "title",
+      "📝 Free Article 2 (Day 3 – Aug. 26, 2025): Continuum Treats npubs as First-Class Citizens"
+    ],
+    [
+      "summary",
+      "Why npubs — not usernames — are the foundation of sovereign publishing."
+    ],
+    [
+      "published_at",
+      "1756244698"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "identity"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "content": "Most platforms treat usernames as the “root” of your identity. Everything else — your posts, messages, connections — hangs from that rented handle. That’s why bans, suspensions, and lockouts are so devastating: they strike at the root.\n\nContinuum flips the model. Here, the root is **npubs.**  That choice has three consequences:\n\n1. **Plurality.** You can bring as many npubs as you want. No “one account per person” gatekeeping.\n2. **Instant creation.**  Need a new identity? Generate one in seconds. No forms, no approval.\n3. **Exit built-in.** Leave Continuum, and your npubs remain intact. You can import them anywhere else on Nostr.\n\nThis may feel subtle, but it’s radical. It means Continuum is not the landlord of your identity — you are.\n\nAnd that reflects the larger truth: usernames are costumes, npubs are passports. Costumes can be stripped away; passports are cryptographic proof. In a sovereign publishing system, npubs must be treated as first-class citizens.",
+  "sig": "70eee57899df4830a061f875bee9554f81c46745652a426ec3002b14b8d4ab4088a8e74356e61d2130fb2c8a9adc0085d4d9a20e64953056886610d9ca76d312",
+  "_source": [
+    "primal backup"
+  ]
+}

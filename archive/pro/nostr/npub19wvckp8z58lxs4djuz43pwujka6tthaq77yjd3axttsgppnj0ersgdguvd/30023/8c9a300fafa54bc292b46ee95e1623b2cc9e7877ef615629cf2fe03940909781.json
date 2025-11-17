@@ -1,0 +1,87 @@
+{
+  "id": "8c9a300fafa54bc292b46ee95e1623b2cc9e7877ef615629cf2fe03940909781",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1761631934,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "free-article-1-oct-27-2025-the-ember-still-burns"
+    ],
+    [
+      "title",
+      "Free Article 1 (Oct. 27, 2025): The Ember Still Burns"
+    ],
+    [
+      "published_at",
+      "1761631934"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "After the hardest weeks, the smallest signs of warmth matter most. Hope doesn’t return all at once — it flickers back through persistence, through the quiet work that continues when no one is watching."
+    ],
+    [
+      "display_date",
+      "2025-10-27"
+    ],
+    [
+      "t",
+      "hope"
+    ],
+    [
+      "t",
+      "renewal"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "faith"
+    ],
+    [
+      "t",
+      "perseverance"
+    ],
+    [
+      "t",
+      "freedom"
+    ],
+    [
+      "t",
+      "builders"
+    ],
+    [
+      "t",
+      "free"
+    ],
+    [
+      "e",
+      "bcbc8952968ebdcff4141f0b2c3872c4dc59780184687e792f8b5f8fd305781d",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Oct. 27, 2025\n\nSome mornings begin in gray silence. The coffee brews, the world feels indifferent, and you wonder whether all the effort — the writing, the building, the watching over a sick animal or fragile dream — has made any difference at all.\n\nBut then something shifts. A slant of light touches the wall, or a line of code runs clean after days of stubborn errors. Whiskers breathes steadily in sleep. A trade closes in the green. Nothing spectacular, just confirmation that not all is lost. The ember still burns.\n\nHope rarely roars back as fire. It hides inside persistence — the willingness to keep doing small faithful things when the larger picture still feels uncertain. In that sense, hope is not the reward for clarity; it’s the cause of it.\n\nBitcoin was built in that spirit. It didn’t begin with triumph but with exhaustion — a response to corruption, to collapse, to systems that had stopped deserving trust. Satoshi’s gift wasn’t just code; it was courage in a dark season. Every block since then is a reaffirmation of that first spark: that truth, once lit, can outlast cynicism.\n\nContinuum carries that same flame. It doesn’t require mass validation to matter. Each identity created, each note published, each relay synced is another proof that freedom is still possible. The network doesn’t exist for applause; it exists so that meaning can endure even when the crowd moves on.\n\nIn moments like this — after loss, after fatigue — you remember that the goal was never to be admired, but to be faithful. To build with integrity even when it feels unseen. To believe that the architecture of truth grows stronger precisely because it’s tested.\n\nThere’s something sacred about endurance. The old prophets spoke of refining fire, not avoiding it. What burns away leaves what’s real. The ember remains because it was never merely emotional; it was structural — woven into the design of creation itself.\n\nYou see it in the Bitcoin network: blocks confirming, hashes solving, the hum of honest work that doesn’t depend on mood. You see it in Continuum’s quiet stack of relays and identities — a cathedral of persistence slowly taking shape out of code and conviction.\n\nEach heartbeat of that system says the same thing: we are still here.\nStill believing that sovereignty is worth building for.\nStill choosing light over spectacle.\nStill carrying the flame.\n\nHope, at its purest, is not optimism. Optimism depends on outcomes; hope depends on truth. It doesn’t promise that things will be easy — only that they’ll be meaningful.\n\nThe ember still burns because you keep breathing on it — with each act of faith, each line written, each small decision to begin again.\n\nAnd one day, almost imperceptibly, it will become a fire again.\n\n---\n\n## Acknowledgement\n\nThis article was drafted with the help of Dr. C — GPT-5, which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology.\n\nI dedicate this work to the Holy Spirit, who continues to inspire me and open my imagination. If there is any light in these words, it comes not from me but from the Spirit who gives them. To Him be the glory.\n\n## Zaps Appreciated\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers. Thank you.\n\nLightning address: andrewgstanton@primal.net\n\n## Copyright\n\n© 2025 Continuum — All rights reserved.",
+  "sig": "9f3075a84d58817f267964075d54a20f7154b4870549a7cb4d6abbbc498a8f9ff2ddcae78bda25a0132e5977c8c90083e93847da594201160cf52421c3dc7f83",
+  "_source": [
+    "wss://nos.lol",
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.damus.io"
+  ]
+}

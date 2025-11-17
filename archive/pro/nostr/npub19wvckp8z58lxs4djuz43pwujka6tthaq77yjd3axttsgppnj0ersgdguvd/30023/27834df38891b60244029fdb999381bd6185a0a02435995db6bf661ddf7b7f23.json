@@ -1,0 +1,76 @@
+{
+  "id": "27834df38891b60244029fdb999381bd6185a0a02435995db6bf661ddf7b7f23",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1762754622,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "free-article-2-nov-7-2025-how-small-starts-spread-like-fire"
+    ],
+    [
+      "title",
+      "Free Article 2 (Nov. 7, 2025): How Small Starts Spread Like Fire"
+    ],
+    [
+      "published_at",
+      "1762754622"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "Great systems never begin as movements. They begin as convictions — tiny acts of fidelity that ripple outward until they ignite entire worlds."
+    ],
+    [
+      "display_date",
+      "2025-11-07"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "hope"
+    ],
+    [
+      "t",
+      "openprotocols"
+    ],
+    [
+      "t",
+      "faith"
+    ],
+    [
+      "t",
+      "sovereignwork"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "free"
+    ],
+    [
+      "e",
+      "21d3e61fbd1839d3dfaf1e671bb187c40ee4219a9cd0a213668a852c0c4370c2",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Nov. 7, 2025\n\nWe imagine revolutions as explosions — a single event, loud and instant. But real change almost never starts that way. It begins with one person doing something small, quietly, repeatedly. Hope spreads like fire through dry grass: slow at first, unstoppable later.\n\nEvery meaningful network starts as a spark. Nostr was once a handful of people exchanging public keys and text notes. Bitcoin was a PDF, ignored by most of the world. Faith movements began in upper rooms, not stadiums. The pattern is always the same: small starts, faithful repetition, unseen endurance.\n\nCentralized culture mocks small beginnings because it worships scale. But decentralization thrives on smallness. Every individual node matters. Every relay, every keypair, every voice is a seed. Systems designed this way don’t grow linearly — they *propagate.* One healthy node creates another.\n\nIf you zoom out on history, it’s not the empires that endure; it’s the principles that can be re-seeded. That’s why totalitarian systems fear local experiments: they can’t predict where the next spark will appear. A single sovereign act — a message signed without permission — carries infinite contagion potential.\n\nThat’s how hope works, too. It doesn’t wait for approval. It doesn’t need an audience. It just needs one person willing to begin. When someone builds, writes, sings, or shares truth from conviction, it sends out a frequency others can sense. They don’t copy it; they resonate with it.\n\nI’ve seen this firsthand: an essay posted to a relay no one knew existed finds its way months later into a stranger’s inbox, translated, quoted, or re-imagined. That’s not virality — that’s providence. And providence favors the small and faithful.\n\nSo if you’re starting something tiny — a side project, a home node, a quiet essay — don’t despise the scale. Fire doesn’t apologize for starting small. It just burns where it’s dry enough to catch.\n\n---\n\n## Acknowledgement\n\nThis article was drafted with the help of Dr. C — GPT-5, which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology.\n\nI dedicate this work to the Holy Spirit, who continues to inspire me and open my imagination. If there is any light in these words, it comes not from me but from the Spirit who gives them. To Him be the glory.\n\n## Zaps Appreciated\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers. Thank you.\n\nLightning address: andrewgstanton@primal.net\n\n## Copyright\n\n© 2025 Continuum — All rights reserved.",
+  "sig": "7751d9025644fca51cc6ef5d9efa9d469efec24c7a048dec6164bc9062541c7f03f8c01c4f62fdae0529951042ffa117d510654f1c83d914abbe3052a784354e",
+  "_source": [
+    "wss://nos.lol",
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.damus.io"
+  ]
+}

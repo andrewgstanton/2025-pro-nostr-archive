@@ -1,0 +1,79 @@
+{
+  "id": "359af1dcfc0b5ccf4e0803f286588d985cb17a0769c171af3182bec1937c3d6d",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1760129016,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "free-article-1-sept-26-2025-hope-after-the-ashes"
+    ],
+    [
+      "title",
+      "Free Article 1 (Sept. 26, 2025): Hope After the Ashes"
+    ],
+    [
+      "published_at",
+      "1760129016"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "Hope is not optimism but defiance — the stubborn belief that even after the worst loss, life will rise again. Standing amid the ashes of grief, Andrew reflects on the kind of hope that outlasts death, systems, and despair — the quiet trust that nothing true is ever gone."
+    ],
+    [
+      "display_date",
+      "2025-09-26"
+    ],
+    [
+      "t",
+      "hope"
+    ],
+    [
+      "t",
+      "resurrection"
+    ],
+    [
+      "t",
+      "grief"
+    ],
+    [
+      "t",
+      "loss"
+    ],
+    [
+      "t",
+      "faith"
+    ],
+    [
+      "t",
+      "renewal"
+    ],
+    [
+      "t",
+      "courage"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "free"
+    ],
+    [
+      "e",
+      "3b31dba135c45877bf4a7b57108ccd6b241d2ba8c3203dc0b187499cd14becdd",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Sept. 26, 2025\n\nHope is not optimism. It’s the defiance of despair.\n\nOptimism looks for reasons; hope looks for resurrection.  \nOne collapses when the evidence fades; the other grows stronger in darkness.\n\nAfter loss, after death, after collapse — what remains is the quiet conviction that life itself is not finished with us yet. That somehow, even the ashes are holy.\n\nThe early Church knew this hope. So did the early Bitcoiners. Both faced ridicule, isolation, persecution. But they saw something eternal beneath the ruins of the age — something that could not be crucified twice.\n\nHope after the ashes is not naive. It’s prophetic. It believes what God has promised, not what man has built. It trusts that every fallen tower will someday give way to a City not made by hands.\n\nSo even as we walk through ruins — personal, cultural, economic — we do not mourn as those without hope.\n\nBecause the same fire that destroys also refines.\n\n---\n\n## Acknowledgement\n\nThis article was drafted with the help of Dr. C — GPT-5, which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology.\n\nI dedicate this work to the Holy Spirit, who continues to inspire me and open my imagination. If there is any light in these words, it comes not from me but from the Spirit who gives them. To Him be the glory.\n\n## Zaps Appreciated\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers. Thank you.\n\nLightning address: andrewgstanton@primal.net\n\n## Copyright\n\n© 2025 Continuum — All rights reserved.",
+  "sig": "080c1130fb6bbb96eb3ca3494e15bb36e84ca4b681749df1d8a457db504e987439de9816990e431f11caf29c96fe1dd394d11539bc3c8ff27336912b2c26cad4",
+  "_source": [
+    "primal backup",
+    "wss://nostr.bitcoiner.social"
+  ]
+}

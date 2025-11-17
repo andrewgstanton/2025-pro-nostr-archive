@@ -1,0 +1,62 @@
+{
+  "content": "Andrew G. Stanton - August 25, 2025\n\nMost people treat Bitcoin as just another trade — buy, sell, speculate, and hope to outpace fiat.\n\nI don’t. I treat it as my treasury. Trades are temporary. Treasury is forever.\n\nIn the full article, I share:\n\n- Why treasury ≠ trade\n- The weekly sweep rule that builds sovereignty by habit\n- How denominating in BTC changes the entire game\n\n**🔒 Full article available for 500 sats.** Zap me and I’ll send it via encrypted DM while I finish building the automated unlock flow in Continuum.",
+  "created_at": 1763190773,
+  "id": "796467e5e05931f916e2ae4201d3641f8067595d1f1e0bbe4ecc4c6b7517c5a2",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "fd72c068ffb1aded4f827353c4f838dc1151482ac8167a468ca8f147e58a2bbbea9606d97d134a9d03c1d2ac0924b7007dcefc950bc0b4ee9bf8c9a6e6d970e2",
+  "tags": [
+    [
+      "d",
+      "-bitcoin-as-treasury-not-trade"
+    ],
+    [
+      "title",
+      "🔒 Paid Article Teaser (Day 2 - Aug. 25, 2025) : Bitcoin as Treasury, Not Trade"
+    ],
+    [
+      "published_at",
+      "1763190773"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "Why I denominate wealth in Bitcoin instead of chasing endless fiat gains."
+    ],
+    [
+      "display_date",
+      "2025-08-25"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "treasury"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "trading"
+    ],
+    [
+      "e",
+      "cdf8be61be9cfca95fb2b14c6b4e326842cadce8c42c9284f65b29d825e411d3",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.damus.io"
+  ]
+}

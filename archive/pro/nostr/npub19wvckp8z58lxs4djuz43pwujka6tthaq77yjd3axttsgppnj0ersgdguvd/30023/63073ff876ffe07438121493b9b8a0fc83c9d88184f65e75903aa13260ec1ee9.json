@@ -1,0 +1,54 @@
+{
+  "id": "63073ff876ffe07438121493b9b8a0fc83c9d88184f65e75903aa13260ec1ee9",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756159378,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "-article-1-side-gigs-vs-sovereign-income"
+    ],
+    [
+      "title",
+      "📝 Free Article 1 (Day 1 - Aug. 24, 2025) : Side Gigs vs. Sovereign Income"
+    ],
+    [
+      "published_at",
+      "1756159378"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "Why adding more “gigs” doesn’t solve income fragility — it just multiplies dependencies"
+    ],
+    [
+      "t",
+      "#bitcoin"
+    ],
+    [
+      "t",
+      "#nostr"
+    ],
+    [
+      "t",
+      "#income"
+    ],
+    [
+      "t",
+      "#sovereignty"
+    ],
+    [
+      "e",
+      "c7bf450296d8e24306b1ceeb5c1abcf5ed8217f85a97fd5bd63661c03ad4c44f",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - August 24, 2025\n\nA lot of people try to solve income fragility by stacking side hustles — Uber at night, freelancing on platforms, gig apps for everything else.\n\nIt feels like diversification. In practice, it’s just multiple leashes instead of one:\n\n- All fiat-denominated (and fiat bleeds value every year).\n- Platform risk remains (ban one account, and that stream vanishes).\n- Time is still the bottleneck — more gigs = fewer hours, not more freedom.\n- Most gigs don’t compound. When you stop, the income stops.\n\n**Sovereign income ≠ more gigs.** It means streams that can’t be turned off, denominated in hard money, compounding even when you step away.\n\nThis theme connects to today’s gated article, “Sovereign ≠ Decentralized,” where I explore how true sovereignty goes beyond surface-level decentralization.",
+  "sig": "d041cee068643c175ee9926b7856892b0a77a037486235949c02244deb5d6b6f436dc4f82831780610b28efce65ffdcec593a7b5e7b7275ed7f58fde7907e5d3",
+  "_source": [
+    "primal backup"
+  ]
+}

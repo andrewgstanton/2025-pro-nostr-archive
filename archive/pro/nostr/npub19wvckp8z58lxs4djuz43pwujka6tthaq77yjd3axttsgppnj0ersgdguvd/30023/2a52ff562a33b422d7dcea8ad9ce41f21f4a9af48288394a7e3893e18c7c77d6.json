@@ -1,0 +1,70 @@
+{
+  "id": "2a52ff562a33b422d7dcea8ad9ce41f21f4a9af48288394a7e3893e18c7c77d6",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1755902058,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "the-bitcoin-chronicles--part-2-lunar-nodes"
+    ],
+    [
+      "title",
+      "The Bitcoin Chronicles: Toward The Stars — Part 2: Lunar Nodes"
+    ],
+    [
+      "published_at",
+      "1755902058"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "Part 2 of the Bitcoin Chronicles explores the Moon as the first off-world Bitcoin frontier, where low latency enables near-seamless participation in Earth’s network and the first taste of truly interplanetary sovereignty."
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "lunar economy"
+    ],
+    [
+      "t",
+      "lightning"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "decentralization"
+    ],
+    [
+      "t",
+      "future"
+    ],
+    [
+      "t",
+      "chronicles"
+    ],
+    [
+      "t",
+      "interplanetary"
+    ],
+    [
+      "e",
+      "b621ce19c66b339c1ea3e6af8dabf5b6a6dcf6cdf55146011a456fac33710984",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - August 22, 2025\n\nIf Earth was the training ground, the Moon is the first frontier. At just 384,000 km away, the Moon introduces latency — but only a small one. A signal takes about 1.3 seconds to travel. In networking terms, that’s nothing.\n\nThat means a Bitcoin node on the Moon could stay in close sync with Earth. Blocks would arrive a little delayed, but not enough to break consensus. The real difference would be psychological: for the first time, sovereignty would exist off-world.\n\nImagine a lunar colony where settlers use sats for oxygen, food, and housing. Lightning payments flash across domes instantly. Local channels settle disputes without waiting for Earth to approve. The Moon becomes the first circular Bitcoin economy beyond Earth.\n\nWhy does this matter? Because it sets precedent. If sovereignty can leave Earth once, it can leave again.\n\nThe Moon shows us that Bitcoin is not tied to a planet. It is tied to physics. As long as there is energy to mine and bandwidth to transmit, the rules hold. No one on Earth can decree away a lunar block or inflate lunar sats.\n\nThe Moon would not just be a rock in the sky anymore. It would be humanity’s first proof-of-concept: a sovereign economy under the same rules of Bitcoin, but beyond Earth’s borders.\n\nNext comes Mars — and with it, the challenge of distance that will force Bitcoin to evolve.",
+  "sig": "9ebc719c322c39b475e7e27d6904deef86e3cd89cf676b50dc7eaa40fa101a94aeca3a65caf2b9b73e2fa87bd4cca2426d18328f6fcc989cb51d6567246e723e",
+  "_source": [
+    "primal backup"
+  ]
+}

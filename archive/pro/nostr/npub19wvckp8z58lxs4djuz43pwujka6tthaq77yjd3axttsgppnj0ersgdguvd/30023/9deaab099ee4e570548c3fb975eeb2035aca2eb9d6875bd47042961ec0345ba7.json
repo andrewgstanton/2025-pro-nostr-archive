@@ -1,0 +1,90 @@
+{
+  "content": "Andrew G. Stanton - May 20, 2025\n\nI didn’t take a course on “prompt engineering.” I didn’t memorize secret formulas or chase viral hacks.\n\nWhat I *did* do was treat it like a system.\n\nJust like in software:\n\n> **Write → Compile → Test → Debug → Repeat**\n\nWith AI, the loop feels just as familiar:\n\n> **Prompt → Output → Edit → Re-prompt**\n\nThat’s not magic. That’s engineering.\n\n***\n\nWhen someone asked me, *“How can you trust AI for anything serious?”*\\\nI told them: *“Same way we trust the internet — not because the network’s reliable, but because the protocol is.”*\n\nAI is no different. The key is building **systems around it**:\n\n* Multiple models if needed\n\n* Human-in-the-loop verification\n\n* Layered editing and real discernment\n\n***\n\n### It’s Not That Different From Other Engineering\n\nOnce you stop treating AI like a black box and start treating it like a tool, the whole experience changes.\n\nThe prompt isn’t a spell. It’s a **spec**.\\\nThe response isn’t a prophecy. It’s a **build**.\\\nAnd your discernment? That’s your **QA layer**.\n\n***\n\n### What I Actually Use It For\n\n* Brainstorming titles and refining headlines\n\n* Drafting posts that I shape and filter\n\n* Running content through for edge cases\n\n* Exploring theological or philosophical questions\n\nAnd yes — I want it to be **useful**. I *am* building to make a living, not just to make noise. But I don’t lead with monetization. I lead with **clarity** — and build toward sustainability.\n\n***\n\n### Final Thought\n\nIf you’re waiting for a course to teach you how to “do AI,” maybe just start by **building something real**. Test it. Edit it. Use it again. That’s engineering.\n\nShoutout to Dr. C (ChatGPT) for helping me articulate this.\n\nIf this post sparked anything for you, zap a few sats ⚡ — every bit helps me keep building with conviction.",
+  "created_at": 1763187455,
+  "id": "9deaab099ee4e570548c3fb975eeb2035aca2eb9d6875bd47042961ec0345ba7",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "ae1ef82c2c36df0327db386098b4efc7a788744ba2fffadb8a5baeb02d265d4aa87652c85b5365c7fbdb7f52fab50a364294f73ee571fbaf4a6d197736b33173",
+  "tags": [
+    [
+      "d",
+      "🛠️-ai-isn’t-magic.-it’s-engineering."
+    ],
+    [
+      "title",
+      "🛠️ AI Isn’t Magic. It’s Engineering."
+    ],
+    [
+      "published_at",
+      "1763187455"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "Most people treat AI like magic. I treat it like engineering.This post breaks down how I use ChatGPT in an iterative, system-oriented way — just like writing and testing code. It’s not about hype or hacks. It’s about building with intention, clarity, and conviction."
+    ],
+    [
+      "display_date",
+      "2025-05-20"
+    ],
+    [
+      "image",
+      "https://blossom.primal.net/38d4c3efbfa55ae1b54b719e087089c599eb9c84d9b3cb2fdcbc8575860a4480.png"
+    ],
+    [
+      "t",
+      "AI"
+    ],
+    [
+      "t",
+      "PromptEngineering"
+    ],
+    [
+      "t",
+      "SystemsThinking"
+    ],
+    [
+      "t",
+      "ChatGPT"
+    ],
+    [
+      "t",
+      "ProofOfWork"
+    ],
+    [
+      "t",
+      "Bitcoin"
+    ],
+    [
+      "t",
+      "EngineeringMindset"
+    ],
+    [
+      "t",
+      "BuildInPublic"
+    ],
+    [
+      "t",
+      "Nostr"
+    ],
+    [
+      "t",
+      "ZapRequest"
+    ],
+    [
+      "e",
+      "5bc0eced4d1da02fd2a0e463021b44ec2852a182e60c47908c31cf026de0cb82",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.damus.io"
+  ]
+}

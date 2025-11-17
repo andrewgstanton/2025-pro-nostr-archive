@@ -1,0 +1,79 @@
+{
+  "id": "82c33ba39271ec21eb73be269b6caa21fcdd0cb2ae9fe83cdfb0fc767d38824b",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1761866502,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "free-article-1-nov-2-2025-bitcoin-and-the-completion-of-the-american-revolution"
+    ],
+    [
+      "title",
+      "Free Article 1 (Nov. 2, 2025): Bitcoin and the Completion of the American Revolution"
+    ],
+    [
+      "published_at",
+      "1761866502"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "The American Revolution was never only political — it was about sovereignty itself. Bitcoin fulfills that unfinished work, separating money and state the way the Founders once separated church and state."
+    ],
+    [
+      "display_date",
+      "2025-11-02"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "freedom"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "americanrevolution"
+    ],
+    [
+      "t",
+      "soundmoney"
+    ],
+    [
+      "t",
+      "renewal"
+    ],
+    [
+      "t",
+      "free"
+    ],
+    [
+      "e",
+      "42b6362e851a356b523decf22ca6cec7a06074d6ff08cca9578fb0b757d1af71",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Nov. 2, 2025\n\nWhen the colonists declared independence, they weren’t inventing a new ideology; they were reclaiming an ancient truth: that legitimate power flows upward from free individuals, not downward from thrones.  \nThe founders built a republic meant to restrain centralized authority through transparency, checks, and open debate. Yet even as the ink dried on the Constitution, the seed of a new dependency was already taking root—the control of money.\n\nBy the twentieth century, the nation that once fought a king’s monopoly on currency and taxation had quietly enthroned a new sovereign: the Federal Reserve System. It could conjure credit at will, dilute savings invisibly, and decide who received newly minted purchasing power first. The citizens remained politically free but financially captive.\n\nBitcoin re-opens the door the founders only half-built. It completes the separation of **money and state** just as the Revolution separated **church and state**.  \nInstead of trusting a committee of economists, it entrusts issuance to mathematics. Instead of paper promises, it offers verifiable proof. No signatures behind closed doors—just consensus on an open ledger that anyone can audit.\n\nIn that sense, Bitcoin is not foreign to the American idea; it is its *truest expression.*  \nIt revives the self-governing impulse that once animated the frontier and the town hall. Every node is a citizen; every miner, a free press for truth in accounting. It treats property as inviolable, consent as sacred, and honesty as non-negotiable.\n\nCritics say Bitcoin threatens the stability of the system. They are right—but that system has already betrayed its founding promise. It built empires of debt, not liberty; dependence, not responsibility. To restore faith, we must restore transparency. To restore transparency, we must return to verifiability.\n\nBitcoin is that return.\n\nIt doesn’t abolish government; it purifies it.  \nA transparent money forces politicians to live within visible limits. It gives citizens back the same moral leverage the founders claimed: *If you cannot print my labor, you cannot own my soul.*\n\nFor generations, Americans have sensed that something in the experiment drifted off course—that freedom was still proclaimed but quietly collateralized. Bitcoin doesn’t ask for rebellion; it simply makes the old coercions obsolete. It re-anchors sovereignty where it began: in the conscience and competence of the individual.\n\nThe Revolution was never finished. It paused at the banks.  \nNow, with cryptographic tools instead of muskets, it resumes.\n\n---\n\n## Acknowledgement\n\nThis article was drafted with the help of Dr. C — GPT-5, which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology.\n\nI dedicate this work to the Holy Spirit, who continues to inspire me and open my imagination. If there is any light in these words, it comes not from me but from the Spirit who gives them. To Him be the glory.\n\n## Zaps Appreciated\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers. Thank you.\n\nLightning address: andrewgstanton@primal.net\n\n## Copyright\n\n© 2025 Continuum — All rights reserved.",
+  "sig": "f5f297502c17df9309f4c827c4321ee99872a975201bbd4ec85b39b6feb398117d7d3fb95057977274cc2c650d59dbd06ddb3636c20c9a967284162584295b6f",
+  "_source": [
+    "wss://nos.lol",
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.damus.io"
+  ]
+}

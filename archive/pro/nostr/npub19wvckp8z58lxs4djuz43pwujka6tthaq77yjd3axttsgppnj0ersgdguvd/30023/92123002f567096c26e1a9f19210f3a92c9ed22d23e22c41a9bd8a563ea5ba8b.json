@@ -1,0 +1,186 @@
+{
+  "content": "Andrew G. Stanton - June 19, 2025\n\nFor years, GitHub has been the default home for open source developers. It built its reputation on transparency, collaboration, and a commitment to giving coders a place to share and improve their work. But since Microsoft's acquisition in 2018, subtle changes have begun to surface—not all of them in service to the user.\n\nGitHub is still free. Public repositories remain free. Even private repositories are free, to a point. GitHub Pages, Actions, and Codespaces offer incredibly powerful tools to build and deploy projects at no cost—until you hit certain usage limits or need team-scale features.\n\nBut the deeper question is this: **what do you give up in exchange?**\n\n### Microsoft Doesn’t Give Away Infrastructure for Free\n\nGitHub, VSCode, Copilot, and Azure form a tightly integrated ecosystem. On the surface, it's all about productivity. But underneath, it's about data. Your code trains their models. Your habits inform their products. Your workflows deepen their lock-in.\n\nTake Copilot, for example: it’s not just a coding assistant, it’s a data-harvesting engine built on top of a centralized platform. The more you use GitHub, the more Microsoft knows about what developers are building—and what they might buy.\n\n### Free Isn’t Sovereign\n\nAs developers, we have to ask hard questions:\n\n* What happens when the free tier disappears or changes?\n\n* Can I take my work elsewhere without breaking my stack?\n\n* Who owns the insights derived from my development patterns?\n\nThese questions aren’t hypothetical. We’ve seen them play out with Heroku, Medium, Twitter, and countless others. Free turns into friction. Then friction becomes control.\n\n### Alternatives Are Emerging\n\nThankfully, there are options:\n\n* **Codeberg**, **Gitea**, and **SourceHut** for Git hosting\n\n* **Cloudflare Pages** for static sites + edge functions\n\n* **Railway**, **Fly.io**, or even VPS hosting for dynamic apps\n\n* **Nostr** and **IPFS** for decentralized publishing\n\nThese aren’t always drop-in replacements. But they represent a healthier direction—one aligned with freedom, transparency, and a proof-of-work ethos rather than a proof-of-data-capture business model.\n\n### My Move Away from GitHub (Sort Of)\n\nI’m not deleting my GitHub account. It’s still the best way to reach other devs. But for key projects—especially those that touch on identity, sovereignty, or censorship resistance—I’m migrating:\n\n* Private infrastructure where needed\n\n* Cloudflare for front-end deployments\n\n* Nostr for publishing and archiving\n\n* Git mirroring to open alternatives\n\nBecause the tools we use shape the future we build. And if the platform is free, but the product is you—it's time to re-evaluate.\n\n***",
+  "created_at": 1763191589,
+  "id": "92123002f567096c26e1a9f19210f3a92c9ed22d23e22c41a9bd8a563ea5ba8b",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "0cac16a0243e954417b01e5cd6c4771d6b8dd83d70189bfe4ec4ed74d6bfada90c18f13b4e2f4ac9444bb8e6e9862501cbc154b723de744cd4c33f315958c9f2",
+  "tags": [
+    [
+      "d",
+      "github-is-still-free--but-youre-the-product"
+    ],
+    [
+      "title",
+      "GitHub Is Still Free — But You're the Product"
+    ],
+    [
+      "published_at",
+      "1763191589"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "GitHub remains free and widely used, but its acquisition by Microsoft has shifted its role from open-source steward to data-harvesting platform. As GitHub integrates more tightly with tools like Copilot and Azure, developers face growing risks of lock-in, surveillance, and platform dependency. This article explores the tradeoffs of “free” tools, the importance of digital sovereignty, and emerging alternatives like Cloudflare Pages, Nostr, and self-hosted Git platforms. It’s not just about cost—it’s about control."
+    ],
+    [
+      "display_date",
+      "2025-06-19"
+    ],
+    [
+      "image",
+      "https://blossom.primal.net/3ef43bea370654434837aaf41141381153d101ebaf58702b8ba71b82175d0606.png"
+    ],
+    [
+      "t",
+      "GitHub"
+    ],
+    [
+      "t",
+      "Microsoft"
+    ],
+    [
+      "t",
+      "developer tools"
+    ],
+    [
+      "t",
+      "open source"
+    ],
+    [
+      "t",
+      "decentralization"
+    ],
+    [
+      "t",
+      "software freedom"
+    ],
+    [
+      "t",
+      "cloud platforms"
+    ],
+    [
+      "t",
+      "Copilot"
+    ],
+    [
+      "t",
+      "data privacy"
+    ],
+    [
+      "t",
+      "proof of work"
+    ],
+    [
+      "t",
+      "Cloudflare"
+    ],
+    [
+      "t",
+      "Nostr"
+    ],
+    [
+      "t",
+      "SourceHut"
+    ],
+    [
+      "t",
+      "Git hosting"
+    ],
+    [
+      "t",
+      "developer sovereignty"
+    ],
+    [
+      "t",
+      "digital infrastructure"
+    ],
+    [
+      "t",
+      "software licensing"
+    ],
+    [
+      "t",
+      "tech stack strategy"
+    ],
+    [
+      "t",
+      "Git migration"
+    ],
+    [
+      "t",
+      "edge computing"
+    ],
+    [
+      "t",
+      "OpenSource"
+    ],
+    [
+      "t",
+      "Cloudflare"
+    ],
+    [
+      "t",
+      "DecentralizeEverything"
+    ],
+    [
+      "t",
+      "Nostr"
+    ],
+    [
+      "t",
+      "GitSovereignty"
+    ],
+    [
+      "t",
+      "MicrosoftStack"
+    ],
+    [
+      "t",
+      "blog"
+    ],
+    [
+      "t",
+      "article"
+    ],
+    [
+      "t",
+      "OpenSource"
+    ],
+    [
+      "t",
+      "Cloudflare"
+    ],
+    [
+      "t",
+      "DecentralizeEverything"
+    ],
+    [
+      "t",
+      "Nostr"
+    ],
+    [
+      "t",
+      "GitSovereignty"
+    ],
+    [
+      "t",
+      "MicrosoftStack"
+    ],
+    [
+      "e",
+      "842b5b53fa93b1ab0ab56913d4d4b7fda52e86eb29970e4533628f9815b4a7e1",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.damus.io"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "45e47f1bff5b6a5a3557cb7069237c7a7a3134b5839664a1a991ef66cd66db28",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756410661,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "paid-article-teaser-day-4---aug-27-2025--life-on-the-moon-paid-in-sats-"
+    ],
+    [
+      "title",
+      "Paid Article Teaser (Day 4 - Aug. 27, 2025): 🌕 Life on the Moon, Paid in Sats 🚀"
+    ],
+    [
+      "summary",
+      "A glimpse into a future where moon colonists earn and trade in Bitcoin, free from Earth-bound banks. This teaser sets the stage for how sats become the lifeblood of survival and commerce on a lunar settlement."
+    ],
+    [
+      "published_at",
+      "1756410661"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoinchronicles"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "lightningnetwork"
+    ],
+    [
+      "t",
+      "mooncolony"
+    ],
+    [
+      "t",
+      "futureofmoney"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ],
+    [
+      "t",
+      "spaceexploration"
+    ]
+  ],
+  "content": "Imagine stepping out of your lunar habitat, Earth hanging blue above you, and knowing your work that day—mining regolith, refining fuel, or coding in the colony’s hub—will be paid directly in Bitcoin. No banks. No Earth-based intermediaries. Just sats flowing across a Lightning mesh that links every dome, rover, and outpost.\n\nIn this next chapter of the Bitcoin Chronicles, I explore what happens when a lunar settlement decides to make sats its native currency—how it transforms trade, survival, and even the return flights back to Earth.\n\n🔒 **Full article available for 500 sats.** Zap me and I’ll send it via encrypted DM while I finish building the automated unlock flow in Continuum.",
+  "sig": "6166c093876ca1650fd1c124a897cb509360f4e305f036a146c1dc6403a24d5dab1be6503e6702e28d8c167e1db71b6124f949c9d81807340a234948c5718a1c",
+  "_source": [
+    "primal backup"
+  ]
+}

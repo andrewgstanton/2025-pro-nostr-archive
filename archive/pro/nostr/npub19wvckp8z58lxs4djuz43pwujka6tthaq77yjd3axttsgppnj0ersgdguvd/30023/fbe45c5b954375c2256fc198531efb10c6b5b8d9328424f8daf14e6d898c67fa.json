@@ -1,0 +1,78 @@
+{
+  "id": "fbe45c5b954375c2256fc198531efb10c6b5b8d9328424f8daf14e6d898c67fa",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1760291982,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "-free-article-sept-29-2025-flight-path-to-eternity"
+    ],
+    [
+      "title",
+      "✈️ Free Article (Sept 29, 2025): Flight Path to Eternity"
+    ],
+    [
+      "published_at",
+      "1760291982"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "A factual account of traveling from Honolulu to San Francisco on Sept 29 while your father lingered in his final hours—an honest day of movement, prayer, and silence across the ocean."
+    ],
+    [
+      "display_date",
+      "2025-09-29"
+    ],
+    [
+      "t",
+      "travel"
+    ],
+    [
+      "t",
+      "grief"
+    ],
+    [
+      "t",
+      "faith"
+    ],
+    [
+      "t",
+      "family"
+    ],
+    [
+      "t",
+      "continuumessays"
+    ],
+    [
+      "t",
+      "presence"
+    ],
+    [
+      "t",
+      "eternity"
+    ],
+    [
+      "t",
+      "free"
+    ],
+    [
+      "e",
+      "efeb14969f081175b949b023219a89f0452a1aad7883d2f6d14a7c0c3346ea68",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Sept 29, 2025\n\nI woke before the city. Fred dropped me at Honolulu International while it was still dark, about 5:15 a.m. I’d already brewed and finished my coffee at Kukui Plaza, showered, and packed everything—the seven items and three books I’d taken from Dad’s office on Saturday. Everything fit, almost miraculously. The air outside the terminal was warm, the kind of island warmth that never fully cools, even before dawn.\n\nSecurity was quick. Inside, I waited at Gate G1 until boarding began for the early flight to San Francisco. I’d bought a small pair of Bluetooth headphones—nothing fancy, but useful for the long flight. I remember thinking how often Liz used hers for calls at the table in the Queen Street apartment; it seemed a practical thing to have.\n\nBoarding started around 6:10; by 6:40 we were airborne. My seat—48F—was in the back, not aisle or window, but fine. The hum of engines filled the cabin, steady and mechanical. Below, the lights of Honolulu fell away until there was only water and cloud. The prayer from the day before rose again in my mind: E lawe mālie ʻO Iesū i kona lima — Take him gently by the hand, O Jesus. It wasn’t a conscious effort to pray, more like breathing.\n\nTime on a flight stretches in odd ways. I watched the slow crawl of the map on the seatback screen, then closed my eyes. There isn’t much to say about five hours over the Pacific except that it gives you time to listen—to engines, to your own pulse, to whatever unfinished conversation still lingers inside.\n\nWe landed in San Francisco around 3 p.m. local time. By 3:30 I was in an Uber, and by 4 o’clock I was home. I set the bags down by the door, showered, and rested. After three or four hours I woke again. Outside, the light had already gone.\n\nI didn’t know then that he would pass later that afternoon, Honolulu time. But looking back, that entire day felt like a single, quiet corridor—one flight ending as another began.\n\n---\n\n## Acknowledgement\n\nThis article was drafted with the help of Dr. C — GPT-5, which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology.\n\nI dedicate this work to the Holy Spirit, who continues to inspire me and open my imagination. If there is any light in these words, it comes not from me but from the Spirit who gives them. To Him be the glory.\n\n## Zaps Appreciated\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers. Thank you.\n\nLightning address: andrewgstanton@primal.net\n\n## Copyright\n\n© 2025 Continuum — All rights reserved.",
+  "sig": "8b90ee1d7e15fad32c3133783771bc364150a200057f13d079d48d370e5ab12053b5596d7de55641386f6db7907374c354da8d4b9a5bac9190e73da99e4f2184",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.damus.io"
+  ]
+}

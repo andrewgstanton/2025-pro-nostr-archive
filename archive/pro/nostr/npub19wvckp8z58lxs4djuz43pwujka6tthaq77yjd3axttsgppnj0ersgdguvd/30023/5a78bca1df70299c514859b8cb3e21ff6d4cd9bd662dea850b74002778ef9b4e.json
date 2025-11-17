@@ -1,0 +1,73 @@
+{
+  "id": "5a78bca1df70299c514859b8cb3e21ff6d4cd9bd662dea850b74002778ef9b4e",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1757187820,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "nip-05-self-host-survival-guide"
+    ],
+    [
+      "title",
+      "NIP-05 Self-Host Survival Guide"
+    ],
+    [
+      "summary",
+      "Setting up NIP-05 verification on your own domain sounds simple — until you try it. Between DNS propagation, CORS headers, JSON formatting, and client/relay caching, it can feel like a minefield. This guide walks through the hard-earned lessons of self-hosting nostr.json with Cloudflare and GitHub Pages, showing exactly how to check your DNS, validate JSON, fix headers, and force clients to refresh. If you want true sovereignty over your Nostr identity, this is the survival guide you wish existed before you started."
+    ],
+    [
+      "published_at",
+      "1757187820"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "nip-05"
+    ],
+    [
+      "t",
+      "sovereign identity"
+    ],
+    [
+      "t",
+      "self-hosting"
+    ],
+    [
+      "t",
+      "cloudflare"
+    ],
+    [
+      "t",
+      "github pages"
+    ],
+    [
+      "t",
+      "dns"
+    ],
+    [
+      "t",
+      "cors"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "content": "*(a.k.a. Royal Pain in the Ass Edition)*\n\nAndrew G. Stanton - Sept. 6, 2025\n\n## What NIP-05 is *supposed* to be\nJust a simple way to prove that `user@domain` belongs to a Nostr pubkey.\n\n## What it’s actually like\nA gauntlet of DNS quirks, headers, caches, and client inconsistencies.  \nIf you’re doing this sovereign (not outsourcing to Alby, nostrplebs, etc.), prepare for some pain.\n\n---\n\n## 1. DNS Setup\n- Point your domain to Cloudflare (or another host where you can control headers).\n- For GitHub Pages, use the four official A records:\n  - 185.199.108.153  \n  - 185.199.109.153  \n  - 185.199.110.153  \n  - 185.199.111.153\n- Kill any stray NS records (don’t let GoDaddy defaults linger).\n- Expect propagation to take **hours**, not minutes.\n\n**Check:**\n```bash\ndig NS yourdomain.xyz +short\n# should return only cloudflare nameservers\n```\n\n---\n\n## 2. JSON File\nYour file must live at:\n\n```\nhttps://yourdomain.xyz/.well-known/nostr.json\n```\n\n### Example\n```json\n{\n  \"names\": {\n    \"alice\": \"64charhexpubkey\",\n    \"bob\":   \"64charhexpubkey\"\n  }\n}\n```\n\n### Rules\n- Keys = lowercase usernames (must exactly match the `nip05` you claim in your profile).\n- Values = **64-character lowercase hex pubkey** (not npub).\n- No trailing commas.\n- No BOM (file must start with `{`).\n\n**Check:**\n```bash\ncurl -s https://yourdomain.xyz/.well-known/nostr.json | jq .\ncurl -s https://yourdomain.xyz/.well-known/nostr.json   | jq -r '.names | to_entries[] | \"\\(.key) \\(.value)\"'   | awk '{print $1, length($2)}'\n# every value should be 64\n```\n\n---\n\n## 3. Headers (CORS Hell)\nBrowsers won’t even parse the file without:\n\n```\nAccess-Control-Allow-Origin: *\n```\n\nAlso good to add:\n\n```\nContent-Type: application/json; charset=utf-8\nCache-Control: max-age=300, public\n```\n\nIf you’re using GitHub Pages, add these with Cloudflare “Response Header Rules”:\n\n- Rule 1: **Remove** `Access-Control-Allow-Origin`\n- Rule 2: **Add** a single `Access-Control-Allow-Origin: *`  \n  (plus `Content-Type` and `Cache-Control`)\n\n**Check:**\n```bash\ncurl -sI \"https://yourdomain.xyz/.well-known/nostr.json?ts=$(date +%s)\" | grep -i access-control-allow-origin\n# should show exactly one line\n```\n\n---\n\n## 4. Relay + Client Caches\nEven after you fix the file:\n- Primal web may cache a failed verification until you **re-publish kind:0 metadata**.\n- Mobile vs web clients check differently (mobile often server-side).\n- Coracle is notorious for stale cache.\n\n**Force refresh:**\n- Edit your profile metadata twice (make a tiny change each time).\n- Save → publish a new kind:0 with updated `created_at`.\n- Then hard-reload in incognito.\n\n---\n\n## 5. Verification Matrix\n✅ A checkmark appears when:\n1. Your profile metadata includes `nip05: \"name@yourdomain.xyz\"`.\n2. The JSON file includes `\"name\": \"<64-char-hex>\"`.\n3. The hex matches your pubkey.\n4. The file is served with proper headers.\n\n**Cross-check with:**\n- [Primal](https://primal.net)  \n- [Snort](https://snort.social)  \n- [Coracle](https://coracle.social)\n\nIf it shows in 2/3, you’re good; the last is just cache lag.\n\n---\n\n## Final Thoughts\n> “NIP-05 is simple” is only true if you outsource it.  \n> If you’re doing it sovereign, expect some frustration.  \n> But once it works, you’ll never have to touch it again.  \n> And you’ll know you actually own it.\n\n---\n\n## Acknowledgement\n\nThis article was drafted with the help of Dr. C - ChatGPT (GPT-5), which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology.\n\n## Zaps Appreciated\n\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers, just direct proof that this work matters. It helps me keep building Continuum and writing about sovereign technology, freely and without VC overhead. Thank you.\n\nYou can send zaps to my lightning address here: andrewgstanton@primal.net",
+  "sig": "ffe4fe59e6bc6d35b09bda711938ebb85e55c3894bb08b67f821d594c8b396662c8dfe943ab699a23ab1387e78ca21ac6008246219a754877152b91b326b7072",
+  "_source": [
+    "primal backup"
+  ]
+}

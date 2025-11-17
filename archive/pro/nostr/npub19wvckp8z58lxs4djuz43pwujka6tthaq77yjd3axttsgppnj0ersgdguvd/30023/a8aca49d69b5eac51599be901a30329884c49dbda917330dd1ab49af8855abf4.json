@@ -1,0 +1,49 @@
+{
+  "id": "a8aca49d69b5eac51599be901a30329884c49dbda917330dd1ab49af8855abf4",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756244590,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "-paid-article-teaser-day-3--aug-26-2025-identity-why-npubs-beat-usernames"
+    ],
+    [
+      "title",
+      "🔒 Paid Article Teaser (Day 3 – Aug. 26, 2025): Identity: Why npubs Beat Usernames"
+    ],
+    [
+      "summary",
+      "Owning your identity vs. renting it from platforms — and why npubs are passports, not costumes."
+    ],
+    [
+      "published_at",
+      "1756244590"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "identity"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ]
+  ],
+  "content": "Most people think a username is an identity. It’s not — it’s a lease.\n\n- On Twitter, you’re a tenant.\n- On LinkedIn, you’re a tenant.\n- On YouTube, you’re a tenant.\n\nIf the landlord doesn’t like you, your “identity” disappears.\n\nAn **npub** is different: it’s math, not permission. It’s yours even if every relay but one shuts down.\n\nIn the full article, I share:\n\n- Why usernames are costumes, not roots\n- How npubs function as sovereign passports\n- Why custody, identity, and exit apply to people as much as money\n\n🔒 **Full article available for 500 sats.** Zap me and I’ll send it via encrypted DM while I finish building the automated unlock flow in Continuum.",
+  "sig": "0b412f1bee1e27c404a975c3378c542edd4d7f6157aa242d1dedb52266fba247947390c9e9a8d9e875301b489ee2e7673558029f08d10b1beb9503de806d83c2",
+  "_source": [
+    "primal backup"
+  ]
+}

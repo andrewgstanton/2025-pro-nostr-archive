@@ -1,0 +1,77 @@
+{
+  "content": "Andrew G. Stanton — Sept. 2, 2025\n\nThe story of Web2 is often told as one of innovation and progress. We celebrate the rise of social media, global connectivity, and the tools that reshaped how we communicate. But beneath the surface lies a quieter truth: much of Web2 was disposable. Platforms that once felt permanent — the center of our digital lives — vanished almost overnight, leaving users with nothing but the realization that they never truly owned what they had built.\n\nConsider **MySpace.** At its peak, it was the world’s largest social network. Musicians built careers on it, communities thrived, and millions of users believed it was the new town square. Then Facebook arrived, and MySpace collapsed. The labor poured into building pages, curating profiles, and connecting communities disappeared.\n\nOr **Friendster**, which predated MySpace. For a brief moment, it felt like the future of online social life. But technical problems, poor execution, and competition doomed it. The friendships and identities people created there are long gone, inaccessible to those who lived them.\n\n**AOL** once dominated the internet itself. For millions, “You’ve got mail” was not just a slogan but an experience. Yet its walled-garden model crumbled when the open web scaled faster. Billions of hours spent in chat rooms and communities vanished when AOL faded.\n\n**Yahoo** was once the homepage of the internet. Its email service, search engine, and news portal were daily essentials. But Yahoo missed the transition to mobile and search dominance by Google. What seemed indispensable was revealed as fragile.\n\nAnd then there’s **Skype.** For years it was the standard for online calling, nearly synonymous with video chat. Families, businesses, and global communities relied on it. Yet when Microsoft acquired it, the service was slowly degraded, losing ground to Zoom and other tools. Skype didn’t collapse overnight, but it faded into irrelevance, leaving users to migrate elsewhere.\n\nThe lesson across these examples is simple: **platforms are not property.** Users believed they were investing in something durable, but they were really tenants in someone else’s ecosystem. When the platform died, so did their work, their relationships, and their history.\n\nWeb2’s disposability was not always malicious. Many founders intended to build lasting companies. But the incentive structures — venture capital funding, growth-at-all-costs models, centralized control — made permanence impossible. If a company could not grow fast enough, it was acquired or abandoned. Users had no recourse, because they never truly owned the rails.\n\nThis matters today because we are living through the same pattern again in Web3. The hype around NFTs, DeFi, and DAOs echoes the same promises of permanence, ownership, and transformation that Web2 once made. And just as with Web2, many of these promises will collapse, leaving behind disposable shells.\n\nBut the deeper lesson is not just about technology. It is about sovereignty. Web2 revealed that systems built on centralized control are disposable by design. They depend on the survival of the platform itself, and platforms are fragile. By contrast, systems built on open protocols and incorruptible property — like Bitcoin — endure because they do not depend on a company’s quarterly earnings or a token’s hype cycle.\n\nWeb2 gave us a generation of disposable tools. But it also gave us clarity. Once we recognize disposability for what it is, we can refuse to build our future on sand. We can choose instead to build cathedrals — slow, sovereign, and enduring.\n\n---\n\n## Acknowledgement\nThis article was drafted with the help of Dr. C - ChatGPT (GPT-5), which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology\n\n---\n\n## Zaps Appreciated\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers, just direct proof that this work matters. It helps me keep building Continuum and writing about sovereign technology, freely and without VC overhead. Thank you.\n\nYou can send zaps to my lightning address here : andrewgstanton​​​​@primal.net",
+  "created_at": 1763180572,
+  "id": "a4fd9a9db3b3f5bfd80f4903c59bdd3576d8ee432f9ee931bd5176094a1c134f",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "bfe503a7b07ed2498d5961319987fcff5964ece1c283b24a436a780d10d2fe5a5fb1817e49914fb960c33d5017793fc27b5bde0c7c5b69e57b5d7575b772923c",
+  "tags": [
+    [
+      "d",
+      "free-article-1-sept-2-2025-lessons-from-web2--the-rise-and-fall-of-disposable-platforms"
+    ],
+    [
+      "title",
+      "Free Article 1 (Sept. 2, 2025): Lessons from Web2 — The Rise and Fall of Disposable Platforms"
+    ],
+    [
+      "published_at",
+      "1763180572"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "From MySpace to Skype, Web2 promised permanence but delivered disposability. Users invested their labor into platforms they did not own, only to lose everything when hype or competition overtook them. The lesson: platforms are fragile, but Bitcoin offers property that endures."
+    ],
+    [
+      "display_date",
+      "2024-09-02"
+    ],
+    [
+      "t",
+      "web2"
+    ],
+    [
+      "t",
+      "disposability"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "platforms"
+    ],
+    [
+      "t",
+      "ownership"
+    ],
+    [
+      "t",
+      "history"
+    ],
+    [
+      "t",
+      "free"
+    ],
+    [
+      "e",
+      "21f51627189b50d71cb9a59696977b1a668e8f6ec306ba5cd4e2d3062b0c62b5",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://relay.damus.io"
+  ]
+}

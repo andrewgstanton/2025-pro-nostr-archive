@@ -1,0 +1,145 @@
+{
+  "id": "bbbb71f5b732f4628b388635f5f9e30873db6f35b79304ed0e644390e37f757c",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1762827158,
+  "kind": 30023,
+  "tags": [
+    [
+      "title",
+      "Why I Left Web3 for Proof of Work – Part 4: Proof of Work as Philosophy"
+    ],
+    [
+      "summary",
+      "Web3 talked a lot about freedom — but it didn’t ask much of me.\nBitcoin didn’t say much — but it demanded everything."
+    ],
+    [
+      "image",
+      "https://blossom.primal.net/3e311f35c422ffdec2692e46d1aa05e648ae7ef2a0174d76c9fdb86ab62bd2ab.png"
+    ],
+    [
+      "d",
+      "why-i-left-web3-for-proof-of-work-–-part-4:-proof-of-work-as-philosophy"
+    ],
+    [
+      "t",
+      "Bitcoin"
+    ],
+    [
+      "t",
+      "ProofOfWork"
+    ],
+    [
+      "t",
+      "Web3Exit"
+    ],
+    [
+      "t",
+      "WhyBitcoin"
+    ],
+    [
+      "t",
+      "BitcoinerJourney"
+    ],
+    [
+      "t",
+      "BuildWithConviction"
+    ],
+    [
+      "t",
+      "LongForm"
+    ],
+    [
+      "t",
+      "FaithAndFinance"
+    ],
+    [
+      "t",
+      "PoWNotPoS"
+    ],
+    [
+      "t",
+      "Startups"
+    ],
+    [
+      "t",
+      "NostrWriting"
+    ],
+    [
+      "t",
+      "SovereignTech"
+    ],
+    [
+      "t",
+      "BitcoinNotCrypto"
+    ],
+    [
+      "t",
+      "StillBuilding"
+    ],
+    [
+      "t",
+      "ConvictionOverCommunity L"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "client",
+      "Primal"
+    ],
+    [
+      "published_at",
+      "1747624716"
+    ]
+  ],
+  "content": "Andrew G. Stanton - May 18, 2025\\\n\\\nWeb3 talked a lot about freedom.\\\nBut it didn’t ask much of me.\n\nParticipation meant showing up, clicking, co-signing, reacting.\\\nA few emoji could pass a vote. A few posts could signal alignment.\\\nBut there was no real cost.\\\nNo friction.\\\nNo weight.\n\nIt felt easy — and eventually, it felt empty.\n\n***\n\nBitcoin, by contrast, never asked for my attention.\\\nIt demanded my effort.\n\nProof of Work isn’t just what *secures* Bitcoin.\\\nIt’s what shapes the people who actually engage with it.\n\nYou can’t fake time.\\\nYou can’t fake energy.\\\nYou can’t fake commitment.\n\nIf you want to mine a block, you need to burn electricity.\\\nIf you want to hold your keys, you need to learn what that means.\\\nIf you want to build with Bitcoin, you’re staking *skin*, not vibes.\n\n***\n\nEventually I realized: this isn’t just a consensus algorithm.\\\nIt’s a *way of seeing the world*.\n\nProof of Work is an ethic.\\\nIt values restraint.\\\nIt rewards effort.\\\nIt penalizes shortcuts.\n\nIt’s the opposite of what most of the internet has become.\n\n***\n\nWeb3 tried to engineer consensus through incentive design — but consensus without cost is hollow.\n\nIn Bitcoin, there is no shortcut to agreement.\\\nYou either do the work, or you don’t get a say.\\\nYou can’t tweet your way into a block. You can’t fork your way into consensus.\\\nYou *earn* your way — through time, electricity, and conviction.\n\n***\n\nThe deeper I leaned into Bitcoin, the more it reshaped me:\n\n* I stopped trying to “move fast” and started focusing on *lasting things*.\n\n* I began to care more about how work was *verified*, not just how it looked.\n\n* I started pruning systems — and relationships — that couldn’t carry weight.\n\nEven in how I think about faith, work, rest, and community — I’ve started asking:\n\n\\> Is this real?\\\n\\> Does this cost anything?\\\n\\> Is this proof of *something*?\n\n***\n\nFiat culture taught me to act like time was cheap.\\\nPoW culture reminded me: **time is everything**.\n\nFiat let me pretend I could get something for nothing.\\\nPoW told me the truth — *you can’t.*\n\n***\n\nI no longer want to participate in systems that reward shortcuts.\\\nI want to build slowly, honestly, and with weight.\n\nProof of Work isn’t just what runs Bitcoin.\\\nIt’s what reforms me.\n\n***\n\n⚡ If this resonates, zap me some sats — or pass it forward.\\\n🤖 Drafted with the help of ChatGPT, who also prefers work over noise.\n",
+  "sig": "61e8c0263c2970c8ec4e1f7f9dab1dc1139c3a92fdce1f5d917d16734258f12e3c53ff63b3f1c5a7473b673ad24c99ad2996f0d4928d69dcfd51c7c23d61bdf2",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.damus.io"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "content": "Andrew G. Stanton - July 3, 2025\n\n# How Skype’s 2025 Shutdown Pushed Me to Start Building Sovereign Software\n\nIn May 2025, Microsoft shut down Skype.\n\nQuietly, and without ceremony, one of the world’s oldest internet communication tools — a platform that powered many early startup teams and remote collaborations — was gone.\n\nFor StartNation, it meant an abrupt pivot. We had to move all our team communication to Discord. I wasn’t new to it — I’d first used Discord back in 2019 through the Evergreen Coin community. At the time, it was just a chat app. Free, decently built, and surprisingly good for group discussions.\n\nBut that shift — from Skype to Discord — made something click.\n\nSuddenly I could see how deeply embedded we were in tools we didn’t own.  \nWe used Discord for communication, GitHub for code, and depended on centralized platforms and APIs for almost everything else.\n\nWe didn’t think much of it… until one of them got shut down.\n\nSkype’s death wasn’t the real problem.  \nIt was a **symptom** — of a deeper issue.\n\n> We were renting our entire workflow.  \n> And in doing so, we were **renting our own signal**.\n\n---\n\n### 🛑 The Wakeup Call\n\nWhat happens when your tools disappear mid-project?  \nWhat if GitHub flags your repo?  \nWhat if Discord bans your server?\n\nSure, you can rebuild.  \nBut what you’ve lost — your posts, threads, commits, relationships — might never come back.\n\nThat’s when I started building **MyContinuum**.\n\n---\n\n### 🛠️ The Path Forward: Sovereign Tools\n\nMyContinuum isn’t just another app.  \nIt’s a **response**.\n\nA response to being dependent on infrastructure I don’t control.  \nA response to watching others get deplatformed, demonetized, or quietly erased.  \nA response to the slow erosion of ownership in a world where everything is on loan from someone else’s server.\n\nNow I publish articles, share thoughts, and track signal —  \nall from a stack I control, and I am seriously thinking of integrating git into this as well.\n\nLocal when I want it.  \nZappable when I share it.  \n**Mine either way.**\n\n---\n\n### ✊ Closing\n\nSo no — Discord wasn’t the villain.  \nIt was just the final nudge.\n\n> I’m done renting my own data.  \n> I’m done outsourcing my voice, my work, or my relationships.  \n> I’m building sovereignly now — and helping others do the same.",
+  "created_at": 1763171088,
+  "id": "17be3a3ecde8d518892d629f94e9b649606d0be95a1cdc7732f5f0951aab9cfa",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "0a9e9c2a4ae212208cd122df56a29e5871f92d5594b541ee842ee0f625fcb75912e7e6fb918bc36830b5f75aad250414d45620f40f01b8e429cff1f80fb33d73",
+  "tags": [
+    [
+      "d",
+      "discord-wasnt-the-problem--platform-dependence-was"
+    ],
+    [
+      "title",
+      "Discord Wasn’t the Problem — Platform Dependence Was"
+    ],
+    [
+      "published_at",
+      "1763171088"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "After Microsoft shut down Skype in May 2025, I realized how fragile our workflows really are. Moving to Discord wasn’t the issue — it was the wakeup call. This post traces how that moment led me to build MyContinuum: a sovereign stack for publishing, coding, and communicating without renting my own signal."
+    ],
+    [
+      "display_date",
+      "2025-07-03"
+    ],
+    [
+      "t",
+      "platform-dependence"
+    ],
+    [
+      "t",
+      "discord"
+    ],
+    [
+      "t",
+      "startnation"
+    ],
+    [
+      "t",
+      "showbusiness"
+    ],
+    [
+      "t",
+      "mycontinuum"
+    ],
+    [
+      "t",
+      "blog"
+    ],
+    [
+      "t",
+      "article"
+    ],
+    [
+      "e",
+      "ecd0dd40c030a537a65feafc205a3f4f59fd6e95ab18b0cc4f98a1fe255e0fd2",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.damus.io"
+  ]
+}

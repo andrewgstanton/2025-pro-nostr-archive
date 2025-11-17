@@ -1,0 +1,49 @@
+{
+  "id": "8fc0f5bc3924f49b4022951e041046f1369441b2f6ab571d559124f1f736f31d",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756261889,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "momentum--gratitude"
+    ],
+    [
+      "title",
+      "Momentum + Gratitude"
+    ],
+    [
+      "summary",
+      "Finding joy in consistency — daily publishing as fuel for Continuum."
+    ],
+    [
+      "published_at",
+      "1756261889"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "writing"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Aug. 26, 2025\n\nThere’s a rhythm I’ve been leaning into lately: wake up, write, publish. Then do it again tomorrow.\n\nIt sounds simple, almost too simple, but it has changed how I see my work. I’m not writing for algorithms. I’m not waiting to see whether a certain post “performs.” I’m not keeping score by follower counts or sats earned. I’m writing because the act itself is fuel.\n\nMomentum matters. And it’s surprising how quickly momentum builds when you show up consistently.\n\nEach article is a stone added to the foundation I’m building with Continuum. I’ve noticed how even short reflections, when stacked day after day, become something larger. A pattern emerges. A story takes shape. When I look back, I can see the arc — not from one “breakthrough” moment, but from the small daily deposits into the work.\n\nThat’s the discipline I’m grateful for. It reminds me that progress doesn’t come in sudden leaps, but in steady steps.\n\nWe live in a culture that prizes immediacy. Instant results. Viral moments. The big leap that changes everything overnight. But when I zoom out, most of the meaningful things I’ve built — whether in trading, real estate, or software — followed the same pattern: daily steps forward, sometimes exciting, sometimes mundane, all adding up to something real.\n\nContinuum is no different. I could wait until it’s “ready,” or until there’s a milestone to announce. But publishing along the way — even when I’m not sure who’s reading, even when the work feels incomplete — gives the project life.\n\nAnd more than that, it gives me life.\n\nMomentum creates energy. Publishing daily sharpens my thinking, pulls me into conversations, keeps me accountable. I might start an article without much clarity, but by the end, the act of writing has carved a sharper path. And because it’s public, I can’t hide. I’m forced to shape the rough edges into something coherent enough to share.\n\nGratitude comes from that discipline. Gratitude for the words themselves. Gratitude for the people who respond. Gratitude for the reminder that small steps are not wasted steps.\n\nThe truth is, I don’t know exactly where Continuum will be six months from now. But I do know that if I keep writing daily, showing up consistently, it will be further along than it is today. The habit itself becomes the reward.\n\nAnd maybe that’s the deeper lesson: momentum is not just about building a product, it’s about becoming a person who keeps showing up.\n\nDay by day. Word by word. Line by line.\n\nThat’s how real things are built.\n\n---\n\n## Acknowledgement\n\nThis article was drafted with the help of Dr. C - ChatGPT (GPT-5), which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology\n\n## Zaps Appreciated\n\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers, just direct proof that this work matters. It helps me keep building Continuum and writing about sovereign technology, freely and without VC overhead. Thank you.\n\nYou can send zaps to my lightning address here : andrewgstanton​​​@primal.net",
+  "sig": "71341285ed4f19f9556acc5286f3c791bc6b980178450fde2debc872bf63d0213af790269cee108e5c6de09fbe9701a7343f98fb7aa9e49d5c0ef3158b07d5ed",
+  "_source": [
+    "primal backup"
+  ]
+}

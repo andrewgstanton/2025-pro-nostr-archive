@@ -1,0 +1,72 @@
+{
+  "id": "281c321bf729d63622a9ef9096ced1f75777f1aee4f64ec8204b047f9340c959",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1762719732,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "free-article-2-nov-5-2025-two-platforms-one-trap"
+    ],
+    [
+      "title",
+      "Free Article 2 (Nov. 5, 2025): Two Platforms, One Trap"
+    ],
+    [
+      "published_at",
+      "1762719732"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "Selling an ebook should be simple. But when every step—design, checkout, delivery—happens inside a different walled garden, creators end up trapped between systems that were never meant to connect."
+    ],
+    [
+      "display_date",
+      "2025-11-05"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ],
+    [
+      "t",
+      "creatortools"
+    ],
+    [
+      "t",
+      "ebook"
+    ],
+    [
+      "t",
+      "openweb"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "free"
+    ],
+    [
+      "e",
+      "49d50aa30423b0520d8d0738640f88a45115b56156923597acc57353ef9feb54",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Nov. 5, 2025\n\nPicture this: you’ve just finished writing an ebook. It’s short, sharp, and useful. You fire up Canva, choose a modern layout, and within a few hours you have something professional enough to sell. The problem? Canva isn’t a store. It’s a design platform. You can export the file, but not the relationship with your readers. So you turn to Gumroad to handle sales and delivery.\n\nNow you’re living between two platforms—two separate walled gardens, each with its own rules. Canva keeps your design; Gumroad keeps your customers. You have access to both, but ownership of neither.\n\nThe friction begins small. You update your cover on Canva and have to re-upload it manually to Gumroad. You tweak a sentence and realize that older buyers won’t automatically get the revision. You start collecting emails through Gumroad but can’t message them freely without paying for another tier. Before long, the “simple” workflow you built feels like an assembly line run by invisible managers.\n\nEach platform captures a slice of your effort. Canva’s export formats, Gumroad’s fees, PayPal’s cuts—every layer inserts itself between creator and audience. What was supposed to be a straight line becomes a maze of dashboards, logins, and dependencies. The dream of independence turns into a quiet form of digital feudalism.\n\nThis isn’t limited to ebooks. Musicians, photographers, and podcasters live in the same ecosystem of fragments. The modern creator’s life is spent bridging silos—moving files from one proprietary box to another. When you add social media to the mix, the cycle becomes endless: design in one app, host in another, promote in a third, monetize in a fourth. Each one owns a small but vital piece of your identity.\n\nAnd when one of those services changes direction—as they inevitably do—you have no recourse. Years of work can vanish behind a login screen or get buried by an algorithmic “update.” Your livelihood becomes subject to decisions made in rooms you’ll never enter.\n\nThe tragedy is that we’ve confused professionalism with captivity. A platform’s polish gives the illusion of safety. But what creators truly need is *portability*—the ability to take their work, followers, and revenue anywhere. Without that, “ease of use” becomes a gilded cage.\n\nThat’s why open protocols like Nostr matter. They don’t ask you to sign terms of service; they ask you to sign with your key. A post is an event, not a post on “someone’s” network. Payment via Bitcoin or Lightning is direct, not mediated. The infrastructure is shared, not owned.\n\nImagine if your ebook could live the same way. You publish it once, as a signed event, and anyone who wants it can verify authenticity and pay you directly. No middlemen, no expired links. Just creator and reader, connected by math and intent.\n\nThis is not nostalgia for a lost internet—it’s a blueprint for a new one. The tools of self-sovereignty aren’t as smooth, but they’re stable. They don’t vanish when a CEO pivots. They don’t de-platform you when your niche falls out of favor. They persist, because they belong to no one and serve everyone.\n\nWe don’t need more apps that promise “freedom” through convenience. We need open frameworks that respect creators as owners, not tenants. Every new platform is another set of walls; every open protocol is another path home.\n\nSelling an ebook shouldn’t mean selling your independence. The tools exist to make that trade unnecessary. The real question is whether we’re brave enough to use them.\n\n---\n\n## Acknowledgement\n\nThis article was drafted with the help of Dr. C — GPT-5, which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology.\n\nI dedicate this work to the Holy Spirit, who continues to inspire me and open my imagination. If there is any light in these words, it comes not from me but from the Spirit who gives them. To Him be the glory.\n\n## Zaps Appreciated\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers. Thank you.\n\nLightning address: andrewgstanton@primal.net\n\n## Copyright\n\n© 2025 Continuum — All rights reserved.",
+  "sig": "8066ab0e42b875e43179eaa2705cb4a312ec32a50990323f8edca5f7d03153a87861ca9412ab5e377c96a80c8eb89ca46dbac11021220975046992188c5a5e47",
+  "_source": [
+    "wss://nos.lol",
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.damus.io"
+  ]
+}

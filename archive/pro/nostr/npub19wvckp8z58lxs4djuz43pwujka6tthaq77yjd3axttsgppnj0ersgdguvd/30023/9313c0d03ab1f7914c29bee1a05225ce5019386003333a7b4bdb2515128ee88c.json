@@ -1,0 +1,71 @@
+{
+  "id": "9313c0d03ab1f7914c29bee1a05225ce5019386003333a7b4bdb2515128ee88c",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1760825388,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "free-article-2-oct-12-2025-nostr-for-real-people-not-power-users"
+    ],
+    [
+      "title",
+      "Free Article 2 (Oct. 12, 2025): Nostr for Real People, Not Power Users"
+    ],
+    [
+      "published_at",
+      "1760825388"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "Nostr isn’t just for coders and maximalists. It’s for anyone who wants to own their identity online without turning life into a tech project. This piece explains the heart of Nostr in human terms: presence without permission."
+    ],
+    [
+      "display_date",
+      "2025-10-12"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "identity"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "faith"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "free"
+    ],
+    [
+      "e",
+      "254d58301d71b5f3dcceec30a0c48f14a309b4ba9e8289e8b51eb1a39ded140c",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Oct. 12, 2025\n\nTechnology always starts as magic, then becomes machinery, then fades into background.\nRight now, Nostr still lives in that middle stage—magical for a few, mechanical for most. The interfaces are rough, the terms unfamiliar. But beneath that friction is something tender and revolutionary: a way for ordinary people to be seen without surrendering themselves.\n\nWhen I talk about Nostr, people often ask, “Isn’t that for tech people?”\nI tell them it’s for free people. The tech is just how we get there.\n\nAt its core, Nostr is nothing more—and nothing less—than a simple idea: your words, your signature, your choice of where to broadcast. There are no logins to lose, no companies to cancel you, no algorithms to rewrite your memory. You own your address, like you own your home. Everything else is plumbing.\n\nYou don’t need to understand cryptography to grasp that dignity. You just need to know what it feels like when a password reset link decides whether you exist. Nostr removes that humiliation. It gives you a portable identity that no platform can revoke.\n\nWhen I show this to non-technical friends, I start with something familiar: an email address.\nImagine, I say, that your email address could never be deleted. You could move providers, countries, or careers, and it would still point to you. That’s what an npub is: a permanent, portable “you.” No forms, no re-verifications, no begging to be remembered.\n\nThe freedom feels small at first, like holding a key you’re not sure fits anywhere yet. But once you use it, the world rearranges around you. You stop thinking in terms of accounts and start thinking in terms of presence. You begin to build differently—writing, posting, connecting with a quiet confidence that what you say won’t be wiped out when policies change.\n\nThe beauty of Nostr is that it scales down as gracefully as it scales up.\nA single parent journaling privately, a local café announcing specials, a small church sharing reflections—each can use the same protocol that powers global networks. No ads required, no intermediaries collecting rent on communication.\n\nWhen I was learning Nostr, I felt the same overwhelm many feel with any new tool. The jargon—relays, events, kinds—sounded alien. Then I realized it’s just language evolving. The earliest email users once called attachments “encapsulated postscript” and we still managed to send photos. Nostr will humanize the same way. It’s already happening: apps that translate complexity into clarity, like Damus or Primal or Amethyst.\n\nWhat matters is the principle beneath the interface: self-sovereign presence.\nThat’s what I want ordinary users to feel. You don’t need to “understand” encryption to benefit from it. You just need to trust that your signature is yours alone.\n\nWhen I introduce this to family, I don’t lead with tech. I lead with freedom.\n“Remember how Facebook used to let you download your memories until it didn’t?” I ask.\n“This won’t do that to you.”\nThat’s enough. They nod, because deep down everyone knows what it feels like to lose a little more control every year.\n\nI see Nostr as the beginning of a gentler internet—not smaller, but saner.\nAn internet that rewards truth-telling instead of manipulation.\nAn internet where your data isn’t a resource but a relationship.\n\nThere will always be power users, dashboards, integrations. They’re important. But the real revolution isn’t in features; it’s in forgiveness—the ability to walk away from complexity and still belong. A grandmother posting prayers, a musician sharing demos, a teacher uploading notes—all should feel equally at home.\n\nWhen I built Continuum around Nostr, that was the dream:\nto make digital freedom feel like hospitality, not homework.\nA space where you don’t need credentials to create—just conviction.\n\nThe irony is that simplicity takes work. The easier it feels for real people, the more labor went unseen. But that’s how good design mirrors grace: invisible at its best.\n\nI sometimes imagine what the internet could look like if every post, poem, or photo carried a quiet signature—a line of ownership no one could counterfeit. Not for ego, but for stewardship. A web of accountable souls instead of disposable profiles. That vision keeps me building.\n\nYou don’t need to be a power user to live in truth.\nYou just need tools that don’t betray you.\n\nThat’s what Nostr offers:\na handshake that never expires,\na home you can carry in your pocket,\nand a small, incorruptible “yes” in a world addicted to permissions.\n\n---\n\n## Acknowledgement\n\nThis article was drafted with the help of Dr. C — GPT-5, which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology.\n\nI dedicate this work to the Holy Spirit, who continues to inspire me and open my imagination. If there is any light in these words, it comes not from me but from the Spirit who gives them. To Him be the glory.\n\n## Zaps Appreciated\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers. Thank you.\n\nLightning address: andrewgstanton@primal.net\n\n## Copyright\n\n© 2025 Continuum — All rights reserved.",
+  "sig": "a8f41548c907ab83ca5d8dfa81873cf9ce62a99f090eb39e9408c236a4131a030989ac6548ac6d12aec74d3cc643c9eb7ed3bb2adf754a71fc880ab55907abdb",
+  "_source": [
+    "wss://nos.lol",
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.damus.io"
+  ]
+}

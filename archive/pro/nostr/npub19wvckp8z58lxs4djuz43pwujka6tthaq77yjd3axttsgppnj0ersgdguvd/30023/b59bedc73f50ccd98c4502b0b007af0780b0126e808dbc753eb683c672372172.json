@@ -1,0 +1,82 @@
+{
+  "id": "b59bedc73f50ccd98c4502b0b007af0780b0126e808dbc753eb683c672372172",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756400560,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "sovereign-hiring"
+    ],
+    [
+      "title",
+      "White Paper: Sovereign Hiring"
+    ],
+    [
+      "published_at",
+      "1756400560"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "Sovereign Hiring is an open protocol for job applications built on Nostr. Instead of retyping résumés into endless portals, candidates publish their profiles once — anchored to their npub. Employers verify applications via cryptographic signatures, follow candidate feeds, and request sensitive documents selectively through encrypted events. The result: less friction, stronger trust, and a fairer global market for talent. This approach works seamlessly alongside existing boards like Bitcoiner Jobs, communities like Continuum, and even traditional sites like Craigslist, proving that sovereign identity can streamline the hiring process for everyone."
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "sovereignhiring"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ],
+    [
+      "t",
+      "futureofwork"
+    ],
+    [
+      "t",
+      "decentralizedidentity"
+    ],
+    [
+      "t",
+      "openprotocol"
+    ],
+    [
+      "t",
+      "selfsovereignidentity"
+    ],
+    [
+      "t",
+      "bitcoinerjobs"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "craigslist"
+    ],
+    [
+      "e",
+      "85b982c852d328a5b62fd0ca518379e4b566fcd2d9d18379ad98bb50507861c2",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G Stanton - Aug. 27, 2025\n\n### A Nostr-native protocol for portable, verifiable applications\n\n---\n\n## Abstract\nHiring today is fragmented across silos (ATS portals, job boards, custom forms). Candidates repeatedly retype the same data and lose control over their profiles; employers sift noise and fight fraud.  \n\n**Sovereign Hiring (SH)** proposes a portable, cryptographically verifiable application built on **Nostr**. A candidate’s **npub** anchors signed résumé data, portfolio links, references, and attestations. Employers subscribe to candidate feeds (or request encrypted packets), verify signatures, and evaluate applicants without forcing them through a new portal.  \n\nThe result: less friction, stronger trust, and an open market for talent.\n\n---\n\n## Positioning\n\n**Sovereign Hiring is not a platform or marketplace.**  \nIt is an **open protocol** for representing résumés and job applications using Nostr events.  \n\n- **Neutral:** Any job board, employer, or candidate can adopt it without asking permission.  \n- **Interoperable:** Works alongside existing job boards and communities — for example,  \n  - **Bitcoiner Jobs** could accept sovereign applications natively,  \n  - **Craigslist** could link to candidate npubs instead of email addresses,  \n  - **Continuum** could serve as a reference implementation where users publish and update their Sovereign Hiring profiles.  \n- **Candidate-first:** Applicants publish once and reuse everywhere.  \n- **Employer-friendly:** Recruiters verify authenticity quickly and integrate at their own pace.  \n\nBy design, Sovereign Hiring strengthens the ecosystem as a whole — whether you’re applying through Bitcoiner Jobs, posting on Craigslist, or publishing a profile with Continuum. The protocol is **independent and open-source**, designed to reduce friction and increase trust across all hiring flows.\n\n---\n\n## 1. Problem statement\n- Repetitive data entry across dozens of portals  \n- Opaque black-box filters; weak verification; credential fraud  \n- Candidates lose custody of their data; employers drown in noise  \n- International applicants hit language/ID roadblocks  \n\n**Goal:** give candidates self-custody of their application; give employers verifiable, machine-readable profiles delivered through an open protocol.\n\n---\n\n## 2. Design goals\n- **Portable:** one profile works everywhere (bring your npub)  \n- **Verifiable:** signatures, hashes, and optional third-party attestations  \n- **Consent-based disclosure:** private items revealed selectively  \n- **Minimal, incremental:** start with a few standard events; extend later  \n- **Backwards-compatible:** renderable on the open web; works with any Nostr client\n\n---\n\n## 3. Core concepts\n- **Anchor identity:** Nostr **npub** (kind:0 profile)  \n- **Sovereign Application Packet (SAP):** signed bundle of résumé data, portfolio items, and references  \n- **Open discovery:** employers follow npubs or query relays/indexers for SAPs  \n- **Selective reveal:** sensitive docs shared via encrypted DMs or sealed events\n\n---\n\n## 4. Data model (v1)\n\n### 4.1 Identity & profile\n- `kind:0` — display name, avatar, bio, website, contact routes  \n\n### 4.2 Résumé & experience\n- `kind:30023` — human-readable résumé pointer  \n- `kind:30078` — machine-readable résumé JSON  \n\n**Résumé JSON example**\n```json\n{\n  \"schema\": \"sh.resume.v1\",\n  \"name\": \"Andrew G. Stanton\",\n  \"roles\": [\"Full-Stack Engineer\",\"Communications Lead\"],\n  \"location\": \"US-Remote\",\n  \"skills\": {\"backend\":[\"Python\",\"Flask\"],\"frontend\":[\"React\"],\"data\":[\"SQL\",\"Pandas\"]},\n  \"experience\":[{\"org\":\"Continuum\",\"role\":\"Founder/Engineer\",\"from\":\"2024-01\",\"to\":\"present\"}],\n  \"links\":{\"site\":\"https://andrewgstanton.com\",\"github\":\"...\"},\n  \"ver\": \"1.0\"\n}\n```\n\n### 4.3 Work samples / case studies\n- `kind:30023` — project summaries with tags (e.g. `[\"case:continuum\",\"skill:sql\"]`)\n\n### 4.4 References & attestations\n- Third-party signed notes with `[\"ref-for\",\"<candidate_npub>\"]`\n\n### 4.5 Private materials\n- `kind:4` DMs or sealed events for IDs, transcripts, or sensitive docs\n\n---\n\n## 5. Application flows\n\n### Broadcast\n- Candidate publishes SAP events to relays; employers search/filter  \n\n### Targeted submission\n- Candidate shares `nostr:sja:<npub>#resume` or HTTPS landing page  \n\n### Selective disclosure\n- Employer requests sealed docs via DM; candidate provides encrypted packet\n\n---\n\n## 6. Verification & anti-spam\n- Signature checks  \n- Hash commitments for large files  \n- Optional PoW (NIP-13) for spam reduction  \n- Attestation tags (`attested-by`, `completed-interview`, `offer-made`)\n\n---\n\n## 7. Employer experience\n- **Zero-integration:** verify on a public landing page  \n- **Low-code:** subscribe to a relay for SAP events  \n- **ATS plugin:** map SAP fields into existing workflows\n\n---\n\n## 8. Privacy & safety\n- Public résumé excludes sensitive info  \n- Private docs only via encrypted sealed events  \n- Updates via new SAP tagged `supersedes:<eventid>`  \n\n---\n\n## 9. Reference implementation\n\n### Candidate app (v0.1)\n- Build résumé JSON  \n- Publish `kind:0`, `30023`, `30078`  \n- Generate HTTPS landing page  \n\n### Employer app (v0.1)\n- Lightweight JS verifier  \n- Simple shortlist UI using relay filters  \n\n---\n\n## 10. Adoption plan\n- **Phase 1:** publish SH profiles via Continuum; create landing pages  \n- **Phase 2:** pilot with 3–5 employers (Bitcoiner Jobs, etc.)  \n- **Phase 3:** ATS plugins + attestation flows  \n\n---\n\n## 11. Call to action\n- **Candidates:** publish your SH profile and include the link in applications  \n- **Employers:** add “Accept Sovereign Hiring” to postings and test the verifier  \n- **Community:** iterate schemas and reference implementations  \n\n---\n\n## Appendix A — Candidate checklist\n- Generate npub  \n- Publish résumé JSON (`30023` + optional `30078`)  \n- Add 2–3 case studies (`30023`)  \n- Create a landing page  \n- Share link in job applications  \n\n---\n\n## Appendix B — Employer checklist\n- Add verifier widget  \n- Search/follow SAP events by skill/location  \n- Pilot alongside existing ATS",
+  "sig": "67464961001e68e49e68e80c6cbbe6636e4b4e6020f04cde508e4499b8e7ce94027cd7b1ea65e71fb9f7135c47027426bc34d3298b5965e19182efeb12be2c5b",
+  "_source": [
+    "primal backup"
+  ]
+}

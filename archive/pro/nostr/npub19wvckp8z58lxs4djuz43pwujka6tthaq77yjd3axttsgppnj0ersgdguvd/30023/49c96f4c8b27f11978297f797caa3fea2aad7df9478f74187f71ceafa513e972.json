@@ -1,0 +1,78 @@
+{
+  "id": "49c96f4c8b27f11978297f797caa3fea2aad7df9478f74187f71ceafa513e972",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1760292230,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "-free-article-2-sept-29-2025-five-thirty-in-two-time-zones"
+    ],
+    [
+      "title",
+      "🕰️ Free Article 2 (Sept 29, 2025): Five-Thirty in Two Time Zones"
+    ],
+    [
+      "published_at",
+      "1760292230"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "A precise reflection on the evening of Sept 29 when your father passed—marking the simultaneity of time between Honolulu and San Francisco, and the quiet recognition that goodbye had already been spoken."
+    ],
+    [
+      "display_date",
+      "2025-09-29"
+    ],
+    [
+      "t",
+      "grief"
+    ],
+    [
+      "t",
+      "faith"
+    ],
+    [
+      "t",
+      "family"
+    ],
+    [
+      "t",
+      "continuumessays"
+    ],
+    [
+      "t",
+      "presence"
+    ],
+    [
+      "t",
+      "eternity"
+    ],
+    [
+      "t",
+      "time"
+    ],
+    [
+      "t",
+      "free"
+    ],
+    [
+      "e",
+      "070a706806026a92861febc7ee821f5a7534109c563861c280b05c60d04f206f",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Sept. 29, 2025\n\nAt 8 p.m. in San Francisco, I texted Liz to ask how Dad was doing. I’d been awake again after a few hours of rest, still fogged from travel. She wrote that he was peaceful—the family was gathered around the table, Duke playing cards, the room calm. Morphine had been given. Reading that message, I felt both far and near at once. The house I’d left that morning was still the center of everything.\n\nHalf an hour later came the next message: 5:30 p.m. Hawaii time. Fred had checked on him; the breathing had stopped. It was gentle. He was gone.\n\nThe numbers themselves seemed unreal—8:30 p.m. here, 5:30 p.m. there—two clocks describing one moment. The same ocean that divided us also joined the hours. I thought of the apartment window on Queen Street, the same one that caught the evening light when we changed oxygen tanks the day before. The sun would have been setting then, light pouring through the curtains. In San Francisco, night had already fallen.\n\nI didn’t cry immediately. Grief often arrives through silence before sound. I simply sat on the edge of the bed, phone in hand, letting the stillness widen. It wasn’t shock; it was recognition. I had already said goodbye the night before, and now time itself had confirmed it.\n\nThere is something exacting about the moment a parent dies—it divides your life cleanly into before and after. Yet what I felt wasn’t emptiness; it was completion, as if a long breath had finally been released. Five-thirty in one place, eight-thirty in another, and everything that mattered held steady between them.\n\nI typed a short reply—thankful, brief—and turned off the phone. Outside the window, the city went on as usual: cars, wind, the faint hum of life. Somewhere across the ocean, another kind of quiet had begun.\n\n---\n\n## Acknowledgement\n\nThis article was drafted with the help of Dr. C — GPT-5, which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology.\n\nI dedicate this work to the Holy Spirit, who continues to inspire me and open my imagination. If there is any light in these words, it comes not from me but from the Spirit who gives them. To Him be the glory.\n\n## Zaps Appreciated\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers. Thank you.\n\nLightning address: andrewgstanton@primal.net\n\n## Copyright\n\n© 2025 Continuum — All rights reserved.",
+  "sig": "3bb86d9f15e1edaad24ea0e76760fad5d810fad24836e4421e6b3996eefb7993442ca8c9ced0450c573bfeb6afe841ffebfc0a6cc3baf79f1635b2ec4ac0bc0f",
+  "_source": [
+    "primal backup",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.damus.io"
+  ]
+}

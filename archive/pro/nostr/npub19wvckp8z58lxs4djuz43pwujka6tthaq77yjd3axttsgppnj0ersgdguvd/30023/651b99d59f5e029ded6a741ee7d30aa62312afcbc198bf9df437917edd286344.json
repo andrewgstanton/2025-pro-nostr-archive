@@ -1,0 +1,90 @@
+{
+  "content": "Andrew G. Stanton - May 21, 2025\n\nI recently released my first open-source tool:\\\n👉 [**nostr-signal-filter**](https://github.com/andrewgstanton/nostr-signal-filter)\n\nIt fetches and formats your **latest top-level Nostr note or long-form article**, cleans up any embedded links using **TinyURL**, and outputs a clean version ready for reposting to:\n\n* LinkedIn\n\n* Facebook\n\n* X / Twitter\n\n***\n\n## ⚙️ Built for Simplicity\n\nThe stack is intentionally minimal:\n\n* Python + WebSockets + Bech32\n\n* TinyURL API for link shortening\n\n* Dockerized CLI usage:\n\n```\nbash\n```\n\nCopyEdit\n\n`docker run --rm -e PUBKEY=npub1yourpubkeyhere nostr-fetcher > latest.md`\n\nFrom idea to working repo took **under 3 hours** — including debugging, Docker tweaks, README cleanup, and tagging a clean release.\\\n\\\nThis most certainly would have taken much longer if I had done this all without ChatGPTs' help.\\\n\\\n🖼️ Example Output (`latest.md`)\n\n```\ntext\n```\n\nCopyEdit\n\n`🕒 2025-05-20 22:24:17 📄 Note (originally posted on Nostr/primal.net) --- 🚨 New long-form drop: AI Isn’t Magic. It’s Engineering. How I use ChatGPT like any other tool in the stack — with iteration, discernment, and real output. Read it here: https://tinyurl.com/ynv7jq6g ⚡ Zaps appreciated if it resonates. --- 🔗 View on Nostr: https://tinyurl.com/yobvaxkx`\n\n***\n\n## 🧪 Where I Used It\n\n* ✅ [My LinkedIn post ->](https://www.linkedin.com/posts/andrew-g-stanton_primal-activity-7330808691933282304-QjmF)\n\n  <https://www.linkedin.com/posts/andrew-g-stanton_primal-activity-7330808691933282304-QjmF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABQv18BeAPYRkxkYSr1mQStB9TczIhoXvQ>\n\n* ✅ Facebook: clean rendering with preview ->\n\n  <https://www.facebook.com/andrewgstanton/posts/pfbid027EHZ1brPRBkHQKNsqUijPdPZGvK9id9asErdTxwjSDEf336o9TsuDPeKugToVDx7l>\n\n* ✅ X/Twitter: teaser + link (had to truncate for character limit) ->\n\n  <https://x.com/AndyGStanton/status/1925045477172773136>\n\n***\n\n## 🙌 Try It Yourself\n\nIf you're publishing on Nostr but still sharing on legacy platforms:\n\n👉 [github.com/andrewgstanton/nostr-signal-filter](https://github.com/andrewgstanton/nostr-signal-filter)\n\n* Clean output\n\n* Easy to run\n\n* Portable via Docker\n\nAll it needs is your `npub`.\n\n***\n\n## ⚡ Zap Me If You Found This Useful\n\nIf this tool saved you time — or if it sparked ideas for your own Nostr publishing stack —\\\nsend a zap my way. I’m always looking to connect with other creators who value **signal > noise**.\n\n🔗 [Zap on Primal -> https://primal.net/andrewgstanton](https://primal.net/andrewgstanton)\n\n***\n\n## 🔭 Next Features (I’d Love Help With)\n\n* Archive all notes + articles (not just the latest 50) to `archive.md`\n\n* Function to shorten links in **any** text block\n\n* Output `post.md` for any given Nostr event ID (not just latest)\n\n* Optional API integration to post directly to LinkedIn or X\n\n***\n\nBuilt with ChatGPT’s help.\\\nIterated. Published. Cross-posted.\\\nThat’s proof of work.",
+  "created_at": 1763187746,
+  "id": "651b99d59f5e029ded6a741ee7d30aa62312afcbc198bf9df437917edd286344",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "ea7adee0cc368c2394286fc9355bd742bd4523f1697b8b4ed421d14b216bad3ef78792d0ee267e18e47c1a6db7078d73d7ea89ca9e89af67385d7d5cb5619a5d",
+  "tags": [
+    [
+      "d",
+      "how-i-built-a-tool-to-cross-post-nostr-notes-to-linkedin,-facebook,-and-x-—-in-under-3-hours"
+    ],
+    [
+      "title",
+      "How I Built a Tool to Cross-Post Nostr Notes to LinkedIn, Facebook, and X — in Under 3 Hours"
+    ],
+    [
+      "published_at",
+      "1763187746"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "I built a small open-source tool that fetches my latest Nostr post or article, cleans up links, and formats it for cross-posting to LinkedIn, Facebook, and Twitter — all in under 3 hours. Now anyone can publish once and share intentionally. Zaps appreciated if it helps you too."
+    ],
+    [
+      "display_date",
+      "2025-05-21"
+    ],
+    [
+      "image",
+      "https://blossom.primal.net/32e24adf64607c754c5e746fb95699f611e3e099e7f8be9c373248ded0c1496c.png"
+    ],
+    [
+      "t",
+      "Nostr"
+    ],
+    [
+      "t",
+      "Bitcoin"
+    ],
+    [
+      "t",
+      "OpenSource"
+    ],
+    [
+      "t",
+      "CrossPosting"
+    ],
+    [
+      "t",
+      "ProofOfWork"
+    ],
+    [
+      "t",
+      "Python"
+    ],
+    [
+      "t",
+      "ChatGPT"
+    ],
+    [
+      "t",
+      "Docker"
+    ],
+    [
+      "t",
+      "Automation"
+    ],
+    [
+      "t",
+      "ZapRequest"
+    ],
+    [
+      "e",
+      "9f4a78c6026c1c5e858eee0115fa82dc79b9153ffaabb2a8892d0edec2a65f70",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.damus.io"
+  ]
+}

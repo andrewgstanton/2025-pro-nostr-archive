@@ -1,0 +1,53 @@
+{
+  "id": "7722821d037f23ab7fcbc0175a2d005bb1052ae840bc93c7ac0fe341e049b14e",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756755288,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "-teaser-2-walled-gardens"
+    ],
+    [
+      "title",
+      "🔑 Teaser 2 (Walled Gardens)"
+    ],
+    [
+      "summary",
+      "Walled gardens trap our identities just like fiat traps our money. Bitcoin and Nostr are the way out."
+    ],
+    [
+      "published_at",
+      "1756755288"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "walledgardens"
+    ],
+    [
+      "t",
+      "openprotocols"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Sept. 1, 2025\n\nThe internet was supposed to set us free. Anyone could publish. Anyone could connect. Borders would fade in a flood of peer-to-peer communication. But somewhere along the way, the promise of openness collapsed into the reality of walled gardens.\n\nFacebook owns our social graphs. LinkedIn locks away our professional histories. Even our encrypted chats flow through servers controlled by corporations whose allegiance is to shareholders, not citizens. We don’t own our digital selves—we rent them.\n\nBitcoin broke the monopoly on money. Now, Nostr breaks the monopoly on identity. Together, they give us the foundation for digital sovereignty.\n\n*(Full article submitted to Bitcoin Magazine)*",
+  "sig": "4331d4e0bf6dfff7a15145216e394669c1f7b39e259910518cc0c51b0ede7beadd1174e4bb29d64628aec045a401a27db9c66ca1a0aedb36c90719f2e52ca978",
+  "_source": [
+    "primal backup"
+  ]
+}

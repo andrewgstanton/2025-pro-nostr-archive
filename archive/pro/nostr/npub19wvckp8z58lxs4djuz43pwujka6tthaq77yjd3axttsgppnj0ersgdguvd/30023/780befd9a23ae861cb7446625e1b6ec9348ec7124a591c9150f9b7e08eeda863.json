@@ -1,0 +1,53 @@
+{
+  "id": "780befd9a23ae861cb7446625e1b6ec9348ec7124a591c9150f9b7e08eeda863",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756415123,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "free-article-2-day-5---aug-28-2025--mars-will-have-its-own-lightning-economy"
+    ],
+    [
+      "title",
+      "Free Article 2 (Day 5 - Aug. 28, 2025) : Mars Will Have Its Own Lightning Economy"
+    ],
+    [
+      "summary",
+      "Settlers will pre-seed Lightning channels before departure, creating instant, peer-to-peer Martian markets that grow into a planet-to-planet Bitcoin economy."
+    ],
+    [
+      "published_at",
+      "1756415123"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "lightningnetwork"
+    ],
+    [
+      "t",
+      "mars"
+    ],
+    [
+      "t",
+      "spaceeconomy"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Aug. 28, 2025\n\nEvery frontier builds its own markets. In gold rush towns, it was miners trading tools, food, and lodging. On Mars, it will be settlers trading oxygen, greenhouse produce, and 3D-printed parts. But unlike frontier towns of the past, Mars will use a monetary system built for sovereignty: Bitcoin Lightning.\n\n## Pre-Loaded Channels Before Departure\n\nImagine you’re part of the first 1,000 settlers. Before boarding the Starship, you lock in sats into Lightning channels with Earth partners. By the time you land on Mars, you already have a digital wallet ready to trade instantly. From day one, settlers can pay for rations, rent habitat modules, and tip engineers—all without Earth’s permission.\n\n## Circular Economies in Action\n\nLightning thrives in small, dense networks. On Mars, that’s exactly what you’ll have: a tightly knit group of settlers relying on each other for survival. When one person grows food, another maintains oxygen scrubbers, and a third runs a 3D printer, Lightning makes trade frictionless. Every transfer is peer-to-peer, instant, and final.\n\n## Liquidity and Risk\n\nOf course, Martian Lightning won’t be perfect. Liquidity shortages could occur if too few sats were seeded before launch. Settlers might face disputes or failed channels. But the system is robust enough to adapt. Unlike banks, which collapse when intermediaries fail, Lightning allows settlers to reroute payments through alternate peers.\n\n## Bridging Back to Earth\n\nOver time, Martian Lightning nodes will re-sync with Earth, enabling trade across worlds. A scientist could sell unique isotopes to Earth labs. A manufacturer could export high-value components. All of it settled trustlessly in Bitcoin, bridging two planets.\n\n## Beyond Survival: Culture and Growth\nThe beauty of Lightning is that it encourages experimentation. Settlers could launch micro-businesses—a greenhouse café, a rover repair shop, a community media outlet—funded and sustained in sats. Each experiment adds resilience to the colony.\n\nIn the end, Mars won’t just mirror Earth’s economy. It will create a new one, optimized for scarcity, distance, and sovereignty. And at its heart will be Bitcoin Lightning—a decentralized network as red and alive as the Martian soil.\n\n---\n\n## Acknowledgement\n\nThis article was drafted with the help of Dr. C - ChatGPT (GPT-5), which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology\n\n---\n\n## Zaps Appreciated\n\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers, just direct proof that this work matters. It helps me keep building Continuum and writing about sovereign technology, freely and without VC overhead. Thank you.\n\nYou can send zaps to my lightning address here : andrewgstanton​​​@primal.net",
+  "sig": "fd6fbcb9b04f90ab2da1d40f32650af32f6b55b66f9728055fb49b827a6c7c38826da1dc8e8105dc2659f1f2a60ccfeabcdcd84720e2c991e2a35f59c581942e",
+  "_source": [
+    "primal backup"
+  ]
+}

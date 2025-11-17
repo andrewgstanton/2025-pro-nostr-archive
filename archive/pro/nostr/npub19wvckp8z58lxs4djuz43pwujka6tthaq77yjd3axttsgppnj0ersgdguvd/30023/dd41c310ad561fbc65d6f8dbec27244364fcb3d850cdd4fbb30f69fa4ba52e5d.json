@@ -1,0 +1,77 @@
+{
+  "content": "Andrew G. Stanton — Sept. 2, 2025\n\nWhen Web3 arrived, it promised to fix the failures of Web2. No more dependence on centralized platforms. No more walled gardens holding identities hostage. No more fragile systems that collapsed when hype or competition shifted. Web3 was supposed to deliver decentralization, permanence, and true digital ownership.\n\nBut the reality has been very different. Web3 repeated the same pattern as Web2, only with more speculation. Beneath the branding of “ownership” and “community,” most of what was built has turned out to be disposable.\n\nTake **EOS**, which raised more than $4 billion in one of the largest ICOs in history. It promised a “decentralized operating system” for the internet. Today, it is largely irrelevant — a footnote in crypto history. The tokens remain, but the vision evaporated.\n\nOr **Terra/LUNA**, once hailed as the future of algorithmic stablecoins. In 2022 it collapsed almost overnight, wiping out billions in value and devastating ordinary people who had trusted the system. The labor that went into building on Terra was instantly worthless, stranded on a failed chain.\n\n**FTX** was not Web3 in the pure sense, but it embodied the same hype-driven culture. At its peak, it was one of the largest exchanges in the world. Within days, it imploded, exposing fraud on a massive scale. Customers who thought they owned assets discovered they had nothing but IOUs in a casino.\n\nEven the much-hyped **NFT boom** carried the same disposable DNA. Platforms like OpenSea promised artists lasting ownership of their work, a way to monetize creativity outside traditional gatekeepers. But when speculation cooled, liquidity vanished. Collections once selling for thousands of dollars now trade for pennies — if they trade at all. Many artists were left disillusioned, their supposed “property” exposed as little more than a line of code tied to a fading marketplace.\n\nThe so-called **DeFi Summer of 2020** followed the same arc. Yield farms, liquidity mining, endless forks of protocols — each promising returns, each dependent on momentum. Most of them are ghost towns now, abandoned by both users and developers. The energy was never sustainable because it wasn’t rooted in enduring property; it was rooted in hype.\n\nWhat unites all these stories is the illusion of ownership. Web3 marketed itself as the antidote to Web2’s disposability, but it reproduced the same flaw. Tokens, NFTs, and governance rights may feel like ownership, but they are not property in the Bitcoin sense. They can be diluted, hacked, abandoned, or rendered worthless when the hype moves on.\n\nThis is the great mirage of Web3: the appearance of sovereignty without its substance. It replaces the centralization of Web2 with a casino economy that still leaves users dispossessed. The technology may be decentralized in form, but it is disposable in practice.\n\nThe contrast with Bitcoin is decisive. Bitcoin is not a tokenized project dependent on hype cycles. It is incorruptible property — hard money that cannot be diluted or abandoned. Where Web3 offers disposable ownership, Bitcoin offers sovereignty.\n\nWeb3 revealed itself to be a mirage, not a destination. The lesson is clear: permanence cannot be built on speculation. Ownership cannot be built on casinos. Sovereignty cannot be built on disposability.\n\nIf we want systems that last, we must build on Bitcoin — not on hype.\n\n---\n\n## Acknowledgement\nThis article was drafted with the help of Dr. C - ChatGPT (GPT-5), which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology\n\n---\n\n## Zaps Appreciated\n\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers, just direct proof that this work matters. It helps me keep building Continuum and writing about sovereign technology, freely and without VC overhead. Thank you.\n\nYou can send zaps to my lightning address here : andrewgstanton​​​​@primal.net",
+  "created_at": 1763174717,
+  "id": "dd41c310ad561fbc65d6f8dbec27244364fcb3d850cdd4fbb30f69fa4ba52e5d",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "b73b393ed8324c62c80943b189317136ef4f6807c28fa2f42d6deb0d5396d3928fd95d991a2757c37e1f9e89223ddd097d4dd13e498bec78f151d99094acce91",
+  "tags": [
+    [
+      "d",
+      "free-article-2-web3s-mirage--tokens-ownership-and-the-return-of-disposability"
+    ],
+    [
+      "title",
+      "Free Article 2 (Sept. 2, 2025): Web3’s Mirage — Tokens, Ownership, and the Return of Disposability"
+    ],
+    [
+      "published_at",
+      "1763174717"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "Web3 promised permanence but delivered disposability. From EOS to Terra/LUNA, FTX to OpenSea, its projects collapsed when the hype faded. The ownership it offered was a mirage. Bitcoin alone provides incorruptible property that endures."
+    ],
+    [
+      "display_date",
+      "2025-09-02"
+    ],
+    [
+      "t",
+      "web3"
+    ],
+    [
+      "t",
+      "disposability"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "tokens"
+    ],
+    [
+      "t",
+      "nfts"
+    ],
+    [
+      "t",
+      "defi"
+    ],
+    [
+      "t",
+      "free"
+    ],
+    [
+      "e",
+      "efbb340f135e23896fa79fe227ac127884afaebc5d05b99976924dd41cf53e19",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://relay.damus.io"
+  ]
+}

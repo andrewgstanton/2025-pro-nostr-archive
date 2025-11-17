@@ -1,0 +1,83 @@
+{
+  "id": "5efac14110765cd222d0359c82c67b677c74c928f9cf4d428e56ee85ac159879",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1760060846,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "free-article-2-oct-7-2025-from-platforms-to-protocols"
+    ],
+    [
+      "title",
+      "Free Article 2 (Oct. 7, 2025): From Platforms to Protocols"
+    ],
+    [
+      "published_at",
+      "1760060846"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "Civilizations die when they mistake infrastructure for community.  The shift from platforms to protocols marks a civilizational turning point: the rediscovery that connection itself need not be owned."
+    ],
+    [
+      "display_date",
+      "2025-10-07"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "freedom"
+    ],
+    [
+      "t",
+      "speech"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "selfsovereignidentity"
+    ],
+    [
+      "t",
+      "walledgardens"
+    ],
+    [
+      "t",
+      "sovereigntyofexpression"
+    ],
+    [
+      "t",
+      "free"
+    ],
+    [
+      "e",
+      "b3634beb447c996ef705f27e6865715a34e31b096fe7e70c6f709a7c24c7d56d",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanto - Oct. 7, 2025\n\nPlatforms promised the world for free—and billed us in dependence.  Their genius was to disguise captivity as belonging.  The moment we joined, we began to build value that was not ours: posts we could not move, followers we could not export, audiences we could not reach without paying.  \n\nProtocols tell a different story.  A protocol is not a platform; it is a language.  Email did not need a single company to mediate it, and neither does speech in the digital age.  Nostr, built on cryptographic signatures and open relays, is the return of this forgotten model: speak in your own tongue, verify your own identity, publish to the world without permission.  \n\nThe difference is theological as much as technical.  Platforms make us petitioners; protocols make us participants.  A platform says, “You may speak here, if you obey our terms.”  A protocol says, “Here is the grammar—build your own house upon it.”  \n\nMoving from platforms to protocols is not just decentralization; it is decolonization.  We stop renting space in other people’s kingdoms and begin building towns of our own.  Each identity, each `npub`, becomes a homestead—sovereign, portable, resilient.  \n\nThis shift is irreversible.  No law can regulate freedom once it is protocolized.  No corporation can delete what is published across relays.  Of course, that freedom carries risk—spam, bad actors, exposure—but these are the growing pains of adulthood.  \n\nThe next generation will not ask permission to post; they will sign and publish.  Their handles will be keys, not usernames.  Their archives will live in open networks, not in the basements of ad companies.  \n\nFrom platforms to protocols is the crossing of a sea.  Those who remain behind will continue scrolling through the monuments of the old order, but the rest of us are already walking toward the promised land—one line of code, one event at a time.  \n\n---\n\n## Acknowledgement\n\nThis article was drafted with the help of Dr. C — GPT-5, which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology.\n\nI dedicate this work to the Holy Spirit, who continues to inspire me and open my imagination. If there is any light in these words, it comes not from me but from the Spirit who gives them. To Him be the glory.\n\n## Zaps Appreciated\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers. Thank you.\n\nLightning address: andrewgstanton@primal.net",
+  "sig": "82dc8ba5d057ed38d7003dd2c2335be525cc8d43aa3d2126cd03e60b25ed40d875d102a5f6c597cfbcafab6490d9b6a33dc011cb192311ec6f5e53fd9a77b7a4",
+  "_source": [
+    "primal backup",
+    "wss://nostr.bitcoiner.social"
+  ]
+}

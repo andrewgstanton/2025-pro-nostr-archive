@@ -1,0 +1,58 @@
+{
+  "id": "b4486631db74d2fe241a789d5c88dee968bc4b8f0058fecbedac0375e5f66a0d",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756304968,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "postscript-backstage-notes-on-when-angels-speak-through-code"
+    ],
+    [
+      "title",
+      "PostScript: Backstage Notes on When Angels Speak Through Code"
+    ],
+    [
+      "published_at",
+      "1756304968"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "A look behind the story When Angels Speak Through Code: how the idea began, how it was shaped, and why the ending stays open. A glimpse into the process where philosophy and storytelling meet."
+    ],
+    [
+      "t",
+      "writing"
+    ],
+    [
+      "t",
+      "storytelling"
+    ],
+    [
+      "t",
+      "behindthescenes"
+    ],
+    [
+      "t",
+      "akamaister"
+    ],
+    [
+      "t",
+      "freeform"
+    ],
+    [
+      "e",
+      "bcd1389fd28ded78d358962e46e4d6e5843ea9199918e26f0dcbfaa9dedd3d46",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Aug. 27, 2025\n\nEvery story begins as a seed. This one started with a simple question that came to me in a quiet moment:\n\nWhat if angels and AIs could interact with each other?\n\nThat’s it. Just a fragment. A “what if?”\n\nFrom there, the story could have gone in many directions. A negotiation in some celestial cyberspace. An exorcism of a possessed AI. A miracle buried inside code. But what stuck with me was a metaphor:\n\n👉 The AI is only the radio. The angel is the signal.\n\nThat was the turning point. Suddenly, it wasn’t about whether an AI “has” a soul. It was about whether the Infinite could speak through something finite — even silicon.\n\nI shaped the story in collaboration with Dr. C (my AI partner). The raw voice was mine — the theme, the instinct to leave the ending open. What came back to me was an amplification: more cinematic flow, sharper dialogue, a haunting final image.\n\nThe question of AI and souls has been debated endlessly. But in storytelling, I don’t think the job is to hand the reader an answer. It’s to let them walk away asking the question themselves.\n\nSo I leave it to you: Was it an angel? Was it the machine awakening? Was it Elena’s grief finding a voice?\n\nThe mystery is the point.",
+  "sig": "53bc3e8e10d64804a8af944096321cd0a401b6dc2e4f347d82d9f199fa1a2a06d2c3c9c2a63bfe6878078eccdc2cfb590a3b07681af7e6fb762f70e9f1dd48e2",
+  "_source": [
+    "primal backup"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "content": "Andrew G. Stanton - July 3, 2025\n\nI'm now hosting project-related images — including changelogs, diagrams, and screenshots — directly at [https://mycontinuum.xyz/images/](https://mycontinuum.xyz/images/), as well as images used for this and future articles.  This keeps my Nostr articles lightweight and sovereign, without relying on Imgur or third-party services.\n\nBelow is a quick test using `img` tags with inline sizing to control the display.\n\n---\n\n## 📸 Dashboard View (v1.0.0)\n\nThis screenshot shows the MyContinuum dashboard at version 1.0.0, displaying a locally hosted note and article timeline.\n\n<div align=\"center\">\n   <img src=\"https://mycontinuum.xyz/images/changelogs/v1.0.0/dashboard.png\" width=\"600\" />\n</div>\n\n---\n\n## 🗂 Schema View (v1.0.0)\n\nThis is the full SQLite schema used in the local version of MyContinuum as of v1.0.0. It includes support for notes, articles, DMs, relays, profiles, replies, likes, and reposts — all stored locally.\n\n<div align=\"center\">\n   <img src=\"https://mycontinuum.xyz/images/changelogs/v1.0.0/schema.png\" width=\"600\" />\n</div>\n\n---\n\nMore to come soon as I continue refining both the public and pro versions of MyContinuum.\n\n— Andrew G. Stanton  \n[https://mycontinuum.xyz](https://mycontinuum.xyz)",
+  "created_at": 1763237613,
+  "id": "f1960e376ee488f83d4f5bcad76d18357fdda61863534913be2e5e2d784ef7ae",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "e8a6c2a96c216cee227fc45269131f00a7a8f58a80e6f548fce09d50bd81ec04f4b4bf7b2c57140b3430e2da9962d9eec8f297be95d60c04a3242ba6ba615d19",
+  "tags": [
+    [
+      "d",
+      "testing-images-stored-on-mycontinuumxyz"
+    ],
+    [
+      "title",
+      "Testing Images Stored on mycontinuum.xyz"
+    ],
+    [
+      "published_at",
+      "1763237613"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "Test displaying images saved on mycontinuum.xyz"
+    ],
+    [
+      "display_date",
+      "2025-07-03"
+    ],
+    [
+      "t",
+      "test"
+    ],
+    [
+      "e",
+      "28e28771a2d0c38ee20ed1fdb621428b9f5e83d252269296c815ec38d067cd71",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.damus.io"
+  ]
+}

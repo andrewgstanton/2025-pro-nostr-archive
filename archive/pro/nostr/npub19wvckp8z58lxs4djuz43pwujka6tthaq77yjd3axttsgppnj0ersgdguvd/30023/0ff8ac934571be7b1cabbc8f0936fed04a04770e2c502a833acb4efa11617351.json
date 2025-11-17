@@ -1,0 +1,70 @@
+{
+  "id": "0ff8ac934571be7b1cabbc8f0936fed04a04770e2c502a833acb4efa11617351",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1755902004,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "the-bitcoin-chronicles--part-3-martian-bitcoin"
+    ],
+    [
+      "title",
+      "The Bitcoin Chronicles: Toward The Stars — Part 3: Martian Bitcoin"
+    ],
+    [
+      "published_at",
+      "1755902004"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "Part 3 of the Bitcoin Chronicles explores Mars, where latency makes Earth-level consensus impossible. Martian Bitcoin becomes locally sovereign but globally anchored, ensuring freedom from Earth’s monetary control while remaining tied to the same 21M cap."
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "mars"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "interplanetary"
+    ],
+    [
+      "t",
+      "lightning"
+    ],
+    [
+      "t",
+      "decentralization"
+    ],
+    [
+      "t",
+      "chronicles"
+    ],
+    [
+      "t",
+      "future"
+    ],
+    [
+      "e",
+      "a716861a028253b65f11b8f326dc4459b7ab37a881665c24c333191347d8d55b",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - August 22, 2025\n\nMars is not the Moon. The distance to Earth ranges from 54 million to over 400 million kilometers, which means a signal takes anywhere from 4 to 22 minutes to travel one way. That changes everything.\n\nOn Earth, Bitcoin works because nodes can stay in near real-time sync. On Mars, that’s impossible. By the time a Martian miner hears about a new block, Earth has already moved on. Mining directly against Earth’s hash power becomes hopeless.\n\nSo what happens? Mars must adapt.\n\nLocal Martian colonies would still run full nodes, but their role shifts:\n\n- On-chain settlement  with Earth becomes periodic, not continuous.\n- Lightning channels flourish locally, powering daily trade in domes and dust-swept cities.\n- Interplanetary settlements might happen once a week or month, where big transactions are batched and sent Earthward for anchoring.\n\nThis isn’t a weakness. It’s sovereignty. Mars would not be an Earth debt-colony, forever dependent on Earth’s currency. By running Bitcoin locally, Martians declare: we will live by the same rules, even at a distance.\n\nIn fact, the latency may protect them. No Earth politician, no Earth central bank can suddenly inflate Martian sats. The red planet’s economy would be locally sovereign but globally connected, secured by the same genesis, the same 21 million cap.\n\nMars forces us to see Bitcoin not just as global money, but as interplanetary money. Rules fixed in physics. Trustless even across the stars.\n\nAnd if Mars can do it, so can the asteroid belt.",
+  "sig": "cd866788fafe29df50faeff03749f087023efe7f638d7909a58866ca5687bb89888b4bd7a8c470e58bbd3a90bc57965bdf0bd6997e723a748a9f084433524be5",
+  "_source": [
+    "primal backup"
+  ]
+}
