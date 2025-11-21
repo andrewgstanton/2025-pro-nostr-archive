@@ -1,0 +1,46 @@
+{
+  "content": "**One-time fee: $250**  \n**Or $225 if paid in Bitcoin (10% off)**  \n_Long-term hosting • Permanent archive • Relay-independent memory_\n\nMost Nostr clients can display your long-form posts.  \nVery few preserve them.  \nNone guarantee permanence.\n\nRelays prune. Clients change. Links disappear.  \nYour identity — your work — becomes fragile.\n\n**Continuum Pro solves this**, by giving your Nostr identity a **permanent, sovereign archive**, hosted under the Continuum-operated domain:\n\n```\nhttps://nostr.mycontinuum.xyz\n```\n\nYou maintain full control over your identity and content.  \nContinuum stewards the hosting environment.\n\n---\n\n## 🔥 What Continuum Pro Provides\n\n### **1. A Permanent Archive of Your Long-Form Posts**\n\nYour kind:30023 events are exported into dedicated, immutable year-based archive structures:\n\n```\nhttps://2025.mycontinuum.xyz/archive/pro/nostr/<your npub>/\nhttps://2026.mycontinuum.xyz/archive/pro/nostr/<your npub>/\n```\n\nThese directories live inside the **shared public Continuum archive**, which includes multiple creators.  \nYour npub has its **own dedicated directory**, forming your **portable, self-contained archive subtree**.  \nYou can copy or mirror your subtree anywhere at any time — it is fully sovereign and relocatable.\n\nContinuum handles:\n- hosting  \n- domain stability  \n- long-term archiving  \n- consistent directory structure  \n\nYou retain:\n- ownership of the content  \n- ownership of your npub  \n- full sovereignty over signing and creation  \n\n---\n\n### **2. Clean, Permanent Viewer Links (Hosted by Continuum)**\n\nYour long-form writing is readable through a stable, public viewer:\n\n```\nhttps://nostr.mycontinuum.xyz/e/?event_id=<eventId>\n```\n\nThe viewer is:\n- fully static (HTML + JS only)  \n- independent of relays  \n- independent of Nostr clients  \n- permanent for as long as Continuum maintains the domain  \n\nEven if:\n- relays forget your events  \n- clients shut down  \n- the Nostr ecosystem shifts  \n\n…your archive remains readable.\n\n---\n\n### **3. A Public, Permanent Index of Your Work**\n\nContinuum Pro automatically builds a browsable library:\n\n```\nhttps://nostr.mycontinuum.xyz/e/list.html?npub=<your npub>\n```\n\nYour archive is:\n- grouped by npub  \n- grouped by year  \n- sorted by timestamp  \n- enriched with titles and summaries  \n- publicly accessible and linkable  \n\nThis becomes the **public library of record** for your Nostr identity.\n\n---\n\n### **4. Included: The Full Local Continuum App (Unlimited Identities)**\n\nEvery Continuum Pro purchase includes access to the full current release of the **local Continuum application** (localhost edition).\n\nYou get:\n- complete sovereignty over your private keys  \n- the ability to create, edit, sign, and export long-form posts  \n- support for **unlimited npubs** within your local workstation  \n- offline-first identity and publishing control  \n\nHosting is priced per archived npub,  \nbut **your local Continuum app can manage and publish from any number of identities you choose**.\n\n---\n\n### **5. Access to All Paid Articles**\n\nContinuum Pro members receive **full access to every paid article** published through Akamaister, Continuum and Continuum Magazine.\n\nThis includes:\n- the entire archive of paid essays  \n- all new paid releases going forward  \n- PDF versions  \n- Markdown versions  \n- and canonical event files  \n\nThis perk alone exceeds the cost of the Pro package for many readers.\n\n---\n\n### **6. Fully Managed Setup (You Do Nothing)**\n\nYou do **not** need to install Continuum yourself.  \nYou do **not** need to run scripts.  \nYou do **not** need to export anything.\n\nContinuum handles the entire archival process.\n\nThis includes:\n1. Adding your npub(s) to the archive system  \n2. Fetching and exporting your long-form events  \n3. Creating your per-npub directory in the public archive  \n4. Generating canonical JSON and year-by-year history files  \n5. Updating the global index  \n6. Publishing everything under `nostr.mycontinuum.xyz`  \n7. Activating your viewer and permanent URLs  \n\nYour archive becomes:\n- permanent  \n- portable  \n- fully browsable  \n- relay-independent  \n- hosted sustainably under Continuum’s domain  \n\n---\n\n### **7. Independence from Relays and Clients**\n\nYour archive does **not** rely on:\n- relay uptime  \n- relay retention  \n- Damus, Primal, Snort, Coracle  \n- client-specific logic  \n\nContinuum Pro is a **separate, sovereign memory layer** for your Nostr identity.\n\nContinuum ensures hosting + DNS stability;  \nYou retain full sovereignty over content.\n\n---\n\n# 🔱 What Continuum Pro *is*\n\n- **A sovereign archive of your writing**  \n- **A permanent viewer hosted under the Continuum domain**  \n- **A stable namespace for your long-form identity**  \n- **A dedicated per-npub directory in a shared public archive**  \n- **A portable subtree you can copy or self-host anytime**  \n- **A one-time payment for long-term hosting**  \n- **A service where Continuum stewards the domain while you own the content**  \n- **Plus full access to all paid articles**  \n\n---\n\n# ❌ What Continuum Pro *is not*\n\n- Not a user-owned domain  \n- Not DNS under user control  \n- Not a generic website builder  \n- Not a hosted editing environment  \n- Not a replacement for your local Continuum app  \n\nContinuum Pro is **your long-form memory**,  \nhosted under Continuum’s stewardship with full user portability.\n\n---\n\n# 🌱 Who This Is For\n\n- Writers, thinkers, philosophers  \n- Bitcoiners and Nostr builders  \n- Ministry leaders and teachers  \n- Journalists and researchers  \n- Archivists, creators, historians  \n- Anyone whose Nostr writing forms part of their identity  \n\nIf your work should still be readable in 10, 20, or 50 years,  \nyou need something more durable than a relay.\n\n---\n\n# 💰 Pricing\n\n## **Base Package (1 npub)**\n- **$250 USD**  \n- **$225 in Bitcoin (10% off)**  \n\nIncludes:  \n- full Continuum Pro setup  \n- hosting + stewardship for one identity  \n- access to all paid articles  \n- access to the local Continuum app (unlimited identities)\n\n---\n\n## **Additional npubs (up to 5 total)**  \n- **+$100 USD per additional npub**  \n- **+$90 if paid in Bitcoin**\n\n---\n\n## **Enterprise Tier (6+ identities)**  \nFor creators with 6+ npubs:\n\n- **+$50 USD per additional npub**  \n- **+$45 if paid in Bitcoin**\n\nFor organizations with **20+ identities**, custom enterprise packages begin at:\n\n- **$2,000+ USD**  \n- or BTC equivalent  \n\n---\n\n# 🔗 How to Get Started\n\nIf you want a permanent archive of your Nostr identity:\n\n- DM **`@Continuum`**, **`@ContinuumMagazine`**, or **`@Akamaister`** with your npub(s)  \n- Send the base payment (or Bitcoin discount)   \n- Add additional npubs at the pricing above  \n\n**USD payments are processed traditionally and do not involve Bitcoin transfers.  \nThe Bitcoin discount ($225) applies only when paying directly in Bitcoin.**\n\n\nOnce received, Continuum handles the full archival and publishing process for you.\n\nYour identity.  \nYour content.  \nYour archive.  \n**Continuum provides the home.**\n\n---\n\nPermanent archive link:\n\nhttps://nostr.mycontinuum.xyz/e/?event_id=63f847716efde1f4fc7d796a5f3c4b0207988cb654f4e68678d6119dc684bb48",
+  "created_at": 1763756803,
+  "id": "1eb41f04d3575a8d8ec33c21b28ca3502ed84265b91e218f8e32ff4eaa524ef1",
+  "kind": 30023,
+  "pubkey": "ced3fdd79cab2f48fc8043ee063eaccbf8ccf3fc26baa5fe0911d4a5901002a2",
+  "sig": "58a761e86489ded6851231c6d4b94a702d50663b11d625b594a8c0ab58405e49418eba7fb4dae0acf80b1ab2c69e8e197d13cba6afa9dde206a373a4071d8df6",
+  "tags": [
+    [
+      "d",
+      "continuum-pro--sovereign-publishing-permanently-archived-under-continuum-stewardship"
+    ],
+    [
+      "title",
+      "Continuum Pro — Sovereign Publishing, Permanently Archived Under Continuum Stewardship"
+    ],
+    [
+      "published_at",
+      "1763756803"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "display_date",
+      "2025-11-21"
+    ],
+    [
+      "image",
+      "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2025-11-21-generated-continuum-pro-announcement.jpg"
+    ],
+    [
+      "e",
+      "63f847716efde1f4fc7d796a5f3c4b0207988cb654f4e68678d6119dc684bb48",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.snort.social",
+    "wss://nostr-pub.wellorder.net"
+  ]
+}
