@@ -1,0 +1,75 @@
+{
+  "content": "Andrew G. Stanton - Nov. 17, 2025\n\nOn Sunday night, I crossed the 300-article mark.\n\nIf you had told me a year ago that I’d write and publish that much—while trading, juggling mortgages, navigating family drama, flying back and forth to Hawaii, and watching my dad’s health fade—I probably would have laughed and then taken a nap out of sheer exhaustion.\n\nBut here we are.\n\nThree hundred essays. Three hundred stones in the wall. Three hundred little artifacts sitting in a GitHub archive, pinned to Nostr events, hashed into PDFs, scattered across Primal and Coracle and my own Continuum dashboards.\n\nAnd yet, the strangest thing about crossing a “big” number like 300 is how ordinary it feels.\n\nThere’s no parade.\nNo confetti.\nJust me, in front of the laptop again, on a Monday morning, wondering what the next brick should be.\n\n### What actually changed\n\nHere’s what 300 did change:\n\n- **The story is now bigger than any one piece.**  \n  Early on, every essay felt like it had to be “the” article—the one that would unlock everything. Now, I can see the mosaic. Each piece is a tile in something much larger: a record of how I’ve thought and wrestled and grown in real time.\n\n- **The fear of “using up” good ideas is gone.**  \n  At 10 essays, you worry you’ll run out of things to say.  \n  At 50, you start seeing patterns.  \n  At 100, you realize your problem isn’t scarcity of ideas—it’s lack of time and energy to chase them all.  \n  At 300, you accept that the ideas will keep coming as long as you keep showing up.\n\n- **The technical scaffolding is more real.**  \n  I don’t just “post” anymore. I sign. I hash. I archive.  \n  Each piece now lives in three places: Nostr events, static archive URLs, and PDFs with SHA-256 fingerprints. It’s not perfect, but it’s enough that if one platform dies, the work doesn’t.\n\nAnd here’s what 300 did *not* change:\n\n- Bills still show up right on time.  \n- I still feel tired more often than I’d like.  \n- Very few people see the full body of work.  \n- The temptation to quit and “just get a normal job” still visits on schedule.\n\nThree hundred doesn’t magically fix any of that. What it does is make quitting harder to justify.\n\n### Why I kept going when it didn’t “make sense”\n\nThere were plenty of logical exit ramps.\n\n- When trading was rough.  \n- When the rental properties felt like a second job.  \n- When family situations were painful and complicated.  \n- When patron support trickled in more slowly than I’d hoped.  \n- When I watched other people get traction with “simpler” stories.\n\nBut every time I thought about stopping, something in me rebelled.\n\nPartly it’s stubbornness: *You’ve already come this far. Don’t waste it.*\n\nPartly it’s conviction: if I really believe sovereignty matters—over money, identity, data, and story—then I can’t build those convictions on top of someone else’s walled garden. I need my own ledger of thought. My own archive. My own cathedral, even if it’s still just scaffolding and dust right now.\n\nAnd partly it’s grief.\n\nGrief has a way of rearranging your priorities. After my dad’s decline, after the trips where “Hawaii” wasn’t a postcard but a hospital room, something shifted. I started thinking less in terms of “What do I need to say to get attention this week?” and more in terms of:\n\n> **What do I want to leave behind if I’m not here in ten years?**\n\nThat’s not a morbid question. It’s a clarifying one.\n\nIf I’m going to leave something, I want it to be:\n\n- Honest about money, fear, and failure.  \n- Clear about why Bitcoin and sovereignty matter.  \n- Anchored in hope that’s bigger than markets or platforms.  \n- Practical enough that someone can actually use it.\n\nThree hundred essays is not a finished cathedral. It’s a visible start.\n\n### The hidden layer only I can see\n\nFrom the outside, these pieces are just links and words.\n\nFrom my side, they’re time capsules:\n\n- I can see which ones I wrote after a brutal trading day, when I had to decide whether to write anyway or crawl into bed.  \n- I can see the ones that came when I was angry at institutions, or at “human flourishing” buzzwords that never turn into action.  \n- I can see the ones where I almost talked myself out of hitting publish because they felt too raw or too small.\n\nA lot of people say, “Just keep shipping.”  \nWhat they don’t mention is how lonely that can feel when you’re shipping into what looks like a void.\n\nThat’s why the archive matters to me so much.\n\nNot because I think these essays are perfect, or that they deserve a marble gallery. But because I want there to be a place outside the attention cycle where the work can simply *exist*—indexed, signed, findable, and independent of who does or does not click “like” today.\n\n### Monday mindset: what now?\n\nSo, it’s Monday. The 301st piece. And the temptation is to manufacture some grand revelation.\n\nBut today, I think the honest takeaway is simpler:\n\n- The milestone is real.  \n- The work is still unfinished.  \n- The bills still need to be paid.  \n- The year has been harder than I expected.  \n- And yet, I’m still here, writing.\n\nIf you’re reading this, you’re seeing the “surface layer”—the part that’s easy to copy and scroll past. But behind it is years of trading logs, mortgage statements, hospital wristbands, Nostr keys, and late-night prayers.\n\nThe ledger of my life is messy.\nThe ledger of my writing is slowly becoming less so.\n\nThree hundred stones in the wall.  \nToday, I’m just laying the next one.",
+  "created_at": 1763438594,
+  "id": "86690139b8d48d61f3bfbcb4f8063a7366ed56a68994e29eaeadd7441fb075a6",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "c8d26e5d899cb78ac1a39487759938f95a8aa6d2a744c8f10c4900f671ab8a47b7206457df4c61530449dec1a79a656b52cad1abb057992253b53787541a6c56",
+  "tags": [
+    [
+      "d",
+      "free-article-1-nov-17-2025-three-hundred-stones-in-the-wall"
+    ],
+    [
+      "title",
+      "Free Article 1 (Nov. 17, 2025): Three Hundred Stones in the Wall"
+    ],
+    [
+      "published_at",
+      "1763438594"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "Hitting 300 published essays isn’t an arrival point; it’s the moment you realize you’ve just finished pouring the foundation. This is a reflection on what has actually changed—and what hasn’t—after writing almost every day through one of the hardest years of my life."
+    ],
+    [
+      "display_date",
+      "2025-11-17"
+    ],
+    [
+      "image",
+      "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2025-11-17-generated-300-stones.jpg"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "writing"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "milestones"
+    ],
+    [
+      "t",
+      "reflection"
+    ],
+    [
+      "t",
+      "free"
+    ],
+    [
+      "e",
+      "1eb6c4b9bfb124fd3be73ef0d39c3a0611f84c4cab05fad653d2b0efc6b0093c",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://offchain.pub",
+    "wss://nostr.bitcoiner.social"
+  ]
+}

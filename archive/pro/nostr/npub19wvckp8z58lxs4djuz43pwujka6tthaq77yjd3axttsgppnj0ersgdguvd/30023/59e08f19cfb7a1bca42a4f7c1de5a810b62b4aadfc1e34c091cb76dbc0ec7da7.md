@@ -1,0 +1,105 @@
+*(Updated: Nov 20, 2025)*
+
+Below is the full index of my paid essays (published through **@Akamaister**), updated regularly.  
+Each piece includes a short teaser.  
+Zap **500 sats** to unlock any article — DM me the zap receipt, and I’ll send you the private link.
+
+---
+
+## 2025-11-20 — “The Small Exit That Changes Everything: Reclaiming Sovereignty One Decision at a Time”
+**Teaser:**  
+Sovereignty is not achieved through dramatic, life-altering moves—it emerges from small, faithful choices made under pressure. This piece explores how micro-exits from debt, distraction, and dependence gradually shift a person into a position of freedom, even before circumstances change.
+
+---
+
+## 2025-11-19 — “Small Exits — Practical Steps to Wean Ourselves Off the Debt-Based System”
+**Teaser:**  
+Freedom from the Babylonian financial order doesn’t come from dramatic breaks or radical withdrawal. It begins with small, realistic, sustainable steps that gradually shift our lives away from debt-dependence and toward sovereignty. This piece outlines practical, concrete actions anyone can begin today.
+
+---
+
+## 2025-11-18 — “Choosing the Harder Road — The Discipline of Sovereign Building”
+**Teaser:**  
+A deeper, more intimate look at what it actually costs — emotionally, physically, spiritually — to build something sovereign in a world that rewards dependency. This piece explores the tension between exhaustion and purpose, and why choosing the harder road is sometimes the only path that leads anywhere meaningful.
+
+---
+
+## 2025-11-17 — “Building a Cathedral on Shifting Ground”
+**Teaser:**  
+Behind the public essays and screenshots, there’s a much messier set of tradeoffs: between trading and writing, between properties and Bitcoin, between local software and hosted dashboards, between family expectations and long-term vision. This is a candid look at how I actually plan to navigate 2026.
+
+---
+
+## 2025-11-14 — ”The Season of Invisible Work"
+**Teaser:**  
+A long-form reflection on the hidden, unglamorous stretch that comes right before a breakthrough — the season where your work feels fragile, your efforts feel unseen, and every system seems to resist you. Friday’s discouraging discoveries become the framing for a deeper exploration of sovereignty, endurance, and the quiet discipline required to keep building.
+
+---
+
+## 2025-11-13 — ”When You’re Bone-Tired but Still Called to Build (Field Notes from the Edge of Burnout)"
+
+**Teaser:**  
+A raw, honest meditation on staying on the field as a sovereign builder when you’re exhausted, undercapitalized, misunderstood, and still convinced you’re supposed to keep going.
+
+---
+
+## 2025-11-12 — ”The Force Of Freedom"
+
+**Teaser:**  
+True freedom is not the absence of limits but the refinement that comes through covenant — through keeping faith when it would be easier to walk away.
+
+---
+
+## 2025-11-11 — ”The Covenant of Creation"
+
+**Teaser:**  
+Written on our 25th wedding anniversary — a reflection on love, creation, and covenant as the living pattern that sustains both marriage and meaning.
+
+---
+
+## 2025-11-10 — ”The Bitcoin Chronicles — Big Brother Calling: The United Earth Bureau"
+
+**Teaser:**  
+In the early 2200s, the United Earth Bureau governs every network, every ledger, every breath of data. Rian Kovács, a compliance inspector, begins tracing a pattern of unauthorized “mirror nodes” that behave like living code. His pursuit leads him to the Bureau’s oldest secret—and the voice that has been calling from inside its own machines.
+
+---
+
+## 2025-11-07 — "The Long Arc of Open Systems"
+
+**Teaser:**  
+Hope isn’t naive. It’s architectural. Open systems endure because they embed hope into their very structure — trust distributed across time.
+
+---
+
+## 2025-11-06 — ”The Hidden Audience"
+
+**Teaser:**  
+You think no one’s watching. But they are — just not the way you imagine. The hidden audience is real, and it’s why quiet builders change the world.
+
+---
+
+## 2025-11-05 — ”Beyond the Walls: Building in Open Spaces"
+
+**Teaser:**  
+The dream of the open creator economy isn’t about rejecting every platform—it’s about refusing dependency. Here’s how open protocols turn creators from tenants into owners, and why the future belongs to those willing to build in open spaces.
+
+---
+
+## 2025-11-04 — ”Under the Hood of Election Day 2025: Redistricting, State Power, and the Shifting Map of American Politics"
+
+**Teaser:**  
+Beyond the headlines, today’s Election Day marks a turning point in how America redraws, realigns, and redefines power. From California’s redistricting gambit to pivotal governorships, the true stakes lie not in who wins tonight — but in who shapes the playing field for the decade ahead.
+
+---
+
+## 2025-11-03 — ”The Path Forward"
+
+**Teaser:**  
+Reform isn’t about burning the old world down; it’s about building the new one right beside it — patiently, transparently, and without compromise. Bitcoin, open systems, and integrity in daily work all point toward the same horizon: freedom earned through truth.
+
+---
+
+## How to Unlock a Paid Article
+Zap **500 sats** → andrewgstanton@primal.net  
+DM me the zap receipt  
+I’ll send you a private link to the PDF.

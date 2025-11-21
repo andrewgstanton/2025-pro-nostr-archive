@@ -1,0 +1,73 @@
+{
+  "content": "Andrew G. Stanton - Nov. 17, 2025\n\nI’ve always been awkward about asking for support.\n\nMaybe it’s pride. Maybe it’s the years I spent as a “self-reliant” entrepreneur. Maybe it’s the subtle shame of feeling like if I were really successful, I wouldn’t have to ask.\n\nBut reality doesn’t care about my pride.\n\nHosting costs money.\nTime is finite.\nMy family needs to eat while I’m building cathedrals that don’t pay like a SaaS startup.\n\nSo I’ve been talking more openly about patronage—about this $250 package (or sats with a discount) that helps fund Continuum and, indirectly, the life I’m building with Kiyomi.\n\nThe question I keep coming back to is simple:\n\n> **What does patronage actually *buy*?**\n\nIf you’re going to support someone, you deserve a clear answer.\n\n### Patronage buys time that can’t be rented back\n\nIn the fiat world, time is constantly rented out in tiny slices:\n\n- Hourly wages.  \n- Contract gigs.  \n- Upwork projects.  \n- Deliverables, invoices, timesheets.\n\nI’ve done all of that. I still do some of it when I have to.\n\nBut the kind of work I’m doing with Continuum—building a sovereign publishing and identity layer on Nostr, writing long-form essays that don’t fit neatly into “content marketing,” experimenting with archives and SHA-256 proofs—that work doesn’t map well to billable hours.\n\nIt’s exploratory. It’s architectural. It’s deeply unsexy from a short-term ROI perspective.\n\nPatronage isn’t paying me to “write one more blog post.”  \nIt’s buying blocks of time that are protected from the constant pressure to monetize every hour.\n\nWhen I know there’s at least some baseline support, I can:\n\n- Spend a day building an export script that syncs Nostr events to a static archive.  \n- Experiment with new identity flows without asking, “Will this make money this week?”  \n- Sit down to write a difficult essay instead of chasing the next short-term gig.\n\nYou don’t just fund hours.\nYou fund *decisions*.\n\n### Patronage buys resilience against compromise\n\nThere’s a reason so much of the internet feels fake and hollow: most creators are financially cornered into chasing algorithms and sponsors, whether they admit it or not.\n\nI’ve tasted that pressure.\n\nIt whispers things like:\n\n- “If you just tone down the Bitcoin conviction, you might get more mainstream sponsors.”  \n- “If you embrace Web3 buzzwords, you’ll be easier to fund.”  \n- “If you write shorter, more clickable pieces, maybe the platforms will reward you.”\n\nPatronage is one of the few tools that pushes back.\n\nWhen even a small group of people says, “I believe in what you’re doing; here’s real support,” it becomes much easier to say:\n\n- No to VC money that would eventually distort the mission.  \n- No to token schemes that look lucrative but violate first principles.  \n- No to rewriting my convictions to fit someone else’s narrative of “human flourishing.”\n\nIn that sense, patronage is not charity.  \nIt’s risk capital for integrity.\n\n### Patronage buys infrastructure that doesn’t belong to anyone else\n\nRight now, Continuum is not just a notebook. It’s:\n\n- A local app that manages multiple Nostr identities.  \n- A relay-fetching system that mirrors my events into a SQLite database.  \n- Export scripts that generate static HTML, Markdown, and PDFs.  \n- A growing archive hosted outside the big web platforms.\n\nNone of that runs on magic.\n\n- Relays cost money to host.  \n- Fly.io or other infrastructure costs money.  \n- Even GitHub Pages has limits that I have to work around with time and creativity.\n\nWhen you support me as a patron, you’re helping pay for the parts of the system that *don’t* show up in the writing itself:\n\n- The backup scripts that make sure a single relay outage doesn’t eat my work.  \n- The tools that let me publish once and mirror everywhere.  \n- The experiments in sovereign login, Nostr-based identity, and self-hosted dashboards.\n\nYou are literally helping build the pipes.\n\n### Patronage buys continuity in the middle of chaos\n\nThis has been a chaotic year: hospital visits, family tensions, trading swings, mortgage stress, and the constant emotional drain of feeling like you’re pushing a boulder uphill while almost nobody notices.\n\nThere were days when the only reason I kept publishing was stubbornness.\nThere were other days when the only reason I *could* keep publishing was that someone had already said, “I’ve got your back.”\n\nPatronage doesn’t remove the chaos.\nBut it gives it a spine.\n\nIt turns:\n\n> “I’m trying to do this alone.”\n\ninto:\n\n> “I’m still responsible, but I’m not unsupported.”\n\nThat’s a big difference.\n\n### If you’re considering it\n\nIf you’ve read enough of my work to know that:\n\n- You care about sovereignty.  \n- You’re tired of walled gardens.  \n- You don’t want “digital flourishing” to be yet another slogan.  \n- You’d like to see Continuum exist as a real alternative, not just a thought experiment.\n\nThen yes, your patronage matters.\n\nNot just because it “helps me out,” but because it buys the kind of time, integrity, and infrastructure that can’t be funded by ads or token airdrops without compromising the whole point.\n\nAnd if you’re not in a position to support financially right now, that’s okay. Truly.\n\nReading, sharing, praying for us, sending an encouraging note—these all matter more than LinkedIn likes or algorithmic engagement.\n\nBut I wanted to be clear, for anyone who *is* able:\n\nWhen you become a patron, you’re not just buying a “thank you” section.\n\nYou’re buying continuity, sovereignty, and the freedom for me to keep building this in the right direction—even when the numbers don’t make sense yet.",
+  "created_at": 1763440464,
+  "id": "ae49c4554d14d0f7d3066f4687e1f9d071480cd1f78f451795dc328cc72a2213",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "ee26486b18f5b0729038f3e20e9b7189f974ff04b9fe30bb960232193ddbe06043fc94bb44ffcaadf97357e29c89037410481c4a776d92d646a9df3ab9075352",
+  "tags": [
+    [
+      "d",
+      "free-article-2-nov-17-2025-what-patronage-really-buys"
+    ],
+    [
+      "title",
+      "Free Article 2 (Nov. 17, 2025): What Patronage Really Buys"
+    ],
+    [
+      "published_at",
+      "1763440464"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "Patronage isn’t just about “supporting a creator.” It buys time, resilience, and infrastructure so that real, sovereign tools can exist outside the VC treadmill. This is what your support actually does in my world."
+    ],
+    [
+      "display_date",
+      "2025-11-17"
+    ],
+    [
+      "image",
+      "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2025-11-17-generated-what-patronage-looks-like.jpg"
+    ],
+    [
+      "t",
+      "patrons"
+    ],
+    [
+      "t",
+      "funding"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "continuity"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "free"
+    ],
+    [
+      "e",
+      "e65885fcf4f924ba9574018217737f123248f2480e680dc9d0a2ed622a7d2106",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://relay.snort.social"
+  ]
+}
