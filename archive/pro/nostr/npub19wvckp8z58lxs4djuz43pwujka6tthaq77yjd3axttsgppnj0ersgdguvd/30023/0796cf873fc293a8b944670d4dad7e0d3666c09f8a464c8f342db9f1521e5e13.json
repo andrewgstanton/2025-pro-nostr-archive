@@ -1,0 +1,90 @@
+{
+  "content": "Hey everyone — I’ve been working quietly on something for months, and today it’s finally ready.\n\nI call it **Continuum Pro**.\n\nIf you’ve followed my writing here, you know I’ve been obsessed with one question:\n\n**How do we create *permanence* inside an ecosystem built for speed and ephemerality?**\n\nRelays prune.  \nClients forget.  \nLinks break.  \nBut our long-form work — the things that actually matter — shouldn’t disappear.\n\nSo I built a solution.\n\nContinuum Pro creates a **sovereign long-form archive** for your npub under Continuum’s domain, with a clean viewer and a permanent, portable directory of all your kind:30023 posts. Everything is open, static, and relay-independent.\n\nYou just give me your npub.  \nI handle the rest — exporting, archiving, indexing, publishing.\n\nPricing is simple:\n\n- $250 (or $225 if you pay in Bitcoin) for the first npub  \n- +$100 per additional npub (up to 5)  \n- enterprise pricing for 6+  \n\nAnd one more thing — a perk I really wanted to include:\n\n**Continuum Pro members get full access to all my paid articles.**\n\nThat includes:\n- The entire backlog  \n- Every new paid article going forward  \n- PDF versions  \n- Clean Markdown versions  \n- And canonical event files for your own archive  \n\nIf you’ve followed my writing, you know how much time, energy, and prayer goes into these. Pro members get all of it.\n\nAnd yes — this includes the full local Continuum app, which lets you manage **unlimited npubs** on your own machine.\n\nIf you want your Nostr identity to have a real archive — something that will last, something not dependent on relays — DM me (@Akamaister) or the Continuum Magazine account and I’ll get you set up.\n\nThanks to everyone who’s encouraged me along the way. This one feels like a milestone.\n\n---\n\nfull announcement here:\n\nhttps://is.gd/jeTJcr\n\n\nYou can even read the permanent archived version of this announcement here:\n\nhttps://nostr.mycontinuum.xyz/e/?event_id=63f847716efde1f4fc7d796a5f3c4b0207988cb654f4e68678d6119dc684bb48",
+  "created_at": 1763783600,
+  "id": "0796cf873fc293a8b944670d4dad7e0d3666c09f8a464c8f342db9f1521e5e13",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "981f9528cf11c7f823dac91b1743fb4e66f0e1833eb380d2d3e1b1557df3373385dcfefe2c89d68613160f24c25a2de58b6283438a2369aace15b5102f1b7e4b",
+  "tags": [
+    [
+      "d",
+      "announcing-continuum-pro"
+    ],
+    [
+      "title",
+      "Announcing Continuum Pro"
+    ],
+    [
+      "published_at",
+      "1763783600"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "Akamaister shares a personal announcement about launching Continuum Pro after months of quiet work, framing it as a solution to the problem of preserving long-form Nostr posts with real permanence. The announcement focuses on sovereignty, archiving, and stability, while a separate teaser note (posted afterward) invites feedback from builders like Odell and fiatjaf. The post also highlights the managed archive, static viewer, and the perk that Pro members receive full access to all paid articles."
+    ],
+    [
+      "display_date",
+      "2025-11-21"
+    ],
+    [
+      "image",
+      "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2025-11-21-generated-continuum-pro-announcement.jpg"
+    ],
+    [
+      "t",
+      "akamaister"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "continuum-pro"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "archive"
+    ],
+    [
+      "t",
+      "longform"
+    ],
+    [
+      "t",
+      "publishing"
+    ],
+    [
+      "t",
+      "announcement"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "e",
+      "3f6da5e4d43728e7ced4490c15982d74f5187c5e7ce60c438a81714860a4bc9f",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.bitcoiner.social",
+    "wss://nos.lol",
+    "wss://relay.damus.io",
+    "wss://relay.snort.social",
+    "wss://nostr.mom"
+  ]
+}
