@@ -1,0 +1,61 @@
+{
+  "content": "At **Blue Planet Ventures, Inc**, we believe the next wave of meaningful innovation will emerge from technologies that are:\n\n- Open\n- Permissionless\n- Truthful\n- Rooted in real value\n\nBitcoin is not just a digital asset — it’s the foundation for a new era of *sovereign trade, capital formation, and coordination*.\n\n---\n\n## Why Nostr?\n\nWe chose to launch our public presence on **Nostr** because it reflects the same values:\n\n- Decentralized by design  \n- Resistant to censorship  \n- Built on open, auditable protocols  \n- Empowering individuals and small ventures, not platforms\n\n---\n\n## What We’re Exploring\n\n🔹 **Bitcoin-native trading and capital markets**  \n🔹 **Sovereign identity and data ownership**  \n🔹 **Sustainable and regenerative ventures**  \n🔹 **Open-source signal and publishing tools**\n\n---\n\n## Join the Journey\n\nFollow us here on Nostr:  \n🔗 `@BluePlanetVentures`  \n🌐 [https://bpv.one](https://bpv.one)\n\nWe're just getting started.",
+  "created_at": 1752020966,
+  "id": "4a12649db6262dcb76df2dddbbc1b3d5c2dc287349d3ee23d1295af082e14f58",
+  "kind": 30023,
+  "pubkey": "9981163f6356a9a259aea51fc06a0fbc832e71366dcca242cff1cb690286e7a7",
+  "sig": "448e8719c60378e3892d71a9be27ab266d5cb81ec44e1e9acacd94fb2acafff882d06fc8ee21ae269daae8ab19960a785cb7bf0e9deaba2c65ee85b4b34e8e31",
+  "tags": [
+    [
+      "d",
+      "-welcome-to-blue-planet-ventures"
+    ],
+    [
+      "title",
+      "🌍 Welcome to Blue Planet Ventures"
+    ],
+    [
+      "summary",
+      "Launching Blue Planet Ventures on Nostr — a new company exploring sovereign trading, capital formation, and sustainability through Bitcoin and open protocols."
+    ],
+    [
+      "published_at",
+      "1752020966"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "continuum-pro"
+    ],
+    [
+      "t",
+      "sovereign publishing"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "digital freedom"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ]
+}
