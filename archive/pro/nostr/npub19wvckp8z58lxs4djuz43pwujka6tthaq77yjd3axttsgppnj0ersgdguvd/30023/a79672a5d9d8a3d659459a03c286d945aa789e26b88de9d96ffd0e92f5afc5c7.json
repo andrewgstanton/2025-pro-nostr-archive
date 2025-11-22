@@ -1,0 +1,75 @@
+{
+  "content": "Andrew G. Stanton - Nov. 21, 2025\n\nMost people still publish in a way that puts someone else in charge.  \nMedium owns the post.  \nSubstack owns the subscriber list.  \nTwitter owns the timeline.  \nGoogle owns the indexing.\n\nWe have been conditioned into thinking this is normal.\n\nThe real future of publishing turns that entire paradigm upside down.\n\nLocal-first means the core logic — identity, signing, content, proofs — all live with the author. The cloud merely distributes and mirrors. The cloud is optional, replaceable, secondary.\n\nContinuum Pro is the first working example of this model in action:  \na dashboard that looks and feels like a hosted platform, yet contains none of your keys and holds none of your authorship power.\n\nThis model is not just better — it is the only path forward for a world that wants digital freedom without sacrificing usability. Sovereign publishing will not replace the cloud; it will *redefine* the cloud as a mirror, not a master.",
+  "created_at": 1763777842,
+  "id": "a79672a5d9d8a3d659459a03c286d945aa789e26b88de9d96ffd0e92f5afc5c7",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "1843f6cfd6429d7dc05910c3d373307dcdeccf3d2dae69f6cd36b8d4aad7213e83a8c2926e843a2a760ef74974fb33f82471998ac43c152a2b97bbbde05028c8",
+  "tags": [
+    [
+      "d",
+      "free-article-2-nov-21-2025-the-future-of-publishing-is-local-first-and-cloud-mirrored"
+    ],
+    [
+      "title",
+      "Free Article 2 (Nov 21, 2025): The Future of Publishing Is Local-First and Cloud-Mirrored"
+    ],
+    [
+      "published_at",
+      "1763777842"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "The old model of publishing relied on centralized control. The new model must be local-first, with cloud infrastructure playing a supportive — not authoritative — role. Continuum Pro demonstrates what this future looks like."
+    ],
+    [
+      "display_date",
+      "2025-11-21"
+    ],
+    [
+      "image",
+      "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2025-11-21-generated-continuum-pro-announcement.jpg"
+    ],
+    [
+      "t",
+      "publishing"
+    ],
+    [
+      "t",
+      "sovereign"
+    ],
+    [
+      "t",
+      "local-first"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "decentralization"
+    ],
+    [
+      "t",
+      "free"
+    ],
+    [
+      "e",
+      "88b2fa6cb0486a7eefc6029a292f9aeb88d665b80f40c2ac8b78f4a6a6edf53e",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nos.lol",
+    "wss://relay.snort.social"
+  ]
+}

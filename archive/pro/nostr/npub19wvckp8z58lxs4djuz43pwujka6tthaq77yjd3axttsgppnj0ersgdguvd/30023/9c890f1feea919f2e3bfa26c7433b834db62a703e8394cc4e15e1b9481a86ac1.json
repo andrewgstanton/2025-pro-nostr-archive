@@ -1,0 +1,78 @@
+{
+  "content": "Andrew G. Stanton - Nov. 11, 2025\n\nEvery major centralized platform has a story.  \nThey celebrate “launch days,” big bet announcements, new feature rollouts, IPO filings, and press releases written by whole teams of marketers.\n\nSovereign tools almost never get that luxury.  \nThey grow slowly, quietly, often invisibly.\n\nYet they play a role that centralized platforms never can.\n\nMilestones in sovereign technology are different in nature — not about revenue or growth charts, but about *capability* and *freedom*. They mark the moment where something becomes possible that wasn’t possible before: the moment a person gains the ability to own their digital presence rather than borrow it.\n\nToday’s milestone — the launch of Continuum Pro — matters precisely because it moves the boundary of what is possible.\n\nIt shows that a single builder can still create something meaningful, resilient, and independent of the platform era.\n\nAnd it reminds us that true progress often begins long before anyone is watching.",
+  "created_at": 1763777639,
+  "id": "9c890f1feea919f2e3bfa26c7433b834db62a703e8394cc4e15e1b9481a86ac1",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "5813489a9cb2f43e170581d93a5e65455c956081107fd81310a300dddba6ed6508183b357a6519f748026638043c9186580cc62543810ac9cc32086707803b14",
+  "tags": [
+    [
+      "d",
+      "free-article-1-nov-21-2025-why-sovereign-tools-need-their-own-milestones"
+    ],
+    [
+      "title",
+      "Free Article 1 (Nov. 21, 2025): Why Sovereign Tools Need Their Own Milestones"
+    ],
+    [
+      "published_at",
+      "1763777639"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "In a world dominated by centralized platforms, small victories in sovereign tech matter more than most people realize. This article reflects on why milestones like the launch of Continuum Pro are critical for building an alternative future."
+    ],
+    [
+      "display_date",
+      "2025-11-21"
+    ],
+    [
+      "image",
+      "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2025-11-21-generated-continuum-pro-announcement.jpg"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "tools"
+    ],
+    [
+      "t",
+      "milestones"
+    ],
+    [
+      "t",
+      "building"
+    ],
+    [
+      "t",
+      "independence"
+    ],
+    [
+      "t",
+      "decentralization"
+    ],
+    [
+      "t",
+      "free"
+    ],
+    [
+      "e",
+      "9c43b80b736a376d18f76547c3ecbdf7ce7818ee5e9c78c03a5900b5451a9806",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://nostr.bitcoiner.social",
+    "wss://nos.lol",
+    "wss://relay.snort.social"
+  ]
+}
