@@ -1,0 +1,76 @@
+{
+  "content": "# Continuum Magazine — Weekly Issue\n\n*Week of Sep 15, 2025 to Sep 21, 2025*\n\n---\n\n## Table of Contents\n\n### Sep 15, 2025\n\n- Paid: *[The Hidden Costs of Convenience: Why Sovereignty Demands Sacrifice]*\n- Free: *[Free Article 1 (Sept. 15, 2025): The Seeds We Plant Today](https://is.gd/dKmo3Q)*\n- Free: *[Free Article 2 (Sept. 15, 2025): Sovereignty in the Small Things](https://is.gd/5Jeiyt)*\n\n### Sep 16, 2025\n\n- Paid: *[Debt Relief Programs]*\n- Free: *[Free Article 1 (Sept. 16, 2025): The Mirage of Easy Fixes](https://is.gd/h4gXfT)*\n- Free: *[Free Article 2 (Sept. 16, 2025): Credit as a Chain](https://is.gd/XEsv0K)*\n\n### Sep 17, 2025\n\n- Paid: *[Sovereignty is Not a Straight Path]*\n- Free: *[Free Article 1 (Sept. 17, 2025): The Silence After the Promise](https://is.gd/2EN5Wi)*\n- Free: *[Free Article 2 (Sept. 17, 2025): Learning to Walk the Winding Road](https://is.gd/AvjzqY)*\n\n### Sep 18, 2025\n\n- Paid: *[Last Gatekeepers: Why Sovereignty Demands an End to Intermediaries]*\n- Free: *[Free Article 1(Sept. 18, 2025): When Creditors Rule: The Chains of Invisible Masters](https://is.gd/9SHohU)*\n- Free: *[Free Article 2 (Sept. 18, 2025): The Hidden Tax of Convenience](https://is.gd/lmgl5x)*\n\n### Sep 19, 2025\n\n- Paid: *[The Hidden Cost of Walled Gardens]*\n- Free: *[Free Article 1 (Sept. 19, 2025: When Your Income Doesn’t Count](https://is.gd/HHNLPM)*\n- Free: *[Free Article 2 (Sept. 19, 2025): Dogs, Neighbors, and Sovereignty](https://is.gd/AXmSVA)*\n\n### Sep 20, 2025\n\n- Sabbath: *[Sabbath Article (Sept. 20, 2025): The Long Goodbye: Mortality and Sovereignty](https://is.gd/6x7vpj)*\n- Free: *[Free Article 1 (Sept. 20, 2025):  Resting in the Eternal Work](https://is.gd/XSU4Jl)*\n- Free: *[Free Article 2 (Sept. 20, 2025): Death and Fiat Illusions](https://is.gd/HPCQe5)*\n\n### Sep 21, 2025\n\n- Sunday: *[Sunday Article (Sept. 21, 2025): In Christ Shall All Be Made Alive](https://is.gd/zNEFnw)*\n- Free: *[Free Article 1 (Sept. 21, 2025): Sabbath Completed, Life Begins](https://is.gd/S8FN75)*\n- Free: *[Free Article 2 (Sept. 21, 2025): Generations Beyond Us](https://is.gd/2uDpti)*\n\n*Additional posts and notes from this week are available on Nostr under `npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd`.*",
+  "created_at": 1763963595,
+  "id": "6585479b65ecb350649a623141d1d0ae9c643f60ae0ca554818e84d138c75d5e",
+  "kind": 30023,
+  "pubkey": "fb700c6b97241eb0776a54c74e13ace5003a4a5619b81d7ef6c4f4fc80e625f6",
+  "sig": "14dd67d645b4478f97f8cdf3ff97206df8b8b388375ef9d10bc5b101ecfcd3f8a6d888a0147ee65b20ff0e2e66a1ed8064667ef92f78f7920cd2eaf4ca8de1f2",
+  "tags": [
+    [
+      "d",
+      "continuum-magazine---issue-3-sept-15-21-2025"
+    ],
+    [
+      "title",
+      "Continuum Magazine - Issue #3 (Sept. 15-21, 2025)"
+    ],
+    [
+      "summary",
+      "The third issue of Continuum Magazine brings together the Sept 15–21 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction."
+    ],
+    [
+      "published_at",
+      "1763963595"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "magazine"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "faith"
+    ],
+    [
+      "t",
+      "freedom"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "community"
+    ],
+    [
+      "t",
+      "renewal"
+    ],
+    [
+      "display_date",
+      "2025-09-21"
+    ],
+    [
+      "image",
+      "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2025-11-20-generated-continuum-magazine-premium-index.jpg"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://relay.snort.social",
+    "wss://nostr.mom",
+    "wss://nostr.bitcoiner.social"
+  ]
+}

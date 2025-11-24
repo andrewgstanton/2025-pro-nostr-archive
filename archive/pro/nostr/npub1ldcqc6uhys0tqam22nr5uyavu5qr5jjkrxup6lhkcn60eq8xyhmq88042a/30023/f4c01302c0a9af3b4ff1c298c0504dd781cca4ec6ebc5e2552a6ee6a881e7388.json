@@ -1,0 +1,76 @@
+{
+  "content": "# Continuum Magazine — Weekly Issue\n\n*Week of Sep 22, 2025 to Sep 28, 2025*\n\n---\n\n## Table of Contents\n\n### Sep 22, 2025\n\n- Paid: *[The Last Investment: End of Life and Sovereignty]*\n- Free: *[Free Article 1 (Sept. 22, 2025): Building What You Won’t See](https://is.gd/2C2Pyf)*\n- Free: *[Free Article 2 (Sept. 22, 2025): Bitcoin as Inheritance](https://is.gd/mLn8BN)*\n\n### Sep 23, 2025\n\n- Paid: *[Chief of War: Sovereignty at the Edge of Empire]*\n- Free: *[Free Article 1 (Sept. 23, 2025): Freedom in the Fire: When Cultures Collide](https://is.gd/uq9d5w)*\n- Free: *[Free Article 2 (Sept. 23, 2025):  The Sovereign Path: Lessons From Chiefs and Kingdoms](https://is.gd/bqh6i9)*\n\n### Sep 24, 2025\n\n- Paid: *[Dying with Christ, Rising with Truth]*\n- Free: *[Free Article 1 (Sept. 24, 2025): The Weight of What Remains](https://is.gd/VuxfBQ)*\n- Free: *[Free Article 2 (Sept. 24, 2025): When the Light Fades from Familiar Places](https://is.gd/Tg54xn)*\n\n### Sep 25, 2025\n\n- Paid: *[The Economics of Letting Go: Sovereignty Beyond Possession]*\n- Free: *[Free Article 1 (Sept. 25, 2025): The Discipline of Release](https://is.gd/JLeluM)*\n- Free: *[Free Article 2 (Sept. 25, 2025): When We Stop Resisting the Fall](https://is.gd/rSMe4W)*\n\n### Sep 26, 2025\n\n- Paid: *[The Resurrection of Civilization: Bitcoin and the Kingdom That Cannot Fall]*\n- Free: *[Free Article 1 (Sept. 26, 2025): Hope After the Ashes](https://is.gd/ZEupVF)*\n- Free: *[Free Article 2 (Sept. 26): The Rebuilders: What Comes After Collapse](https://is.gd/TKyEiO)*\n\n### Sep 27, 2025\n\n- Sabbath: *[Sabbath Article (Sept. 27, 2025): The Work of Letting Go](https://is.gd/LBEgoA)*\n- Free: *[Free Article 1 (Sept. 27, 2025): The Quiet Before the Departure](https://is.gd/Ym0R8r)*\n- Free: *[Free Article 2 (Sept. 27, 2025): The Vigil of Faith](https://is.gd/4stc5q)*\n\n### Sep 28, 2025\n\n- Sunday *[Sunday Article (Sept. 28, 2025): A Prayer Across the Waters](https://is.gd/OxGRMp)*\n- Free: *[Free Article 1 (Sept. 28, 2025): Love at the Edge of Time](https://is.gd/VhDx1B)*\n- Free: *[Free Article 2 (Sept. 28, 2025): The Nearness of Heaven](https://is.gd/CpwcrO)*\n\n*Additional posts and notes from this week are available on Nostr under `npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd`.*",
+  "created_at": 1763963769,
+  "id": "f4c01302c0a9af3b4ff1c298c0504dd781cca4ec6ebc5e2552a6ee6a881e7388",
+  "kind": 30023,
+  "pubkey": "fb700c6b97241eb0776a54c74e13ace5003a4a5619b81d7ef6c4f4fc80e625f6",
+  "sig": "4d6f6f2b7ef264f2fe41244d65c188d888f93510495971af9ff28be1ddab5a3a1529dc037820093806180e5d5b4e6101b673d7b9d80b3b284e1b1a5565f3674f",
+  "tags": [
+    [
+      "d",
+      "continuum-magazine---issue-4-sept-22-28-2025"
+    ],
+    [
+      "title",
+      "Continuum Magazine - Issue #4 (Sept. 22-28, 2025)"
+    ],
+    [
+      "summary",
+      "The fourth issue of Continuum Magazine brings together the Sept 22–28 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction. Reflections on mortality, reflecting on the week before my father's passing (on Sept. 29, 2025)"
+    ],
+    [
+      "published_at",
+      "1763963769"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "magazine"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "faith"
+    ],
+    [
+      "t",
+      "freedom"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "community"
+    ],
+    [
+      "t",
+      "renewal"
+    ],
+    [
+      "display_date",
+      "2025-09-28"
+    ],
+    [
+      "image",
+      "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2025-11-20-generated-continuum-magazine-premium-index.jpg"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://relay.snort.social",
+    "wss://nostr.mom",
+    "wss://nostr.bitcoiner.social"
+  ]
+}
