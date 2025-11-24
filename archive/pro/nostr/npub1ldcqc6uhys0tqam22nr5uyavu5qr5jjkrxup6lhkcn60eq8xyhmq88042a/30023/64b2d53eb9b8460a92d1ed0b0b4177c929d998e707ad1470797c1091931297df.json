@@ -1,0 +1,84 @@
+{
+  "content": "---\n\n## Table of Contents\n\n### Sept 8, 2025\n\n- Paid: *The Turning, and The Threshold: Bitcoin and the Long Arc of Prophecy*\n- Free: *[A Letter to Asimov (new version)](https://is.gd/2YuGkh)*\n- Free: *[Why Myth Still Matters (new version)](https://is.gd/WKUPwD)*\n\n### Sept 9, 2025\n- Paid: *The Nostr Manifesto*\n- Free: *[Between Two Worlds: Ministry and Sovereignty](https://is.gd/2xFrus)*\n- Free: *[The Discipline of Self-Sovereignty](https://is.gd/qFnMEA)*\n\n### Sept 10, 2025\n- Paid: *Debasement and Decline: Rome’s Warning for Today*\n- Free: *[Bridging Faith and Freedom](https://is.gd/7VSfUT)*\n- Free: *[The Cost of Compromise](https://is.gd/jFAX7O)*\n\n### Sept 11, 2025\n- Paid: *Sovereign Land Titles: Covenant, Jurisdiction, and the End of Reservations*\n- Free: *[To Honor Charlie Kirk, We Must Not Trade Freedom for Surveillance](https://is.gd/9rT8va)*\n- Free: *[Rethinking Tribal Land: Mixed-Use Ownership for a Sovereign Future](https://is.gd/ritX2J)*\n\n### Sept 12, 2025\n- Paid: *MLM and Web3: Two Sides of the Same Pyramid (longer version)*\n- Free: *[MLM and Web3: A comparison](https://is.gd/06H76r)*\n- Free: *[The Paradox of Real Estate Growth](https://is.gd/bHNhzZ)*\n\n### Sept 13, 2025\n- Sabbath: *[Why is a Sabbath Rest Important in a Digital Age](https://is.gd/bI5o6J)*\n- Free: *[Remembering Charlie Kirk: A Surprising friendship between him and Ross Ulbricht](https://is.gd/SVWNx8)*\n- Free: *[Why Bitcoin Encourages Rest, Not Just Leisure](https://is.gd/o2aGrJ)*\n\n### Sept 14, 2025\n- Sunday: *[Starting a New Way of Thinking with Bitcoin](https://is.gd/7sRUv1)* \n- Free: *[Europa Sunrise: The Bitcoin Chronicles](https://is.gd/7n5UAe)*\n- Free: *[New Lakota Council Meeting – 100th Anniversary: The Bitcoin Chronicles](https://is.gd/Pcl4CD)*\n\n*Additional posts and notes from Sept 8–14 are available on Nostr under @Akamaister.*",
+  "created_at": 1763954799,
+  "id": "64b2d53eb9b8460a92d1ed0b0b4177c929d998e707ad1470797c1091931297df",
+  "kind": 30023,
+  "pubkey": "fb700c6b97241eb0776a54c74e13ace5003a4a5619b81d7ef6c4f4fc80e625f6",
+  "sig": "7e37013175d6d2d22d8dc7701b4992ae1dba476b781190cbf0409b130dcec9b6547e76bf46d6a46fa27fb6833cce3eae8f7c59d2ff2695df3854a76fabc8e121",
+  "tags": [
+    [
+      "d",
+      "continuum-magazine---issue-2-sept-8-14-2025"
+    ],
+    [
+      "title",
+      "Continuum Magazine - Issue #2 (Sept. 8-14, 2025)"
+    ],
+    [
+      "summary",
+      "The second issue of Continuum Magazine brings together the Sept 8–14, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction. This week we noted the tragic assasination of Charlie Kirk and the observance of Sept. 11.  But, we also launched Continuum Magazine (first issue was published this week)"
+    ],
+    [
+      "published_at",
+      "1763954799"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "magazine"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "faith"
+    ],
+    [
+      "t",
+      "freedom"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "community"
+    ],
+    [
+      "t",
+      "renewal"
+    ],
+    [
+      "t",
+      "charlie kirk"
+    ],
+    [
+      "t",
+      "sept11"
+    ],
+    [
+      "display_date",
+      "2025-11-23"
+    ],
+    [
+      "image",
+      "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2025-11-20-generated-continuum-magazine-premium-index.jpg"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social"
+  ]
+}
