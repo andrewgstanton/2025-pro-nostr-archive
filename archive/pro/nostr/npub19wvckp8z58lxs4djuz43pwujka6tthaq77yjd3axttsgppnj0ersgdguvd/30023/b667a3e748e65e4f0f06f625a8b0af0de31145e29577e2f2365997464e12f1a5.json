@@ -1,0 +1,73 @@
+{
+  "content": "Andrew G. Stanton - Nov. 24, 2025\n\nKai Mercer was an engineer by trade, but on Mars, titles meant very little. Every colonist ended up wearing at least three hats — technician, medic, philosopher — and Kai had all three forced upon him the day the old basalt tower at Mare Cimmerium came under his care.\n\nThey called it *the Lighthouse*, even though it had never held light.\n\nInstead, it held something far more important.\n\nA fully-synced Bitcoin node.  \nOne of the oldest in the colonies.  \nAnd one of the few still air-gapped and sealed from the wider mesh.\n\nMost people didn’t understand why the Lighthouse mattered.  \nEspecially the younger colonists, born after the Entanglement Bridge made cross-planetary sync trivial.\n\n“What’s the point of the old node?” they asked.  \n“We already have thousands running across Mars.”\n\nKai always gave the same answer:\n\n“Redundance is not sovereignty.  \nIsolation is sovereignty.”\n\nThe Lighthouse was the last line of defense against a mesh-wide attack — a place where truth was preserved offline, only to be reintroduced into the network if everything else went dark.\n\nIt was a concept borrowed from early Earth sovereignty models: cold storage, detached consensus, resilient truth.\n\n---\n\n### **The Storm**\n\nOn the morning of 11/24, the sky over Mare Cimmerium turned orange-black. Dust storms on Mars were not unusual. But this one was different — broader, charged with static, and dragging a shock front that scrambled long-range comms.\n\nMesh nodes began dropping.  \nThe colony's block-relay latency spiked.  \nThe Entanglement Bridge flickered three times in one hour.\n\nBy nightfall, 70% of Mars was offline.\n\nAnd the Lighthouse was the only node still untouched.\n\nKai descended the basalt stairwell with a lantern. The stone walls vibrated with each gust. He reached the vault and checked the node: block height 1,757,224 — perfect.\n\nOutside, the colony's primary hub was losing sync and beginning to fork.\n\nMinutes away from disaster.\n\n---\n\n### **The Decision**\n\nFor the first time in years, the old bypass protocol became necessary — the emergency uplink that allowed the Lighthouse to broadcast the uncorrupted chain via short-burst radio.\n\nKai hesitated.  \nOnce he activated it, the Lighthouse would no longer be isolated — it would become a target, a point of vulnerability in the storm.\n\nBut if he didn’t, the colony could fracture into consensus partitions, each creating its own truth.\n\nHe whispered to the tower:\n\n“Not today.”\n\nKai activated the uplink.\n\nA deep hum rose from the basalt floor as the antenna extended through the dust-choked roof.\n\nBlock hashes spilled outward into the dark Martian sky — tiny packets of truth forcing the network back into alignment.\n\nOne by one, colonies came back online.\n\nOne by one, their forks self-corrected.\n\nOne by one, consensus was restored.\n\n---\n\n### **Dawn in the Red Desert**\n\nBy morning, the dust storm had passed.  \nThe Lighthouse stood firm.  \nAnd the colony remained intact.\n\nKai returned the node to isolation.  \nTruth preserved.  \nAttack surface minimized.\n\nA simple principle, unchanged for centuries:\n\n**A sovereign civilization must anchor its truth outside the reach of chaos.**\n\nMars had been reminded the hard way.  \nAnd the Lighthouse keeper returned to his silent watch — grateful, once again, that light had nothing to do with luminance.\n\nThe Lighthouse was built to shine in a different way.",
+  "created_at": 1764027947,
+  "id": "b667a3e748e65e4f0f06f625a8b0af0de31145e29577e2f2365997464e12f1a5",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "5f50fc00346559419ae5fd7a5d117a989bb44bca2f7973250dbf2f93b69a92f939402b1e58cec7917e8f2bb67910cd69a5e9905ae229f59d520747f880e99af2",
+  "tags": [
+    [
+      "d",
+      "free-article-2-nov-24-2025-the-lighthouse-at-mare-cimmerium"
+    ],
+    [
+      "title",
+      "Free Article 2 (Nov. 24, 2025): The Lighthouse at Mare Cimmerium"
+    ],
+    [
+      "summary",
+      "On Mars, a lone engineer maintains an ancient Bitcoin node inside an old basalt tower. When a dust storm threatens to sever the colony from the interplanetary mesh, the Lighthouse becomes the only source of truth for a world drifting toward digital amnesia."
+    ],
+    [
+      "published_at",
+      "1764027947"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoin-chronicles"
+    ],
+    [
+      "t",
+      "mars-colony"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "mesh-networks"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "survival"
+    ],
+    [
+      "t",
+      "free"
+    ],
+    [
+      "display_date",
+      "2025-11-24"
+    ],
+    [
+      "image",
+      "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2025-11-24-generated-paid-set.png"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://relay.damus.io",
+    "wss://relay.snort.social",
+    "wss://nostr.mom",
+    "wss://nostr.bitcoiner.social"
+  ]
+}
