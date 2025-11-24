@@ -1,0 +1,82 @@
+{
+  "content": "# Continuum Magazine — Weekly Issue\n\n*Week of Nov 10, 2025 to Nov 16, 2025*\n\n---\n\n## Table of Contents\n\n### Nov 10, 2025\n\n- Paid: *[Paid Article (Nov. 10, 2025): The Bitcoin Chronicles — Big Brother Calling: The United Earth Bureau]*\n- Free: *[Free Article.1 (Nov. 10, 2025): The Bitcoin Chronicles — Signals in Silence](https://is.gd/L7OvCc)*\n- Free: *[Free Article 2 (Nov. 10, 2025): The Bitcoin Chronicles — The Hilo Continuum](https://is.gd/h3eqb6)*\n\n### Nov 11, 2025\n\n- Paid: *[Paid Article (Nov. 11, 2025): The Covenant of Creation]*\n- Free: *[Free Article 1 (Nov. 11, 2025): The Long Arc of Fidelity](https://is.gd/fjFssT)*\n- Free: *[Free Article 2 (Nov. 11, 2025): Building for the Ones Who Come After](https://is.gd/JJHr20)*\n\n### Nov 12, 2025\n\n- Paid: *[Paid Article (Nov. 12, 2025): The Forge of Freedom]*\n- Free: *[Free Article 1 (Nov. 12, 2025): The Discipline of Staying True](https://is.gd/d1YLnL)*\n- Free: *[Free Article 2 (Nov. 12, 2025): When the Noise Fades](https://is.gd/PE7W7w)*\n\n### Nov 13, 2025\n\n- Paid: *[Paid Article (Nov. 13, 2025): When You’re Bone-Tired but Still Called to Build (Field Notes from the Edge of Burnout)]*\n- Free: *[Free Article 1 (Nov. 13, 2025): Real Work vs. Fake Work in a World That Runs on Optics](https://is.gd/Pf2avr)*\n- Free: *[Free Article 2 (Nov. 13, 2025): Tiny On-Ramps: Turning Little Experiments into Real Income](https://is.gd/70bbwH)*\n\n### Nov 14, 2025\n\n- Paid: *[Paid Article (Nov. 14, 2025): The Season of Invisible Work]*\n- Free: *[Free Article 1 (Nov. 14, 2025): When Your Oldest Words Start Disappearing](https://is.gd/J1i6UK)*\n- Free: *[Free Article 2 (Nov. 14, 2025): When Every System Feels Like Friction](https://is.gd/T5RB90)*\n\n### Nov 15, 2025\n\n- Sabbath: *[Sabbath Article (Nov. 15, 2025): The Day Continuum Became Permanent](https://is.gd/Nq6v4L)*\n- Free: *[Free Article 1 (Nov. 15, 2025): The Day the Archive Came Alive](https://is.gd/Qcguua)*\n- Free: *[Free Article 2 (Nov. 15, 2025): When Sovereign Tools Suddenly Make Sense](https://is.gd/FrPRef)*\n\n### Nov 16, 2025\n\n- Sunday: *[Sunday Article (Nov. 16, 2025): After Permanence: How Systems Change Their Makers](https://is.gd/kzBIsu)*\n- Free: *[Free Article 1 (Nov. 16, 2025): The Morning the Path Became Clear](https://is.gd/l58MzD)*\n- Free: *[Free Article 2 (Nov. 16, 2025): Gratitude in a World That Forgets](https://is.gd/wTro9S)*\n\n*Additional posts and notes from this week are available on Nostr under `npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd`.*",
+  "created_at": 1764018206,
+  "id": "b6680c02ec1d5d67e205dc23bd8e3898100350ee723243cf9f5d1f61abb7d183",
+  "kind": 30023,
+  "pubkey": "fb700c6b97241eb0776a54c74e13ace5003a4a5619b81d7ef6c4f4fc80e625f6",
+  "sig": "bc94c47b583f5524e6b54bf5f5d4311e01d5243ccc4bc75dd22e2cab17bef9058f2dac30598587507fc708374f89afe3d0ac7a4305de0dd7056c9f3abd08d772",
+  "tags": [
+    [
+      "d",
+      "continuum-magazine---issue-11-nov10-16-2025"
+    ],
+    [
+      "title",
+      "Continuum Magazine - Issue #11 (Nov.10-16, 2025)"
+    ],
+    [
+      "published_at",
+      "1764018206"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "# 11.  This issue of Continuum Magazine brings together the Nov.10-Nov.16, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction."
+    ],
+    [
+      "display_date",
+      "2025-11-16"
+    ],
+    [
+      "image",
+      "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2025-11-16-ChatGPT-image-generated-300-milestone.png"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "magazine"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "faith"
+    ],
+    [
+      "t",
+      "freedom"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "community"
+    ],
+    [
+      "t",
+      "renewal"
+    ],
+    [
+      "e",
+      "25a6b3ad691006fe71ef620279ac6b3a5ee51cd2aa5cec576a6f7812ac0c04e7",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.damus.io",
+    "wss://nos.lol",
+    "wss://relay.snort.social"
+  ]
+}
