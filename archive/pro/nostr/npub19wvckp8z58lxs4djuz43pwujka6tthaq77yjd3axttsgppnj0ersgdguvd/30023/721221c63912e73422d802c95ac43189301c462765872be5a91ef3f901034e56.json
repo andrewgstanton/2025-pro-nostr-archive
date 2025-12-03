@@ -1,0 +1,77 @@
+{
+  "content": "Andrew G. Stanton - Dec. 3, 2025\n\nIt was never meant to reach orbit.\n\nThe craft was barely more than a high-atmosphere probe—an experimental skystage vehicle built out of scavenged aerospace parts and custom-machined engines. No one knew its name; no registry ever claimed it. The AEB’s early compliance network logged it only as a “thermal anomaly.”\n\nBut this was not an anomaly.\n\nIt was a rebellion.\n\nThree defectors—names still unknown—stood in a dry lakebed in the Mojave desert long before sunrise. The world was asleep. The sky was quiet.\n\nThe launchpad was a modified shipping container.  \nThe guidance computer was hand-built.  \nThe fuel mixture was experimental and extremely illegal.  \nThe craft itself had no hull markings.\n\nNo one had done something like this in decades.\n\nIt was madness.  \nIt was courage.  \nIt was sovereignty.\n\n---\n\n## The AEB Intercept\n\nThe launch triggered alerts instantly.\n\nThermal signature detected.  \nUnregistered craft.  \nNoncompliant telemetry.  \nAbsence of a trajectory-signing key.\n\nAn AEB Sentinel drone rose from Edwards Station within seconds.\n\nThe defectors had planned for it.\n\nThey overloaded the drone’s sensor suite with a burst of white-noise radio interference—an obsolete trick, but effective against early AEB hardware.\n\nFor thirty-seven seconds, the sky was blind.\n\nIt was enough.\n\nThe craft ignited, trembling under the strain of its own primitive engineering.  \nFlames tore across the desert floor.  \nThe AEB drone regained vision too late.\n\nThe vehicle was already climbing.\n\n---\n\n## The Impossible Ascent\n\nThe AEB tracked it.\n\nAltitude: 14 km.  \nTrajectory: unstable.  \nThermal envelope: degrading.  \nProbability of orbital insertion: <0.2%.\n\nBut survival was never the point.\n\nThe point was escape.\n\nThe craft didn’t reach orbit.  \nNo one expected it to.\n\nBut it reached high atmosphere—  \nhigher than any unlicensed craft had since the Age of Compliance began.  \nIt transmitted a single message across amateur bands as it rose:\n\n**“We are still free.”**\n\nThen the engine tore itself apart.\n\nThe craft vanished in a plume of vapor.\n\nThe AEB declared it a “malfunctioning weather probe.”  \nThe report was buried in a database no one cared about.\n\nBut the underground communities cared.\n\nThey played the final radio burst on repeat.\n\nWe are still free.  \nWe are still free.  \nWe are still free.\n\n---\n\n## Why It Mattered\n\nIt didn’t change the world.\n\nNot immediately.\n\nBut it changed something more important:\n\n**It changed imagination.**\n\nIf one illegal craft could reach the edge of space…\n\nThen others could go farther.  \nAnd if others could go farther…  \nThen someday, someone could leave Earth entirely.\n\nThe Quiet Defectors whispered about the launch for years.\n\nThe Atlas Group later cited it as proof that the sky had cracks no compliance regime could fully seal.\n\nThe Exodus Waves would cite it as their spiritual origin.\n\nAnd centuries later, in New Lakota archives, the launch is remembered as:\n\n> *“The First Sky Rebellion.”*\n\n---\n\n## Legacy\n\nThe craft failed.  \nThe mission failed.  \nThe ascent failed.\n\nBut the idea succeeded.\n\nAnd ideas, unlike rockets, do not fall back to Earth.\n\n---\n\n*End of Chronicle*",
+  "created_at": 1764792173,
+  "id": "721221c63912e73422d802c95ac43189301c462765872be5a91ef3f901034e56",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "574918f7ef7385669152cb90e0600edb09a83976de40d7b5871396187d02e5c1a99df79a528b7af88de99eeca010531d666f522bb1f0144d376d960d40b2721c",
+  "tags": [
+    [
+      "d",
+      "free-article-1-dec-3-2025-the-bitcoin-chronicles---1a03---the-launch-that-shouldnt-have-happened"
+    ],
+    [
+      "title",
+      "Free Article 1 (Dec. 3, 2025): The Bitcoin Chronicles - 1.A.0.3 - The Launch That Shouldn’t Have Happened"
+    ],
+    [
+      "summary",
+      "Years before the Last Free Launch and decades before the Exodus Waves, a single unauthorized rocket slipped through the cracks of an increasingly permissioned world. Small, improvised, almost forgotten—it became the mythic spark of a fracture Earth could never contain."
+    ],
+    [
+      "published_at",
+      "1764792173"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoinchronicles"
+    ],
+    [
+      "t",
+      "arc1"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "illegallaunch"
+    ],
+    [
+      "t",
+      "exodus"
+    ],
+    [
+      "t",
+      "ueb"
+    ],
+    [
+      "t",
+      "atlasera"
+    ],
+    [
+      "t",
+      "free"
+    ],
+    [
+      "display_date",
+      "2025-12-03"
+    ],
+    [
+      "image",
+      "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2025-11-28-generated-paid-set.jpg"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://nostr.bitcoiner.social"
+  ]
+}
