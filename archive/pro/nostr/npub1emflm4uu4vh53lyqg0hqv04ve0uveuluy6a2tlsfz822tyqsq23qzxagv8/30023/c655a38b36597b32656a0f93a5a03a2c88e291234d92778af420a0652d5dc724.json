@@ -1,0 +1,74 @@
+{
+  "content": "I’ve been pouring my heart into Continuum — building tools that let us live and work with digital sovereignty.\n\nEvery day I’m writing, coding, building, refining, publishing, archiving, and creating a space where our identities, our work, our stories, and our freedom aren’t trapped inside someone else’s platform.\n\nContinuum is:\n\n- **a sovereign publishing tool**  \n- **a multi-identity Nostr client**  \n- **a personal archive system**  \n- **a creative engine for the Bitcoin Chronicles**  \n- **a long-term ecosystem for self-sovereign work**\n\nI’m doing all of this independently — without VC money, without corporate funding, without selling control, and without compromising the vision.\n\nIf you’ve found value in my writing, conversations, or software, I’d love your support as a patron.\n\nYour support helps me:\n\n- keep Continuum independent  \n- build faster  \n- expand tools for creators and sovereign individuals  \n- release more of the Bitcoin Chronicles  \n- publish more theology, sovereignty essays, and long-form work  \n- maintain the infrastructure behind the sovereign archive  \n- continue developing new features week after week  \n\n**Patron package: $250 (1 time payment)**  \n(or sats, with a discount)\n\nIf you want to support the work, or you have questions, please reach out:\n\n**Support (including sats):** andrewgstanton@primal.net  \n\n**Questions or DM:** reach out to me directly on Nostr (@Akamaister on Primal)\n\n**For non-sats Patron support payments (Venmo, PayPal, Zelle, etc.):** DM me and I’ll share the details.\n\nThank you — truly — to everyone who’s been reading, zapping, encouraging, and walking with me through this journey.\n\nI’ll keep building.  \nI’ll keep writing.  \nAnd I’ll keep holding the line on sovereignty, creativity, and truth.\n\n— Andrew",
+  "created_at": 1764829691,
+  "id": "c655a38b36597b32656a0f93a5a03a2c88e291234d92778af420a0652d5dc724",
+  "kind": 30023,
+  "pubkey": "ced3fdd79cab2f48fc8043ee063eaccbf8ccf3fc26baa5fe0911d4a5901002a2",
+  "sig": "86e71d8d37d350c0f60ba5c437d680cde5ec517a8b044d650cabef3b69b5075c9958f5f0055dceb5527d347fb97da25727d9a2c24d4b799fe83799921242b212",
+  "tags": [
+    [
+      "d",
+      "patron-support-continuum"
+    ],
+    [
+      "title",
+      "Patron Support Continuum"
+    ],
+    [
+      "summary",
+      "A personal invitation to support the ongoing development of Continuum — a sovereign publishing platform, multi-identity Nostr client, and creative engine behind the Bitcoin Chronicles. Patron support helps keep the work independent, aligned with first principles, and free from corporate or institutional control."
+    ],
+    [
+      "published_at",
+      "1764829691"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "patronsupport"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "bitcoinchronicles"
+    ],
+    [
+      "t",
+      "digitalsovereignty"
+    ],
+    [
+      "t",
+      "builders"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "openprotocols"
+    ],
+    [
+      "t",
+      "independence"
+    ],
+    [
+      "t",
+      "creativework"
+    ],
+    [
+      "display_date",
+      "2025-12-03"
+    ]
+  ]
+}
