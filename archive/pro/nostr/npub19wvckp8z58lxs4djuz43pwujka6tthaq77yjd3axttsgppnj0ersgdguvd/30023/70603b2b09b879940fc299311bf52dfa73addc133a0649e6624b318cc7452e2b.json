@@ -1,0 +1,57 @@
+{
+  "content": "## Paid Article Sample\n\nThis is what a paid article would look like unecrypted\n\n---\n\n> 🔒 **This is a paid article.**\n> To unlock the full content, open this page using the private link you received (it includes a `?code=...` parameter).\n\n<!-- ENC_BLOB_START -->\nENCv1:bG_Y1SdOHyyZMTxKnt1TCIMsLR29_zYD-H6dCaBQYRS4CQAReadOWisfDnqJ3QQvPB-n4MZxOUFYDwxmqYsmJIvfaCnsQHzAFdD4EQgW4vpADl-qpTzFOLo94LzbTT8qTmwyHuVIyp0Ozs3rLcV0Upsjh4hkpSKkRUcKa36gnPSBNqQdVIsbmZ4pYyZxW9ztvDSeUrR_mMpHqkcTiRuWT0xeKUHkrbO8dSQcRkrEqzsjujCn-n4sz53yAH-H63Yu2ReqynI-AOx2j1Lp6p3LtJeLtDO_9xAT\n<!-- ENC_BLOB_END -->\n",
+  "created_at": 1765005180,
+  "id": "70603b2b09b879940fc299311bf52dfa73addc133a0649e6624b318cc7452e2b",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "78e31f0edd5dcfd243507581ce2020fd26ab9867e3e1e17c9af9d3ff278664275834975f51d60e6bbe27cb7a33ed69fbf69e47a74a813fac083cc8211c460b6d",
+  "tags": [
+    [
+      "d",
+      "paid-article-sample-2025-12-05"
+    ],
+    [
+      "title",
+      "Paid Article Sample"
+    ],
+    [
+      "summary",
+      "This is what a paid article would look like unecrypted"
+    ],
+    [
+      "published_at",
+      "1765005180"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "display_date",
+      "2025-12-05"
+    ],
+    [
+      "image",
+      "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2025-11-28-generated-paid-set.jpg"
+    ],
+    [
+      "t",
+      "paid-sample"
+    ],
+    [
+      "t",
+      "paid"
+    ],
+    [
+      "enc",
+      "aesgcm-v1"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nos.lol"
+  ]
+}
