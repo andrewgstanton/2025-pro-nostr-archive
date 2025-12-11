@@ -1,0 +1,65 @@
+{
+  "content": "Andrew G. Stanton - Dec. 11, 2025\n\n*Recovered from Relay Archive #1127-A  \nTimestamp: Pre-Launch, Pilgrim-1*\n\n**THE PILGRIM CHARTER**\n\n> “No authority may claim dominion over a human mind, a human conscience,  \n> or a human future — not on Earth, not beyond it.”\n\nThese were the opening lines of the Pilgrim Charter, the founding document drafted by the thirty-two members of the first sovereign launch team on the eve of departure.\n\nIt was not a declaration of rebellion.  \nIt was a declaration of *jurisdiction*.\n\nEarth’s tightening lattice of registries, licensing bureaus, orbital accords, and early space-compliance protocols had begun to suffocate independent research. What began as “safety guidelines” metastasized into a bureaucracy of permissions.\n\nThe Pilgrim team realized something quietly frightening:\n\n**If humanity needed permission to leave Earth, then humanity no longer owned its future.**\n\nAnd so they wrote the Charter.\n\nIt was posted to a sovereign relay — one outside the jurisdictional mesh of national networks — and replicated across thousands of nodes operated by ordinary citizens. In that moment, the Charter became *uncensorable*. No one authority could retract the words. No clerk could void the signatures.\n\nThe final line of the document reads:\n\n> “Let sovereignty expand with us — or be left behind.”\n\nThe next morning, Pilgrim-1 launched.\n\nAnd Earth was never the same.",
+  "created_at": 1765485713,
+  "id": "6206ff47c810d547636b41f2fb21dd7139276e26a20e3a42a65e311bce5bd9a9",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "01b46a5cd4888a5a20765b144dcd08ee1041b48d1be92d0a61026139d6b2b16fd7723e893bb60725ad218c9dff405279bea7802e3a1461b6e6acd0806aa9a078",
+  "tags": [
+    [
+      "d",
+      "free-article-2-dec-11-2025-the-bitcoin-chronicles---the-first-pilgrim-charter"
+    ],
+    [
+      "title",
+      "Free Article 2 (Dec. 11, 2025): The Bitcoin Chronicles - The First Pilgrim Charter"
+    ],
+    [
+      "summary",
+      "A lore fragment from the early expansion era of *The Bitcoin Chronicles* — the foundational charter that launched humanity’s first sovereign mission beyond Earth."
+    ],
+    [
+      "published_at",
+      "1765485713"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoin-chronicles"
+    ],
+    [
+      "t",
+      "sci-fi"
+    ],
+    [
+      "t",
+      "lore"
+    ],
+    [
+      "t",
+      "worldbuilding"
+    ],
+    [
+      "t",
+      "free"
+    ],
+    [
+      "display_date",
+      "2025-12-11"
+    ],
+    [
+      "image",
+      "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2025-12-11-generated-paid-set.jpg"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nos.lol"
+  ]
+}

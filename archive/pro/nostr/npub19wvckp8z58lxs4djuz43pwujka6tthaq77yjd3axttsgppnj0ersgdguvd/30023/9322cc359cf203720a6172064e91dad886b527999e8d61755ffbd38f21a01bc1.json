@@ -1,0 +1,65 @@
+{
+  "content": "Andrew G. Stanton - Dec. 11, 2025\n\n\nMost people imagine sovereignty as a dramatic act — a breaking point, a moment of defiance, a grand reset.\n\nBut every sovereign person I’ve ever known was built quietly.\n\nSovereignty is not a single decision.  \nIt’s **a thousand small ones**.\n\nIt’s the habit of choosing the harder path:\n- your own archive instead of someone else’s cloud  \n- your own identity instead of platform credentials  \n- your own tools instead of borrowed convenience  \n- your own backups, your own encryption, your own verification  \n\nEach step feels tiny.  \nInsignificant.  \nAlmost trivial.\n\nBut that’s the secret.\n\n**Sovereignty is architectural.**\n\nIt accretes.  \nIt thickens.  \nIt becomes a living structure that protects you — even on days you aren’t thinking about it.\n\nYou don’t “reach” sovereignty.  \nYou *train* sovereignty.\n\nAnd every small step counts.",
+  "created_at": 1765485231,
+  "id": "9322cc359cf203720a6172064e91dad886b527999e8d61755ffbd38f21a01bc1",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "87ff7df38fb203dc9c8c2461ef7eccb68d47960941ce9125fe0421d867adc9da9a0b3933c34a517d4667fff41e417ede79830d95274cb74750e10685abe3fc95",
+  "tags": [
+    [
+      "d",
+      "free-article-1-dec-11-2025-sovereignty-is-learned-in-small-steps"
+    ],
+    [
+      "title",
+      "Free Article 1 (Dec. 11, 2025): Sovereignty Is Learned in Small Steps"
+    ],
+    [
+      "summary",
+      "Sovereignty isn't a dramatic breakthrough — it is a practiced rhythm of small decisions made daily. We become sovereign by training sovereignty."
+    ],
+    [
+      "published_at",
+      "1765485231"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "freedom"
+    ],
+    [
+      "t",
+      "digital-sovereignty"
+    ],
+    [
+      "t",
+      "reflections"
+    ],
+    [
+      "t",
+      "free"
+    ],
+    [
+      "display_date",
+      "2025-12-11"
+    ],
+    [
+      "image",
+      "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2025-12-11-generated-paid-set.jpg"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nos.lol"
+  ]
+}
