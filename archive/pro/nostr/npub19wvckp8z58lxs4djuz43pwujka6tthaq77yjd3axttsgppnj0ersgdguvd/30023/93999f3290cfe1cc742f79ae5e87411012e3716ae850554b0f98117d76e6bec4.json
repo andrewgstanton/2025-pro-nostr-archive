@@ -1,0 +1,80 @@
+{
+  "content": "Andrew G. Stanton - Dec. 12, 2025\n\nReaders of the Sovereign Archive will observe an apparent inconsistency in temporal notation across the Chronicles.\n\nThis inconsistency is intentional.\n\nAfter the Pilgrim era, humanity no longer shared a single conception of time.\n\nEarth-based administrative institutions — including the United Earth Bureau (UEB) and its subsidiary agencies — continued to operate using Gregorian calendar dates and Coordinated Universal Time. These systems persisted not because they were superior, but because they were legible to bureaucracy. Reports, incident logs, compliance filings, and regulatory directives required timestamps that could be audited, compared, and enforced by centralized authority.\n\nGregorian time became the language of administration.\n\nSovereign settlements, by contrast, abandoned calendar-based time as a primary reference. Lunar Freeport, Martian charters, Belt guilds, and later civilizations adopted ledger-relative systems: block height, transaction epochs, covenant cycles, or consensus timestamps derived from distributed validation.\n\nLedger time could not be issued, revised, or backdated by decree.  \nIt could only be proven.\n\nAs a result, two temporal regimes coexisted:\n\nAdministrative Time — linear, calendar-based, authority-validated.  \nSovereign Time — relational, ledger-based, consensus-verified.\n\nIn transitional records, the same event may appear twice: once marked by Gregorian date in Earth-based reports, and once indexed by block height or epoch within sovereign archives. Where both appear, the discrepancy itself often signals contested authority.\n\nArchivists retain both systems when preserving records, not to reconcile them, but to reveal their underlying assumptions.\n\nGregorian timestamps indicate who claimed jurisdiction.  \nLedger timestamps indicate where truth was anchored.\n\nTime, like money, follows the structure of power.  \nWhen power decentralizes, time does not disappear — it becomes sovereign.",
+  "created_at": 1765570673,
+  "id": "93999f3290cfe1cc742f79ae5e87411012e3716ae850554b0f98117d76e6bec4",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "ebe2d0b3920adb3db231e9f81edc89f0f61e5bafcbbcbb7f61b86bfb06a0b43b9195ef6cbdc50d44d174246b677c18a341575edd4730e0b0904b2bbfd269f2b1",
+  "tags": [
+    [
+      "d",
+      "the-bitcoin-chronicles---7a1---archivist-note-on-divergent-timekeeping-systems"
+    ],
+    [
+      "title",
+      "The Bitcoin Chronicles - 7.A.1 - Archivist Note: On Divergent Timekeeping Systems"
+    ],
+    [
+      "summary",
+      "An archival clarification describing the continued use of Gregorian dates by centralized authorities alongside the adoption of ledger-based and epochal time by sovereign colonies after the Pilgrim era."
+    ],
+    [
+      "published_at",
+      "1765570673"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoin-chronicles"
+    ],
+    [
+      "t",
+      "archivist-note"
+    ],
+    [
+      "t",
+      "arc7"
+    ],
+    [
+      "t",
+      "timekeeping"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "canon"
+    ],
+    [
+      "t",
+      "ueb"
+    ],
+    [
+      "t",
+      "ledger-time"
+    ],
+    [
+      "t",
+      "lore"
+    ],
+    [
+      "display_date",
+      "2025-12-12"
+    ],
+    [
+      "image",
+      "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2025-12-12-generated-paid-set.jpg"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://nostr.bitcoiner.social",
+    "wss://nos.lol"
+  ]
+}
