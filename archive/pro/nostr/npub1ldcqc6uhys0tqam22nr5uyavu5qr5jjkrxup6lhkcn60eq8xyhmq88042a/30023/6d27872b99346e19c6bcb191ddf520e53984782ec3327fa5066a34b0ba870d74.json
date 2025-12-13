@@ -1,0 +1,81 @@
+{
+  "content": "# Continuum Magazine — Weekly Issue\n\n*Week of Sep 22, 2025 to Sep 28, 2025*\n\n---\n\n## Table of Contents\n\n### Sep 22, 2025\n\n- Paid: *[🔒 Paid Article (Sept. 22, 2025): The Last Investment: End of Life and Sovereignty](https://is.gd/9A6IFC)*\n- Free: *[Free Article 1 (Sept. 22, 2025): Building What You Won’t See](https://is.gd/2C2Pyf)*\n- Free: *[Free Article 2 (Sept. 22, 2025): Bitcoin as Inheritance](https://is.gd/mLn8BN)*\n\n### Sep 23, 2025\n\n- Paid: *[🔒 Paid Article (Sept. 23, 2025): Chief of War: Sovereignty at the Edge of Empire](https://is.gd/AQd811)*\n- Free: *[Free Article 1 (Sept. 23, 2025): Freedom in the Fire: When Cultures Collide](https://is.gd/uq9d5w)*\n- Free: *[Free Article 2 (Sept. 23, 2025):  The Sovereign Path: Lessons From Chiefs and Kingdoms](https://is.gd/bqh6i9)*\n\n### Sep 24, 2025\n\n- Paid: *[🔒 Paid Article (Sept. 24, 2025): Dying with Christ, Rising with Truth](https://is.gd/VOreOm)*\n- Free: *[Free Article 1 (Sept. 24, 2025): The Weight of What Remains](https://is.gd/VuxfBQ)*\n- Free: *[Free Article 2 (Sept. 24, 2025): When the Light Fades from Familiar Places](https://is.gd/Tg54xn)*\n\n### Sep 25, 2025\n\n- Paid: *[🔒 Paid Article (Sept. 25, 2025): The Economics of Letting Go: Sovereignty Beyond Possession](https://is.gd/om1y42)*\n- Free: *[Free Article 1 (Sept. 25, 2025): The Discipline of Release](https://is.gd/JLeluM)*\n- Free: *[Free Article 2 (Sept. 25, 2025): When We Stop Resisting the Fall](https://is.gd/rSMe4W)*\n\n### Sep 26, 2025\n\n- Paid: *[🔒 Paid Article (Sept. 26, 2025): The Resurrection of Civilization: Bitcoin and the Kingdom That Cannot Fall](https://is.gd/eUCPeu)*\n- Free: *[Free Article 1 (Sept. 26, 2025): Hope After the Ashes](https://is.gd/ZEupVF)*\n- Free: *[Free Article 2 (Sept. 26): The Rebuilders: What Comes After Collapse](https://is.gd/TKyEiO)*\n\n### Sep 27, 2025\n\n- Sabbath: *[Sabbath Article (Sept. 27, 2025): The Work of Letting Go](https://is.gd/LBEgoA)*\n- Free: *[Free Article 1 (Sept. 27, 2025): The Quiet Before the Departure](https://is.gd/58RFPb)*\n- Free: *[Free Article 2 (Sept. 27, 2025): The Vigil of Faith](https://is.gd/4stc5q)*\n\n### Sep 28, 2025\n\n- Sunday: *[Sunday Article (Sept. 28, 2025): A Prayer Across the Waters](https://is.gd/OxGRMp)*\n- Free: *[Free Article 1 (Sept. 28, 2025): Love at the Edge of Time](https://is.gd/VhDx1B)*\n- Free: *[Free Article 2 (Sept. 28, 2025): The Nearness of Heaven](https://is.gd/CpwcrO)*\n\n*Additional posts and notes from this week are available on Nostr under `npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd`.*",
+  "created_at": 1765592848,
+  "id": "6d27872b99346e19c6bcb191ddf520e53984782ec3327fa5066a34b0ba870d74",
+  "kind": 30023,
+  "pubkey": "fb700c6b97241eb0776a54c74e13ace5003a4a5619b81d7ef6c4f4fc80e625f6",
+  "sig": "b6efa3aadedf820a45043223ef1458fec1bd3f37b0714c8edfd5f23135d77f2aa6a79a9802e7135b4cfdae817baba935c01f3e38ce749ebb305b99c0f58594a7",
+  "tags": [
+    [
+      "d",
+      "continuum-magazine---issue-4-sept-22-28-2025"
+    ],
+    [
+      "title",
+      "Continuum Magazine - Issue #4 (Sept. 22-28, 2025)"
+    ],
+    [
+      "published_at",
+      "1765592848"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "The fourth issue of Continuum Magazine brings together the Sept 22–28 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction. Reflections on mortality, reflecting on the week before my father's passing (on Sept. 29, 2025)"
+    ],
+    [
+      "display_date",
+      "2025-09-28"
+    ],
+    [
+      "image",
+      "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2025-11-20-generated-continuum-magazine-premium-index.jpg"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "magazine"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "faith"
+    ],
+    [
+      "t",
+      "freedom"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "community"
+    ],
+    [
+      "t",
+      "renewal"
+    ],
+    [
+      "e",
+      "f4c01302c0a9af3b4ff1c298c0504dd781cca4ec6ebc5e2552a6ee6a881e7388",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.damus.io"
+  ]
+}
