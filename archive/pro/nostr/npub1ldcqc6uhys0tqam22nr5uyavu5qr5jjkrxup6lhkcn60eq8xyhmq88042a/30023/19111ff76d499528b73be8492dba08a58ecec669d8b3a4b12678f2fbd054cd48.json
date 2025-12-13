@@ -1,0 +1,81 @@
+{
+  "content": "# Continuum Magazine — Weekly Issue\n\n*Week of Sep 15, 2025 to Sep 21, 2025*\n\n---\n\n## Table of Contents\n\n### Sep 15, 2025\n\n- Paid: *[🔒 Paid Article (Sept. 15, 2025): The Hidden Costs of Convenience: Why Sovereignty Demands Sacrifice](https://is.gd/1YAKXA)*\n- Free: *[Free Article 1 (Sept. 15, 2025): The Seeds We Plant Today](https://is.gd/87Nm8D)*\n- Free: *[Free Article 2 (Sept. 15, 2025): Sovereignty in the Small Things](https://is.gd/5Jeiyt)*\n\n### Sep 16, 2025\n\n- Paid: *[🔒 Paid Article (Sept. 16, 2025): Debt Relief Programs](https://is.gd/nexvCN)*\n- Free: *[Free Article 1 (Sept. 16, 2025): The Mirage of Easy Fixes](https://is.gd/h4gXfT)*\n- Free: *[Free Article 2 (Sept. 16, 2025): Credit as a Chain](https://is.gd/XEsv0K)*\n\n### Sep 17, 2025\n\n- Paid: *[🔒 Paid Article (Sept. 17, 2025): Sovereignty is Not a Straight Path](https://is.gd/iVthc2)*\n- Free: *[Free Article 1 (Sept. 17, 2025): The Silence After the Promise](https://is.gd/2EN5Wi)*\n- Free: *[Free Article 2 (Sept. 17, 2025): Learning to Walk the Winding Road](https://is.gd/AvjzqY)*\n\n### Sep 18, 2025\n\n- Paid: *[🔒 Paid Article (Sept. 18, 2025): The Last Gatekeepers: Why Sovereignty Demands an End to Intermediaries](https://is.gd/J9wp3C)*\n- Free: *[Free Article 1(Sept. 18, 2025): When Creditors Rule: The Chains of Invisible Masters](https://is.gd/9SHohU)*\n- Free: *[Free Article 2 (Sept. 18, 2025): The Hidden Tax of Convenience](https://is.gd/lmgl5x)*\n\n### Sep 19, 2025\n\n- Paid: *[🔒 Paid Article (Sept. 19, 2025): The Hidden Cost of Walled Gardens](https://is.gd/SfNHXm)*\n- Free: *[Free Article 1 (Sept. 19, 2025: When Your Income Doesn’t Count](https://is.gd/HHNLPM)*\n- Free: *[Free Article 2 (Sept. 19, 2025): Dogs, Neighbors, and Sovereignty](https://is.gd/AXmSVA)*\n\n### Sep 20, 2025\n\n- Sabbath: *[Sabbath Article (Sept. 20, 2025): The Long Goodbye: Mortality and Sovereignty](https://is.gd/6x7vpj)*\n- Free: *[Free Article 1 (Sept. 20, 2025):  Resting in the Eternal Work](https://is.gd/XSU4Jl)*\n- Free: *[Free Article 2 (Sept. 20, 2025): Death and Fiat Illusions](https://is.gd/HPCQe5)*\n\n### Sep 21, 2025\n\n- Sunday: *[Sunday Article (Sept. 21, 2025): In Christ Shall All Be Made Alive](https://is.gd/zNEFnw)*\n- Free: *[Free Article 1 (Sept. 21, 2025): Sabbath Completed, Life Begins](https://is.gd/S8FN75)*\n- Free: *[Free Article 2 (Sept. 21, 2025): Generations Beyond Us](https://is.gd/2uDpti)*\n\n*Additional posts and notes from this week are available on Nostr under `npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd`.*",
+  "created_at": 1765591885,
+  "id": "19111ff76d499528b73be8492dba08a58ecec669d8b3a4b12678f2fbd054cd48",
+  "kind": 30023,
+  "pubkey": "fb700c6b97241eb0776a54c74e13ace5003a4a5619b81d7ef6c4f4fc80e625f6",
+  "sig": "9530e3f838e79589c0368c33c3ff1f6095adf81044f99d51cf70b7e0ef9937712f9db2c9bb24832774a93f178f9a2a1294b1d62793b6577702da85b3c2390dd5",
+  "tags": [
+    [
+      "d",
+      "continuum-magazine---issue-3-sept-15-21-2025"
+    ],
+    [
+      "title",
+      "Continuum Magazine - Issue #3 (Sept. 15-21, 2025)"
+    ],
+    [
+      "published_at",
+      "1765591885"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "The third issue of Continuum Magazine brings together the Sept 15–21 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction."
+    ],
+    [
+      "display_date",
+      "2025-09-21"
+    ],
+    [
+      "image",
+      "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2025-11-20-generated-continuum-magazine-premium-index.jpg"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "magazine"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "faith"
+    ],
+    [
+      "t",
+      "freedom"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "community"
+    ],
+    [
+      "t",
+      "renewal"
+    ],
+    [
+      "e",
+      "6585479b65ecb350649a623141d1d0ae9c643f60ae0ca554818e84d138c75d5e",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.damus.io",
+    "wss://nostr.mom"
+  ]
+}
