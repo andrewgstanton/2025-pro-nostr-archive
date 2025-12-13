@@ -1,0 +1,81 @@
+{
+  "content": "# Continuum Magazine — Weekly Issue\n\n*Week of Oct 6, 2025 to Oct 12, 2025*\n\n---\n\n## Table of Contents\n\n### Oct 6, 2025\n\n- Paid: *[🔒 Paid Article (Oct. 6, 2025): The First Exodus: Leaving the Mind’s Egypt](https://is.gd/3Rl32P)*\n- Free: *[Free Article 1 (Oct. 6, 2025): Algorithms Are Not Your Shepherds](https://is.gd/tqkT55)*\n- Free: *[Free Article 2 (Oct. 6, 2025): Attention Is a Territory](https://is.gd/Ozq8UE)*\n\n### Oct 7, 2025\n\n- Paid: *[🔒 Paid Article (Oct. 7, 2025): The New Jerusalem of Speech](https://is.gd/0e5dSS)*\n- Free: *[Free Article 1 (Oct. 7, 2025): Continuum and the End of the Feed](https://is.gd/1nOEoJ)*\n- Free: *[Free Article 2 (Oct. 7, 2025): From Platforms to Protocols](https://is.gd/KBO5sC)*\n\n### Oct 8, 2025\n\n- Paid: *[🔒 Paid Article (Oct. 8, 2025): The Kingdom Ledger: Exiting Fiat, Entering Freedom](https://is.gd/H19j9J)*\n- Free: *[Free Article 1 (Oct. 8, 2025): When the Bank Is You](https://is.gd/2CeK01)*\n- Free: *[Free Article 2 (Oct. 8, 2025): Economies Without Permission](https://is.gd/ADHGMo)*\n\n### Oct 9, 2025\n\n- Paid: *[🔒 Paid Article (Oct. 9, 2025): The Power That Cannot Be Bought](https://is.gd/ADpEbG)*\n- Free: *[Free Article 1 (Oct. 9, 2025): When Strength Looks Like Surrender](https://is.gd/R7mmAM)*\n- Free: *[Free Article 2 (Oct. 9, 2025): The Noise and the Silence](https://is.gd/fOKmBs)*\n\n### Oct 10, 2025\n\n- Paid: *[🔒 Paid Article (Oct. 10, 2025): The Gospel of Sovereign Peace](https://is.gd/TUynyN)*\n- Free: *[Free Article 1 (Oct. 10, 2025): The Quiet Strength of Endurance](https://is.gd/9CjBLK)*\n- Free: *[Free Article 2 (Oct. 10, 2025): Bitcoin, Loss, and Legacy](https://is.gd/BqGw8C)*\n\n### Oct 11, 2025\n\n- Sabbath: *[Sabbath Article (Oct. 11, 2025): Sabbath for Builders: Let the Work Speak](https://is.gd/6pkl3s)*\n- Free: *[Free Article 1 (Oct. 11, 2025): Grief in Public: Writing While the Heart Is Rearranging](https://is.gd/evAVip)*\n- Free: *[Free Article 2 (Oct. 11, 2025): The Two Kinds of Leverage](https://is.gd/yzKxlP)*\n\n### Oct 12, 2025\n\n- Sunday: *[Sunday Article (Oct. 12, 2025): Mercy as Operating System](https://is.gd/GqS5UX)*\n- Free: *[Free Article 1 (Oct. 12, 2025): The Minimum Viable Cathedral](https://is.gd/UylOLU)*\n- Free: *[Free Article 2 (Oct. 12, 2025): Nostr for Real People, Not Power Users](https://is.gd/8c3bvi)*\n\n*Additional posts and notes from this week are available on Nostr under `npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd`.*",
+  "created_at": 1765594906,
+  "id": "ab060ab9e82f9ae2ee7e05b8568479bb80cb6ff2d26549c06895ddda8f66b4b7",
+  "kind": 30023,
+  "pubkey": "fb700c6b97241eb0776a54c74e13ace5003a4a5619b81d7ef6c4f4fc80e625f6",
+  "sig": "098b154ce881a0584a81c7aaa235267c24a65c81b05d14dbe71bd7f1203ad0bec811469bec59f2daef9e96803f5312247d6cb3305c4c5be1b83400125332dc12",
+  "tags": [
+    [
+      "d",
+      "continuum-magazine---issue-6-oct6-12-2025"
+    ],
+    [
+      "title",
+      "Continuum Magazine - Issue #6 (Oct.6-12, 2025)"
+    ],
+    [
+      "published_at",
+      "1765594906"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "# 6.  This issue of Continuum Magazine brings together the Oct.6-12, 2025 writings: one paid article and two free reflections each weekday, with the weekends having 3 articles, all anchored in themes of sovereignty, faith, and conviction. Reflections on mortality, reflecting on the week before my father's passing (on Sept. 29, 2025)"
+    ],
+    [
+      "display_date",
+      "2025-10-12"
+    ],
+    [
+      "image",
+      "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2025-11-20-generated-continuum-magazine-premium-index.jpg"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "magazine"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "faith"
+    ],
+    [
+      "t",
+      "freedom"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "community"
+    ],
+    [
+      "t",
+      "renewal"
+    ],
+    [
+      "e",
+      "e880bdb9b9b590af2a8a480e0f9a81396c22eb4f77ad2ecf9323580ca8edf2e8",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://relay.damus.io"
+  ]
+}
