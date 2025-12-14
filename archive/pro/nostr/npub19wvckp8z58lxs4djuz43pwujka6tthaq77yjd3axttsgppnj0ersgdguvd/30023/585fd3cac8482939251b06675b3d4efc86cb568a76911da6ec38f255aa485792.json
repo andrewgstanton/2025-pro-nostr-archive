@@ -1,0 +1,75 @@
+{
+  "kind": 30023,
+  "created_at": 1765686856,
+  "tags": [
+    [
+      "d",
+      "the-bitcoin-chronicles---1a003---archivist-note-on-the-earthboound-records"
+    ],
+    [
+      "title",
+      "The Bitcoin Chronicles - 1.A.0.0.3 - Archivist Note: On the Earthbound Records"
+    ],
+    [
+      "published_at",
+      "1765686856"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "A Luna Freeport archival annotation explaining why early Earthbound Chronicles contain precise dates and historical anchoring, while later sovereign eras abandon centralized calendaring altogether."
+    ],
+    [
+      "display_date",
+      "2025-12-12"
+    ],
+    [
+      "image",
+      "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2025-12-12-generated-paid-set.jpg"
+    ],
+    [
+      "t",
+      "bitcoin-chronicles"
+    ],
+    [
+      "t",
+      "arc1"
+    ],
+    [
+      "t",
+      "archivist-note"
+    ],
+    [
+      "t",
+      "canon"
+    ],
+    [
+      "t",
+      "earthbound-origins"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "chronology"
+    ],
+    [
+      "t",
+      "lore"
+    ],
+    [
+      "e",
+      "7748ba6a06afce74502838469be3a770c80a9e8d64c06559c5a27e07983973e0",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Dec. 12.2025\n\nThe earliest Earthbound Chronicles are unusual within the Sovereign Archive for one reason:  \nthey retain precise Gregorian dates.\n\nThis was not a narrative choice.  \nIt was a historical constraint.\n\nPrior to the Pilgrim era, humanity measured time the same way it measured authority—through centralized reference systems. Calendars, currencies, and communications were synchronized not by consensus, but by decree. Earthbound institutions demanded uniform timestamps as a condition of legitimacy.\n\nThe Archivists have preserved these dates intact for three reasons.\n\nFirst, **they anchor divergence**.  \nThese records sit at the boundary between documented history and sovereign emergence. The dates mark the final moments when centralized timekeeping still held uncontested authority over human memory.\n\nSecond, **they reveal the pattern**.  \nBretton Woods (1944), national communications consolidation (1957), and suppressed cryptographic research (1963) were not isolated incidents. When viewed together, their timestamps expose a recurring cycle:  \ncentralization, justification, suppression, forgetting.\n\nThird, **they explain the refusal**.  \nThe Pilgrim generation did not abandon Earth arbitrarily. They inherited a world where even time itself had become permissioned. Precise dating shows what was being escaped.\n\nAfter the first free launches, the Chronicles shift away from Gregorian reference. Lunar settlements adopted ledger-relative time. Martian charters marked eras by covenant, not calendar. The Belt used transaction epochs. Later civilizations abandoned linear dating entirely in favor of relational sequence.\n\nTime, like money, became sovereign.\n\nThus, the Archivists retain Earthbound dates not as endorsements of the old order, but as artifacts of it—fossils embedded in the record to remind future generations what centralized authority once required.\n\nThese timestamps are not coordinates to return to.  \nThey are markers of a world humanity chose to outgrow.",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "id": "585fd3cac8482939251b06675b3d4efc86cb568a76911da6ec38f255aa485792",
+  "sig": "afb20f99e62b9eaf3680227bf27709db474cfc5eb36c495f19569f4121f2254704e3da474c928b187eb73caada23e0ffb0d05b35b0d7b2c81168d09e241dd722"
+}
