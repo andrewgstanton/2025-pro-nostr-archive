@@ -1,0 +1,53 @@
+{
+  "content": "# Canonical Numbering & Ordering Law  \n## The Bitcoin Chronicles — Archivist Specification\n\n**Author:** Andrew G. Stanton  \n**Status:** Canonical Meta-Document  \n**Scope:** All Chronicle narratives, past and future\n\n---\n\n## Purpose\n\nThis document defines the **canonical rules** governing numbering, ordering, and extensibility within *The Bitcoin Chronicles*. Its purpose is to preserve narrative integrity while allowing the canon to grow organically over time without renumbering, contradiction, or archival drift.\n\n---\n\n## I. Canonical Numbering Is Narrative, Not Chronological\n\nAll primary Chronicle numbers (e.g. `1.A.1`, `1.B.3`) represent **narrative sequence**, not:\n\n- publication date  \n- writing order  \n- draft chronology  \n- archive import order  \n\nThe number reflects **where the story belongs in the canon**, not when it was written or published.\n\n---\n\n## II. Canonical Numbers Are Immutable\n\nOnce a canonical number is assigned:\n\n- it is never reused  \n- it is never renumbered  \n- it is never shifted  \n\nLater discoveries, rewrites, or additions must adapt to the existing structure — **never the reverse**.\n\n---\n\n## III. Sections and Arcs Define Meaning\n\nEach component has a fixed role:\n\n- **Arc** (e.g. `1`) — a civilizational phase  \n- **Section** (e.g. `A`, `B`, `C`) — a thematic domain  \n- **Article number** — narrative step within that domain  \n\nExample:\n\n```\n1.A.3 — The Exodus Protocol\n```\n\nThis means:\n- Arc 1\n- Section A\n- Third canonical narrative movement\n\n---\n\n## IV. Publication Cadence Is Orthogonal\n\nDaily publishing rhythm (Free / Paid / Sabbath) is **not part of canon numbering**.\n\nA story may be:\n- written months earlier  \n- published later  \n- backfilled into the archive  \n\nNone of this affects its canonical position.\n\n---\n\n## V. Display Dates vs Canon Position\n\nStories may include:\n- `display_date`\n- `published_at`\n- historical framing dates  \n\nThese are **reader-facing metadata only** and must never be used to infer canon order.\n\n---\n\n## VI. Interstitial Stories Are Explicitly Allowed\n\nThe canon permits **full flexibility** to add stories *between* existing canonical entries when the timeline, context, or thematic depth requires it.\n\nExample anchors:\n\n```\n1.A.4\n1.A.5\n\n```\n\n\nStories discovered or written later that belong *between* them are valid canon.\n\n---\n\n## VII. Interstitial Numbering Format\n\nInterstitial stories must follow this format:\n\n\n```\n<Section>.<Anchor>.0.<n> ```\n\nExamples:\n\n\n1.A.4.0.1\n1.A.4.0.2\n1.A.4.0.3\n\n\nWhere:\n\n1.A.4 is the canonical anchor\n\n.0 designates an interstitial layer\n\n.n increments sequentially\n\n```\n---\n\n## VIII. Interstitial Rules\n\nInterstitials:\n\n- deepen context\n- explore parallel events\n- introduce side figures\n- add historical texture\n\nThey do not advance the primary narrative step\n\nThe main sequence always resumes unchanged at:\n\n```\n1.A.5\n\n```\n\n---\n\n## IX. Interstitials Are First-Class Canon\n\nInterstitial stories are:\n\n- fully canonical\n- indexable\n- archivable\n- eligible for Free or Paid status\n\nThey are not footnotes or appendices.\n\n---\n\n\n## X. No Retroactive Anchor Creation\n\nThe following are not permitted:\n\n```\n1.A.4.5\n1.A.4a\n1.A.4-b\n\n```\n\nOnly the .0.n interstitial form is valid.\n\n---\n\n## XI. Growth Without Renumbering\n\nThis system guarantees:\n\n- infinite extensibility\n- stable citations\n- archival durability\n- reader clarity across generations\n\nA reader decades from now must be able to navigate the canon without ambiguity.\n\n---\n\n# Guiding Principle\n\n```\nThe canon advances in whole steps.\nUnderstanding grows in layers.\n```",
+  "created_at": 1765746950,
+  "id": "ba65de24c73a23ef2f9de334f10904f93262fc9ae43de4c138651802a28a10e8",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "f6a77f5c3d15eba749339254b801d7ac2820b37b260f9273ec9775ad4181720e95ba00d498ecf95423b19d3fcba9a4137fee0109d27cd870cd05bd88f179229c",
+  "tags": [
+    [
+      "d",
+      "the-bitcoin-chronicles--archivist-specification"
+    ],
+    [
+      "title",
+      "The Bitcoin Chronicles — Archivist Specification"
+    ],
+    [
+      "summary",
+      "This document defines the **canonical rules** governing numbering, ordering, and extensibility within *The Bitcoin Chronicles*. Its purpose is to preserve narrative integrity while allowing the canon to grow organically over time without renumbering, contradiction, or archival drift."
+    ],
+    [
+      "published_at",
+      "1765746950"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "archive-specification"
+    ],
+    [
+      "t",
+      "bitcoin-chronicles"
+    ],
+    [
+      "display_date",
+      "2025-12-14"
+    ],
+    [
+      "image",
+      "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2025-12-12-generated-paid-set.jpg"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.damus.io",
+    "wss://nostr.mom"
+  ]
+}
