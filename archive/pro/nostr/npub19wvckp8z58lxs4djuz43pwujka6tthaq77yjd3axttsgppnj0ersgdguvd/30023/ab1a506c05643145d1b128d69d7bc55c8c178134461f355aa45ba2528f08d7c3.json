@@ -1,0 +1,69 @@
+{
+  "content": "Andrew G. Stanton - Dec. 18, 2025\n\nEveryone on Luna knew Dock Seven.\n\nIt wasn’t the largest docking ring.  \nIt wasn’t the newest.  \nBut it handled the most irregular traffic — retrofitted freighters, private consignments, and cargo no registry wanted to explain.\n\nAnd Dock Seven answered to one man: **Calder Voss**.\n\nVoss did not call himself an owner. He called himself a *steward*, which only made people angrier.\n\nIf you wanted reactor components moved without delays, you negotiated with Voss.  \nIf you needed off-ledger cargo transferred quietly, you negotiated with Voss.  \nIf your shipment stalled, it was because Voss said no.\n\nHe published his rules publicly.\n\nNo exclusive contracts.  \nNo political flags.  \nNo Earth enforcement writs honored.\n\nThis made him enemies everywhere.\n\nEarth authorities accused him of laundering sovereignty.  \nLunar councils accused him of consolidating power.  \nBuilders accused him of becoming the very thing they fled.\n\nVoss responded to none of it.\n\n> “You don’t hate me,” he once said in a rare interview.  \n> “You hate that scarcity has a face.”\n\nDock Seven became a proving ground for Lunar independence — not because it was pure, but because it was *real*.\n\nOn Luna, ideals mattered.  \nBut docks mattered more.",
+  "created_at": 1766097657,
+  "id": "ab1a506c05643145d1b128d69d7bc55c8c178134461f355aa45ba2528f08d7c3",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "e69cfd96f7b1e5d436ebb8424d7a88baa57d11a688568a94a6122f6a83c4402a4d6501ebe29c3ae815ff43c06cf57eaad088a7df6f50cb3a37fe6160d33a48db",
+  "tags": [
+    [
+      "d",
+      "free-article-1-dec-18-2025-the-bitcoin-chronicles---1b91---the-man-who-controlled-dock-seven-calder-voss"
+    ],
+    [
+      "title",
+      "Free Article 1 (Dec. 18, 2025): The Bitcoin Chronicles - 1.B.9.1 - The Man Who Controlled Dock Seven (Calder Voss)"
+    ],
+    [
+      "summary",
+      "On the Moon, power didn’t belong to governments or ideals — it belonged to those who controlled chokepoints. Dock Seven made one man indispensable, and therefore hated."
+    ],
+    [
+      "published_at",
+      "1766097657"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoin chronicles"
+    ],
+    [
+      "t",
+      "arc 1.b"
+    ],
+    [
+      "t",
+      "lunar nodes"
+    ],
+    [
+      "t",
+      "power"
+    ],
+    [
+      "t",
+      "infrastructure"
+    ],
+    [
+      "t",
+      "free"
+    ],
+    [
+      "display_date",
+      "2025-12-18"
+    ],
+    [
+      "image",
+      "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2025-12-18-generated-paid-set.jpg"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.damus.io",
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://nostr.mom"
+  ]
+}

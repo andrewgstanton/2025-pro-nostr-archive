@@ -1,0 +1,75 @@
+{
+  "content": "Andrew G. Stanton - Dec. 18, 2025\n\nHer name was **Anika Rao**, and she refused to speak quietly.\n\nEvery week, at the same hour, her signal went live from a pressure-sealed studio near Shackleton Crater. No encryption beyond what was standard. No anonymity. No disclaimers.\n\nShe spoke about rations.  \nAbout access.  \nAbout Earth’s lingering gravity over Lunar trade.\n\nMost controversially, she named names.\n\nShe accused Lunar councils of pretending neutrality while enforcing Earth-aligned policies.  \nShe accused dock operators of hiding behind “technical necessity.”  \nShe accused builders of cowardice for staying invisible.\n\n> “If sovereignty only exists when no one’s watching,” she said,  \n> “then it doesn’t exist at all.”\n\nEarth regulators demanded her feeds be cut.  \nLunar councils debated censure.  \nHer followers grew anyway.\n\nSome called her reckless.  \nOthers called her necessary.\n\nAnika knew the risk. She spoke anyway.\n\nOn the Moon, there was no atmosphere to carry sound — but her words moved faster than vacuum ever could.",
+  "created_at": 1766097318,
+  "id": "f07a6cb1478c2049841ec4b7ab5fc9ee185068725692e299f02828db4b5f3116",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "1ada0776f05b10a6c4e31768bfa8444bf43d593e1c8a8cd04f3dae238e10b656e9475e113c12ae05744f0c6b18763c452355a93aefbbf482affb2b52f6a86a1b",
+  "tags": [
+    [
+      "d",
+      "free-article-2-dec-18-2025-the-bitcoin-chronicles---1bx---she-spoke-into-the-vacuum"
+    ],
+    [
+      "title",
+      "Free Article 2 (Dec. 18, 2025): The Bitcoin Chronicles - 1.B.9.2 - She Spoke Into the Vacuum (Anika Rao)"
+    ],
+    [
+      "published_at",
+      "1766097318"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "When most Lunar residents stayed cautious, one woman broadcast openly. Her voice carried across nodes — and forced the Moon to choose whether silence was still an option."
+    ],
+    [
+      "display_date",
+      "2025-12-18"
+    ],
+    [
+      "image",
+      "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2025-12-18-generated-paid-set.jpg"
+    ],
+    [
+      "t",
+      "bitcoin chronicles"
+    ],
+    [
+      "t",
+      "arc 1.b"
+    ],
+    [
+      "t",
+      "lunar nodes"
+    ],
+    [
+      "t",
+      "dissent"
+    ],
+    [
+      "t",
+      "public voice"
+    ],
+    [
+      "t",
+      "free"
+    ],
+    [
+      "e",
+      "4555cada8c860d6c3d8d5f012a406f75da364b68565cec24fb54077387b17f03",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.damus.io",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nos.lol",
+    "wss://relay.snort.social",
+    "wss://nostr.mom"
+  ]
+}
