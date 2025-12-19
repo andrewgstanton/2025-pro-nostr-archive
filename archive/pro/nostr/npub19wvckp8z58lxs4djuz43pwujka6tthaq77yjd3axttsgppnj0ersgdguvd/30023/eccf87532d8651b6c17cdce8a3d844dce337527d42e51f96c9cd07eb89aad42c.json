@@ -1,0 +1,78 @@
+{
+  "content": "## 🔒 Exit Is Not Rebellion\n\nThe ability to leave a system without permission is often mistaken for hostility. In reality, exit is what makes cooperation legitimate.\n\n---\n\n> 🔒 **This is a paid article.**\n> To unlock the full content, open this page using the private link you received (it includes a `?code=...` parameter).\n\n<!-- ENC_BLOB_START -->\nENCv1:zk4LaVF5qa7VMTQKqmlDsgmXuzD2l6HiiMSzo1KtRq2QHTtxPZc0TWZSjFYiGPs1xADPlrTM8bzSNgm83qKyDtF5-J0dYZRkWhQ_aLmG7ustb69exrzsvkUjU4J76a_NM8iudEDfXfnm5DBLVvmrxrSg2eHUJP6mFOGOwsiH9Zqwg_TQDgnxdjeQ1Be_syrU8GwigblODzrNluigEAKESraQtnw2AUl2m43kd5NlQvB5DcEaxRjF3yHzxcts0RFZZ5Zin9hG2lBmnZP6i43jcQZJzfyDf7iaIJExB0zngt9xBt36zZF-jX6i8RgcIkPKMnMEkgIukJXsjyO_laceoKeC627ar5WeRa5-XLnoLVkRO5Hh8UFSTcPrWPkrvRMi6g7zbtxU25JhZaOAkOqnGW1XGx-xUU-24Tnvc-dfEi3pjyNxR1mu0yq57mIt2beYOWheceCYuS5BCMEa9giWcpNHeLtpNmNwDgCzBdx_ZNxssK9nN3doahoIhqFw1Cve_GCxQxfKz13GIMy0S2FnKmpa88PA_kvXHM45X7TAaxRfBJIx-NaAnyJbRToBIHKl5TuDmIYQ1wBJbYj2hgJ0AFpcmMlH0e7qbzz_y6mvyidkv7_MNQsTLJNdDDGPbCOkcry7O8NSVQ4sSAg-EyZYVUcFpfSMj5-pI9dDJhFg6f1a8bnhDHK9A2evBxKdB6WF74U5RDj0nqVVQMrXNqceNAIOwQshgyqvmx9jZTf5gVq_J8RKIyqxgTrlV-CuiWc2JztsOEsrzPIU5G9dspN_28yk-0AccjOW2mWOw2FNj0V3KgLCBFp3LtYhG51WFVcT1mABhfvxAdf4UcOZKJ0wr1DUYvsvRT9lWSsCNvUys0dEKO3JShgJ9oSN-LrkZTYsJ2CdZ0nEB3xoEXoraM31MRgCCHDBlD-ZHnToCDZSgG96Dz8NYyuDOC0XMoMb8F6OjSEn-P5kwfYJjh-EfGXNKAbeWrPzMoZXG3qtrKGFAIO3Qn3fjU392C8xGTKXl_jvHYOznI9bgMsIR06pxLfIkvxujue4MQm4sg-vDJzzod7ompDqlWd6_ghsrFajWZo8q6uJiCxV9vgDmWMCX9bPQlwpOVB2NGz5cL0GoqCoj2GarEMx7H_Pekx_tJefHC7cKfOOYm2oo9e-KffLV5CUiKj53T_Hk5zfLpjhWEDgBXvAwq-FW6_oEGY\n<!-- ENC_BLOB_END -->",
+  "created_at": 1766102272,
+  "id": "eccf87532d8651b6c17cdce8a3d844dce337527d42e51f96c9cd07eb89aad42c",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "f73aca6ab76cb71862ead4c30bfce419acb23fc07bc1be09557d0aa0a89418b3a07b43898a4b1b15253b4d8e5db028987a56168670f66352e66a7e980b5059e0",
+  "tags": [
+    [
+      "d",
+      "exit-is-not-rebellion-2025-12-18"
+    ],
+    [
+      "title",
+      "🔒 Exit Is Not Rebellion"
+    ],
+    [
+      "published_at",
+      "1766102272"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "The ability to leave a system without permission is often mistaken for hostility. In reality, exit is what makes cooperation legitimate."
+    ],
+    [
+      "display_date",
+      "2025-12-18"
+    ],
+    [
+      "image",
+      "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2025-12-18-generated-paid-set.jpg"
+    ],
+    [
+      "enc",
+      "aesgcm-v1"
+    ],
+    [
+      "t",
+      "exit"
+    ],
+    [
+      "t",
+      "freedom"
+    ],
+    [
+      "t",
+      "coordination"
+    ],
+    [
+      "t",
+      "systems"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "paid"
+    ],
+    [
+      "e",
+      "2341a7e5b6c8e40f7afe295dda94588baff99da2870865a60f3fb23dda9f1cd7",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://nostr.bitcoiner.social",
+    "wss://nos.lol",
+    "wss://relay.snort.social"
+  ]
+}
