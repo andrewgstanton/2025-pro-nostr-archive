@@ -1,0 +1,29 @@
+{
+  "content": "Thanks for writing this !! I think even though I write a lot about sovereignty I still catch myself falling under the sway of so called gurus in the Bitcoin world \n(And Nostr too if I was  honest).  \n\nThis fiat mind virus is very subtle\n\n",
+  "created_at": 1766038009,
+  "id": "8e2e0b34df9bf00be33b376213fb8f4831b727a48b51f970859cdf03a00b6805",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "39882d285b1b61e93255cca934675d5882f94f97ee4eab755905a4d5059737b2f329fef3ec6c701ee591743b06dfa7334cc8931b5968775fc3e624dcaa61af51",
+  "tags": [
+    [
+      "a",
+      "30023:54609048284d2a151c8df625f40c389d423ed057fcef927db88956d28e22ba03:dont-trust-dont-idolize",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "54609048284d2a151c8df625f40c389d423ed057fcef927db88956d28e22ba03",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://relay.damus.io",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://offchain.pub"
+  ]
+}

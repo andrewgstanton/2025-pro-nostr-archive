@@ -1,0 +1,29 @@
+{
+  "content": "Amen yes keep this coming !!",
+  "created_at": 1766685327,
+  "id": "28d44d15216c6e27df941f96e3c56c78874a39ec25a3eefff401d3ac23aa2abe",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "9242cebf9b08214458fce0daad01c57f1c2574fe028964094bed80a23aa579acf5bb95b1c6bccd2e6c143180f7835a1b7dcd420d8c7c78537248575ad02d37ea",
+  "tags": [
+    [
+      "a",
+      "30023:b7ed68b062de6b4a12e51fd5285c1e1e0ed0e5128cda93ab11b4150b55ed32fc:86a77d99d12ef604",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "b7ed68b062de6b4a12e51fd5285c1e1e0ed0e5128cda93ab11b4150b55ed32fc",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://relay.damus.io",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Like nostr:nprofile1qqs9gcysfq5y62s4rjxlvf05psuf6s376ptlemuj0kugj4kj3c3t5qcpramhxue69uhky6t5vdhkjmndv9uxjmtpd35hxarn9ehkumrfdejszxrhwden5te0wfjkccte9ehx7um5wghxxmmd9esh299d6a5 this hit very close to home.  Powerful powerful piece. Thank you for stating the obvious rule ",
+  "created_at": 1766342536,
+  "id": "c716834e0569374acce9873c3780fdb7a3815b2dea4fda2939fe0770d758deaa",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "a1ad71bda260fa19e983b6211802f73a9b63a923cc05b6e2da17d6b546fd5da1cf12f865aab877da92335975131b1d453b89615706a2f43d3a48d152b3bd8ed1",
+  "tags": [
+    [
+      "a",
+      "30023:b7ed68b062de6b4a12e51fd5285c1e1e0ed0e5128cda93ab11b4150b55ed32fc:c52adf40de331211",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "b7ed68b062de6b4a12e51fd5285c1e1e0ed0e5128cda93ab11b4150b55ed32fc",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "54609048284d2a151c8df625f40c389d423ed057fcef927db88956d28e22ba03",
+      "wss://bitcoinmaximalists.online",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://relay.damus.io",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom"
+  ]
+}

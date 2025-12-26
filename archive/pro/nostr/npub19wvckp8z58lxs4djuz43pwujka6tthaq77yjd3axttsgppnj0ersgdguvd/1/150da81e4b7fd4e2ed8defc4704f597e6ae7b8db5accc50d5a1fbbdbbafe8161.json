@@ -1,0 +1,53 @@
+{
+  "content": "# Growth\n\nGrowth doesn’t mean acceleration.\n\nSometimes it means:\n\nslower decisions\n\nlonger horizons\n\nfewer reversals\n\nCivilizations fail when they mistake motion for progress.\nThey endure when growth is measured in what no longer needs to be fixed.",
+  "created_at": 1766539446,
+  "id": "150da81e4b7fd4e2ed8defc4704f597e6ae7b8db5accc50d5a1fbbdbbafe8161",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "85a0e07ee9875886aabb945a57aa88216f46e8b8ca336cad32e33207144d303ab01e04977265c675387523ac4ef975d3c85854082f6c04d86e816f768dfcf7f4",
+  "tags": [
+    [
+      "title",
+      "Growth"
+    ],
+    [
+      "published_at",
+      "1766539446"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "stewardship"
+    ],
+    [
+      "t",
+      "abundance"
+    ],
+    [
+      "t",
+      "longview"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "futurehistory"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ]
+}

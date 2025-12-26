@@ -1,0 +1,25 @@
+{
+  "content": "Great talk @ Bitcoin2025 with nostr:nprofile1qqsr7acdvhf6we9fch94qwhpy0nza36e3tgrtkpku25ppuu80f69kfqpz9mhxue69uhkummnw3ezuamfdejj7qgkwaehxw309ahx7um5wfjkc6t5v4ejummjvuhsepevmj and nostr:nprofile1qqsy2ga7trfetvd3j65m3jptqw9k39wtq2mg85xz2w542p5dhg06e5qpzdmhxue69uhhvct4d36zu6tjd9ejuar0w3mpq9 \n\n\nhttps://blossom.primal.net/820ae4d34ffaf0a1ed7d21ab56d8abfba186ef5448b8df524bb76420e283be4a.jpg",
+  "created_at": 1748558109,
+  "id": "8c35ff21bfb8ca76a33849ddba6bdc7cdf94c78251bd0bd0a41ad8c9330b0d24",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "79b317e16defa3b19780ee814a3520c306d54e19a4eb08dd4fabe7092923acfb1e9cffcef945899b6973ac0917fb4149725cafa30af30b336a87f6b7ce3900c3",
+  "tags": [
+    [
+      "p",
+      "4523be58d395b1b196a9b8c82b038b6895cb02b683d0c253a955068dba1facd0",
+      "wss://vault.iris.to",
+      "mention"
+    ],
+    [
+      "p",
+      "3f770d65d3a764a9c5cb503ae123e62ec7598ad035d836e2a810f3877a745b24",
+      "wss://nostr.wine/",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "content": "Thank you all for the zaps much appreciated!!",
+  "created_at": 1766265058,
+  "id": "5df1585786658ff298907bdb382595ee796212cd8dbf1c8bef1d2ead273acff0",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "d6bc5edf32edf71c35a7e798080777c64fca6de5177fa361471815b72704aa0139697200f6fe911b059d2b3d879c9c7a9fc8e5d5ac3c12b8353248bf5e06c2b0",
+  "tags": [],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://relay.damus.io"
+  ]
+}

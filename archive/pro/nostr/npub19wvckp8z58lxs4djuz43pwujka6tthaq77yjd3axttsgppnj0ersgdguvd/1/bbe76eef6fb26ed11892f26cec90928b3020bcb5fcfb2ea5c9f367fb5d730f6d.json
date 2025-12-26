@@ -1,0 +1,57 @@
+{
+  "content": "# Book 0 Intro\n\nToday begins the unveiling of **Book 0** — the cosmic foundation of the Bitcoin Chronicles.\n\nThis weekend’s set (Nov. 29–30) reveals the origin of the universe, the structure beneath physics, and the purpose woven into creation. All six pieces this weekend are free.\n\nTonight’s Sabbath set includes:\n\n1. **Preface — What This Chronicle Is (and Isn’t)**\n2. **Book 0 Epigraph**\n3. **Book 0, Part I: The Song of Creation**\n\nThis is the beginning before the beginning.  \nThe foundation beneath the story.  \n\n**Welcome to the Bitcoin Chronicles.**\n\n#BitcoinChronicles #Book0 #Continuum #Sovereignty #CosmicTheology #HardSciFi #Nostr #Bitcoin",
+  "created_at": 1764478612,
+  "id": "bbe76eef6fb26ed11892f26cec90928b3020bcb5fcfb2ea5c9f367fb5d730f6d",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "e3ab5d0e58ffb8650ed91bd70d77501ab83869fb1e9ea20dc22e54319feb3d45beb1da2f4dbf1f1fba29b3010d130759f15469b5e42d8fa48036587e6c414b93",
+  "tags": [
+    [
+      "title",
+      "Book 0 Intro"
+    ],
+    [
+      "published_at",
+      "1764478612"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoinchronicles"
+    ],
+    [
+      "t",
+      "book0"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "cosmictheology"
+    ],
+    [
+      "t",
+      "hardscifi"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.bitcoiner.social"
+  ]
+}

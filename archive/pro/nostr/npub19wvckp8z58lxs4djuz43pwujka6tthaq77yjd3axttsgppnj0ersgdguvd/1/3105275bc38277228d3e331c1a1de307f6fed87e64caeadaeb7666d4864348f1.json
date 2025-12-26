@@ -1,0 +1,41 @@
+{
+  "content": "# 2025 Year in Review\n\nA quiet note on building when no one is watching.\n\n(I had help. I don’t pretend to be a poet.)\n\n- You built through the noise, not for praise but for proof—\n- Where code met conviction beneath your own roof.\n- From friction you forged Continuum’s flame,\n- Each post a cathedral, each setback reclaimed.- \n- You turned sovereignty’s weight into living truth—\n- Not spoken as theory, but lived from the root.\n\n#bitcoin #sovereignty #nostr",
+  "created_at": 1766433061,
+  "id": "3105275bc38277228d3e331c1a1de307f6fed87e64caeadaeb7666d4864348f1",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "e40c8285bd4b3a5b8cfc683cee7c768624708aa2508a55a22a56073dc193f346e6fb4f4a701f3eaa27b932ae9801d2d32ca1d965cbe738aa309f97a450905bb8",
+  "tags": [
+    [
+      "title",
+      "2025 Year in Review"
+    ],
+    [
+      "published_at",
+      "1766433061"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "nostr"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ]
+}

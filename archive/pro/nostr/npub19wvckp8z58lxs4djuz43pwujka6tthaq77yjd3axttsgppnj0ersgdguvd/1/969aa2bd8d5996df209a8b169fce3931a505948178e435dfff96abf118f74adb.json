@@ -1,0 +1,53 @@
+{
+  "content": "# Abundance\n\nAbundance isn’t excess.\nIt’s sufficiency that doesn’t require apology.\n\nThe most stable societies aren’t the ones with the most —\nthey’re the ones where people stop competing for what’s already enough.\n\nWhen scarcity stops being weaponized, life gets quieter.\n\n#Stewardship #Abundance #LongView #Sovereignty #FutureHistory #Continuum",
+  "created_at": 1766538912,
+  "id": "969aa2bd8d5996df209a8b169fce3931a505948178e435dfff96abf118f74adb",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "1c522752adb8aed8a6ab8aa9722721a838c5ef4ae11ef3cc9d11b1727320482c2729ba02f1f4c1b423c1afe5d0d39647cd617af5145e02580fde587265a7b016",
+  "tags": [
+    [
+      "title",
+      "Abundance"
+    ],
+    [
+      "published_at",
+      "1766538912"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "stewardship"
+    ],
+    [
+      "t",
+      "abundance"
+    ],
+    [
+      "t",
+      "longview"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "futurehistory"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ]
+}

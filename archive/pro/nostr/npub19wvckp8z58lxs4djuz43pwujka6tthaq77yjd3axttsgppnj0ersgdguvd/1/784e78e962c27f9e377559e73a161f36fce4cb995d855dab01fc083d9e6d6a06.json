@@ -1,0 +1,49 @@
+{
+  "content": "# Enforcement vs Control\n\nSome people enforce rules because they love control. Others do it because they fear collapse.\n\nHistory tends to remember them the same way — but they are not the same.\n\n#Authority #Responsibility #Power #Legitimacy #History",
+  "created_at": 1766440957,
+  "id": "784e78e962c27f9e377559e73a161f36fce4cb995d855dab01fc083d9e6d6a06",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "9986c0d8be8ef7c8664653a75d69633f4b5ecf7cd6fcaf05564e439247eb20afc72ea57c0faa4acbc136d2f03589447373ce507a0a9f8726f146082c14017e3e",
+  "tags": [
+    [
+      "title",
+      "Enforcement vs Control"
+    ],
+    [
+      "published_at",
+      "1766440957"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "authority"
+    ],
+    [
+      "t",
+      "responsibility"
+    ],
+    [
+      "t",
+      "power"
+    ],
+    [
+      "t",
+      "legitimacy"
+    ],
+    [
+      "t",
+      "history"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ]
+}

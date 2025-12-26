@@ -1,0 +1,49 @@
+{
+  "content": "# Moralization of Power\n\nThe most dangerous moment for any system\nis when it stops apologizing for power\nand starts moralizing it.\n\nThat’s when enforcement becomes belief.\n\n#Power #Control #Truth #Ideology #History",
+  "created_at": 1766440554,
+  "id": "5d92d8880aa80495c7b608c797dee7fa1aba92b1cc158fe8b672fa694d33fad2",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "304b11854eb476bd023bc7c9574c195797311eaae466d8eaaec48fd763f84c5891c2b00bf85351f3f9f3896a6c9950de9fd16edf284601b0a0483b3ecfcb14a1",
+  "tags": [
+    [
+      "title",
+      "Moralization of Power"
+    ],
+    [
+      "published_at",
+      "1766440554"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "power"
+    ],
+    [
+      "t",
+      "control"
+    ],
+    [
+      "t",
+      "truth"
+    ],
+    [
+      "t",
+      "ideology"
+    ],
+    [
+      "t",
+      "history"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ]
+}

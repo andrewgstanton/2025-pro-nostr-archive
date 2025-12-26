@@ -1,0 +1,48 @@
+{
+  "content": "# 🚀 400 Articles. A Sovereign Threshold.\n\nToday I crossed a strange and humbling milestone:\n\n400 published articles—\nall written, signed, and stored through Continuum on Nostr.\n\n400 long-form pieces on:\n\nsovereignty\n\nhope\n\nBitcoin\n\ntheology\n\nThe Bitcoin Chronicles\n\nmy own struggles, prayers, reflections, and experiments\n\nNot one of them is owned by a platform.\nNot one of them is trapped behind an algorithm.\nNot one of them can be deleted by anyone but me.\n\nThey live on open relays.\nThey live in my sovereign archive.\nThey are mine in a way no other platform ever allowed.\n\nWhen I started, I just needed a place to think.\nTo heal.\nTo rebuild hope without formula or façade.\nTo discover a story bigger than myself.\n\nI didn’t expect it to become a universe.\n\nI didn’t expect it to become 400.\n\nBut here we are.\n\nThank you to everyone who has read, zapped, commented, encouraged, or simply followed quietly.\nIt means more than you know.\n\nHere’s to the next threshold.\nOnward.\n\n#Bitcoin #Nostr #Continuum #Sovereignty #TheBitcoinChronicles",
+  "created_at": 1765331419,
+  "id": "8596955c1811c65881a4673b2475d67043845caa69ab22ef787003acdba72fa3",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "5f095f33e9a98df92dea03d18999f8a4553d07e434de1f11bc0d4bb121f51d0c82cb6fabab5f47c6496b097a09324b0b0df399e4824c078071ae705c994d63e4",
+  "tags": [
+    [
+      "title",
+      "🚀 400 Articles. A Sovereign Threshold."
+    ],
+    [
+      "published_at",
+      "1765331419"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "thebitcoinchronicles"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ]
+}

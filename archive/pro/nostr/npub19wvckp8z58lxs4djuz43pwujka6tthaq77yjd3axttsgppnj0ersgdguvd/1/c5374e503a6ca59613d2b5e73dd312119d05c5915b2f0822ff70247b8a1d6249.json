@@ -1,0 +1,49 @@
+{
+  "content": "# Christmas Eve (Dec. 24, 2025) - Reflection IV — Faith, Technology, and Restraint\n\nChristmas is not about power arriving all at once.\nIt’s about restraint — divinity choosing limitation.\n\nThat pattern shows up everywhere if you look:\nin families\nin money\nin governance\nin technology\n\nBitcoin Chronicles isn’t about domination or escape.\nIt’s about choosing structures that can bear moral weight without collapsing.\n\nThat’s a very old question, dressed in new clothes.\n\n#BitcoinChronicles\n#Sovereignty\n#Time\n#Waiting\n#Christmas",
+  "created_at": 1766629263,
+  "id": "c5374e503a6ca59613d2b5e73dd312119d05c5915b2f0822ff70247b8a1d6249",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "f117db3506dc2a8d14f0ae73c7b322eba6ac6996b0da32df239fd8203882236a317c127a5f144d88546921de0046e7536caa186bc7a53fff74a1431ef41d6be2",
+  "tags": [
+    [
+      "title",
+      "Christmas Eve (Dec. 24, 2025) - Reflection IV — Faith, Technology, and Restraint"
+    ],
+    [
+      "published_at",
+      "1766629263"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoinchronicles"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "time"
+    ],
+    [
+      "t",
+      "waiting"
+    ],
+    [
+      "t",
+      "christmas"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ]
+}

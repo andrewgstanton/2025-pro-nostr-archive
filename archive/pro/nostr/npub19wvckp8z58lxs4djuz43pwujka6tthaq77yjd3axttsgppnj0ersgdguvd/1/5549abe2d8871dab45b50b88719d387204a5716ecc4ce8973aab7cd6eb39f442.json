@@ -1,0 +1,42 @@
+{
+  "content": "# Grief Comes in Sets\n\nGrief doesn’t move in straight lines.\nIt comes in sets. Some days are calm. Some days knock the breath out of you. Learning to live isn’t about stopping the waves — it’s about remembering you can still float.\n\n#bitcoin #sovereignty #nostr",
+  "created_at": 1766365964,
+  "id": "5549abe2d8871dab45b50b88719d387204a5716ecc4ce8973aab7cd6eb39f442",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "a7658d6ab3361d5e8bedc7d2b7124295714b105944d3e915684e33cddda082f4261b73cccf08ec29c1f7b72259f993a5c1b77eb4f0d367a96c6f03d310fda1ef",
+  "tags": [
+    [
+      "title",
+      "Grief Comes in Sets"
+    ],
+    [
+      "published_at",
+      "1766365964"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "nostr"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://relay.damus.io",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://nostr.bitcoiner.social"
+  ]
+}

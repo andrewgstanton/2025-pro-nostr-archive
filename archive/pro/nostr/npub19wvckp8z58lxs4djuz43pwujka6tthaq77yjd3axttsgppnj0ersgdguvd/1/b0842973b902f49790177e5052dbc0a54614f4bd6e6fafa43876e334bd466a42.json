@@ -1,0 +1,53 @@
+{
+  "content": "# The Long View\n\nThe future doesn’t arrive all at once.\n\nIt shows up first as:\n\nordinary meals\n\nmaintained infrastructure\n\nshared work\n\nplaces that feel worth caring for\n\nWhen life becomes livable, people stop arguing about ideology and start tending what’s in front of them.\n\nThat’s what real growth looks like.\n\n#Stewardship #Abundance #LongView #Sovereignty #FutureHistory #Continuum",
+  "created_at": 1766539340,
+  "id": "b0842973b902f49790177e5052dbc0a54614f4bd6e6fafa43876e334bd466a42",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "772323c50099862fafda5301012798cab35674dd2cd32bf740d803040bf9916ec28aa58676f543716381779a41349d17e638534d4e1a6f4b448cac2bb766a259",
+  "tags": [
+    [
+      "title",
+      "The Long View"
+    ],
+    [
+      "published_at",
+      "1766539340"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "stewardship"
+    ],
+    [
+      "t",
+      "abundance"
+    ],
+    [
+      "t",
+      "longview"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "futurehistory"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "content": "In cases forgot to mention this\n\nhappy Holidays & Merry Christmas !!",
+  "created_at": 1766265196,
+  "id": "718db7dc93d1a263cd2ec6e60ee3a917c413dd4b423c38975fb89df2c4a75ef1",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "7107063b9091e77e319baf9dee691c5b919eae4898b9e82763bb3349b97d539b640564e9bcdca4f1b20e57935a3173b3176f1fd3f9343da119b827684d8885ec",
+  "tags": [],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://relay.damus.io"
+  ]
+}

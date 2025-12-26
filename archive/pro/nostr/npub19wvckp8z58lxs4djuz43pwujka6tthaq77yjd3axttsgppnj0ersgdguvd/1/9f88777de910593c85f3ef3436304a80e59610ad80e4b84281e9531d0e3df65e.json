@@ -1,0 +1,25 @@
+{
+  "content": "Powerful i agree with the others this could really work.  I was exploring something similar\n\n",
+  "created_at": 1765132061,
+  "id": "9f88777de910593c85f3ef3436304a80e59610ad80e4b84281e9531d0e3df65e",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "870c38c8d9efcd8ab2d084df828075ee4ff54da2a5b0b36d7fcdd04ecba4836ca8fa4814bb6baea7f21908998eafc91b761cbda129e8cc1461d125569f57010d",
+  "tags": [
+    [
+      "a",
+      "30023:b7ed68b062de6b4a12e51fd5285c1e1e0ed0e5128cda93ab11b4150b55ed32fc:c4d2a3114166f8f5",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "b7ed68b062de6b4a12e51fd5285c1e1e0ed0e5128cda93ab11b4150b55ed32fc",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io"
+  ]
+}

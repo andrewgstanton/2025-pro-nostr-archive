@@ -1,0 +1,49 @@
+{
+  "content": "# Christmas Eve (Dec. 24, 2025) Reflection III — Why I’m Writing This\n\nI didn’t start Bitcoin Chronicles to predict the future.\n\nI started it because I couldn’t find many stories willing to treat:\n\ntime as real\n\ndistance as meaningful\n\nmoney as moral\n\ntechnology as consequential\n\nThis is my attempt to think slowly — on purpose — about where sovereignty might still matter when convenience stops being free.\n\n#BitcoinChronicles\n#Sovereignty\n#Time\n#Waiting\n#Christmas",
+  "created_at": 1766629083,
+  "id": "c5a8a83e3041fc75012baf27f9412fba82720aa0b5af6ae70e55718554ee65f0",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "5ad381055e716af3e0b1df280a5538a8372a32fdc458463f4ef8bf582d9b84ec2a60466e90008c249f01aae882022a1c2242b14ca12359fd285110a812755354",
+  "tags": [
+    [
+      "title",
+      "Christmas Eve (Dec. 24, 2025) Reflection III — Why I’m Writing This"
+    ],
+    [
+      "published_at",
+      "1766629083"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoinchronicles"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "time"
+    ],
+    [
+      "t",
+      "waiting"
+    ],
+    [
+      "t",
+      "christmas"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ]
+}

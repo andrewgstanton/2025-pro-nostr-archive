@@ -1,0 +1,15 @@
+{
+  "content": "From a recent story in the Bitcoin Chronicles…\n\n„\n\nElias Walker was born after the Long Break.\n\nNo one marked the date precisely. There were no declarations, no ceremonies, no moment when the old order ended and the new one began. The Break was long, uneven, and mostly administrative — a slow uncoupling between Earth’s compliance civilization and the sovereign worlds that grew beyond its reach.\n\nBy the time Elias was born, the separation was already fact.\n\nHe lived on a Kepler-class world with abundant land, breathable air, and wide oceans that had never known native life. The planet did not resist habitation, but it did not welcome it either. It simply existed — stable, indifferent, waiting to be entered.\n\nElias worked where land met water. He helped tend the coastline, maintaining breakwaters, monitoring erosion, and occasionally repairing the long, patient machines that shaped the shore. The work was physical and unglamorous. It mattered anyway.\n\nSome mornings, before the maintenance schedules began, he surfed.\n„",
+  "created_at": 1766688256,
+  "id": "b65576465377c1467472599e57081b2ab7e3f2152985b37c188612705cf16dc0",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "05cc0a25a5ad102aa833d657e4f926cd683ce0b296b15a8797f9e6470a05f58e908278658f1bbb52c2693a77ac20f1714781c07a55fb93de3a537c6e329f899a",
+  "tags": [],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://relay.damus.io"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "content": "# Different Practices, Same Instinct\n\nI write.\nMy brother surfs.\n\nDifferent practices, same instinct: stay present, don’t fight what can’t be controlled, and trust that balance returns if you keep showing up.\n\n#bitcoin #sovereignty #nostr",
+  "created_at": 1766365866,
+  "id": "95481ef0c637971c4e548f20232def1edef5d72cb7191040421a9006e2117cce",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "97da6404ddca3e92b57fc3f2d63ac0d9b20654de00c13eb0197fcab4708738954be7d7c22a255a02c5a9ed9d175702c56cc3e07e92e2ef684cd70f239c68c4ab",
+  "tags": [
+    [
+      "title",
+      "Different Practices, Same Instinct"
+    ],
+    [
+      "published_at",
+      "1766365866"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "nostr"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ]
+}

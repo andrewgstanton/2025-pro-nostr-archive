@@ -1,0 +1,40 @@
+{
+  "content": "# On Freedom\n\nFreedom that only exists while a system is expanding isn’t freedom.\nIt’s a temporary condition, dependent on debt, growth, and permission.",
+  "created_at": 1766259895,
+  "id": "db8918148f49c0789589745f3269ba021107a8b29734f07ef2319977b2081e3a",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "028d9f08b025fa2d81a4b67b376198fe3c82b5416d0c3eddbe9d447d5974cf6944d67e00ac39e50e1dc3e36fc346808c2b210ee1f51315e071ecfea41aff28f8",
+  "tags": [
+    [
+      "title",
+      "On Freedom"
+    ],
+    [
+      "published_at",
+      "1766259895"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "nostr"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ]
+}

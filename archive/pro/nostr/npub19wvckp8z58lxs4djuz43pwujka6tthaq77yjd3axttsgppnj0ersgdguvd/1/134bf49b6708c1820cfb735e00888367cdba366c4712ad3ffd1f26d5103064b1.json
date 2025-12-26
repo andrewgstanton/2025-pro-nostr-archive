@@ -1,0 +1,33 @@
+{
+  "content": "# Continuum Pro Teaser\n\nQuick note — I’ve been working quietly on something for months, and it’s finally ready.\n\nIt solves a problem I know a lot of us have talked about:  \n**how to preserve long-form Nostr posts with real permanence** (even when relays prune or clients overwrite older versions).\n\n@ODELL @fiatjaf — you both care a lot about sovereignty and archival integrity, so I thought you might appreciate this.\n\n---\n\nFull announcement here:  \nhttps://is.gd/jeTJcr\n\nYou can even read the permanent archived version of this announcement here:  \nhttps://nostr.mycontinuum.xyz/e/?event_id=63f847716efde1f4fc7d796a5f3c4b0207988cb654f4e68678d6119dc684bb48\n\n#nostr #sovereignty",
+  "created_at": 1763758563,
+  "id": "134bf49b6708c1820cfb735e00888367cdba366c4712ad3ffd1f26d5103064b1",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "9766a30b1f89ebc94cdc1bbf17ce49f6b16a79b124dec1b4c48d5242d97378069cef6c8cd3fe288cb68bdc2eb052792357fa847a2a84c57a1b8da2a62058fad2",
+  "tags": [
+    [
+      "title",
+      "Continuum Pro Teaser"
+    ],
+    [
+      "published_at",
+      "1763758563"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.bitcoiner.social"
+  ]
+}

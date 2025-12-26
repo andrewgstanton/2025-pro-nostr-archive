@@ -1,0 +1,49 @@
+{
+  "content": "# Delay and Consent\n\nDelay can preserve stability.\nIt cannot restore consent.\n\nEventually people don’t ask for permission anymore —\nthey just learn how to leave together.\n\n#Exit #Consent #Sovereignty #Collapse #Coordination",
+  "created_at": 1766440712,
+  "id": "cabfc3a64053005294f1c050bc4607d34a3d8d72f445669b070e18239ec68696",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "c0ac3339d0954620e7d4951e05997729732cb3a198f05f1e82e36cb3bf0cbfa5f105f9230435c13acdfa210e6846afe36be9043b5804533552a4e0c7ba7dd595",
+  "tags": [
+    [
+      "title",
+      "Delay and Consent"
+    ],
+    [
+      "published_at",
+      "1766440712"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "exit"
+    ],
+    [
+      "t",
+      "consent"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "collapse"
+    ],
+    [
+      "t",
+      "coordination"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ]
+}

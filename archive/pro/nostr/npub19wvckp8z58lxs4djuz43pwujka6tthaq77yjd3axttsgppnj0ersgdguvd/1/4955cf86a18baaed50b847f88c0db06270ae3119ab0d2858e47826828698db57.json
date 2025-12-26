@@ -1,0 +1,49 @@
+{
+  "content": "# Paid Article Sample Teaser Example\n\nFull Sovereign Publishing with Paid Content Support!\n\nTesting sovereign paid content on Nostr using 30023 + client-side decryption.\n\n🔒 Public (teaser only, encrypted body):\nhttps://is.gd/kPuX6k\n\n🔓 Unlocked (same event, with decryption code):\nhttps://is.gd/MgamX9\n\nAll content is stored as a normal Nostr event (kind:30023) and archived statically. The “paywall” is just encryption + a shared secret, no servers involved in viewing.\n\n\n#Nostr #Bitcoin #Sovereignty #SelfSovereign #DecentralizedWeb #OpenProtocols",
+  "created_at": 1765070245,
+  "id": "4955cf86a18baaed50b847f88c0db06270ae3119ab0d2858e47826828698db57",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "b88f7fced00d0a98d273955377cb835e67556314714ea721cb9efb6bb95f102a7b25efaf935d391b98dc50707dc6dc8ef70a72ff2fdcc634c661b7c9c15eda0b",
+  "tags": [
+    [
+      "title",
+      "Paid Article Sample Teaser Example"
+    ],
+    [
+      "published_at",
+      "1765070245"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "selfsovereign"
+    ],
+    [
+      "t",
+      "decentralizedweb"
+    ],
+    [
+      "t",
+      "openprotocols"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.bitcoiner.social"
+  ]
+}

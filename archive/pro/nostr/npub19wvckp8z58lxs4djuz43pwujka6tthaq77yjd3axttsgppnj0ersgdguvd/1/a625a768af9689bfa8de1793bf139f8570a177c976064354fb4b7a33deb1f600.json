@@ -1,0 +1,16 @@
+{
+  "content": "I wrote „The Bitcoin Chronicles - The Series“ as a short 6 part series in Aug 22 of this year \n\nThe Chronicles now contains 100s of articles short stories really \n\nI didn’t think I would end up writing this much \n\nI almost feel like I discovered it rather than inventing it\n\nMerry Christmas And Happy New Year to all!!",
+  "created_at": 1766631718,
+  "id": "a625a768af9689bfa8de1793bf139f8570a177c976064354fb4b7a33deb1f600",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "748b6c7de682890eeee34061c317611f89d0b83d213286bc3d75de7d627cb474e941efdb0eec287ad563266ec765b8b233df669bfb8bc6c4e42b6bb9623f8857",
+  "tags": [],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://relay.damus.io",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "content": "# Why I’m writing the Bitcoin Chronicles\n\nThe Bitcoin Chronicles are a long-form way for me to explore sovereignty, freedom, and human agency over time — not just as technology or economics, but as culture, story, and belief.\n\nFiction lets me examine truths that are difficult to approach directly, especially where systems, power, and faith intersect. It’s not prediction or propaganda — it’s a way of thinking honestly, at scale, across generations.\n\n#bitcoin #sovereignty #nostr",
+  "created_at": 1766260972,
+  "id": "08f05b6bab31977b312ceb2755d03436cb5aa44a1aca0dac321d7ba325b005f9",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "f90528ef2e12efd553ea58b0f9687901ab50c5c37cd9cc1611d90f64acee72d32a531f222ac9875e313c32bd06bf221acb205d88d2b8bffe5d1da3c125856088",
+  "tags": [
+    [
+      "title",
+      "Why I’m writing the Bitcoin Chronicles"
+    ],
+    [
+      "published_at",
+      "1766260972"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "nostr"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ]
+}

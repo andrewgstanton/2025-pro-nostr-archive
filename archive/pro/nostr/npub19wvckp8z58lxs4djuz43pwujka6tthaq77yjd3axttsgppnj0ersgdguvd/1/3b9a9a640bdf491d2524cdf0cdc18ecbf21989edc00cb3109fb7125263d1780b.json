@@ -1,0 +1,49 @@
+{
+  "content": "# Christmas Eve (Dec. 24, 2025) - Reflection V — Toward the Stars, Not Away From Earth\n\nWhen I write about humanity going toward the stars, I don’t mean running away.\n\nI mean carrying memory, law, and responsibility farther than before — without pretending we’ve outgrown them.\n\nChristmas reminds us that meaning doesn’t scale by force.\nIt scales by fidelity.\n\n\nThat’s the kind of future I’m trying to imagine.\n\n\n_This reflection is part of a long-form project called Bitcoin Chronicles, published gradually and intentionally._\n\nPeace to you tonight.\n\n(meant to post this Christmas Eve, but it looks like I missed this last one)\n\n\n— Andrew\n\n#BitcoinChronicles #Sovereignty #Time #Waiting #Christmas",
+  "created_at": 1766719999,
+  "id": "3b9a9a640bdf491d2524cdf0cdc18ecbf21989edc00cb3109fb7125263d1780b",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "6531edff72bfcdb329d2abe61462356ef1d1920ce319d3e67e0a10f8926b903631a8efb2737c9a2b8ebdf8fb866f8cd50fa5fc0089e42cde62a81cf79f4eb7a4",
+  "tags": [
+    [
+      "title",
+      "Christmas Eve (Dec. 24, 2025) - Reflection V — Toward the Stars, Not Away From Earth"
+    ],
+    [
+      "published_at",
+      "1766719999"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "bitcoinchronicles"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "time"
+    ],
+    [
+      "t",
+      "waiting"
+    ],
+    [
+      "t",
+      "christmas"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "content": "The majority of Bitcoin Chronicles pieces have been freely available.\n\nBy Christmas 2025, Continuum will cross 500 total articles, the majority of which are free.\n\nAfter Christmas, all new Bitcoin Chronicles entries will be stewarded as paid work — unlockable individually for 500 sats, or available in full to patrons for $250 USD ($225 USD if paid in sats).\n\nContinuum will remain open for reflections, commentary, and bridges into the canon.\n\n*— Akamaister, Editor of Continuum Magazine and Builder of Continuum*\n\n#continuum #bitcoin-chronicles #stewardship",
+  "created_at": 1766075627,
+  "id": "2c1f1257abfdbd4325fc81f5e4f7dafb8b29ee10b7d6175b70b16336356e2283",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "43d3c16afeb65e7649b3c453e51c29e1393ad92bdf3fc5b5c843d377aa86b533b87f7708ff90eab94a1a084c0c5f4eb228553bb6c2fcfd2b30d05c8c370a03f3",
+  "tags": [
+    [
+      "published_at",
+      "1766075627"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ]
+}

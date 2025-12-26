@@ -1,0 +1,41 @@
+{
+  "content": "# Hope for the New Year\n\nHope for the new year doesn’t mean pretending last year didn’t hurt. It means believing that pain doesn’t get the final word — only a chapter.\n\n#bitcoin #sovereignty #nostr",
+  "created_at": 1766365699,
+  "id": "c17a0077d2339eaf06d9f7d06b07061c80c3129c4d2317d6840cf5855fabbfbe",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "c760e5c41cbb26ee9b74ad95f513afb849fa1d400728cd3f8ea894e447d233d3ea16fa6116aa06627403e68bee2bb3f72a6b9c75884af097ed395bacc147905c",
+  "tags": [
+    [
+      "title",
+      "Hope for the New Year"
+    ],
+    [
+      "published_at",
+      "1766365699"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "nostr"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ]
+}

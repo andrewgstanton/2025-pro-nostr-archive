@@ -1,0 +1,28 @@
+{
+  "content": "Excellent article as always  nostr:nprofile1qqs9gcysfq5y62s4rjxlvf05psuf6s376ptlemuj0kugj4kj3c3t5qcpzemhxue69uhkummnw3ezucnfw3kkzart9e5k7qg0waehxw309ahx7um5wghx6mmdfdfds8 ",
+  "created_at": 1766257825,
+  "id": "d0814a2e39b8e675645c646b0d490742f5714758afe86502bf15701799a2b39e",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "a6f5740c04f9b72be37a06c0cb7d648f8c15fe55c7b1936968f548210f3ec39ab2291fe894cfc2255caa1842c45238a20f07083accc5c6c4ffd15de3ec6979f1",
+  "tags": [
+    [
+      "a",
+      "30023:54609048284d2a151c8df625f40c389d423ed057fcef927db88956d28e22ba03:manufactured-villains--heroes-for-sale",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "54609048284d2a151c8df625f40c389d423ed057fcef927db88956d28e22ba03",
+      "wss://nostr.bitmatk.io",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://relay.damus.io"
+  ]
+}

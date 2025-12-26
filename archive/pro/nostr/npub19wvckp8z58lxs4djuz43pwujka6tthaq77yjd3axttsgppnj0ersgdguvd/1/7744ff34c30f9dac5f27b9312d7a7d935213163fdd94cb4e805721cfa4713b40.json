@@ -1,0 +1,40 @@
+{
+  "content": "# Why I’m experimenting with monetization on Nostr (without vendor lock-in)\n\nI’m exploring monetization without vendor lock-in.\n\nOpen protocols make it possible to publish, encrypt, and exchange value without platforms acting as gatekeepers. I’m testing that in public — slowly and deliberately.\n\nThis is infrastructure work, not marketing.\n\n#Bitcoin #Sovereignty #Nostr",
+  "created_at": 1766259583,
+  "id": "7744ff34c30f9dac5f27b9312d7a7d935213163fdd94cb4e805721cfa4713b40",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "6e51a8c17b77da38ec34e9816828e42523ee0b61af8ea96bd8ec00331ded81f5d55e78aa729903ad6df3653beec2b7258b677148f789d7c0a3e6029e5b10e0fc",
+  "tags": [
+    [
+      "title",
+      "Why I’m experimenting with monetization on Nostr (without vendor lock-in)"
+    ],
+    [
+      "published_at",
+      "1766259583"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "nostr"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ]
+}

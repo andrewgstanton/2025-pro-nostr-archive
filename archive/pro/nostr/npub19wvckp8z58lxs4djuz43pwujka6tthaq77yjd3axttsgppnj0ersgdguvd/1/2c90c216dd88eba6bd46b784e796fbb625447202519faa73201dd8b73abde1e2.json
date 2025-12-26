@@ -1,0 +1,49 @@
+{
+  "content": "# Exit as Signal\n\nExit is not always rebellion.\nSometimes it’s a signal that legitimacy has already been lost.\n\nSystems that forbid exit usually discover that too late.\n\n#Exit #Sovereignty #Legitimacy #Systems #Freedom",
+  "created_at": 1766440824,
+  "id": "2c90c216dd88eba6bd46b784e796fbb625447202519faa73201dd8b73abde1e2",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "ff10614dfefbf4bd88b951e371b66065c152b0e818df7e33ff471611712facd1e692a3fc2324281804ae468d4fed3fac9426283da569a8fb9ea83ea3f2bb7d92",
+  "tags": [
+    [
+      "title",
+      "Exit as Signal"
+    ],
+    [
+      "published_at",
+      "1766440824"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "exit"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "legitimacy"
+    ],
+    [
+      "t",
+      "systems"
+    ],
+    [
+      "t",
+      "freedom"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ]
+}

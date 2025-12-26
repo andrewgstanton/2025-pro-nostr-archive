@@ -1,0 +1,40 @@
+{
+  "content": "# Why do I write articles instead of posting notes?\n\nLong-form writing helps me express ideas more fully. Especially on Nostr, I’m not constrained by length, tone, or format.\n\nI explore sovereignty and freedom — and at times theology — in ways that don’t compress well into short posts. Essays give those ideas room to breathe.\n\n#Bitcoin #Sovereignty #Nostr",
+  "created_at": 1766259175,
+  "id": "176d45ea909d1252fc8000a67e0752e5800bcdf7c9b6cbd01392d305232c2648",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "a0a64836fc1165e582543e0b931cdb7e1c14101e79d9057c2fbba80200ee794ac4f5efab73b4b45f1ea2143b658773163aedd4317e894ef2e2b67a1cf4796aea",
+  "tags": [
+    [
+      "title",
+      "Why do I write articles instead of posting notes?"
+    ],
+    [
+      "published_at",
+      "1766259175"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "nostr"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ]
+}

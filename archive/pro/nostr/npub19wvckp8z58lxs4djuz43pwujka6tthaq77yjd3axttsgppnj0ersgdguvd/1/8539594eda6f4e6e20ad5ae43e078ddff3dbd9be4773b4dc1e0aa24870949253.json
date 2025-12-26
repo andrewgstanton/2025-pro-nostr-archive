@@ -1,0 +1,41 @@
+{
+  "content": "# What Freedom Really Is\n\nFreedom isn’t the absence of force. It’s the ability to choose how you meet it. Some people meet it with words. Some with water — surfing, windsurfing. My brother surfs. I write. Both count.\n\n#bitcoin #sovereignty #nostr",
+  "created_at": 1766362151,
+  "id": "8539594eda6f4e6e20ad5ae43e078ddff3dbd9be4773b4dc1e0aa24870949253",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "4d6158b7206ea4d7c4f59b382a6a97ca0edcfa50b647881861e12db38a7a51bf7c01bdc42f1533ace39a9c7fc215a27180f6a0be3a46a695b2e2290668df1624",
+  "tags": [
+    [
+      "title",
+      "What Freedom Really Is"
+    ],
+    [
+      "published_at",
+      "1766362151"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "nostr"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ]
+}

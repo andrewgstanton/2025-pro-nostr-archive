@@ -1,0 +1,41 @@
+{
+  "content": "# Staying in the Water\n\nNot every wave is meant to be ridden.\nNot every thought needs to be resolved.\n\nSometimes the most honest thing you can do is wait, breathe, and stay in the water.",
+  "created_at": 1766362332,
+  "id": "1066c9304f18ff9c5e15d865233fdb43e02e91bc4b3a33da43fdfa84dfcd38d5",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "a30419a5d36e1123dd85e005a04dc22dfc7ddc1a18227b6e25ac2fddfd8732e1fd8dfe789465e571e3f68afde70c03636408e29fff867042c68f3b8509c12d2e",
+  "tags": [
+    [
+      "title",
+      "Staying in the Water"
+    ],
+    [
+      "published_at",
+      "1766362332"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "nostr"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ]
+}

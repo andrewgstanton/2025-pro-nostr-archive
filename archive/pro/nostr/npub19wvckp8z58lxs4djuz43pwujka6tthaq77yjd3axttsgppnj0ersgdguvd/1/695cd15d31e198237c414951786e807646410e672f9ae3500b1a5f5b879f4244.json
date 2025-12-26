@@ -1,0 +1,41 @@
+{
+  "content": "# Teaser - The Sovereign Archive: The Canonical Bitcoin Chronicles Index\n\nFor months I’ve been writing fragments of a larger story — scenes from Luna Freeport, echoes from New Lakota, glimpses of Martian markets, and quiet signals drifting across deep space. I didn’t realize it at first, but the Bitcoin Chronicles were forming a universe of their own.\n\nRecently, the pieces started connecting.  \nWorlds aligned.  \nTimelines converged.  \nThemes threaded themselves into a single sovereign arc.\n\nToday I published the first **Canonical Universe Index** for the Bitcoin Chronicles — a fully structured, chronological map of the entire storyline:\n\n- **ARC 1 — Early Expansion** (Toward the Stars)  \n- **ARC 2 — Quantum & Transition**  \n- **ARC 3 — The Hilo Arc**  \n- **ARC 4 — Pre-Entanglement**  \n- **ARC 5 — Martian Foundations**  \n- **ARC 6 — Primordial Colonies** (Europa, New Lakota)  \n- **ARC 7 — The Luna Archivists**  \n- **ARC 8 — Far-Future Sovereignty**  \n- **ARC 9 — Return to Earth**\n\nNine eras.  \nDozens of worlds.  \nA timeline stretching from the first relay towers on Luna to the cathedrals of Mars 500 years in the future — and back again to the hard, practical sovereignty we live out today.\n\nIf you’ve been following the Chronicles, this is the map.  \nAnd if you’re new to this universe, this is the doorway in.\n\nShared from my Continuum Magazine (archived link):\n\nhttps://is.gd/YrWJ5O\n\n#BitcoinChronicles #Continuum #Sovereignty #Nostr",
+  "created_at": 1764280618,
+  "id": "695cd15d31e198237c414951786e807646410e672f9ae3500b1a5f5b879f4244",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "8cd21e0244b1c60abd85ffd440843c2d3a770df3125e40334e8294b323a3a8affd1c6ed483f0ef6cffdd784eca4df8356ea3fb2ca2db56a2140fb22b5827c7df",
+  "tags": [
+    [
+      "title",
+      "Teaser - The Sovereign Archive: The Canonical Bitcoin Chronicles Index"
+    ],
+    [
+      "published_at",
+      "1764280618"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoinchronicles"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "nostr"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.bitcoiner.social"
+  ]
+}

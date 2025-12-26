@@ -1,0 +1,16 @@
+{
+  "content": "Most people think Nostr is “local-first” because they control their keys.\n\nKey custody ≠ local-first.\n\nFor most users, identity, memory, and continuity still live in apps and relays they don’t control.\n\nLocal-first means your machine is the source of truth — apps and relays are just views and distribution.\n\nThat part of Nostr is still unfinished.",
+  "created_at": 1766696203,
+  "id": "976589a624bf07ae73ab3ee7a122b9b0885b89f936f1471484deb457201876e0",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "17c6d91db42609f43f323ba0c5e7d30e480387a447ea82b4af86d7287d25e9eaea46a927b10e41dd0079937737d54005b31653c0afadd0060b6eef7569c1572f",
+  "tags": [],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://relay.damus.io",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom"
+  ]
+}

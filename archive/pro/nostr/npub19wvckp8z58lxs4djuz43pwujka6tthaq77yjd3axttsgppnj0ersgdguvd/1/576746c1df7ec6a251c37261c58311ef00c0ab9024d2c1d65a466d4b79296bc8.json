@@ -1,0 +1,40 @@
+{
+  "content": "# New piece today:  “Sovereignty Is Learned in Small Steps”\n\nSovereignty isn’t a single breakthrough — it’s a rhythm, trained one decision at a time.\n\nFull post:\nhttps://is.gd/rFxafr\n\n#sovereignty #freedom #continuum",
+  "created_at": 1765487086,
+  "id": "576746c1df7ec6a251c37261c58311ef00c0ab9024d2c1d65a466d4b79296bc8",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "97b686d6dd011893003a01c08051ad6e8d52dc5f53d2a55f9c4302d9d42f352f60e09dd1ea2bc1418c8946f68188bfde4869649505d30b3a9adc14d943037803",
+  "tags": [
+    [
+      "title",
+      "New piece today:  “Sovereignty Is Learned in Small Steps”"
+    ],
+    [
+      "published_at",
+      "1765487086"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "freedom"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ]
+}

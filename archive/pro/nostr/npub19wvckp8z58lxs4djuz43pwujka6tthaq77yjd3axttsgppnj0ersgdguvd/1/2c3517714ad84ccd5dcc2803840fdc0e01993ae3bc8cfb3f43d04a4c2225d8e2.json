@@ -1,0 +1,45 @@
+{
+  "content": "# Patron Support Continuum\n\nPatron support helps me keep building Continuum independently. \nSee my long-form post for details: https://is.gd/1uFqZs\n\nSupport (sats): andrewgstanton@primal.net\nDM me on Nostr for questions.\n\n#Continuum #PatronSupport #Nostr #Bitcoin #SovereignBuilders",
+  "created_at": 1764830351,
+  "id": "2c3517714ad84ccd5dcc2803840fdc0e01993ae3bc8cfb3f43d04a4c2225d8e2",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "f5f30d3a29a4080202def50bd69660f34f8cbb533d110c47d0bb09ea56ed726bf780230e6be84c4b7b3cb8dbc02f58322886b09bcc2e115209e52956f3700222",
+  "tags": [
+    [
+      "title",
+      "Patron Support Continuum"
+    ],
+    [
+      "published_at",
+      "1764830351"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "patronsupport"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "sovereignbuilders"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.bitcoiner.social"
+  ]
+}

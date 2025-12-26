@@ -1,0 +1,29 @@
+{
+  "content": "Another powerful article very well written thanks for sharing!",
+  "created_at": 1766343745,
+  "id": "65f6c6eedc7406f9aa3905ecf781c7c7625737de9b029889473086b1259d8277",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "05d2a0081376b47ab59cd0c15183e565b4a7c648e901c5153a39c68a7c65e6bd2ff8caaa16818c51d870a9ad33b55134cf7bcca9fc54abc4973c3e216b3ac811",
+  "tags": [
+    [
+      "a",
+      "30023:4d41a7cbc9b7f7e8484d15499aa9141c73f9a39c3765cc5d5631fa1e7d3633cc:educational-industry",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "4d41a7cbc9b7f7e8484d15499aa9141c73f9a39c3765cc5d5631fa1e7d3633cc",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://relay.damus.io",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom"
+  ]
+}

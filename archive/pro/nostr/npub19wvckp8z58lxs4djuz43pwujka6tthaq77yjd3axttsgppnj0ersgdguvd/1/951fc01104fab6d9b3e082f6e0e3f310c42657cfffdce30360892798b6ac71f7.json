@@ -1,0 +1,53 @@
+{
+  "content": "# Sovereign Systems\n\nIn sovereign systems, prices move because reality moves.\n\nNot because narratives shift.\nNot because authority demands compliance.\nNot because friction is hidden.\n\nAbundance emerges when systems are allowed to tell the truth — even when it’s inconvenient.\n\n#Stewardship #Abundance #LongView #Sovereignty #FutureHistory #Continuum",
+  "created_at": 1766539195,
+  "id": "951fc01104fab6d9b3e082f6e0e3f310c42657cfffdce30360892798b6ac71f7",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "f7f345bbd0bec4e7662e3ff0de2a5cf7c13937eb2755539bc4b0540aff7311ced9141aa8ee193c807d1e0c4c3ed8c5ee2fa5c6b27d0f5b42fe994a10a4526b3c",
+  "tags": [
+    [
+      "title",
+      "Sovereign Systems"
+    ],
+    [
+      "published_at",
+      "1766539195"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "stewardship"
+    ],
+    [
+      "t",
+      "abundance"
+    ],
+    [
+      "t",
+      "longview"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "futurehistory"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ]
+}

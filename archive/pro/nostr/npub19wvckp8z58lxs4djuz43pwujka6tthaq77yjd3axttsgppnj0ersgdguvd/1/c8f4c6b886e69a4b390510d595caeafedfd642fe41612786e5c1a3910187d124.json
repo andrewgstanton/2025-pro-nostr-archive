@@ -1,0 +1,28 @@
+{
+  "content": "# Stewardship notice for the Bitcoin Chronicles on Continuum.\n\nStewardship notice for the Bitcoin Chronicles on Continuum.\n\nContinuum is crossing 500 articles by Christmas 2025.\nNew Chronicle entries move into paid stewardship after that point.\n\n👉 [Notice](https://is.gd/M3vijh)",
+  "created_at": 1766076407,
+  "id": "c8f4c6b886e69a4b390510d595caeafedfd642fe41612786e5c1a3910187d124",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "493b22f9600e574bac8dccc9f97fd8ceab9fdfad54792e1eb83b7d3d57b786596fb68607d1f687347ab801cf156b6cd31ef4e212af7cdc3221aa33e03024e81b",
+  "tags": [
+    [
+      "title",
+      "Stewardship notice for the Bitcoin Chronicles on Continuum."
+    ],
+    [
+      "published_at",
+      "1766076407"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ]
+}

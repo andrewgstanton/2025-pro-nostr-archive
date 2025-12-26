@@ -1,0 +1,53 @@
+{
+  "content": "# Stewardship\n\nStewardship isn’t preservation.\nIt’s responsibility after change.\n\nWherever humans go, the environment changes.\nThe question isn’t whether we alter the world —\nit’s whether we tend what we alter, or abandon it once extraction is complete.\n\nAbundance only lasts where stewardship is ordinary.\n\n#Stewardship #Abundance #LongView #Sovereignty #FutureHistory #Continuum",
+  "created_at": 1766539057,
+  "id": "8cb691fd1c2b3fc523f6132edcd36f41942c4284b5345d2a5b06e05cb98a6ebc",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "50244a423cfd4f850fe1eaa89244714d8afb0904e5077b645e1bf388264a6fbb755d55634cac1b3e1de22d59a6b96ea9948cd20b11d2fd95024325ffa14a450d",
+  "tags": [
+    [
+      "title",
+      "Stewardship"
+    ],
+    [
+      "published_at",
+      "1766539057"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "stewardship"
+    ],
+    [
+      "t",
+      "abundance"
+    ],
+    [
+      "t",
+      "longview"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "futurehistory"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ]
+}

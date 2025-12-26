@@ -1,0 +1,40 @@
+{
+  "content": "# On Sovereignty\n\nSovereignty isn’t the absence of constraint.\nIt’s knowing which constraints you’ve accepted — and which ones you refuse to pretend are neutral.\n\n#Bitcoin #Sovereignty #Nostr",
+  "created_at": 1766259758,
+  "id": "db922f4df519434762bc3f71205ee2414ebb702cc338184de81252626cfbb755",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "48e688057f3d606ec60559c4e1c3a9bcef8fa021a951a072b5f4bc6fc9f6e6de4abea67d89979d5903a764470e6ec40dfccc6d816818e948e60e87bf1a5fccba",
+  "tags": [
+    [
+      "title",
+      "On Sovereignty"
+    ],
+    [
+      "published_at",
+      "1766259758"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "nostr"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social"
+  ]
+}

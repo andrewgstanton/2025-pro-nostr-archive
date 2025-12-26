@@ -1,0 +1,49 @@
+{
+  "content": "# Christmas Eve (Dec. 24, 2025) - Reflection I — Waiting Is Not Failure\n\nChristmas Eve is about waiting.\n\nNot the anxious kind — the kind that trusts something is coming even when nothing looks finished yet.\n\nBitcoin Chronicles is written in that posture.\nIt isn’t about speed, disruption, or “what’s next.”\nIt’s about what endures when we accept delay, distance, and responsibility.\n\nSome things only make sense when you stop trying to hurry them.\n\n#BitcoinChronicles\n#Sovereignty\n#Time\n#Waiting\n#Christmas",
+  "created_at": 1766628623,
+  "id": "991d804fc42b487505d4d84be69a55bc78a3a578ed06b9868e378f1c9c530f0d",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "032df3be1705d5823ff393ec497b9aa8adbbadad59960096bdb5efc8a308a18d613a75a69475ec4c83e991cdceb7a810445f4dc3140e4f39642155720de000d8",
+  "tags": [
+    [
+      "title",
+      "Christmas Eve (Dec. 24, 2025) - Reflection I — Waiting Is Not Failure"
+    ],
+    [
+      "published_at",
+      "1766628623"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoinchronicles"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "time"
+    ],
+    [
+      "t",
+      "waiting"
+    ],
+    [
+      "t",
+      "christmas"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom"
+  ]
+}
