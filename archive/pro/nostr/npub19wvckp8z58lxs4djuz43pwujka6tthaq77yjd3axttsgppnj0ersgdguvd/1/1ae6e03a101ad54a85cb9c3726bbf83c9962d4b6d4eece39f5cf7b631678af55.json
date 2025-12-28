@@ -1,0 +1,29 @@
+{
+  "content": "# Last Weekend of 2025\n\nIt's the last weekend of 2025\n\nBlessings to you all and looking forward to the New Year!",
+  "created_at": 1766880368,
+  "id": "1ae6e03a101ad54a85cb9c3726bbf83c9962d4b6d4eece39f5cf7b631678af55",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "4b939779aebb05de582a73afbad0b8dcbbeae8dbb9780d68bcda8f4c834aa8c7626a8042637aa1c6d8932bc1487d016c76dfa57e6435193b05708619b2d02256",
+  "tags": [
+    [
+      "title",
+      "Last Weekend of 2025"
+    ],
+    [
+      "published_at",
+      "1766880368"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.snort.social",
+    "wss://nos.lol",
+    "wss://nostr.mom",
+    "wss://relay.damus.io"
+  ]
+}
