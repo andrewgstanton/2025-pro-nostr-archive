@@ -1,0 +1,62 @@
+{
+  "content": "## Paid Article Sample\n\nThis is what a paid article would look like unencrypted. You can see the full article with the unlock code.\n\n\n---\n\n> 🔒 **This is a paid article.**\n> To unlock the full content, open this page using the private link you received (it includes a `?code=...` parameter).\n\n<!-- ENC_BLOB_START -->\nENCv1:bG_Y1SdOHyyZMTxKnt1TCIMsLR29_zYD-H6dCaBQYRS4CQAReadOWisfDnqJ3QQvPB-n4MZxOUFYDwxmqYsmJIvfaCnsQHzAFdD4EQgW4vpADl-qpTzFOLo94LzbTT8qTmwyHuVIyp0Ozs3rLcV0Upsjh4hkpSKkRUcKa36gnPSBNqQdVIsbmZ4pYyZxW9ztvDSeUrR_mMpHqkcTiRuWT0xeKUHkrbO8dSQcRkrEqzsjujCn-n4sz53yAH-H63Yu2ReqynI-AOx2j1Lp6p3LtJeLtDO_9xAT\n<!-- ENC_BLOB_END -->",
+  "created_at": 1766986567,
+  "id": "8be7ae6a425785e122405b658ab74e8a25f3af180c5f273991e05d3ca62b8faa",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "e3318ad65c10512d9d74317679e0896ec18904c9c34f3c530d952d7de11e96ab6547be63bf809015234a0caf0fe647a507f12a7578fe771ab706b997b3a3d1a7",
+  "tags": [
+    [
+      "d",
+      "paid-article-sample-2025-12-05"
+    ],
+    [
+      "title",
+      "🔒 Paid Article Sample"
+    ],
+    [
+      "published_at",
+      "1766986567"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "This is what a paid article would look like unencrypted."
+    ],
+    [
+      "display_date",
+      "2025-08-24"
+    ],
+    [
+      "image",
+      "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2025-11-28-generated-paid-set.jpg"
+    ],
+    [
+      "enc",
+      "aesgcm-v1"
+    ],
+    [
+      "t",
+      "paid-sample"
+    ],
+    [
+      "t",
+      "paid"
+    ],
+    [
+      "e",
+      "83118cefdce895f337dd585ad99376eddda279d4c91915c0c52b52a879cc93d6",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://nos.lol"
+  ]
+}

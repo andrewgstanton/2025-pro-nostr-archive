@@ -1,0 +1,73 @@
+{
+  "content": "Andrew G. Stanton - Dec. 27, 2025\n\nI’m doing two kinds of work at the same time.\n\nI’m writing — essays, long-form pieces, speculative fiction, and reflections on sovereignty, faith, Bitcoin, and the shape of the future.\n\nAnd I’m building the infrastructure that allows that writing to exist without asking permission.\n\nContinuum is the name I’ve given to that infrastructure.\n\n### The problem I’m responding to\n\nMost publishing platforms today are optimized for three things:\n- Reach\n- Engagement\n- Recurring payment extraction\n\nThey are not optimized for:\n- Author ownership\n- Long-term durability\n- Resistance to censorship or financial gatekeeping\n- Direct relationships between writer and reader\n\nThis isn’t because the people running them are evil. It’s because centralized platforms inevitably become choke points. Payments flow through a small number of processors. Distribution flows through opaque algorithms. Accounts can be throttled, demonetized, or removed — often without appeal.\n\nIf you rely on these systems long enough, you eventually learn an uncomfortable truth:\n\nYou don’t really own your work there.\n\n### What “local-first publishing” means\n\nContinuum takes a different approach.\n\nAt a high level, local-first means that authorship begins with the author, not with a platform.\n\nThe canonical copy of my writing lives with me. Publishing starts locally and radiates outward. Identity is cryptographic rather than account-based, and access control is handled by keys instead of subscriptions.\n\nIn practice, this means my work is created, signed, and timestamped before it is distributed anywhere else. Relays and clients are delivery mechanisms — not authorities.\n\nWhat this looks like in concrete terms, and what it explicitly does *not* mean, matters enough that it’s worth explaining more carefully below.\n\n### What “local-first” actually means (and what it explicitly does not)\n\nWhen I say “local-first publishing,” I mean something very specific — and narrower than how the term is often used.\n\nLocal-first does **not** simply mean:\n- I self-host a website\n- I own my private keys\n- I sign events in a Nostr client\n- I publish from multiple apps using the same identity\n\nAll of those can still be *client-first* or *platform-mediated*.\n\nLocal-first means that the **entire publishing lifecycle originates locally**, under my direct control.\n\nConcretely, in my setup:\n- Continuum runs in my own local environment (`localhost`)\n- I create drafts of notes and articles locally\n- Drafts can exist indefinitely without being published\n- Drafts are stored locally and can be exported, archived, or discarded without ever touching a platform.\n- When I choose to publish, the event is constructed and signed locally\n- Encryption (for paid or private content) happens locally\n- The signed event is then broadcast outward to relays as a transport step\n\nThe key distinction is this:\n\n**No external client or hosted service constructs the event for me.**\n\nMany tools allow you to *use* your private key.  \nLocal-first means no tool decides *when*, *how*, or *whether* that key is used.\n\nIn a client-first model:\n- Writing happens inside the client\n- Drafts live on someone else’s infrastructure\n- Publishing is inseparable from the client’s UI and policies\n- If the client disappears, the workflow breaks\n\nIn a local-first model:\n- Writing exists independently of any client\n- Drafts are first-class and offline-capable\n- Publishing is an explicit, deliberate act\n- Clients and relays are interchangeable delivery mechanisms\n\nLocal-first includes self-hosting, but it is not limited to it.\n\nIt is fundamentally about **where authorship begins**, not where content ends up.\n\n\n### Paid writing without payment processors\n\nOne of the more unusual things I’m doing is publishing some long-form essays as encrypted posts.\n\nThe title, summary, and metadata are public. The body is encrypted.\n\nReaders who want to unlock the piece do so directly — typically with sats — and receive access to the content itself, not a subscription tier.\n\nThere is no Stripe account.\nNo subscription lock-in.\nNo centralized payment gatekeeper.\n\nThis approach is still early and intentionally simple. I’m not doing it because it’s trendy. I’m doing it because it restores a direct exchange between writer and reader that most modern platforms have broken.\n\n### Why I’m building infrastructure instead of just writing\n\nI could write exclusively on existing platforms. Many people do.\n\nBut if I believe what I’m writing — about sovereignty, responsibility, freedom, and long time horizons — then it matters that the medium reflects the message.\n\nContinuum exists because I didn’t want to spend the next decade:\n- Explaining ideas about independence\n- While depending on systems that quietly undermine it\n\nInfrastructure is slower than content.\nIt’s lonelier.\nAnd it’s often invisible until something breaks.\n\nBut when it works, it outlasts trends.\n\n### Who this is for (and who it isn’t)\n\nContinuum is not for everyone.\n\nIt’s not optimized for:\n- Virality\n- Growth hacking\n- Mass onboarding\n- Infinite scroll consumption\n\nIt is for:\n- Writers who care about ownership\n- Builders who think in decades\n- Readers who value durability over novelty\n- Anyone who has felt the fragility of platform dependence\n\nYou don’t need to agree with everything I write to understand why this matters. You only need to recognize that systems shape behavior — and that some systems are worth rebuilding from first principles.\n\n### Closing\n\nI’m not building Continuum to win an argument or chase a market.\n\nI’m building it because I want my work — and the work of others who care about these things — to exist on solid ground.\n\nQuietly.\nDeliberately.\nAnd without asking permission.\n\nThat’s the work.",
+  "created_at": 1766903723,
+  "id": "32c54fa0d53535cd4477bc44cad9eb3a7490d47f03a9fe6e8754fd4cb00ee72b",
+  "kind": 30023,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "b22c4709454dd9b1e0d14ca8c845fa93c0a46308fb6e7ecb2d82988b11d5fd44fc950c80dc7f01d681164f042f4d0cf609f3325e3f247591a491d899f824dcec",
+  "tags": [
+    [
+      "d",
+      "what-im-building-with-continuum--and-why"
+    ],
+    [
+      "title",
+      "What I’m Building with Continuum — and Why"
+    ],
+    [
+      "summary",
+      "Continuum is a local-first publishing system built around ownership, durability, and cryptographic authorship. It exists because most modern publishing platforms are optimized for reach and rent-seeking, not truth, resilience, or long time horizons. This piece explains what I’m building, how it works at a high level, and why I believe this approach matters — especially now."
+    ],
+    [
+      "published_at",
+      "1766903723"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "publishing"
+    ],
+    [
+      "t",
+      "local-first"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "writing"
+    ],
+    [
+      "t",
+      "infrastructure"
+    ],
+    [
+      "display_date",
+      "2025-12-27"
+    ],
+    [
+      "image",
+      "https://2025.mycontinuum.xyz/archive/pro/nostr/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd/images/2025-12-27-generated-continuum-cathedral.jpg"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://relay.snort.social",
+    "wss://nostr.bitcoiner.social",
+    "wss://nos.lol"
+  ]
+}
