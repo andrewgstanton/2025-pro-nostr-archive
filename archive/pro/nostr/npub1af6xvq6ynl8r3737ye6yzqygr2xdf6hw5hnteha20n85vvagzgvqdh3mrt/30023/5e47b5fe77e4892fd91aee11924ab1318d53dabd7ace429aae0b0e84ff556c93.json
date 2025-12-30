@@ -1,0 +1,47 @@
+{
+  "content": "- 1. This is only a test\n- 2. Adding a change here\n- 3. Third change now\n- 4. Another change",
+  "created_at": 1767132848,
+  "id": "5e47b5fe77e4892fd91aee11924ab1318d53dabd7ace429aae0b0e84ff556c93",
+  "kind": 30023,
+  "pubkey": "ea746603449fce38fa3e26744100881a8cd4eaeea5e6bcdfaa7ccf4633a81218",
+  "sig": "45d491f64c49cfca98440b3956103cb588f23f1a9c5b4270c6b842fb70e1a7cea2362358e578fec2e03b8aa85f53287358372246a30db3535115768d46d190d9",
+  "tags": [
+    [
+      "d",
+      "test-article-archiving"
+    ],
+    [
+      "title",
+      "Test Article archiving"
+    ],
+    [
+      "published_at",
+      "1767132848"
+    ],
+    [
+      "client",
+      "Continuum-Pro-localhost"
+    ],
+    [
+      "summary",
+      "test"
+    ],
+    [
+      "t",
+      "test"
+    ],
+    [
+      "e",
+      "ff25339c503df5f12102282d50a52a4ae2491521be6f4abd978159e92ab0d4be",
+      "edit"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nos.lol",
+    "wss://nostr.bitcoiner.social",
+    "wss://nostr.mom",
+    "wss://relay.damus.io"
+  ]
+}
