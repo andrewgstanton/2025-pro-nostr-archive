@@ -1,0 +1,29 @@
+{
+  "content": "Dieses stimmt echt \n\n(Entschuldigung Deutsch ist nicht meine MutterSprache)",
+  "created_at": 1766908772,
+  "id": "117470165df8f871e62f158eaf94363170ccd0f3c8ce3be4f36c2e727c711578",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "b3464496557613be2d23c78f056d8b65dabf22963094bfea75404fc721113eda0358ed2723a27f7e12bdae87d6575d9be159dedf67713a34f8bdde421bdff2b2",
+  "tags": [
+    [
+      "a",
+      "30023:69a090006024614142b2df761e39eeedca13b4e836780419494076bb3a2e81c2:kyc-ist-keine-manahme-gegen-kriminalitt-",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "69a090006024614142b2df761e39eeedca13b4e836780419494076bb3a2e81c2",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.damus.io",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ]
+}

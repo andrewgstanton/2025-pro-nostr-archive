@@ -1,0 +1,28 @@
+{
+  "content": "I am both a builder /engineer and a writer\n\nIn fact I build the system (continuum) that helps me publish sovereignly because it didn’t exist \n\n\n",
+  "created_at": 1767085269,
+  "id": "c0debf4b36c938be6d4d9fcb71b5c8a9ececf47204c768c459bf948fbfb7f835",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "768b344cd68596e8ea5b78be0d1f5e7e3df9135689afffc9fc13eedd37b08934409fc34ba21b9bbe5d683593ee9b81e4b9c5d0a26b5f7e3a0e0ec9022f98437b",
+  "tags": [
+    [
+      "a",
+      "30023:b7ed68b062de6b4a12e51fd5285c1e1e0ed0e5128cda93ab11b4150b55ed32fc:0cfcaaeb6637c145",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "b7ed68b062de6b4a12e51fd5285c1e1e0ed0e5128cda93ab11b4150b55ed32fc",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom",
+    "wss://nos.lol"
+  ]
+}
