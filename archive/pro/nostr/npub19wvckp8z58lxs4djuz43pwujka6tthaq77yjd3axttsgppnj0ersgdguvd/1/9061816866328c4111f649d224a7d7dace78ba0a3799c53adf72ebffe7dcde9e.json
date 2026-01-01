@@ -1,0 +1,25 @@
+{
+  "content": "Powerful powerful piece!! \n\nFor me though Bitcoin and Nostr didn’t just ask for attention — they asked for surrender.\nThey cost the comfort of fitting in, and the safety of silence.\nWorth every sat.",
+  "created_at": 1761765115,
+  "id": "9061816866328c4111f649d224a7d7dace78ba0a3799c53adf72ebffe7dcde9e",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "68ffdd6f30a138f2b61c7193bb83e6d11d6d82e4dfbe164c0b2e622c1a56fde3526581893680d68a713a9625761bc6d49c681c172d4b47f830f8a9634d0f8cd9",
+  "tags": [
+    [
+      "a",
+      "30023:adc14fa3ad590856dd8b80815d367f7c1e6735ad00fd98a86d002fbe9fb535e1:70bf4844c2f08439",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "adc14fa3ad590856dd8b80815d367f7c1e6735ad00fd98a86d002fbe9fb535e1",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ]
+}

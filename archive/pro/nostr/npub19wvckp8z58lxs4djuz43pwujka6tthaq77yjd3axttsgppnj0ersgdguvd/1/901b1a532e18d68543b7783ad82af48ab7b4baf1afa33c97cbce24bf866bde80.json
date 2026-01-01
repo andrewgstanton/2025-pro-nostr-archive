@@ -1,0 +1,25 @@
+{
+  "content": "Love it !  I have been writing a lot about the same themes \n\nWill read through this later thank you!!",
+  "created_at": 1761688546,
+  "id": "901b1a532e18d68543b7783ad82af48ab7b4baf1afa33c97cbce24bf866bde80",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "1577e2ae276cde4b3c423293ffeadf613c8db74dfd17c79b5555adda09b60421c1909f1e4933b101a6ef734d9630056903cb66c5c6b5c9aa6f6ad1b14ecce5b9",
+  "tags": [
+    [
+      "a",
+      "30023:adc14fa3ad590856dd8b80815d367f7c1e6735ad00fd98a86d002fbe9fb535e1:70bf4844c2f08439",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "adc14fa3ad590856dd8b80815d367f7c1e6735ad00fd98a86d002fbe9fb535e1",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ]
+}

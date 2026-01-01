@@ -1,0 +1,19 @@
+{
+  "content": "nostr:nprofile1qqs2ms205wk4jzzkmk9cpq2axelhc8n8xkksplvc4pksqta7n76ntcgpzdmhxue69uhkummnw3ezu6t5v9ejumrfqywhwumn8ghj7un9d3shjtnwdaehgu3wwa5hyetydejhgtn2wqeepnj9 \n\nHere is one i wrote recently\n\nhttps://primal.net/andrewgstanton/a-note-on-faith-architecture-and-the-moral-weight-of-open-systems",
+  "created_at": 1761688966,
+  "id": "0d96d1b74acf5a7564511b498e654c9c093c2df99bed76ff3e5b351762638c98",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "c0bbb252aad6422a7be8ac9588a0fb33469443436c0117ef11b48e18180c5a5394cb09b4a9b139696dea7e11e716ec429d19b72444a24d65799f866d750505e3",
+  "tags": [
+    [
+      "p",
+      "adc14fa3ad590856dd8b80815d367f7c1e6735ad00fd98a86d002fbe9fb535e1",
+      "wss://nostr.itas.li",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ]
+}

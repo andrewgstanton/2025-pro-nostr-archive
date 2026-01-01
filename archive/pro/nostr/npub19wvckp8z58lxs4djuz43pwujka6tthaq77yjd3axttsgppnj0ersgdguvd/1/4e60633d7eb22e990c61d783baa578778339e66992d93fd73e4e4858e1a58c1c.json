@@ -1,0 +1,29 @@
+{
+  "content": "Part VI (Use What You Build) is something  I have been doing for awhile now with continuum\n\nOther points if course I do as well ",
+  "created_at": 1767222546,
+  "id": "4e60633d7eb22e990c61d783baa578778339e66992d93fd73e4e4858e1a58c1c",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "e8c8e06cacf07bc348b021ca98701daef81c940ba1d33fae60d4e7280f9e5a3ed1da0a0d2bf0a4a56aefc112e85f325f1dffe2be1d6f78566fe46a7277c2440d",
+  "tags": [
+    [
+      "a",
+      "30023:b7ed68b062de6b4a12e51fd5285c1e1e0ed0e5128cda93ab11b4150b55ed32fc:3c37f5f1a26c9889",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "b7ed68b062de6b4a12e51fd5285c1e1e0ed0e5128cda93ab11b4150b55ed32fc",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://nos.lol",
+    "wss://nostr-pub.wellorder.net",
+    "wss://relay.snort.social"
+  ]
+}
