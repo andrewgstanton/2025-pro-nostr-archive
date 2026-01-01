@@ -1,0 +1,25 @@
+{
+  "content": "I would live to go my friends have a lot of things right now that are weighing heavily on me\n\nManaged to build https://mycontinuum.xyz with help from ChatGPT inspired after I came back from Bitcoin2025",
+  "created_at": 1753504738,
+  "id": "0f274618adeffa64336f66012ca25a95ef97008ac70f43cf2a5320b3559f4992",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "c3323da2984c60a0d17c2410a26535fa401372d2f0c3038ae95d82ea4e3b4e5812c66dbf2548dacc2171e20d8c32f678efcbafebabcfacc77494aebeb180f6a5",
+  "tags": [
+    [
+      "a",
+      "30023:83d999a148625c3d2bb819af3064c0f6a12d7da88f68b2c69221f3a746171d19:engineering-dialogue",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "83d999a148625c3d2bb819af3064c0f6a12d7da88f68b2c69221f3a746171d19",
+      "",
+      "mention"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ]
+}

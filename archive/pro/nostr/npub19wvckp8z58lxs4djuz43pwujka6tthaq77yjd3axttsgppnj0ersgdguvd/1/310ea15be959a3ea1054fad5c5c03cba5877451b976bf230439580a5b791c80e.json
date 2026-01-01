@@ -1,0 +1,49 @@
+{
+  "content": "# Remembering Charlie Kirk\n\nTwenty-four years after the towers fell, we find ourselves remembering Sept 11 in a new way. The cost of fear, the temptation of surveillance, and now the loss of Charlie Kirk — a voice for dialogue and conviction — weigh heavily on this anniversary. Today’s set is dedicated to freedom, sovereignty, and the courage to resist trading liberty for control.\n\nFree Article Featured: To Honor Charlie Kirk, We Must Not Trade Freedom for Surveillance\n\nZaps Appreciated!  Please send to andrewgstanton@primal.net\n\n-- Andrew G. Stanton",
+  "created_at": 1757648219,
+  "id": "310ea15be959a3ea1054fad5c5c03cba5877451b976bf230439580a5b791c80e",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "d447dc44e45c939917d18f1a7f58586f3ad5c18bf719005ec52b058cbe35ed514d45ed086655bec42abd1a53b12d74ef1a454bb507898bb2262113903093189d",
+  "tags": [
+    [
+      "title",
+      "Remembering Charlie Kirk"
+    ],
+    [
+      "published_at",
+      "1757648219"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "sept11"
+    ],
+    [
+      "t",
+      "neverforget"
+    ],
+    [
+      "t",
+      "freedom"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "liberty"
+    ],
+    [
+      "t",
+      "charliekirk"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "content": "*************++++++++\n\nNIP-05 VERIFICATION DISCLAIMER\n\n*********************\n\nI help people with NIP-05 because I want them to be SOVEREIGN and VERIFIED.. \n\nMy goal is NOT for you to depend on me — it’s for you to understand how to set up your own domain or use another service so you stay fully in control.\n\nI do offer free NIP-05 addresses under mycontinuum.xyz as a convenience, NOT as a way to track or surveil you. It’s simply there for people who don’t yet have their own domain or don’t want to deal with the technical setup. \n\nYou’re always free to move your NIP-05 to your own domain or another service at any time.\n\nThe principle is simple: never share your private key. NIP-05 is just a text file that links your npub to a domain. Nothing more, nothing less.\n\n\n",
+  "created_at": 1756525016,
+  "id": "a76374c1b9ce6779921347365997e34be5a512116009d1297a71acd5e1caa193",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "6d975fa73b8f63907d93b4874253e2f50a0f66461072eeffaa88d3936d409c27ae0e63ab5a51b397041c4eb2772880d8325c07c27588cfc8c815573fe15ef673",
+  "tags": [],
+  "_source": [
+    "wss://relay.snort.social"
+  ]
+}

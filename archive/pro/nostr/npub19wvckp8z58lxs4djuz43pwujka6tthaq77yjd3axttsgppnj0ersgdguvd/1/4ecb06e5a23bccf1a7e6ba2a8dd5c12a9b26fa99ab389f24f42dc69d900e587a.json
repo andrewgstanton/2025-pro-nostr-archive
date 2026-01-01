@@ -1,0 +1,45 @@
+{
+  "content": "# Patron Support\n\nI’ve been pouring my heart into Continuum — building tools that let us live and work with digital sovereignty.\n\nIf you’ve found value in my writing, conversations, or software, I’d love your support as a patron. This helps me keep building — open, free of VC funding, and aligned with first principles.\n\nPatron package: $250 (or sats with a discount).\n\n⚡ Support: [andrewgstanton@primal.net]\n\nPlease DM if you have any questions. Thank you everyone!!",
+  "created_at": 1755540062,
+  "id": "4ecb06e5a23bccf1a7e6ba2a8dd5c12a9b26fa99ab389f24f42dc69d900e587a",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "de46d0cdcd378008106417882d878805e8872046c947136df8ac8124143ddeb89210b1908027bdfaf62bce6e0af83ab570b35c19a694bf6135d0fcc68a73f095",
+  "tags": [
+    [
+      "title",
+      "Patron Support"
+    ],
+    [
+      "published_at",
+      "1755540062"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "continuum-pro"
+    ],
+    [
+      "t",
+      "patron"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "sats"
+    ],
+    [
+      "t",
+      "lightning"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ]
+}

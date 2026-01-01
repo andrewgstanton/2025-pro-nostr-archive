@@ -1,0 +1,12 @@
+{
+  "content": "Hi everyone please help get my wife excited about using Nostr!!\n\n“Kiki’s “Life”\n\nnpub1jfkrkg2eeh784338fntugpm84r3gcmegugj3dgxazprregj0l5jsfxrtyg\n\nShe has made amazing dishes \n\nOne of my favorites is salmon with yuzu sauce \n\nPlease check it out!!\n\n\n\n",
+  "created_at": 1755320617,
+  "id": "03f8551bc7c55f0529c59c9fd6eda93b18acfaf7130e3b12d5a887b76d471a98",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "4c9beec3e6123e7bec94e1a41017afb1331444f7751df1dcafd9ee1293a8891981c57a651e0e14252243102967d21ee586eded42f00a04c2ca125127ca93e620",
+  "tags": [],
+  "_source": [
+    "wss://relay.snort.social"
+  ]
+}

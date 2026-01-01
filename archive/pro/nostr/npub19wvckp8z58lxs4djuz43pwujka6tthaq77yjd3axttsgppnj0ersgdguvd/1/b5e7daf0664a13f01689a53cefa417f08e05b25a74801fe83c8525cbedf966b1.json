@@ -1,0 +1,41 @@
+{
+  "content": " https://blossom.primal.net/c33f6d61d1a430ea838b704ea4255e9638f8ab06f115628929dcf5bb81eacbf0.png \n\n⚡️Is it a sat or a bitcoin?\nSome want to call 1 satoshi “1 bitcoin” — redefining the unit so 1 BTC = 100,000,000 bitcoins.\n\nI get the logic. But for most people, it just adds confusion.\n\nI like \"sat.\"\nIt’s short, simple, and keeps the mental model intact.\nMore importantly — I don’t think this debate matters as much as some believe.\n\nWhat matters is getting people to use Bitcoin. To understand it. To experience it.\n\nIn the interest of not ruffling any feathers, I’ll just say:\nZap me some sats/bitcoin if this resonates ⚡️🙂\n\n🤖 Post created with a little help from ChatGPT\n\n#Bitcoin #Sats #KeepItSimple #AdoptionFirst #Nostr #Lightning #ZapLife",
+  "created_at": 1747609136,
+  "id": "b5e7daf0664a13f01689a53cefa417f08e05b25a74801fe83c8525cbedf966b1",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "684e09638b74aeb706c3b5b405c1ee14c151261bbb3d6aba035cd56cc5cf8484754abb907b0dbec4d67e8a5b7e1b515b0e814d55bfa7b32a0bfea8b839945143",
+  "tags": [
+    [
+      "t",
+      "Bitcoin"
+    ],
+    [
+      "t",
+      "Sats"
+    ],
+    [
+      "t",
+      "KeepItSimple"
+    ],
+    [
+      "t",
+      "AdoptionFirst"
+    ],
+    [
+      "t",
+      "Nostr"
+    ],
+    [
+      "t",
+      "Lightning"
+    ],
+    [
+      "t",
+      "ZapLife"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ]
+}

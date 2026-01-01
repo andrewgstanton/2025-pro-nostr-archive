@@ -1,0 +1,53 @@
+{
+  "content": "# Continuum Magazine — Issue #1 (Sept 1–7, 2025)\n\nThe first issue is here: one paid article + two free reflections each day, curated into a weekly record of sovereignty, faith, and conviction. This opening issue carries a heavy remembrance of Sept 11 and the loss of Charlie Kirk, while pointing toward renewal and hope.\n\n📖 Read Issue #1: [Continuum Magazine](https://is.gd/q7Ajaw)",
+  "created_at": 1757711110,
+  "id": "6bceab8e077eecaca106bdaa5d382cea1a813628d5cd9005852fbe881277bf12",
+  "kind": 1,
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "sig": "ef10ab410fb7969409aad28f8e6b97f0c79a574177844cda610981537ed7440d7f7894befd33ed1cf6764e7f936a08ca63c355387196aaa13e856af1e704b5c7",
+  "tags": [
+    [
+      "title",
+      "Continuum Magazine — Issue #1 (Sept 1–7, 2025)"
+    ],
+    [
+      "published_at",
+      "1757711110"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "magazine"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "faith"
+    ],
+    [
+      "t",
+      "freedom"
+    ],
+    [
+      "t",
+      "charliekirk"
+    ],
+    [
+      "t",
+      "sept11"
+    ]
+  ],
+  "_source": [
+    "wss://relay.snort.social"
+  ]
+}
