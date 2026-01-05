@@ -1,0 +1,41 @@
+{
+  "id": "adeee9b86f4179820ab0fb0624816fe45068b8a145e7c0ad42c3f79efff5ecd9",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1753551720,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "bitcoin-doesnt-need-proprietary-quantum-protection"
+    ],
+    [
+      "title",
+      "Bitcoin Doesn’t Need Proprietary “Quantum Protection”"
+    ],
+    [
+      "summary",
+      "This article examines recent claims about proprietary “quantum-resistant” custody solutions for Bitcoin, highlighting why such approaches contradict Bitcoin’s open-source ethos and overstate current quantum threats. It argues that real security comes from protocol-level upgrades, not closed, patent-protected tools — and calls for builders to focus on open, auditable, and sovereign solutions that align with Bitcoin’s core principles."
+    ],
+    [
+      "published_at",
+      "1753551720"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "quantum resistance"
+    ]
+  ],
+  "content": "Bitcoin Doesn’t Need Proprietary “Quantum Protection”\n\nWhy real sovereignty requires clarity, not hype\n\nOver the past months, I’ve seen increasing claims around “quantum-resistant” Bitcoin custody solutions — some even promoted in Christian and Kingdom-building communities. \n\nThese pitches often include terms like patented technology, next-generation encryption, or post-quantum security — sometimes paired with appeals to mission-driven investing or social good.\n\nAt first glance, it sounds impressive. Who wouldn’t want to protect their Bitcoin from the coming quantum threat? But once you strip away the marketing language, a different picture emerges — one that raises serious concerns about technical legitimacy, alignment with Bitcoin’s core ethos, and the risk of misleading well-meaning communities in the name of innovation.\n\nLet’s break this down clearly.\n\n🔐 1. Bitcoin Is Already Preparing for Quantum — In the Open\nBitcoin’s core developers have been aware of quantum computing threats for over a decade. Bitcoin uses the ECDSA signature algorithm, which could theoretically be broken by large-scale quantum computers. But the timeline for that threat is extremely long — and the solution is already underway.\n\nThe Bitcoin ecosystem is actively researching post-quantum signature schemes, including:\n\nXMSS (eXtended Merkle Signature Scheme)\n\nLamport/Dilithium hash-based approaches\n\nLattice-based cryptography (e.g. CRYSTALS-Kyber)\n\nThese efforts are open-source, discussed through Bitcoin Improvement Proposals (BIPs), and follow a rigorous review process grounded in transparency.\n\nIn other words, Bitcoin doesn’t need a private company to “protect” it. It will evolve as it always has — through consensus, review, and open contribution.\n\n🚫 2. Proprietary Quantum Custody Goes Against Bitcoin’s Ethos\nOne of Bitcoin’s deepest values is verifiability without trust. Every user can run a full node. Every transaction can be verified independently. Every upgrade is proposed in the open.\n\nNow imagine someone saying:\n\n“Don’t worry, we’ve invented a proprietary system that secures your Bitcoin better than Bitcoin does. It’s quantum-resistant. Just trust us — the details are patented.”\n\nThat’s not innovation. That’s a return to trusted setups, opaque logic, and centralized dependency — the very problems Bitcoin was designed to eliminate.\n\nAny system that claims to be a “custody layer” or “security upgrade” for Bitcoin must be open, auditable, and accountable. Otherwise, it becomes a single point of failure disguised as a solution.\n\n🧠 3. Quantum Threats Are Real — But Far Off\nHere’s the current reality:\n\nWe do not have quantum computers capable of breaking Bitcoin’s cryptographic signatures.\n\nExperts estimate that we are 15–30 years away (at least) from a stable, fault-tolerant machine with enough qubits and error correction to pose a real threat.\n\nEven if that were to change suddenly, only used Bitcoin addresses (where the public key has been revealed) are vulnerable. Best practices already mitigate this.\n\nIn short: there is no need to panic. There is time. And most importantly — there is no need to adopt a closed, proprietary tool as a shortcut.\n\nIf someone is selling you a “quantum vault” or a “super-secure custody wrapper” today, they are either:\n\nTrying to monetize fear,\n\nOr positioning themselves as the gatekeeper of your future security — neither of which honors the principles of Bitcoin.\n\n🧱 4. Real Protection Happens at the **Protocol** Level.\n\nThe only long-term solution to quantum threats is for Bitcoin’s core cryptography to be upgraded through consensus. That will involve:\n\nBroad developer review,\n\nNode-wide adoption,\n\nAnd education for wallets, exchanges, and users.\n\nNo startup — no matter how well-funded or well-intentioned — can implement a parallel solution outside of this process and expect it to meaningfully “secure Bitcoin.” At best, they might offer a private wallet scheme that adds unnecessary complexity. At worst, they fragment trust and introduce risk.\n\nThe future of Bitcoin is collective. It is slow by design. It is open by necessity.\n\n🛑 So Why Are These Solutions Being Promoted?\n\nBecause they sound impressive. To non-technical audiences, especially those in faith-based or mission-driven networks, phrases like “quantum-resistant,” “custody innovation,” and “patent-protected” evoke a sense of urgency and exclusivity.\n\nBut this is where we must be especially careful.\n\nWhen spiritual language gets mixed with crypto-hype, it becomes easier to sell things that wouldn’t pass a basic audit. And when Kingdom-minded people invest in something that sounds redemptive — but lacks technical rigor — we end up rebuilding the very systems of trust and opacity that Bitcoin was meant to free us from.\n\nGood intentions do not justify bad architecture.\n\n🌱 What We Actually Need\nWe need:\n\nOpen-source infrastructure,\n\nNostr-native identity and publishing,\n\nTools that prioritize self-custody, local-first control, and sovereign communication,\n\nBuilders who are transparent not just in code, but in purpose.\n\nThat’s why I’ve been building Continuum — a project aligned with these principles. It’s not flashy, but it’s real. And it’s here to serve.\n\nContinuum exists to make sovereign tools accessible — without compromising the values that make Bitcoin meaningful in the first place. No closed keys. No hype layers. No VC-required infrastructure.\n\nJust freedom — by design.\n\n🧭 Final Thoughts\nBitcoin doesn’t need rescuing. It needs protecting — from hype, from co-option, and from well-meaning innovations that undermine its foundations.\n\nIf someone claims to have a proprietary quantum fix for Bitcoin, ask them:\n\nWhere’s the open-source code?\n\nWhere’s the peer review?\n\nWhere’s the alignment with Bitcoin’s values?\n\nIf those answers aren’t clear, you’re not looking at a solution — you’re looking at a distraction.\n\nWe need more light, not more fog.\n\nLet’s stay focused.",
+  "sig": "cc27c6d82be1fa172d5f7058f64aff3bbc7a3f1f00e15b641fbd70a1603504275d0f00b887899ac1c3d91c69e3248e4e504c6eeaaaaabeb4632477eb5c4f05d5",
+  "_source": [
+    "primal backup"
+  ]
+}

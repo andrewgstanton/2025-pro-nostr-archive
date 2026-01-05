@@ -1,0 +1,54 @@
+{
+  "id": "5bbef28dba37f6674780a3ff3eb511bc7492ae1d128685ddeb454ad915bae897",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756159176,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "-article-2-three-questions-to-test-sovereignty"
+    ],
+    [
+      "title",
+      "📝 Free Article 2 (Day 1 - Aug. 24, 2025): Three Questions to Test Sovereignty"
+    ],
+    [
+      "published_at",
+      "1756159176"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "A simple test you can apply to any platform, network, or income stream."
+    ],
+    [
+      "t",
+      "#bitcoin"
+    ],
+    [
+      "t",
+      "#nostr"
+    ],
+    [
+      "t",
+      "#sovereignty"
+    ],
+    [
+      "t",
+      "#freedom"
+    ],
+    [
+      "e",
+      "eb4b2df124cc203ceece79f0d0790dcd6d9fb602cc566e00bf85afe21c3a8b87",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - August 24, 2025\n\nPeople throw the word “sovereign” around a lot. Here are three quick checks I use:\n\n- **Custody**: Do I hold the keys? If not, I don’t control it.\n- **Identity**: Is my presence tied to my npub (or something I own), or is it rented from a platform?\n- **Exit**: If I leave, can I take my data, audience, and value with me?\n\nIf the answer is “no” to any of these, it’s not sovereignty — it’s just decentralization dressed up as freedom.\n\nFor a deeper dive, see today’s gated article “Sovereign ≠ Decentralized,” **available to unlock for 500 sats.**",
+  "sig": "033f3c40d4b914926a2f8019c162c4777bc3503faaa007d83bef5e85e858aa79d00fb97f7714bbae602551eac96300b0ac0bbe402f2057af90238ab9a56b8442",
+  "_source": [
+    "primal backup"
+  ]
+}

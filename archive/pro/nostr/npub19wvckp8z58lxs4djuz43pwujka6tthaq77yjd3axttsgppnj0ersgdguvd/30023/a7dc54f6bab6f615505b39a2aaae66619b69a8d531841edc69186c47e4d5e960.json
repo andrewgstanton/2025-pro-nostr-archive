@@ -1,0 +1,155 @@
+{
+  "id": "a7dc54f6bab6f615505b39a2aaae66619b69a8d531841edc69186c47e4d5e960",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1749440957,
+  "kind": 30023,
+  "tags": [
+    [
+      "title",
+      "How I Built a Decentralized CMS with Nostr + GitHub Actions"
+    ],
+    [
+      "summary",
+      "This article walks through how I built a fully decentralized blog using Nostr as the backend CMS, GitHub Actions for automation, and GitHub Pages for free global hosting. No servers, no logins — just sovereign publishing on open protocols."
+    ],
+    [
+      "image",
+      "https://blossom.primal.net/dc2bd8c9d7cd0d1788545c14e5e18c66787db77f4570da6e56978498ead04bdb.png"
+    ],
+    [
+      "d",
+      "how-i-built-a-decentralized-cms-with-nostr--github-actions"
+    ],
+    [
+      "t",
+      "blog"
+    ],
+    [
+      "t",
+      "article"
+    ],
+    [
+      "t",
+      "Nostr"
+    ],
+    [
+      "t",
+      "CMS"
+    ],
+    [
+      "t",
+      "Decentralized Web"
+    ],
+    [
+      "t",
+      "GitHub Actions"
+    ],
+    [
+      "t",
+      "GitHub Pages"
+    ],
+    [
+      "t",
+      "Bitcoin"
+    ],
+    [
+      "t",
+      "Open Source"
+    ],
+    [
+      "t",
+      "Permissionless"
+    ],
+    [
+      "t",
+      "Proof of Work"
+    ],
+    [
+      "t",
+      "Blogging"
+    ],
+    [
+      "t",
+      ""
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+      "",
+      "mention"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://nostrelites.org/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://relay.nostr.band/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "client",
+      "Primal"
+    ],
+    [
+      "published_at",
+      "1749440715"
+    ]
+  ],
+  "content": "## **How I Built a Decentralized CMS with Nostr + GitHub Actions**\n\n🧡 *My first post on a fully sovereign blog.*\n\n### Introduction\n\nThis blog post isn’t hosted on Medium, Substack, or WordPress.\\\nIt doesn’t live on a database I don’t control.\\\nThere’s no login, no admin panel, no SaaS dashboard.\n\nInstead, this post was published as a Nostr event —\\\nstored on dozens of relays,\\\nfetched with open-source scripts,\\\nrendered as a static HTML file,\\\nand served globally via GitHub Pages.\n\nAnd it all runs without a single server I have to manage.\n\nLet me show you how it works — and why this matters.\n\n***\n\n### Step 1: Writing on Nostr\n\nI use [Primal.net](https://primal.net) to write my articles.\\\nTheir long-form editor lets you add titles, summaries, and tags to a special kind of Nostr event (`30023`).\\\nYou just click publish — and the article propagates across the Nostr network.\n\n### Step 2: Fetching Events\n\nOn my GitHub repo, I maintain a script called `fetch_articles.py`.\\\nIt connects to multiple Nostr relays (like `relay.damus.io`, `relay.primal.net`, `nostr.mom`, etc.) and fetches any articles I've written using my public key.\\\nOnly posts tagged with `blog` or `article` are kept.\n\nEach article is:\n\n* Deduplicated\n\n* Parsed for title, summary, image, tags, and content\n\n* Converted from Markdown to clean HTML\n\n* Saved in a static folder\n\n### Step 3: Hosting with GitHub Pages\n\nThe output goes straight into the `docs/` folder of my public GitHub repository.\\\nThanks to GitHub Pages, the site is instantly deployed as a static website.\n\nThe homepage (`index.html`) uses JavaScript to read `articles/index.json` and display the 10 most recent blog posts — each linking to its full static HTML page.\n\n### Step 4: Fully Automated via GitHub Actions\n\nTo keep things fresh, I created a GitHub Action called `Fetch and Build Articles`.\\\nIt runs daily — or whenever I trigger it manually — and fetches new content from Nostr, updates the site, and redeploys everything.\n\nNo databases.\\\nNo plugins.\\\nNo backend headaches.\\\nJust content — and the open protocols that carry it.\n\n***\n\n### Why This Matters\n\nMost blogs are brittle.\\\nLose your password, your server, or your platform — and your voice disappears.\n\nThis setup flips that on its head:\n\n* **I own my content** — It's stored on a public, censorship-resistant network.\n\n* **Anyone can verify it** — The data lives on Nostr relays, signed with my pubkey.\n\n* **It costs nothing to host** — GitHub Pages serves everything statically.\n\n* **It’s future-proof** — If GitHub disappeared, I could mirror the repo anywhere.\n\nThis is what publishing *should* look like in 2025.\n\n***\n\n### Want to Build Your Own?\n\nYou can fork the repo I use [here](https://github.com/andrewgstanton/blog-stantonweb-site) —\\\nor read the code and set it up for your own Nostr pubkey.\n\nIf you’re not on Nostr yet, you can find me at:\\\n🧬 `npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd`\n\nThis is just the beginning.\\\nOne post, one block, one step at a time —\\\non our own terms.\n",
+  "sig": "e2301e40831d0ff1c894adff50b753df6d0aaf3c4c9a9047b8847116367d5b5ca3f2e885370ab696b7bcfc9df738ba0922d6a97c9ca0b0a4c1d205237af81246",
+  "_source": [
+    "primal backup"
+  ]
+}

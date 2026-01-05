@@ -1,0 +1,54 @@
+{
+  "id": "cdf8be61be9cfca95fb2b14c6b4e326842cadce8c42c9284f65b29d825e411d3",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756166043,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "-bitcoin-as-treasury-not-trade"
+    ],
+    [
+      "title",
+      "🔒 Paid Article Teaser (Day 2 - Aug. 25, 2025) : Bitcoin as Treasury, Not Trade"
+    ],
+    [
+      "published_at",
+      "1756166043"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "Why I denominate wealth in Bitcoin instead of chasing endless fiat gains."
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "treasury"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "trading"
+    ],
+    [
+      "e",
+      "1be95cfd2ec600b20dd2d2929227b529cb1122f8b3279a9307ff61ea35f7c7ab",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - August 25, 2025\n\nMost people treat Bitcoin as just another trade — buy, sell, speculate, and hope to outpace fiat.\n\nI don’t. I treat it as my treasury. Trades are temporary. Treasury is forever.\n\nIn the full article, I share:\n\n- Why treasury ≠ trade\n- The weekly sweep rule that builds sovereignty by habit\n- How denominating in BTC changes the entire game\n\n**🔒 Full article available for 500 sats.** Zap me and I’ll send it via encrypted DM while I finish building the automated unlock flow in Continuum.",
+  "sig": "13033e39e3b3bf9c59ebab7625f1e81dec36a42f456df498acebe1f0938d3f804f1a1653a05b7e941d6cc138289bb6b1df7233d764958cb7795f7b9b13b93fcd",
+  "_source": [
+    "primal backup"
+  ]
+}

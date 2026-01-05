@@ -1,0 +1,125 @@
+{
+  "id": "55efc9be76a615ca8eaad08afea52cd7f05a705e6dd7400a89634a550b8643d7",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1749670600,
+  "kind": 30023,
+  "tags": [
+    [
+      "title",
+      "Ka ʻImi i ka Pono: Seeking What’s Right"
+    ],
+    [
+      "summary",
+      "Hawai‘i understands sovereignty. It always has.\nBut it was taken — first with pen and politics, then with force and fiat.\nBitcoin offers something different ...\nA 7-Day Series on Sovereignty, Bitcoin, and the Soul of the Islands"
+    ],
+    [
+      "image",
+      "https://blossom.primal.net/6d42f9a916be1decea4416b9f9d4d5855f0a5695b8c1607df359f3e7a6794709.png"
+    ],
+    [
+      "d",
+      "ka-imi-i-ka-pono-seeking-whats-right"
+    ],
+    [
+      "t",
+      "Bitcoin"
+    ],
+    [
+      "t",
+      "Hawaii"
+    ],
+    [
+      "t",
+      "Sovereignty"
+    ],
+    [
+      "t",
+      "ProofOfWork"
+    ],
+    [
+      "t",
+      "Nostr"
+    ],
+    [
+      "t",
+      "blog"
+    ],
+    [
+      "t",
+      "article"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://nostrelites.org/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://relay.nostr.band/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "client",
+      "Primal"
+    ],
+    [
+      "published_at",
+      "1749670549"
+    ]
+  ],
+  "content": "### 🌋 *Ka ʻImi i ka Pono: Seeking What’s Right*\n\n**A 7-Day Series on Sovereignty, Bitcoin, and the Soul of the Islands**\n\n&gt; *\"Man is not free unless he wills to be free.\"*\\\n&gt; — Johann Gottlieb Fichte\n\nHawai‘i understands sovereignty. It always has.\\\nBut it was taken — first with pen and politics, then with force and fiat.\n\nBitcoin offers something different:\\\nA way to reclaim sovereignty without violence.\\\nA tool for self-rule, not state rule.\\\nA system built not on empire, but on truth and time.\n\nThis week, I’ll be posting a 7-part series exploring this tension:\\\nBetween the Hawai‘i that *was*, the system that *is*, and the future that *might be* — if we choose to *build on bedrock instead of paper*.\n\nI don’t know if there’s a traditional Hawaiian word for a 7-day week — maybe there doesn’t need to be.\\\nTime moves differently on these islands.\\\nBut for the next 7 days, I’ll mark each reflection as a kind of modern *lā hoʻomanaʻo* — a day of remembering, reckoning, and restoring.\n\nThis is personal. It’s philosophical. It’s also unfinished.\n\nBut that’s what sovereignty looks like:\\\n*Not something given — something reclaimed.*\n\nStay tuned. Stay akamai.\\\n🟧\\\n— *Andrew G. Stanton (aka akamaister)*\n",
+  "sig": "b1b871d77455c0207d948cd96974731fd751d8a8a02133fb9e5fc7adedd015740455c9f6f2192046cd3df2001f257410764145019fee33ff24b761fd749fece5",
+  "_source": [
+    "primal backup"
+  ]
+}

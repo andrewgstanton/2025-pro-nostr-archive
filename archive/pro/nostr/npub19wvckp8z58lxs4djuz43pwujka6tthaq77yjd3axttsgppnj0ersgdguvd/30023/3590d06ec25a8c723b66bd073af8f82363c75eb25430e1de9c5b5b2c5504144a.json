@@ -1,0 +1,54 @@
+{
+  "id": "3590d06ec25a8c723b66bd073af8f82363c75eb25430e1de9c5b5b2c5504144a",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756172630,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "npubs--signed-messages-replacing-logins"
+    ],
+    [
+      "title",
+      "Npubs + Signed Messages: Replacing Logins"
+    ],
+    [
+      "published_at",
+      "1756172630"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "summary",
+      "How npubs and cryptographic signatures can replace email/password logins."
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "identity"
+    ],
+    [
+      "t",
+      "authentication"
+    ],
+    [
+      "e",
+      "62742ac8bf1beaef7e7651182d68589214fe5c6e0b4b06260138ac14a55c41e7",
+      "edit"
+    ]
+  ],
+  "content": "Andrew G. Stanton - Aug. 25, 2025\n\n## 1. The Login Problem\n\nEvery online service today starts with the same tired ritual: pick a username, invent a password, give us your email, and hope our database never gets hacked.\n\nThis model is broken. Passwords are reused and stolen. Emails are harvested. Centralized databases leak and leak again.\n\nLogins are not just inconvenient. They are insecure by design.\n\n## 2. Enter npubs\n\nAn npub (Nostr public key) is a sovereign identifier. Unlike usernames, it isn’t rented from a platform. Unlike emails, it doesn’t route through Gmail or Outlook.\n\nYour npub is yours, forever. It’s portable and cryptographic. That makes it the perfect login credential.\n\n## 3. Signed Messages as Authentication\n\nHow would it work? Simple:\n\n1. A service prompts you to “sign in with npub.”\n2. You sign a short message with your private key.\n3. The service verifies the signature against your npub.\n\nThat’s it. No passwords, no emails, no databases to hack. Just math.\n\n## 4. Prototype in Practice: Continuum Pro\n\nThis isn’t just theoretical. I’m already using npubs + signed messages as the login system for **Continuum Pro**, my hosted dashboard ->\n\n**dashboard.mycontinum.xyx/nostr/dashboard/pro/default_npub...**\n\n- The local Continuum app generates a signed message proving control of my npub(s).\n- Continuum Pro verifies the signature, then syncs those npubs into the hosted dashboard.\n- No passwords. No emails. No centralized database to leak.\n\nThe exact same flow that secures identity in Continuum Pro could secure identity anywhere on the web. If it works for sovereign publishing, it can work for banks, social platforms, and everyday apps.\n\n## 5. Why This Beats Email/Password\n\n- **Unphishable.** There’s no password to trick out of you.\n- **Unleakable.** Services don’t need to store secrets.\n- **Portable.** You bring the same npub anywhere.\n- **Permissionless.** No one can revoke your login.\n\nThis isn’t just better security — it’s sovereignty applied to authentication.\n\n## 6. Beyond Login: Identity Layers\n\nOnce services adopt npub login, they can add layers:\n\n- Display profile data directly from your kind:0 event.\n- Verify multiple npubs you own (personal, business, pseudonymous).\n- Use zaps or proofs (like credit receipts) as optional trust layers.\n\nSuddenly, logins aren’t just credentials. They’re sovereign identities.\n\n## 7. The Future Without Passwords\n\nImagine a web where:\n\n- No one ever asks for your email.\n- Password reset links don’t exist.\n- Your npub is your passport.\n\nServices verify you without storing any secret that could leak.\n\nThat future is not fantasy. It’s already how Nostr works. We just need to extend it to every service that still clings to email and passwords.\n\n## 8. Closing Thought\n\nPasswords are the relic of a pre-sovereign internet.\n\nNpubs and signed messages are the next step: authentication rooted in math, not bureaucracy.\n\nBitcoin gave us sovereign money. Nostr gives us sovereign identity. Together, they can give us sovereign access.\n\n---\n\n## Acknowledgement\n\nThis article was drafted with the help of Dr. C - ChatGPT (GPT-5), which I use as a co-writer and collaborator in developing ideas around sovereignty, Bitcoin, decentralization, and theology\n\n---\n\n## Zaps Appreciated\n\nIf this resonates, consider sending a zap. Every zap is an act of sovereign support — no middlemen, no gatekeepers, just direct proof that this work matters. It helps me keep building Continuum and writing about sovereign technology, freely and without VC overhead. Thank you.\n\nYou can send zaps to my lightning address here : andrewgstanton​​​@primal.net",
+  "sig": "a12a70dbe07729508564db78006eb401f1264cb54b13ac2e6d8776bc5e318acbc34f2b937ff701dc214e19a79f57ae104e2e8a52f3d0fb477b6247290ae0c376",
+  "_source": [
+    "primal backup"
+  ]
+}

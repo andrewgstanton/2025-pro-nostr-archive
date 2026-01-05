@@ -1,0 +1,37 @@
+{
+  "id": "28e28771a2d0c38ee20ed1fdb621428b9f5e83d252269296c815ec38d067cd71",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1751577695,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "testing-images-stored-on-mycontinuumxyz"
+    ],
+    [
+      "title",
+      "Testing Images Stored on mycontinuum.xyz"
+    ],
+    [
+      "summary",
+      "Test displaying images saved on mycontinuum.xyz"
+    ],
+    [
+      "published_at",
+      "1751577695"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "test"
+    ]
+  ],
+  "content": "I'm now hosting project-related images — including changelogs, diagrams, and screenshots — directly at [https://mycontinuum.xyz/images/](https://mycontinuum.xyz/images/), as well as images used for this and future articles.  This keeps my Nostr articles lightweight and sovereign, without relying on Imgur or third-party services.\n\nBelow is a quick test using `img` tags with inline sizing to control the display.\n\n---\n\n## 📸 Dashboard View (v1.0.0)\n\nThis screenshot shows the MyContinuum dashboard at version 1.0.0, displaying a locally hosted note and article timeline.\n\n<div align=\"center\">\n   <img src=\"https://mycontinuum.xyz/images/changelogs/v1.0.0/dashboard.png\" width=\"600\" />\n</div>\n\n---\n\n## 🗂 Schema View (v1.0.0)\n\nThis is the full SQLite schema used in the local version of MyContinuum as of v1.0.0. It includes support for notes, articles, DMs, relays, profiles, replies, likes, and reposts — all stored locally.\n\n<div align=\"center\">\n   <img src=\"https://mycontinuum.xyz/images/changelogs/v1.0.0/schema.png\" width=\"600\" />\n</div>\n\n---\n\nMore to come soon as I continue refining both the public and pro versions of MyContinuum.\n\n— Andrew G. Stanton  \n[https://mycontinuum.xyz](https://mycontinuum.xyz)",
+  "sig": "852ca704055b7c65cf75f6703b181018c77c4095cd91604b2120f9cf5123135550c95c01ef803d9ba256abb6505ccc4167e259d39b11403f36920cd4ff57d33c",
+  "_source": [
+    "primal backup"
+  ]
+}

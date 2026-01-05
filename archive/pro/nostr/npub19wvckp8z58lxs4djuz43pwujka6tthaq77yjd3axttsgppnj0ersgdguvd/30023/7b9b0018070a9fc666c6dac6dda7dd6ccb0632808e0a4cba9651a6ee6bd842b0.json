@@ -1,0 +1,69 @@
+{
+  "id": "7b9b0018070a9fc666c6dac6dda7dd6ccb0632808e0a4cba9651a6ee6bd842b0",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1752461365,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "turning-linkedin-data-into-a-nostr-identity--milestone-v14"
+    ],
+    [
+      "title",
+      "Turning LinkedIn Data into a Nostr Identity — Milestone v1.4"
+    ],
+    [
+      "summary",
+      "In Continuum v1.4, I successfully imported my LinkedIn profile into a sovereign Nostr identity. This article walks through how a LinkedIn export was transformed into a signed kind:0 event — published to relays and viewable inside the Continuum dashboard. It's a major milestone in bridging centralized platforms with decentralized identity."
+    ],
+    [
+      "published_at",
+      "1752461365"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "continuum-pro"
+    ],
+    [
+      "t",
+      "sovereign publishing"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "digital freedom"
+    ],
+    [
+      "t",
+      "linkedin"
+    ],
+    [
+      "t",
+      "linkedin exit"
+    ],
+    [
+      "t",
+      "linked oasis"
+    ]
+  ],
+  "content": "With v1.4 of Continuum, I crossed a threshold I’ve been working toward for months:\n\n✅ Import my LinkedIn data  \n✅ Extract the profile, positions, and skills  \n✅ Automatically generate a `npub/nsec` identity  \n✅ Create and publish a valid `kind:0` event to Nostr  \n✅ Make the identity visible — and usable — in the Continuum dashboard\n\nThis isn’t just “federated identity.”  \nIt’s **data liberation**.\n\nI can now carry a representation of my professional profile **outside the LinkedIn silo**, sign and update it with my own key, and use it across any Nostr relay — or platform that respects open data.\n\nThe process:\n1. Export my LinkedIn ZIP\n2. Continuum parses the raw CSVs\n3. It generates a `profile.json` and a new `identity.json` (if one doesn't exist)\n4. It signs a `kind:0` event with that identity's `nsec`\n5. The event is published to multiple relays and visible on Primal, Snort, and more\n6. The identity appears in my Continuum dashboard — alongside my others\n\nEven better — the import is **idempotent**. If the profile already exists, nothing is overwritten.\n\nAnd yes — I still use LinkedIn. But now it's a **relay**, not a prison.\n\nThis is just the beginning. Up next:\n- LinkedIn article → `kind:30023`\n- A resume view in the dashboard\n- Possibly zaps and notes from this identity\n\n---\n\n🔐 Sovereign identity.  \n🛠 Self-hosted infrastructure.  \n📡 Cross-protocol publishing.\n\nContinuum is where it all connects.",
+  "sig": "4c30193e6a71453298e7f301a75b4ddbddcf2c3410cad8bb0652ea692e439b29ed6efdb0fd35d645a90122c97cd86d1e277e70d7c89beecdb6205a270766508f",
+  "_source": [
+    "primal backup"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "4d420a88491b29478243fe270ed6a298a64227de445afb8409181203bc99c51a",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1754769646,
+  "kind": 30023,
+  "tags": [
+    [
+      "d",
+      "bitcoin-property-not-a-security--why-it-matters-condensed"
+    ],
+    [
+      "title",
+      "Bitcoin: Property, Not a Security — Why It Matters (condensed)"
+    ],
+    [
+      "summary",
+      "Most altcoins, tokens, and NFTs are **securities** under the Howey Test. The crypto industry blurs this line to ride Bitcoin’s credibility without earning it."
+    ],
+    [
+      "published_at",
+      "1754769646"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "commodity"
+    ],
+    [
+      "t",
+      "property"
+    ],
+    [
+      "t",
+      "security"
+    ]
+  ],
+  "content": "## Bitcoin: Property, Not a Security — Why It Matters\n\n**Michael Saylor’s key point:** Bitcoin is **property** (like gold, real estate, cash). Most altcoins, tokens, and NFTs are **securities** under the Howey Test. The crypto industry blurs this line to ride Bitcoin’s credibility without earning it.\n\n---\n\n### Property vs. Security vs. Commodity — At a Glance\n\n| Category      | Definition | Examples | Key Risks | Regulatory Body |\n|---------------|------------|----------|-----------|-----------------|\n| **Property**  | Something you own outright, no dependency on third parties. | Real estate, gold, cash | Theft, loss, natural depreciation | Property law |\n| **Commodity** | Fungible property not dependent on an issuer. | Oil, wheat, gold, **Bitcoin** | Market volatility, storage | CFTC (U.S.) |\n| **Security**  | Investment in a common enterprise with profit from others’ efforts. | Stocks, bonds, ICO tokens, most altcoins, NFTs | Issuer failure, fraud, dilution | SEC (U.S.) |\n\n---\n\n### Case Study: Evergreen Coin (EGC) (evergreencoin.org)\n\n- Marketed as “green crypto” with ~7% staking yield (in EGC) and monthly rewards for “proof of environment” projects.  \n- **Price collapse:** $0.05 → $0.0008 (−98%+).  \n- Rewards often $1–$2/month, hard to sell or convert.  \n- One supporter even **subsidized payouts in USD** via World Remit when holdings exceeded ~$20 — without this, rewards were functionally worthless.  \n- Founder trademarked “Proof of Environment(tm) ” and tied it to the EGC token, limiting openness.  \n- While there’s no evidence of malicious intent, the model was fundamentally flawed. A better path would be to release the trademark and reward in sats — but this is unlikely to happen.\n\n**Lesson:**  \n- Good idea → Reward environmental projects with open, hard money (sats).  \n- Bad execution → Illiquid token, centralized branding, blurred charity/investment lines.  \n- Being “too small to prosecute” is not proof of soundness — it’s just why regulators ignore it.\n\n**Note:** Because “Proof of Environment(tm)” is trademarked, others cannot use the exact term for a sats-based, open implementation without permission. While nothing stops someone from rewarding environmental projects in sats under a different name, locking the phrase runs counter to the open ethos that allows good ideas to spread freely.\n\n---\n\n### Why This Is Urgent\n\n- **Legal:** Promoting unregistered securities is a compliance and ethical hazard.  \n- **Practical:** Bitcoin’s classification as digital commodity property gives it global portability, no counterparty risk, and clear tax treatment.  \n- **Ethical:** Pretending altcoins are “just like Bitcoin” misleads communities and damages trust.\n\n---\n\n**Bottom Line:**  \nBitcoin is **digital commodity property** — incorruptible, borderless, and not dependent on any issuer.  \nMost other crypto assets are speculative securities dressed up as decentralized innovation.\n\n---\n\n**Author’s Note:** This article was researched, drafted, and refined in collaboration with “Dr. C” (ChatGPT) to help organize, clarify, and present these ideas more effectively.",
+  "sig": "15c2757ac11d4d56e54b9eb48bd6931e5f0b072cbca446348a0aefaff30e5f7f688b5f1aba214780a7bdda989e3321c3301edbef49d2f3b460973cb91e57ca80",
+  "_source": [
+    "primal backup"
+  ]
+}

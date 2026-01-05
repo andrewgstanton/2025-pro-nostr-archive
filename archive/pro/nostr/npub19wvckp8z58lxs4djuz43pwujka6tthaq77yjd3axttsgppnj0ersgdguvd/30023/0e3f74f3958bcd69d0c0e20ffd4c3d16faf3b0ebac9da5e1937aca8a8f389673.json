@@ -1,0 +1,45 @@
+{
+  "id": "0e3f74f3958bcd69d0c0e20ffd4c3d16faf3b0ebac9da5e1937aca8a8f389673",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1749353844,
+  "kind": 30023,
+  "tags": [
+    [
+      "title",
+      "First Test Article"
+    ],
+    [
+      "summary",
+      "First Test Article"
+    ],
+    [
+      "image",
+      "https://blossom.primal.net/8215b8d9108993b7f7fe3f95b10d6c17205bf60ad696a961e28e67d5daec2414.png"
+    ],
+    [
+      "d",
+      "first-test-article"
+    ],
+    [
+      "t",
+      "blog"
+    ],
+    [
+      "t",
+      "article"
+    ],
+    [
+      "client",
+      "Primal"
+    ],
+    [
+      "published_at",
+      "1749332048"
+    ]
+  ],
+  "content": "This is my first test -- I'm writing a blog post (using primal long form post) on nostr once and using github actions to fetch and store article as a static page on github pages to be used in a website ([blog.stantonweb.com](https://blog.stantonweb.com)) and potentially other places.\n",
+  "sig": "a3c9d418e552aecd5d7557605b6245adbd0315060bee8a2e55272d60e0d4d4cecec796adb43311695e1ce38ffe81b6bd78372c8dca20070179b43b11e619b221",
+  "_source": [
+    "primal backup"
+  ]
+}

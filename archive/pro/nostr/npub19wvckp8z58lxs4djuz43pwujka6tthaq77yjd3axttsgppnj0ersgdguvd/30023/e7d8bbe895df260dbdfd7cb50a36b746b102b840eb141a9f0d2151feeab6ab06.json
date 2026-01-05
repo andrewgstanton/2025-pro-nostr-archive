@@ -1,0 +1,101 @@
+{
+  "id": "e7d8bbe895df260dbdfd7cb50a36b746b102b840eb141a9f0d2151feeab6ab06",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1751579487,
+  "kind": 30023,
+  "tags": [
+    [
+      "title",
+      "Why I’m Publishing My Articles on MyContinuum  "
+    ],
+    [
+      "summary",
+      "No HTML + Markdown UGh!"
+    ],
+    [
+      "image",
+      "https://blossom.primal.net/e4f4a1ca4dcf15f45317ae9d54a8b6fb8590fb463318c51d6b28d7afaaafb80b.png"
+    ],
+    [
+      "d",
+      "why-im-publishing-my-articles-on-mycontinuum-"
+    ],
+    [
+      "t",
+      "mycontinuum"
+    ],
+    [
+      "t",
+      "blog"
+    ],
+    [
+      "t",
+      "article"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://relay.nostr.band/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "client",
+      "Primal"
+    ],
+    [
+      "published_at",
+      "1751579304"
+    ]
+  ],
+  "content": "\\# Why I’m Publishing My Articles on MyContinuum\n\n*— and why you might want to as well*\n\nAfter spending the past few weeks testing long-form publishing on Nostr, I ran into a limitation that’s subtle — but significant.\n\nMost clients (like Primal) only support **basic Markdown**. That means:\n\n\\- ❌ No HTML layout\n\n\\- ❌ No control over image width or centering\n\n\\- ❌ No custom styles, components, or formatting\n\nHere’s what that looks like in practice...\n\n\\---\n\n\\## 📸 The Problem: Limited Rendering\n\nI published a test article that used this exact line to display a dashboard screenshot:\n\n`&lt;div align=\"center\"&gt;&lt;img src=\"...\" width=\"600\" /&gt;&lt;/div&gt;`\n\nBut Primal doesn't support HTML. Instead of rendering the image, it just showed the **raw code**.\n\n\\---\n\n\\## 🟢 On MyContinuum (correct layout)\n\nThis is how the article looks in my **self-hosted dashboard**, where HTML is allowed:\n\n**MyContinuum local view**\\\n\\\n![](https://blossom.primal.net/ce736d72dc17278f79a281f2587e97d5ee60768d1e81e1e8b7e44760f8ba5fd9.png)\n\n\\---\n\n\\## 🔴 On Primal (HTML shown as plain text)\n\nSame content, but rendered as **broken formatting** on Primal:\n\n**Primal Rendering**\\\n\\\n![](https://blossom.primal.net/f95f2584ae9b785bf9e6830514470c1ce30fc80cd697c0fe867aebb0f65055a5.png)\n\n\\---\n\n\\## ✅ The Solution: Sovereign Publishing\n\nThat's why I'm now publishing all my articles through **\\[MyContinuum]\\(**[**https://mycontinuum.xyz)**](https://mycontinuum.xyz\\)**) — a dashboard I built to view, write, and store my Nostr long-form content **locally** with full HTML + Markdown support.\n\nBenefits:\n\n\\- 🖼 Proper layout and image sizing\n\n\\- 💾 Local backups and SQLite archiving\n\n\\- ⚡ Sovereign publishing without relying on any third party\n\n\\- 🔄 Still fully Nostr-compatible (just prettier)\n\n\\---\n\n\\## 👀 See For Yourself\n\nFull source code (MIT license):\\\n\\\n👉<https://github.com/andrewgstanton/continuum>\n\n\\---\n\nMyContinuum is just getting started. But already, it's solving small frustrations that point to a bigger truth:\n\n\\&gt; **We need sovereign tools. Not just sovereign content.**\n\n— **Andrew G. Stanton**\n\n\\[<<https://mycontinuum.xyz>]\\(<https://mycontinuum.xyz>)>\n",
+  "sig": "41e266733b3850653689cd070ff8246953aa071f877aa81a0b123e80634d620bdf52ca786842ffc11b6329e5694dcda63d82f57a4b27c99f2c719b40aef2fbef",
+  "_source": [
+    "primal backup"
+  ]
+}

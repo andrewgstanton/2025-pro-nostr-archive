@@ -1,0 +1,145 @@
+{
+  "id": "603e2809ae0babc66063f3070ef297186c23a71f05cb1316c1a2a556a418e01e",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1749407944,
+  "kind": 30023,
+  "tags": [
+    [
+      "title",
+      "Something Is Alive Here @ Bitcoin 2025"
+    ],
+    [
+      "summary",
+      "At Bitcoin 2025 and on Nostr, I’ve rediscovered what decentralization really means — not just as a technical design, but as a lived experience of freedom. This article reflects on how alive and tangible that freedom feels: owning your identity, zapping freely, publishing without permission, and building outside institutional control. It’s not about hype — it’s about sovereignty, trust, and conviction. For the first time in a long time, freedom doesn’t feel like a slogan. It feels real. It feels alive."
+    ],
+    [
+      "image",
+      "https://blossom.primal.net/337c50b5cb05273f95f1eae0d20d5c476507e63b3e8560788cad252fcf69380b.png"
+    ],
+    [
+      "d",
+      "something-is-alive-here-@-bitcoin-2025"
+    ],
+    [
+      "t",
+      "bitcoin2025"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "lasvegas"
+    ],
+    [
+      "t",
+      "decentralizeeverything"
+    ],
+    [
+      "t",
+      "sovereignsignal"
+    ],
+    [
+      "t",
+      "zappening"
+    ],
+    [
+      "t",
+      "bitcoiner"
+    ],
+    [
+      "t",
+      "nostrlife"
+    ],
+    [
+      "t",
+      "proofOfVibes"
+    ],
+    [
+      "t",
+      "freedomtech"
+    ],
+    [
+      "t",
+      "blog"
+    ],
+    [
+      "t",
+      "article"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://relay.nostr.band/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://nostrelites.org/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "client",
+      "Primal"
+    ],
+    [
+      "published_at",
+      "1748474645"
+    ]
+  ],
+  "content": "I’ve spent years chasing the promise of freedom.\\\nIn startups. In faith communities. In movements that claimed to be for the people.\n\nAnd yet — so often, that promise felt just out of reach.\\\nConditional. Corporate. Sanitized.\\\nA freedom with fine print.\n\nBut here —\\\nHere in the thick of Bitcoin 2025, on Nostr, among misfits and builders and signal-bringers —\\\n**something is alive.**\n\nIt’s not a platform.\\\nIt’s not a marketing strategy.\\\nIt’s not another app promising to “empower” you while locking down your data and selling you out.\n\nIt’s **freedom rooted in architecture.**\\\nDecentralization not just as a buzzword —\\\nbut as an expression of conviction.\n\nA kind of freedom you can *feel* in your body:\n\n* When you zap someone’s words because they *moved you* — not because an algorithm told you to.\n\n* When your identity is yours — keys, not credentials.\n\n* When no one can delete your story because **you** control the server, or because there *is* no server — just the relay of your choosing.\n\nThis isn’t utopia.\\\nThere are egos. There’s noise. There’s still posturing.\\\nBut it’s different.\\\nThe **center of gravity** has shifted.\n\nWe’re no longer begging institutions to notice us.\\\nWe’re building **outside their jurisdiction.**\n\nAnd for the first time in a long time,\\\n**freedom feels close.\\\nTangible.\\\nJoyful.\\\nAlive.**\n\nThis isn’t just about tech.\\\nIt’s about trust.\\\nIt’s about choosing to show up —\\\nto build\\\nto write\\\nto signal\\\nto keep going.\n\nEven when it’s hard.\\\nEven when no one claps.\n\nBecause real freedom doesn’t come from being noticed.\\\nIt comes from being **sovereign.**\n\nAnd that’s something no one can take from me again.\n\n—\n\n*Written in Las Vegas, during Bitcoin 2025.*\\\n*Posted via Nostr. Vibes co-authored by ChatGPT (“Dr. C”).*\\\nZap: &lt;https://tinyurl.com/yuyu2b9t&gt;\n",
+  "sig": "91ff5e076bd81022ba981cc95844b865f573f30325a4dd53d02e7a8a3e4b3e853803b704ec5616d46a2a8ef80977ab0541609627c695ac9c950406243d04dea7",
+  "_source": [
+    "primal backup"
+  ]
+}
