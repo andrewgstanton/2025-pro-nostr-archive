@@ -1,0 +1,69 @@
+{
+  "id": "02249eb6852af9d68b36a81f9d7e73993737f7dc1fbdd5e60cdc4b33ffd59c82",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1746992529,
+  "kind": 1,
+  "tags": [
+    [
+      "t",
+      "VictoriousGospel"
+    ],
+    [
+      "t",
+      "Resurrection"
+    ],
+    [
+      "t",
+      "GoodNews"
+    ],
+    [
+      "t",
+      "EternalGospel"
+    ],
+    [
+      "r",
+      "wss://nos.lol/"
+    ],
+    [
+      "r",
+      "wss://nostr.reelnetwork.eu/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://relay.nostr.band/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relayable.org/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://nostr.bit4use.com/"
+    ],
+    [
+      "r",
+      "wss://bitcoinmaximalists.online/"
+    ]
+  ],
+  "content": "What is the Victorious Gospel?\n\n https://blossom.primal.net/9ef7c7297506ee2918e398df470c375af9838684f7de42bca9fc3978c99d1032.png \n\n\nThe term “Victorious Gospel” refers to the triumphant message of Jesus Christ’s work on the cross—a gospel that proclaims Christ’s complete victory over sin, death, and the powers of evil.\n\nJesus didn’t come merely to offer a conditional or partial rescue for a select few; rather, His sacrificial death and victorious resurrection guarantee that every human being—is ultimately reconciled to God. \n\nIn short, the Victorious Gospel is the good news that Christ’s victory is so complete that it not only conquers sin and death in our present lives but also promises the eventual restoration of every person, affirming that God’s love and saving power ultimately prevail over every form of evil.\n\nThis has been a long journey for me but here are some verses which give strong support for this idea (quotes from the New Kings James Version):\n\n1 Timothy 4:10 \n\n\"For to this end we both labor and suffer reproach, because we trust in the living God, who is the Savior of all men, especially of those who believe.\"\n\n1 Corinthians 15:22:\n\n\"For since by man came death, by Man also came the resurrection of the dead. For as in Adam all die, even so in Christ all shall be made alive.\"\n\nJohn 1:29:\n\nThe next day John saw Jesus coming toward him, and said, “Behold! The Lamb of God who takes away the sin of the world! \"\n\n2 Corinthians 5:17-19:\n\n\"Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!  All this is from God, who reconciled us to himself through Christ and gave us the ministry of reconciliation:  that God was reconciling the world to himself in Christ, not counting people’s sins against them. And he has committed to us the message of reconciliation.\"\n\nOriginal Post on LinkedIn -> \n\nhttps://www.linkedin.com/posts/andrew-g-stanton_victoriousgospel-resurrection-goodnews-activity-7299552258126491648-rnC0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABQv18BeAPYRkxkYSr1mQStB9TczIhoXvQ\n\n#VictoriousGospel #Resurrection #GoodNews #EternalGospel",
+  "sig": "7d1a19be6c1248946c9737303eb992bd712e1735899ba96f12cf99fd89ed0dd8a9449b854ea02f448ac01503a391f9f327e6124eac2e89689d27af2ea7684d00",
+  "_source": [
+    "primal backup"
+  ]
+}

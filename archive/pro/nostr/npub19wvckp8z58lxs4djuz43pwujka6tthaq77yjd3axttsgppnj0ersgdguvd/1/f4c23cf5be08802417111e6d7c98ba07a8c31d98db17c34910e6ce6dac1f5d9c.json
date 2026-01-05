@@ -1,0 +1,37 @@
+{
+  "id": "f4c23cf5be08802417111e6d7c98ba07a8c31d98db17c34910e6ce6dac1f5d9c",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747720547,
+  "kind": 1,
+  "tags": [
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "proofOfWork"
+    ],
+    [
+      "t",
+      "writing"
+    ],
+    [
+      "t",
+      "primal"
+    ],
+    [
+      "t",
+      "zapworthy"
+    ]
+  ],
+  "content": "Something Changed When I Found Nostr\n\nI never really got into blogging. Social media felt noisy, shallow, performative.\nBut then I found Nostr.\n\nSomething about this protocol flipped a switch for me.\nMaybe it’s the simplicity.\nMaybe it’s the permanence.\nMaybe it’s the way people show up as humans, not brands.\n\nWhatever it is, I’m here now — writing, reflecting, sharing.\nNot to go viral. Not to farm likes.\nBut because it feels real.\n\nAnd honestly? I think that’s what I was waiting for all along.\n\nIf this resonates, feel free to zap — or just reach out and say hi.\n\nPost written with help from ChatGPT.\n\n#nostr #bitcoin #proofOfWork #writing #primal #zapworthy",
+  "sig": "70492b00c9602d2be3c718ee8a556b200b5300d0b4ee72fa06adea174defa422f240c221212646a13e656f4ee4c6a0e7a81856d9b77300a9354ddba1f0d03a88",
+  "_source": [
+    "primal backup"
+  ]
+}

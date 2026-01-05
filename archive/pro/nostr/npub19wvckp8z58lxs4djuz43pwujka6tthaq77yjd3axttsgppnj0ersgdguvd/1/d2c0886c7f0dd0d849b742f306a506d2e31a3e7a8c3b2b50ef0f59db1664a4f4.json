@@ -1,0 +1,25 @@
+{
+  "id": "d2c0886c7f0dd0d849b742f306a506d2e31a3e7a8c3b2b50ef0f59db1664a4f4",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1758071326,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:df478568479de26b4a83c1bdc4dbab61b5cc82e1a312e2b28bc815a12a951e67:give-bitcoin-with-cashu-cards",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "df478568479de26b4a83c1bdc4dbab61b5cc82e1a312e2b28bc815a12a951e67",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Very cool!!",
+  "sig": "ce8aeaf19e8e98898b8934aa94b42c170ebb11bcbf426547c0bb914f32149f10ef414d19873770d0b214fcaacd23c204abbd4345fe110c690a968625e542fdd7",
+  "_source": [
+    "primal backup"
+  ]
+}

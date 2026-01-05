@@ -1,0 +1,37 @@
+{
+  "id": "ba84029adf02dbfcd10005e2d2e768ab396b5d20a3c12876b92d6dc1d621883c",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747722080,
+  "kind": 1,
+  "tags": [
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "writing"
+    ],
+    [
+      "t",
+      "proofOfWork"
+    ],
+    [
+      "t",
+      "zapworthy"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "PizzaDay"
+    ]
+  ],
+  "content": "Closing on Pizza Day\n\nBeen writing a lot lately — not for clicks, but to process, reflect, and share what’s been stirring in me.\nThe response so far has been deeply encouraging. A few sats here and there might not seem like much, but to me, every zap is a signal: “I see you. Keep going.”\n\nI’m this close to hitting 1,000 sats by Bitcoin Pizza Day — just 90 to go.\nIf something I’ve written has resonated, feel free to zap and help me cross that line.\n\nNot begging — just stacking. 🍕\n\nPost written with help from ChatGPT.\n\n#nostr #writing #proofOfWork #zapworthy #bitcoin #PizzaDay",
+  "sig": "df5a2c47895fa2e6cb7e6ff2843c8cd90ec1c22a4274de9aca0b27b76cc9f2d76729d3f0b6f27c630924b7725b5bd22fb5a8bd913e348f1c18b8f4ea10fc3e75",
+  "_source": [
+    "primal backup"
+  ]
+}

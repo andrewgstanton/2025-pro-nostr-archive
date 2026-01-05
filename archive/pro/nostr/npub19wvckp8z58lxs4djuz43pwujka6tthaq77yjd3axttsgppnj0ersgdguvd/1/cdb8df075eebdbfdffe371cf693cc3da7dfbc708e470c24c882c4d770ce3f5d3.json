@@ -1,0 +1,33 @@
+{
+  "id": "cdb8df075eebdbfdffe371cf693cc3da7dfbc708e470c24c882c4d770ce3f5d3",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1755787448,
+  "kind": 1,
+  "tags": [
+    [
+      "title",
+      "Today's Milestones - Akamaister/Continuum"
+    ],
+    [
+      "published_at",
+      "1755787448"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "sovereign publishing"
+    ]
+  ],
+  "content": "# Today's Milestones - Akamaister/Continuum\n\n- Today (Aug 20) I published four pieces:\n\n1) Odd at Home in the Open Field — why Nostr’s open fields let “odd” finally breathe.\n2) Part 1: The Problem Stated — “All” vs “Eternal” (Victorious Gospel series).\n3) Toward a Sharper Definition of Sovereign Technology — tightening the terms.\n4) White Paper: Sovereign Storage — foundations + rationale.\n\n- Enabled NIP-05 verified addresses as a free service",
+  "sig": "6ef9634ed1fa1232638eb739fa7d0b23088bb89a587d810409f90ed366c3a3f975bbfc8aae6d031be4655e88c44be6b7834374f536df72a24e5924648e519635",
+  "_source": [
+    "primal backup"
+  ]
+}

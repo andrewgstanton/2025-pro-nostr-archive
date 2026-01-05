@@ -1,0 +1,39 @@
+{
+  "id": "fbd5ca831f93f95cf1b6bc796c5ad50a13dede994d9db7a82c6007b129042551",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747624897,
+  "kind": 1,
+  "tags": [
+    [
+      "t",
+      "ProofOfWork"
+    ],
+    [
+      "t",
+      "WhyBitcoin"
+    ],
+    [
+      "t",
+      "BitcoinerJourney"
+    ],
+    [
+      "t",
+      "StillBuilding"
+    ],
+    [
+      "t",
+      "FaithAndFinance"
+    ],
+    [
+      "a",
+      "30023:2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47:why-i-left-web3-for-proof-of-work-–-part-4:-proof-of-work-as-philosophy",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "🧱 Part 4 is live: Proof of Work as Philosophy\n\nHere is part 4:\n\nhttps://primal.net/e/naddr1qvzqqqr4gupzq2ue3vzw9g07dp2m9c9tzzae9dm5kh06paufymr6vkhqszr8ylj8qpyhw6re945j6mr9ve6z6am9vgej6en0wgkhqun0danz6mmx94mk7unt9h3gpyedwpshyapdxsaz6urjdahkvtt0vckhwmmjdvkkzuedwp5xjmr0wdhhq6re9w3xmz\n\nWeb3 promised freedom — but demanded very little.\nBitcoin asked for silence… and required everything.\n\nThis part of my journey isn’t about technology.\nIt’s about cost. Conviction. And the work that changes you.\n\n⚡ If it resonates, zap me some sats — or pass it forward.\n\n#ProofOfWork #WhyBitcoin #BitcoinerJourney #StillBuilding #FaithAndFinance\n\n",
+  "sig": "24442c644a83d1f122e92e872e1ab3192685c63e90cfbfaf04168fb4c7f28f1120a8e1f810020aafe9cc89db11b0a60b3bae5e224529fe70debe85b116445b23",
+  "_source": [
+    "primal backup"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "fc0da0507750efec6960e5167717423d95495a9d2a59a7723b5c2fc4d3ef1323",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1760140910,
+  "kind": 1,
+  "tags": [
+    [
+      "title",
+      "200 Articles of Freedom"
+    ],
+    [
+      "published_at",
+      "1760140910"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "#continuum"
+    ],
+    [
+      "t",
+      "#bitcoin"
+    ],
+    [
+      "t",
+      "#sovereignty"
+    ],
+    [
+      "t",
+      "#faith"
+    ],
+    [
+      "t",
+      "#writing"
+    ],
+    [
+      "t",
+      "#proofofwork"
+    ],
+    [
+      "t",
+      "#freedom"
+    ],
+    [
+      "t",
+      "#nostr"
+    ],
+    [
+      "t",
+      "#selfsovereign"
+    ],
+    [
+      "t",
+      "#independentmedia"
+    ],
+    [
+      "t",
+      "#creativeintegrity #digitalsovereignty #bitcoinculture #sovereigncreator #thefutureissovereign"
+    ]
+  ],
+  "content": "# 200 Articles of Freedom\n\nTwo hundred essays written, signed, and published — each one proof-of-work in the pursuit of truth.\nNo editors, no algorithms, no permission — just words forged in sovereignty, preserved on Nostr.\nHere’s to the next hundred, and the freedom that keeps writing them. ⚡️",
+  "sig": "9c50d31004828485830c2578bda52c5745b0f363e8e5ebd4e5b3632b314fc3fdf2693df6b94c9ec9fc797c71f58f22e5144073ca12b46073c9c32ff65406209f",
+  "_source": [
+    "primal backup"
+  ]
+}

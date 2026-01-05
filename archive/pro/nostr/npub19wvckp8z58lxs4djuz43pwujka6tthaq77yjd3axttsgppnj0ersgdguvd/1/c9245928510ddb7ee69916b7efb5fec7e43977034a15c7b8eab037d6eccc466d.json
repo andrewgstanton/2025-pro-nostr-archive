@@ -1,0 +1,45 @@
+{
+  "id": "c9245928510ddb7ee69916b7efb5fec7e43977034a15c7b8eab037d6eccc466d",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1757648739,
+  "kind": 1,
+  "tags": [
+    [
+      "title",
+      "Sept. 9, 2025"
+    ],
+    [
+      "published_at",
+      "1757648739"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "selfsovereignty"
+    ],
+    [
+      "t",
+      "discipline"
+    ],
+    [
+      "t",
+      "faith"
+    ],
+    [
+      "t",
+      "ministry"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ]
+  ],
+  "content": "# Sept. 9, 2025\n\nOn Sept 9 I published two free reflections: \n\n- *The Discipline of Self-Sovereignty* \n- *Between Two Worlds: Ministry and Sovereignty.* \n\nBoth explore what it means to live faithfully in tension — to guard personal freedom with discipline, and to navigate the overlapping callings of ministry and sovereignty.\n\nZaps Appreciated!!  Please send zaps to : andrewgstanton@primal.net",
+  "sig": "53d2486e01e75ebc21254d647ddc831d7bf1957086628a6edf0c0fa13c6496a69c9b55b9a632abb8f9a2c6f25d3c8fd2a22a3cbb0ca014faa1c032b16d138fa8",
+  "_source": [
+    "primal backup"
+  ]
+}

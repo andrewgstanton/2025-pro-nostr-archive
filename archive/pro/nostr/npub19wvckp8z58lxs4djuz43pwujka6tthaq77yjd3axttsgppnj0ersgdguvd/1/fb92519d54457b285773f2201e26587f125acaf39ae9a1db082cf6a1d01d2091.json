@@ -1,0 +1,12 @@
+{
+  "id": "fb92519d54457b285773f2201e26587f125acaf39ae9a1db082cf6a1d01d2091",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756525577,
+  "kind": 1,
+  "tags": [],
+  "content": "Helping with NIP-05 Verification\n\nI sometimes set up NIP-05 addresses under mycontinuum.xyz as a convenience for those who don’t have their own domain or don’t want to deal with the technical setup right away.\n\nTo be clear: this never involves your private key. NIP-05 is only a text file that links your npub to a domain. Using my domain is optional, and you can always move your NIP-05 to your own domain or another service at any time.\n\nMy goal is simple: help people get verified and sovereign, not dependent.",
+  "sig": "f2131d502be5e4ee30461c95239161edf2e6696f1f11cca9e7467e1de09c4b463cee3f00d3dc47cc13e74bf867648238d0da7f0c69abcc64cef7a6a66b8f05f0",
+  "_source": [
+    "primal backup"
+  ]
+}

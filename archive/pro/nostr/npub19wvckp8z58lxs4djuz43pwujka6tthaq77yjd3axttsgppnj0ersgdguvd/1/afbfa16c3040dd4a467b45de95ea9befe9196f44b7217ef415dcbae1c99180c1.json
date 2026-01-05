@@ -1,0 +1,25 @@
+{
+  "id": "afbfa16c3040dd4a467b45de95ea9befe9196f44b7217ef415dcbae1c99180c1",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747621314,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47:why-i-left-web3-for-proof-of-work---part-2:-the-breaking-point",
+      "",
+      "mention"
+    ],
+    [
+      "a",
+      "30023:2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47:why-i-left-web3-for-proof-of-work-–-part-1:-the-drift",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "⚡️Someone just zapped me 321 sats on Part 2: The Breaking Point.\n\nNot for the writing.\nNot for the polish.\nBut because the story resonated.\n\nThat’s the kind of feedback I care about.\nQuiet signal. Real value.\n\nTo whoever sent it — thank you.\nYou reminded me why I left the hype… and why I’m still building with conviction.\n\nIf it spoke to you too, you can read part 2 here:\n\nhttps://primal.net/e/naddr1qvzqqqr4gupzq2ue3vzw9g07dp2m9c9tzzae9dm5kh06paufymr6vkhqszr8ylj8qql8w6re945j6mr9ve6z6am9vgej6en0wgkhqun0danz6mmx94mk7unt95kj6urpwf6z6v36946xsefdvfex2cttd9hxwttsda5kuaqqyl2s8\n\nOr, if you want to start the beginning, part 1 begins here:\n\nhttps://primal.net/e/naddr1qvzqqqr4gupzq2ue3vzw9g07dp2m9c9tzzae9dm5kh06paufymr6vkhqszr8ylj8qqmhw6re945j6mr9ve6z6am9vgej6en0wgkhqun0danz6mmx94mk7unt9h3gpyedwpshyapdxyaz6argv5kkgunfve6q9tgnh4",
+  "sig": "f51b0a32c1660deccc72b98d0573bdd965982b20727ae722542a9e0c7d3107c0b470874ed35e335b1fc8225383c31cfbc452c032002f15915d50d9f741b716e5",
+  "_source": [
+    "primal backup"
+  ]
+}

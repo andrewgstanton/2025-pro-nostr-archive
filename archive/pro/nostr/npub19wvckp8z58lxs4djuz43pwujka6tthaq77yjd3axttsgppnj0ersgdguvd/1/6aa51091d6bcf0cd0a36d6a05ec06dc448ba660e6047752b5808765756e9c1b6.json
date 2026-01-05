@@ -1,0 +1,19 @@
+{
+  "id": "6aa51091d6bcf0cd0a36d6a05ec06dc448ba660e6047752b5808765756e9c1b6",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748463811,
+  "kind": 1,
+  "tags": [
+    [
+      "p",
+      "4447d28fcde1877381ff57de7b73d10ada940de28fb5b66159e8fe9bef50d18d",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Just met sone friends nostr:npub1g3ra9r7duxrh8q0l2l08ku73ptdfgr0z376mvc2earlfhm6s6xxss8lnnz  in front of the entrance!\nhttps://blossom.primal.net/dabc8b36594989ad955bf5e8cebb7f95bc9ca4103e8ad3da38d1b1c720ad7dac.jpg",
+  "sig": "5a8e935e5f3ec3f1fb63789b2955c427bff49b938295313331a31e518632472d8d798317ba8a052f3a13f287c6cc56f02d847c2b6c66d68f8f5ee73c3d0529a4",
+  "_source": [
+    "primal backup"
+  ]
+}

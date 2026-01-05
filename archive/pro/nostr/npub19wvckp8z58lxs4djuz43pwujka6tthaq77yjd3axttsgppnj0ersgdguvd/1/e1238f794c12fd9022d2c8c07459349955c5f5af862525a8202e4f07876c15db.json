@@ -1,0 +1,19 @@
+{
+  "id": "e1238f794c12fd9022d2c8c07459349955c5f5af862525a8202e4f07876c15db",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748464307,
+  "kind": 1,
+  "tags": [
+    [
+      "p",
+      "3f770d65d3a764a9c5cb503ae123e62ec7598ad035d836e2a810f3877a745b24",
+      "wss://nos.lol/",
+      "mention"
+    ]
+  ],
+  "content": "Met nostr:nprofile1qqsr7acdvhf6we9fch94qwhpy0nza36e3tgrtkpku25ppuu80f69kfqppemhxue69uhkummn9ekx7mp0qyd8wumn8ghj7urewfsk66ty9enxjct5dfskvtnrdakj7u4mrz7 at the Nostr lounge great meeting him !\nhttps://blossom.primal.net/75b4079409263cfa68bd82ae696e08887af125af243ad8e649e9cfe5bfd945bf.jpg",
+  "sig": "be784441e84ea3032ce765cd1dd7342b0b22d0c85295cf2dcd5715926ae4433ee1da6e9f7420e593b2d910a4b18241d95eb1c2be098816a9abc033bd12afa8cf",
+  "_source": [
+    "primal backup"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "539007bd21d7f55bebe036abb47e4731fd2d52def946c12bc7d07207eed782b3",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1755808787,
+  "kind": 1,
+  "tags": [
+    [
+      "title",
+      "Today's Milestones - Akamaister/Continuum Aug 21, 2025"
+    ],
+    [
+      "published_at",
+      "1755808787"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ]
+  ],
+  "content": "# Today's Milestones - Akamaister/Continuum Aug 21, 2025\n\n- Today (Aug 21) I published three pieces:\n\n1) How NIP-05 Verification Works (and Why It Matters) (to help onboard new users to Nostr)\n2) Part 2: The Scope of  “All” (Victorious Gospel series).\n3) Sovereign Income Architectures: Decentralizing Your Livelihood\n\nAs a reminder, zaps are always appreciated.  you can send to : andrewgstanton@primal.net",
+  "sig": "ecbb38a3f49b209ac86e9c799acf78204a865bee02882d045dda0fb810bc1d3e1586134a488244e963bb2c76109e043a3dc57411ba794c6368797bb8b3aa3f49",
+  "_source": [
+    "primal backup"
+  ]
+}

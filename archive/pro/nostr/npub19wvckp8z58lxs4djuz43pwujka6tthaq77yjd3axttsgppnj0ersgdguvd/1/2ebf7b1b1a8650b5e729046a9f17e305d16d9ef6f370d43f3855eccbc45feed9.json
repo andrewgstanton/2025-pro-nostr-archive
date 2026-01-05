@@ -1,0 +1,69 @@
+{
+  "id": "2ebf7b1b1a8650b5e729046a9f17e305d16d9ef6f370d43f3855eccbc45feed9",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1750364425,
+  "kind": 1,
+  "tags": [
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.nostr.band/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ]
+  ],
+  "content": "Don’t Trade One False Narrative for Another\n\nBitcoiners, Christians, and freedom-seekers:\nQuestioning the mainstream is good.\nBut questioning everything isn’t sovereignty — it’s drift.\n\nSometimes the most rebellious thing you can do is repent, follow Jesus, and submit to the Spirit.\n\n📝 Full article:\nhttps://tinyurl.com/2b8fzyj7\n\n⚡ Zap if it resonates: andrewgstanton@primal.net",
+  "sig": "a39586af275c67fffebcc4f546410e19fd9bdcdfd7ad630fd59c2ab4bccd807166bb158e88d12f0e01bb5281b0c552c5851b3f79015195cd82fe3d2b5be8a3a9",
+  "_source": [
+    "primal backup"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "af46caaeb09952c11a7eca4d027b40323bccea0fd0f4206c70b040986c5ac61b",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1757951109,
+  "kind": 1,
+  "tags": [
+    [
+      "t",
+      "Bitcoin"
+    ],
+    [
+      "t",
+      "BitcoinMagazine"
+    ],
+    [
+      "t",
+      "Sovereignty"
+    ],
+    [
+      "t",
+      "Nostr"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://relay.nostr.band/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ]
+  ],
+  "content": "📩 Recent submissions to @BitcoinMagazine:\n\nSovereign ≠ Decentralized (8/25)\n\nBeyond the Walled Gardens (9/1)\n\nFrom Mars to Main Street (9/1)\n\nExploring sovereignty, open protocols, and why future civilizations — from Earth to Mars — will anchor on Bitcoin.\n\n#Bitcoin #BitcoinMagazine #Sovereignty #Nostr",
+  "sig": "8da9a294552d19f2f55828667f76894c9bfc81a92e07e7cef6ac43cdb155dbed0ce9b6da3c72bf4fa482510832e39beac45aa9b79550e7ddb890b7018b80fc5a",
+  "_source": [
+    "primal backup"
+  ]
+}

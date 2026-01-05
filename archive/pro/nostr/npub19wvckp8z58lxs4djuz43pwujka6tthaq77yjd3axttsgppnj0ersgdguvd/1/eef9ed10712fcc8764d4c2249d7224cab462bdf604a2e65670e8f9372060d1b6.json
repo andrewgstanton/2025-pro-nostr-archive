@@ -1,0 +1,49 @@
+{
+  "id": "eef9ed10712fcc8764d4c2249d7224cab462bdf604a2e65670e8f9372060d1b6",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747690142,
+  "kind": 1,
+  "tags": [
+    [
+      "t",
+      "Bitcoin"
+    ],
+    [
+      "t",
+      "Nostr"
+    ],
+    [
+      "t",
+      "ProofOfWork"
+    ],
+    [
+      "t",
+      "Faith"
+    ],
+    [
+      "t",
+      "Legacy"
+    ],
+    [
+      "t",
+      "Regenerate"
+    ],
+    [
+      "t",
+      "Sovereignty"
+    ],
+    [
+      "t",
+      "BuildingAgain"
+    ],
+    [
+      "t",
+      "NoHype"
+    ]
+  ],
+  "content": "Part 5 is live: Building Again 🧱\n\nThis is the final post in my 5-part series “Why I Left Web3 for Proof of Work.”\n\nIt’s about starting over. With truth. With conviction. With Bitcoin.\n\nI write about rebuilding after pruning — integrating BTC into my life, business, faith, and even food. It’s not flashy. It’s not loud. But it’s solid. And that’s enough.\n\n✍️ Read:\nhttps://primal.net/andrewgstanton/why-i-left-web3-for-proof-of-work-%E2%80%93-part-5%3A-building-again\n\n⚡ If it resonates, zap a few sats/bitcoin. Every bit goes to building again — without compromise.\n\n🙏 Written with help from ChatGPT (GPT-4) and a lot of reflection.\n\n#Bitcoin #Nostr #ProofOfWork #Faith #Legacy #Regenerate #Sovereignty #BuildingAgain #NoHype",
+  "sig": "24de048eacfb3db5ab43fa6cd8843aafdd26e3850918f910cf43acbfd41b7433499a8b5aa7ffeaf35de2c6c20072b6db5b4468a1c16d31adf5563cf242694beb",
+  "_source": [
+    "primal backup"
+  ]
+}

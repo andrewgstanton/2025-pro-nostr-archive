@@ -1,0 +1,37 @@
+{
+  "id": "ecf76aa94244aeb0e2c746ab3656316e7eaaa8ec5cbe89ba2eecb3098fd30fc9",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1761695633,
+  "kind": 1,
+  "tags": [
+    [
+      "t",
+      "Continuum"
+    ],
+    [
+      "t",
+      "Bitcoin"
+    ],
+    [
+      "t",
+      "Authorship"
+    ],
+    [
+      "t",
+      "ProofOfWork"
+    ],
+    [
+      "t",
+      "Sovereignty"
+    ],
+    [
+      "t",
+      "WritingLife"
+    ]
+  ],
+  "content": "Teaser Post (for Paid Essay)\n\nTitle: Authorship in the Age of Silence\n\nExcerpt / Teaser Text:\n\n“In a world where algorithms recycle our words and editors ghost our inboxes, the very idea of authorship is under siege.\n\nBut what if the silence itself is proof?\n\nWhat if the endurance to keep writing — without permission, without applause — is the verification of truth?”\n\nThis new Continuum essay explores what it means to own your voice in an age that rewards noise over integrity.\n\nWhy sovereignty matters more than validation.\n\nAnd why every word you finish, sign, and publish under your own key is an act of resistance — and resurrection.\n\nRead the full piece:\n→ “Authorship in the Age of Silence” (Paid essay — 500 sats)\nSupport: [andrewgstanton@primal.net]\n\n\n#Continuum #Bitcoin #Authorship #ProofOfWork #Sovereignty #WritingLife\n\n",
+  "sig": "228d5d8e7d9de890a6dd1b3ca63c689c848d3651b9051bf5e77d9b3c629877dac7c60983b96af8877713857e37ce52bcaaf59d544f63958ea39ed0e9d94ef178",
+  "_source": [
+    "primal backup"
+  ]
+}

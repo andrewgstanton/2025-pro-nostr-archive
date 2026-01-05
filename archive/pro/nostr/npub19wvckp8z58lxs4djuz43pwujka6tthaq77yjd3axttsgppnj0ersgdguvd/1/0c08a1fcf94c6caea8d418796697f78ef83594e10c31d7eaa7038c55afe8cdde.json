@@ -1,0 +1,29 @@
+{
+  "id": "0c08a1fcf94c6caea8d418796697f78ef83594e10c31d7eaa7038c55afe8cdde",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1755998064,
+  "kind": 1,
+  "tags": [
+    [
+      "title",
+      "Today's Milestones - Akamaister/Continuum Aug 22, 2025"
+    ],
+    [
+      "published_at",
+      "1755998064"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "milestones"
+    ]
+  ],
+  "content": "# Today's Milestones - Akamaister/Continuum Aug 22, 2025\n\nToday (Aug 23), I published 2 articles:\n\n- Sovereign Support vs. Donor Dependency\n- Part 4: Judgment as Purification, Not Final Defeat (Victorious Gospel Series)\n\nAs a reminder, zaps are always appreciated. you can send to : andrewgstanton@primal.net",
+  "sig": "3717f0354450d2e4a49ef59ebe95cd79be6f89efebb27f8d1a15a6ce62f359ecbd2bcb0596377220a22bba1820d787f915d7c707fa70d53be78f81f08a0e4428",
+  "_source": [
+    "primal backup"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "df165d3c3010952fee817f9cb92b44f08e20b3a6631ac4c10f9ebbf96028910c",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1761519804,
+  "kind": 1,
+  "tags": [
+    [
+      "p",
+      "1cafeeca3ad24e547588bc75765f584d79a20f82ebb6fb4730557dad2204fc9a",
+      "wss://eden.nostr.land",
+      "mention"
+    ]
+  ],
+  "content": "Glad to see you on Primal, nostr:nprofile1qqspetlwegadynj5wkytcatktavy67dzp7pwhdhmguc92lddygz0exspz4mhxue69uhk2er9dchxummnw3ezumrpdejqz9rhwden5te0wfjkccte9ejxzmt4wvhxjmcwzj953 — welcome aboard!!  It’s rare to find people who resonate with the full gospel message right out of the gate.\n",
+  "sig": "c86cf00cacf92ff4d5dec44c623b87fadb242f33a6daa9889b8918b1bb23b74f90b28fe15b0e6d9c09e6b5ce5d6fecd84f2ef13396201615a0acf27b6cc955f9",
+  "_source": [
+    "primal backup"
+  ]
+}

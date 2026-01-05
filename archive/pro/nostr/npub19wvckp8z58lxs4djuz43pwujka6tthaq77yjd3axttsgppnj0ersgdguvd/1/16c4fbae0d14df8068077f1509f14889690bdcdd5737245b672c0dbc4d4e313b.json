@@ -1,0 +1,25 @@
+{
+  "id": "16c4fbae0d14df8068077f1509f14889690bdcdd5737245b672c0dbc4d4e313b",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1757883904,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:54609048284d2a151c8df625f40c389d423ed057fcef927db88956d28e22ba03:bulletproof-ideas-against-a-culture-of-death",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "54609048284d2a151c8df625f40c389d423ed057fcef927db88956d28e22ba03",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Beautifully said!!!\n\n",
+  "sig": "7644d25a3fa7d5608d627d7939522253292952568f6191087856ef16af61f49d527c3466016cdec20f51ce08e037379f5dcdefb4e19f74c692d798351ceaa39c",
+  "_source": [
+    "primal backup"
+  ]
+}

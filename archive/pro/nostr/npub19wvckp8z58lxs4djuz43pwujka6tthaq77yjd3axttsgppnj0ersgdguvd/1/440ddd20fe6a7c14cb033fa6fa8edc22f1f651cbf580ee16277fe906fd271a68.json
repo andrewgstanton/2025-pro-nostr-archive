@@ -1,0 +1,69 @@
+{
+  "id": "440ddd20fe6a7c14cb033fa6fa8edc22f1f651cbf580ee16277fe906fd271a68",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1750192179,
+  "kind": 1,
+  "tags": [
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://relay.nostr.band/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ]
+  ],
+  "content": "🚀 Just published a new repo!\n\nI wanted to see how quickly I could spin up a self-contained, Dockerized app that demos:\n\n✅ User signup\n✅ Login\n✅ Email verification\n\nIt’s all built in Python/Flask and fully containerized — a quick, clean demo you can run locally.\n\nCheck it out here:\n🔗 https://github.com/andrewgstanton/email_verification_app\n\nLet me know what you think — happy to improve or extend it further.",
+  "sig": "069d70d1a5a2193d3b7d368d8e972be53d6a8e2ead0b68725499239750a266b450091dedb62dc622da081c26349c312108246f4f062c98495b5e2bf9c193802e",
+  "_source": [
+    "primal backup"
+  ]
+}

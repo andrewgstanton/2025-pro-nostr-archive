@@ -1,0 +1,25 @@
+{
+  "id": "a6c75133cf0a1102f591aae041508ebdbc0fa9d66880524c24c95627355916e0",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748491576,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:1d7ff02a58602a852d17ed3bb909fe15bdb18f12395dffcc8533af70d042b5be:ccBuOQAv2pDtds11vF5RU",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "1d7ff02a58602a852d17ed3bb909fe15bdb18f12395dffcc8533af70d042b5be",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I reposted because I think the headers for each section are in English (even if details are in Lao).  I will look at Claude as well I have using mostly ChatGPT\n\nMy first full day at Bitcoin 2025 and I was simply amazing  \n\n",
+  "sig": "1cd6e1dd53a20cf4025690c8bed73c4470c750e1335592e6ed9324116642174829b9cefbfdb4da6744d08c019d0a430b53afc0537c322569f605050e9576536a",
+  "_source": [
+    "primal backup"
+  ]
+}

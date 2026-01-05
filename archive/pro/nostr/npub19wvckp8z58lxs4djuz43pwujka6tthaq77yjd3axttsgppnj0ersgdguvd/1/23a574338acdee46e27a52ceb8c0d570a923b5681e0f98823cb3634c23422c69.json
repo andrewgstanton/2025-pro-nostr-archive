@@ -1,0 +1,25 @@
+{
+  "id": "23a574338acdee46e27a52ceb8c0d570a923b5681e0f98823cb3634c23422c69",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756485146,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:90eb20364eea23c320b750476b36772b5348bf2960d0d6ba941239a576ca3150:Marxist-Inversion-of-Bitcoin-dwd0gq",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "90eb20364eea23c320b750476b36772b5348bf2960d0d6ba941239a576ca3150",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Very well said",
+  "sig": "92c184e47d40fb49c67e28635a7cbb5f51607a5a3f7eaa32438c571722651f0b60fc3c56f327659abde6ff22a42fec31af8e906deffe3dd16b229d59c8b89158",
+  "_source": [
+    "primal backup"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "0cafdf4e5ac2ed22a881d9872d2824762cea8754b735cc0282e5f64fb8f422f4",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1758521301,
+  "kind": 1,
+  "tags": [
+    [
+      "title",
+      "# demoing nostr to  a family member on continuum!"
+    ],
+    [
+      "published_at",
+      "1758521301"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "decentralized"
+    ],
+    [
+      "t",
+      "sovereign"
+    ]
+  ],
+  "content": "# # demoing nostr to  a family member on continuum!\n\nI'm demoing Continuum (posting content from a localhost self-hosted version of continuum)\nto a family member!",
+  "sig": "d8ca618caf8a073e539d5df9fac592ef5b4f342e380d96f4750a1eed2603f2c1e51b641c5e113529027ea0d5dec3ea6ddcf7591a83bb20cbc96c88b02a17b945",
+  "_source": [
+    "primal backup"
+  ]
+}

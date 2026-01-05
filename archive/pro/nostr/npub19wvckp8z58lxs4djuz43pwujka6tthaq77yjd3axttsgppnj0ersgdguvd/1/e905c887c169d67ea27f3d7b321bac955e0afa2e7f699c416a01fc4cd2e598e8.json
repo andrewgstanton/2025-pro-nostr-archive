@@ -1,0 +1,31 @@
+{
+  "id": "e905c887c169d67ea27f3d7b321bac955e0afa2e7f699c416a01fc4cd2e598e8",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747894550,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:8aa70f4433129dadb71330ac89f62b534caa200a9f3ee349a0f4a5593073d1a6:my-plans-with-asknostr.site",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "8aa70f4433129dadb71330ac89f62b534caa200a9f3ee349a0f4a5593073d1a6",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "a6d9fa6142f2808ff2f8fc567996a9428051530f9de8801c559b691d0abd11e7",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I have used stack overflow and Quora  a lot in the past but now I use ChatGPT extensively.    I think if you combine features of all three (and perhaps some other ai models )it would be a very   powerful service fir a lot of users \n\n\n\n",
+  "sig": "3b486d01e6b5f8cfce331d1d7a5d80b271fabb6de7a942c195cccb637ca27a00de5c56a004416416b96e27bfe82d4c24e0f1a0c376bd0dabed47fa04bb74b1fe",
+  "_source": [
+    "primal backup"
+  ]
+}

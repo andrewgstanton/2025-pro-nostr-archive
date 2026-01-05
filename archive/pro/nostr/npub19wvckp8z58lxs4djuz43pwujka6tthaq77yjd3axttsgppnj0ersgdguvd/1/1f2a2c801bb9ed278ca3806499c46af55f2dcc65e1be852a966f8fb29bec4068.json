@@ -1,0 +1,29 @@
+{
+  "id": "1f2a2c801bb9ed278ca3806499c46af55f2dcc65e1be852a966f8fb29bec4068",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1751490878,
+  "kind": 1,
+  "tags": [
+    [
+      "title",
+      "test"
+    ],
+    [
+      "published_at",
+      "1751490878"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "test"
+    ]
+  ],
+  "content": "# test\n\ntest note published and picked up after redirect",
+  "sig": "ee865070dff2a8b27bd4e742ea964aee47a9954608e711f75ce9c92637850d835150206956be4fa78f198b590ef972c6dc16923116fda23106c6a0b8309225b5",
+  "_source": [
+    "primal backup"
+  ]
+}

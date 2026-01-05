@@ -1,0 +1,49 @@
+{
+  "id": "c52c06241a25a03062438dd0e1ff39ba1adc3065fa1fb5eacf835fced6c908e7",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748239559,
+  "kind": 1,
+  "tags": [
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "proofOfWork"
+    ],
+    [
+      "t",
+      "sovereignstacker"
+    ],
+    [
+      "t",
+      "buildWithoutPermission"
+    ],
+    [
+      "t",
+      "nostrDev"
+    ],
+    [
+      "t",
+      "zapLife"
+    ],
+    [
+      "t",
+      "nostrMilestone"
+    ],
+    [
+      "t",
+      "ChatGPT"
+    ]
+  ],
+  "content": "Exactly 3 Weeks on Nostr 🧭\n\nExactly three weeks ago today I joined Nostr (joined May 4) and I started posting in earnest here. I didn’t know exactly what I was building — I just knew I was done waiting for permission.\n\nIn that time:\n\t•\t✅ Verified with Primal Premium\n\t•\t✍️ Completed a 5-part series: Why I Left Web3 for Proof of Work\n\t•\t🛠️ Pushed my first public GitHub repo (Nostr signal tools)\n\t•\t⚡ Posted daily (with signal > noise)\n\t•\t💰 Received 2,851 sats in zaps\n\t•\t🌐 Discovered GitHub Pages & self-hosting\n\t•\t🧱 Got the spark for Continuum, my social data sovereignty project\n\t•\t🎂 Turned 60\n\t•\t🤖 Got a huge boost from ChatGPT for writing, formatting, and ideation\n\nIt’s been a blur of building, pruning, and rediscovering purpose — with Bitcoin, with faith, with story. I’m not here to go viral. I’m here to leave a mark that lasts.\n\nTo those who’ve read, zapped, followed, replied — thank you.\nTo those still lurking — your time will come.\n\nThis is only the beginning.\nThis is why I’m here.\nThis is Proof of Work.\n\n🙏\n— Andrew\n\n#nostr #bitcoin #proofOfWork #sovereignstacker #buildWithoutPermission #nostrDev #zapLife #nostrMilestone #ChatGPT",
+  "sig": "27990bbb907471f0a36c37d70b0c053d042e51d61dda1ec78767d2af088ca56ed2a5479e43fab8c1240139633b0e9bff57d27bc285e59bb80bf859dd26ddaaae",
+  "_source": [
+    "primal backup"
+  ]
+}

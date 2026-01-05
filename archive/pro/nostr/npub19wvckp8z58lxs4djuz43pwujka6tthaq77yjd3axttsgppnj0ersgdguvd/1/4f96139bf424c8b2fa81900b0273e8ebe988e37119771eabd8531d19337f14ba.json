@@ -1,0 +1,53 @@
+{
+  "id": "4f96139bf424c8b2fa81900b0273e8ebe988e37119771eabd8531d19337f14ba",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748200764,
+  "kind": 1,
+  "tags": [
+    [
+      "r",
+      "wss://nos.lol/"
+    ],
+    [
+      "r",
+      "wss://nostr.reelnetwork.eu/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://relay.nostr.band/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://bitcoinmaximalists.online/"
+    ],
+    [
+      "r",
+      "wss://nostr.bit4use.com/"
+    ]
+  ],
+  "content": "Why Games Still Matter\n\nI haven’t posted much about games. But after getting a zap from @jacob—who mentioned he’s looking to follow more people who play games on Nostr—it got me thinking:\n\nWhy do games matter? And what does it mean to build a world where play is taken seriously?\n\nBack in 2009, I briefly worked at a company building educational games with Adobe Flash. It was early—and clunky—but the goal was timeless: engage the mind, reward effort, and turn learning into something joyful.\n\nWe didn’t call it “gamification” yet, but that’s what it was:\n🎯 Design for feedback.\n🔁 Make progress visible.\n🚀 Let people grow through play.\n\nGames are some of the only systems left where the rules are clear, feedback is instant, and effort leads to progress. In a world of rigged systems and invisible gatekeepers, that’s radical.\n\nIt’s why people burn out at jobs but stay up late playing games.\nIt’s why Bitcoin and Nostr—while not games—feel gameful:\n\nYou earn what you prove.\n\nYou grow through action.\n\nYou play in open space, not closed loops.\n\nGamification isn’t about points or badges.\nIt’s about building systems where people want to keep showing up.\nWhere feedback builds mastery—not addiction.\nWhere risk and reward are fair.\n\nWe need more of that—across tech, education, even faith.\n\n🟠 Thanks to `@jac0b` for the zap and reminder.\nI’d love to hear from others who are building or playing in this space.\nWhat have games taught you? And where do you see this going?\n\nZap, reply, or follow as I keep building without permission—but with purpose.\n\n[Zap me here] (https://tinyurl.com/yuyu2b9t)",
+  "sig": "f76b4e722348cde274799ee4583f59775fc972a799fe3fa8a17ee7400b69945c755d12c69ce553814514db99cb447d98b59d70c8c3f6947de2a9dd3d3389309f",
+  "_source": [
+    "primal backup"
+  ]
+}

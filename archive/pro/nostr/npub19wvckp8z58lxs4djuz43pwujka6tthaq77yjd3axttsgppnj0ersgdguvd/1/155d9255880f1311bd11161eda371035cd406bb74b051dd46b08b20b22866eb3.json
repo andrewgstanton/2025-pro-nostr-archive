@@ -1,0 +1,53 @@
+{
+  "id": "155d9255880f1311bd11161eda371035cd406bb74b051dd46b08b20b22866eb3",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747521338,
+  "kind": 1,
+  "tags": [
+    [
+      "t",
+      "BitcoinPizzaDay"
+    ],
+    [
+      "t",
+      "ZapGoal"
+    ],
+    [
+      "t",
+      "NostrWriting"
+    ],
+    [
+      "t",
+      "ProofOfWork"
+    ],
+    [
+      "t",
+      "ValueForValue"
+    ],
+    [
+      "t",
+      "BitcoinCommunity"
+    ],
+    [
+      "t",
+      "ZapIfThisHits"
+    ],
+    [
+      "t",
+      "1000SatsChallenge"
+    ],
+    [
+      "t",
+      "FeedbackWelcome"
+    ],
+    [
+      "t",
+      "LightningNetwork"
+    ]
+  ],
+  "content": "\n\n🍕 Road to Pizza Day: Feedback + 1,000 Sats Goal ⚡️\n\nI’ve started sharing reflections, stories, and ideas here—just posted the first in a new series. More are coming.\n\nIf anything I post resonates, let me know. Feedback, reposts, questions, even gentle ( or not so gentle) disagreement—it all helps me grow and refine the signal.\n\nAs a small milestone, I’m setting a goal: 1,000 sats zapped to me (currently at 391– 1000  is not a lot about $1.00 currently ) by Bitcoin Pizza Day (May 22).\n\nNot because I’m chasing tips, but because I want to know what’s connecting. Every zap is a signal. If you find value in what I share, zap away. If not, I’d still love your thoughts.\n\n🧡 Thanks for walking this road with me. More coming soon.\n\n\n\n⸻\n\n🛠 Notes:\n\t•\tWritten with help from ChatGPT (ideation, editing, and metrics).\n\t•\tZap if this hits. Ask if it doesn’t.\n\n#BitcoinPizzaDay\n#ZapGoal\n#NostrWriting\n#ProofOfWork\n#ValueForValue\n#BitcoinCommunity\n#ZapIfThisHits\n#1000SatsChallenge\n#FeedbackWelcome\n#LightningNetwork\n\nhttps://blossom.primal.net/9c5685973d05d7a6e8a08bfa9e6ccfec4731014ee00cb220dc4036f8ebab585f.png",
+  "sig": "24c875ab6e2f1b2e7bca047f2fbb888b0084e63d80cd6f3e932dd81323386fa88e9a71484dac120837f6dd220e8d95e82edb7192913a33f5a5c5fd76b0422cd3",
+  "_source": [
+    "primal backup"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "e951b8c799b1c97256c7063bf944b678ed2639fefb2ec7b0e1442a96544fc399",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748462403,
+  "kind": 1,
+  "tags": [
+    [
+      "p",
+      "b8a9df8218084e490d888342a9d488b7cf0fb20b1a19b963becd68ed6ab5cbbd",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Just got my Nostr shirt at the Nostr lounge and talking with nostr:npub1hz5alqscpp8yjrvgsdp2n4ygkl8slvstrgvmjca7e45w6644ew7sewtysa \nhttps://blossom.primal.net/2aa352144f93ee51f6b6becc5711b7e965408ff73afc62f02b3df93be16529c7.jpg",
+  "sig": "174d2f6d58a6c67c2bcc25cdec31203642e4d4381ba2964353ec7c258a2ad7dd07acce6427243829497989f0d94e039112c5aebe9278f81ecdefe27c4bab6094",
+  "_source": [
+    "primal backup"
+  ]
+}

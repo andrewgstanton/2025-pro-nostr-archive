@@ -1,0 +1,65 @@
+{
+  "id": "cf58ab3a227a5c080301d510b305e3dd6bb19a5d1485250b8fe9b79b7e8e1e41",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1755904182,
+  "kind": 1,
+  "tags": [
+    [
+      "title",
+      "Today's Milestones - Akamaister/Continuum Aug 22, 2025"
+    ],
+    [
+      "published_at",
+      "1755904182"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "victoriousgospel"
+    ],
+    [
+      "t",
+      "scripture"
+    ],
+    [
+      "t",
+      "hell"
+    ],
+    [
+      "t",
+      "eternalconscioustorment"
+    ],
+    [
+      "t",
+      "annihilationism"
+    ],
+    [
+      "t",
+      "universalreconciliation"
+    ],
+    [
+      "t",
+      "faith"
+    ],
+    [
+      "t",
+      "truth"
+    ],
+    [
+      "t",
+      "theology"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ]
+  ],
+  "content": "# Today's Milestones - Akamaister/Continuum Aug 22, 2025\n\n- Today (Aug 22) I published 9 articles:\n\n- The Bitcoin Chronicles (8 total) - Table of Contents, Parts 1-6 as separate articles, and Combined Series as one article\n- Part 3: The Meaning of “Eternal” (Aionios) (Victorious Gospel series).\n\nAs a reminder, zaps are always appreciated. you can send to : andrewgstanton@primal.net",
+  "sig": "2f31b33a02fa0f8c3aba0c1074b7e3b76a2b73b6e219f066cf85598a666d810542aff4bfb88b608e8bb2f188e9647df4808e36369f62427ae85b11be03daf064",
+  "_source": [
+    "primal backup"
+  ]
+}

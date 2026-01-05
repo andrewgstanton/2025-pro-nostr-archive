@@ -1,0 +1,12 @@
+{
+  "id": "7850633960d221ba8c361f3b3b25e31dd44f90e3c2511ba8733240c7523bd7e9",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1761713918,
+  "kind": 1,
+  "tags": [],
+  "content": "Proof of authorship — “The Hope Protocol - Why What We Build Matters” (pdf proof copy)\n\nSHA256: \n41443a2713e1ad0f174bbd8ac6b699ccbc4a8761354b8d168197186bbd30ed93 \n\nCreated: Oct 27 2025\nAuthor: Andrew G. Stanton (@Akamaister)",
+  "sig": "c21afba0e9e6a35038bb4687b7f3ed374f33ad982d99d6db3d2e162e14f764107fbefd6c80e147c9b64162878c89dee48d99f4d8662f542293e2f1310945431a",
+  "_source": [
+    "primal backup"
+  ]
+}

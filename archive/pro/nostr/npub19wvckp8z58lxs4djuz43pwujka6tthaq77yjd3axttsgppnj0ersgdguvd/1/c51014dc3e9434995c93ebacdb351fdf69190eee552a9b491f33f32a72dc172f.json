@@ -1,0 +1,93 @@
+{
+  "id": "c51014dc3e9434995c93ebacdb351fdf69190eee552a9b491f33f32a72dc172f",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1750365290,
+  "kind": 1,
+  "tags": [
+    [
+      "t",
+      "Bitcoin"
+    ],
+    [
+      "t",
+      "Hawaii"
+    ],
+    [
+      "t",
+      "Sovereignty"
+    ],
+    [
+      "t",
+      "LandBack"
+    ],
+    [
+      "t",
+      "ProofOfWork"
+    ],
+    [
+      "t",
+      "Akamai"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://relay.nostr.band/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ]
+  ],
+  "content": "\n https://blossom.primal.net/ee387b45e96ee58780e12538de0efe5f425a8d41489ef5d2b622d1639eafb7c2.png \n\n🪧 Day 5 – Ownership Is Sovereignty\nHawaiians had private property rights long before the overthrow.\nThe Kingdom of Hawai‘i enshrined land ownership in a way that was radical for its time — a monarchy acknowledging the right of the common person to own land.\n\nThat right didn’t disappear after annexation.\nBut over time, much of the land was consolidated — under trusts like the Bishop Estate — and today, most people in Hawai‘i can’t buy the land they live on. They lease it.\n\nEven on Native American reservations — land meant to restore sovereignty — the land is often held in community trusts. It’s not truly private. You can’t just buy a parcel and pass it to your children fee simple.\n\nI don’t believe that helps anyone.\n\nWhether you're Hawaiian or not, born here or moved here —\ntrue sovereignty means being able to own and steward your own land.\n\nToday, I hold a piece of sovereignty in my pocket.\nNot a deed, but Bitcoin.\n\nIt’s the only truly sovereign property in the world:\n\nPortable\n\nPermissionless\n\nDefended by work, not politics\n\nAnd while it’s not a substitute for land — it does give us a way to reclaim something deeper. A foundation. A store of time, labor, value.\n\nIn a world where nearly every square inch is claimed by governments or trusts… Bitcoin gives us something no one can confiscate.\n\nThat’s why I believe this matters — not just for Hawaiians, but for everyone who’s ever longed to build something and pass it on.\n\n\n#Bitcoin #Hawaii #Sovereignty #LandBack #ProofOfWork #Akamai",
+  "sig": "536d9115b9a9ede31ecda7939ee063f0cd40a68b605f6b3061230d7c1bb2744f1dd4f32f197c8520c3da12ccf2149381ab8568e1579275cc4691f17c59b527ea",
+  "_source": [
+    "primal backup"
+  ]
+}

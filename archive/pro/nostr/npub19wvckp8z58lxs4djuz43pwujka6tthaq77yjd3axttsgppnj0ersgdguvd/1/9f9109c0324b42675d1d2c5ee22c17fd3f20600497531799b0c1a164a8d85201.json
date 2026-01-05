@@ -1,0 +1,93 @@
+{
+  "id": "9f9109c0324b42675d1d2c5ee22c17fd3f20600497531799b0c1a164a8d85201",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1750093665,
+  "kind": 1,
+  "tags": [
+    [
+      "t",
+      "Bitcoin"
+    ],
+    [
+      "t",
+      "PropertyRights"
+    ],
+    [
+      "t",
+      "AlohaAina"
+    ],
+    [
+      "t",
+      "Sovereignty"
+    ],
+    [
+      "t",
+      "ProofOfWork"
+    ],
+    [
+      "t",
+      "Decentralization"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://relay.nostr.band/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ]
+  ],
+  "content": " https://blossom.primal.net/91190a29586bfdedb1fa57855e9d69be161c481defc3e375e903a8035501d076.png \n\n🌱 Day 2: ʻĀina Isn’t Real Estate — It’s Identity\nIn Hawaiian, the word for land — ʻāina — comes from ʻai, to eat.\n\nʻĀina isn’t just dirt. It’s that which feeds us. That which grounds us.\n\nThe overthrow of Hawai‘i wasn’t just political. It was a disruption of this connection — between people, land, and meaning.\n\nLand was stolen. Culture was suppressed. Ownership became legal, not sacred.\n\nAnd now, some try to reclaim that loss by calling for a separate “homeland” within the State of Hawai‘i.\n\nI don’t believe that would help — not for Native Hawaiians, and not for locals who were born and raised here.\n\nWhat would help?\nRemembering the past.\nHonoring Hawaiian arts, language, and culture.\nBuilding systems that respect land, time, and dignity — without walls or exclusions.\n\nThat’s why I believe in Bitcoin.\nIt protects what you own without permission.\nIt treats ownership as sacred again.\n\nSovereignty doesn’t have to mean secession. It can mean wholeness.\n\nAloha ʻāina — not as protest, but as presence.\n\n#Bitcoin #PropertyRights #AlohaAina #Sovereignty #ProofOfWork #Decentralization\n",
+  "sig": "305d55959053dc02a7767f20172aed3a5e1e6bd3b0238b862c17a7afd2839d5f4e5465d3c2aa24367e8a82831a542c412d65dabb8ef129ae170b2d4c34ffbd38",
+  "_source": [
+    "primal backup"
+  ]
+}

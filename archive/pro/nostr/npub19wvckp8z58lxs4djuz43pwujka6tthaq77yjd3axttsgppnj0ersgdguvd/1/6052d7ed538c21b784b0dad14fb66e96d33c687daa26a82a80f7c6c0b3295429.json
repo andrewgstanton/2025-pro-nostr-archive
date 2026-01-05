@@ -1,0 +1,83 @@
+{
+  "id": "6052d7ed538c21b784b0dad14fb66e96d33c687daa26a82a80f7c6c0b3295429",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1750103486,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:d5ca7093da3518d569993aa784edf6647ca1507f5af9b8e93e4810ea549ad1ec:550067d4d67c9dda",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "d5ca7093da3518d569993aa784edf6647ca1507f5af9b8e93e4810ea549ad1ec"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://nostrelites.org/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://relay.nostr.band/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ]
+  ],
+  "content": "this was really powerful and it home for me.\n\nThanks for sharing!",
+  "sig": "06e327fe2075bd838578aae42d1967f81935fc3430a3976684ca08233c46bf0c716b3849c55ee8e1100a7343142a645d8359e980fc7ce6f7d34c96f5bd499c30",
+  "_source": [
+    "primal backup"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "95244bf036e2d1e1f5ff50a3099939cbb3cf8327c7e8f303df2098ce773cff8d",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748193417,
+  "kind": 1,
+  "tags": [
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "proofOfWork"
+    ],
+    [
+      "t",
+      "signalNotNoise"
+    ],
+    [
+      "t",
+      "buildWithConviction"
+    ],
+    [
+      "t",
+      "zaplife"
+    ]
+  ],
+  "content": "Just a quick note:\n\nIf you zap me or follow me here on Nostr, I’ll follow you back.\n\nNot out of obligation — but out of respect. A zap is more than a tip. A follow is more than a click. They’re signs of presence, attention, and shared signal. And I want to honor that.\n\nThis space isn’t about clout. It’s about connection. Quiet signal > loud noise.\n\n⚡️If my posts resonate, feel free to zap — it helps me keep writing and building here.\n\n#bitcoin, #nostr, #proofOfWork, #signalNotNoise, #buildWithConviction, #zaplife",
+  "sig": "8f3738808064f10cdf18a48a0b1c4ee495042853c2e56399c79ba78ff3049481b56bbf484a45ed0d0fe962b5089178a1eb35b425d449d5eb5def583f93eae1d4",
+  "_source": [
+    "primal backup"
+  ]
+}

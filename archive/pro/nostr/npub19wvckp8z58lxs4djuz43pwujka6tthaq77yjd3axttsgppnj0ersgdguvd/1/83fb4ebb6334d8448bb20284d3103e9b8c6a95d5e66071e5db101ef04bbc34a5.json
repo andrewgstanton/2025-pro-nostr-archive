@@ -1,0 +1,12 @@
+{
+  "id": "83fb4ebb6334d8448bb20284d3103e9b8c6a95d5e66071e5db101ef04bbc34a5",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747969749,
+  "kind": 1,
+  "tags": [],
+  "content": "Pizza Day TODAY.  I did NOT achieve my goal if crossing 1000 sats by Pizza Day today, but DID acheive a number of milestones\n\nDeployed my first github repo for managing cross-posting\n\nhttps://tinyurl.com/yru57avz\n\nCreated several articles describing this:\n\nWill AI and Automation Create More Bullshit Jobs — or Eliminate Them?\n\nhttps://tinyurl.com/ywo9k4my\n\nHow I Built a Tool to Cross-Post Nostr Notes to LinkedIn, Facebook, and X — in Under 3 Hours: \n\nhttps://tinyurl.com/ywxuowl5",
+  "sig": "6a012a4ff09041042eab4e98b1e229dfbce6920a499935fe9331efb4ab10d72199325a512d4695eb80fa5612bcb34169a6c4bea0e9355dffda6afede11b9e3f2",
+  "_source": [
+    "primal backup"
+  ]
+}

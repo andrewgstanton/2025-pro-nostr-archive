@@ -1,0 +1,53 @@
+{
+  "id": "1fb26871ecfdf6c8b012e9dfaa0ea59df967f963ac782ce105c8a5b81ca3f08f",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1761539625,
+  "kind": 1,
+  "tags": [
+    [
+      "title",
+      "Patron Support Update"
+    ],
+    [
+      "published_at",
+      "1761539625"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "#bitcoin"
+    ],
+    [
+      "t",
+      "#continuum"
+    ],
+    [
+      "t",
+      "#proofofwork"
+    ],
+    [
+      "t",
+      "#sovereignty"
+    ],
+    [
+      "t",
+      "#writing"
+    ],
+    [
+      "t",
+      "#sabbath"
+    ],
+    [
+      "t",
+      "#sunday"
+    ]
+  ],
+  "content": "# Patron Support Update\n\n🪙 **Quick update:**  \nI now have **40+ paid Continuum essays** (500 sats each) and have submitted ~18 pieces for publication to **Bitcoin Magazine** and other outlets.  \n\n👥 **Patrons** receive lifetime access to all paid essays, the Continuum codebase, and free **NIP-05 verification**.  \n\n📝 I publish **three essays daily** — two free and one paid.  \n🌅 On weekends, *all* essays are free, with the “paid” ones shared as **Sabbath** or **Sunday** pieces —  \nmy way of giving back and keeping the work open to everyone.  \n\n💡 Some say “knowledge should be free.” I understand that — but remember, I don’t *have* to publish any of this. \n \nThese essays take time, thought, and heart. The small zap simply honors the work and keeps the mission sustainable.\n\nThank you all for your support and understanding!  God bless!",
+  "sig": "91a52fa466b9c1c2e5104516361f59dd7351cdcacfd81bd9b3880761c46b36017cdaee1513b79748381d77ee7f6bf2885ebcacdf1df13aa05c82ec6316028592",
+  "_source": [
+    "primal backup"
+  ]
+}

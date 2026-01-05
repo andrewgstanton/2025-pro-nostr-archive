@@ -1,0 +1,69 @@
+{
+  "id": "a87c1768ac86915d928b521beac109bde884fcb6360a477d0cffd892477e8a7c",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1750191345,
+  "kind": 1,
+  "tags": [
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://relay.nostr.band/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ]
+  ],
+  "content": " https://blossom.primal.net/5d70dd76aead0169c109ca47bf4580ffd02de75c39b05b4d5b6261db51095716.png \n🌊 Day 3: What Could’ve Been — A Sovereign Ally\nWhat if Hawai‘i had never been overthrown?\nWhat if the Kingdom had continued — not as an isolated monarchy, but as a sovereign partner?\n\nWe don’t have to guess wildly. Just look at Palau and Micronesia.\n\nThey were never permanently U.S. territories.\nAnd yet today, they enjoy strong, peaceful relations with the United States — with defense, currency, and visa agreements in place, but with their sovereignty intact.\n\nI believe Hawai‘i could have followed that path.\nA sovereign nation. A trusted ally.\nLike the Kingdom of Tonga. Like Western Samoa (American Samoa is a US territory).  \n\nInstead, it was forcibly annexed.\nIts monarchy was dismantled.\nIts language suppressed.\n\nStatehood came later — and yes, there were benefits.\nBut there was no meaningful choice. No consent of the governed.\n\nWe can’t change the past. But we can learn from it.\n\nSovereignty doesn’t have to mean separation. It means dignity.\n\nIt means building relationships that are chosen — not imposed.\n\nThat’s why I believe in Bitcoin.\nIt lets us opt in. It respects our agency.\n\nSovereignty isn’t about rebellion. It’s about consent.\nAnd that matters now more than ever.",
+  "sig": "ff804681f11e88afea9d0d2f19bd457e36013d462358f06d86b1e2d4c2d379b84d1596a987046fbad1f9077fd2879c1627afdc6bd4cce75226d627054d690441",
+  "_source": [
+    "primal backup"
+  ]
+}

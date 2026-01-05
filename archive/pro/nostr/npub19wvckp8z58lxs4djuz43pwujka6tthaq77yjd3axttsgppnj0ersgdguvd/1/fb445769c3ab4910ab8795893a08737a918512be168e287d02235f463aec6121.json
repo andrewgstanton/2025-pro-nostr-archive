@@ -1,0 +1,25 @@
+{
+  "id": "fb445769c3ab4910ab8795893a08737a918512be168e287d02235f463aec6121",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1761873751,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:248d077e17268dee253a31c33cd5ca88eac031d3d98f5dd0b397cceb377c622f:you-cant-pour-the-new-life-of-christ-into-the-old-self-wednesday-of-trinity-19-2025",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "248d077e17268dee253a31c33cd5ca88eac031d3d98f5dd0b397cceb377c622f",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Beautiful and well said",
+  "sig": "1be9e97a01f95f2c8e8344599c2e3aaf347193600bce036924a15a770be21c05c6b0973965385cab512797b216d254ab54cd0b766bf7e2ac062e8427f9703ce7",
+  "_source": [
+    "primal backup"
+  ]
+}

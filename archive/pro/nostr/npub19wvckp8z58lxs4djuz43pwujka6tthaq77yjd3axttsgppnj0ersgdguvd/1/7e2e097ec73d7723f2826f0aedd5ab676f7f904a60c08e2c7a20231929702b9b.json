@@ -1,0 +1,33 @@
+{
+  "id": "7e2e097ec73d7723f2826f0aedd5ab676f7f904a60c08e2c7a20231929702b9b",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748706416,
+  "kind": 1,
+  "tags": [
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "mining"
+    ],
+    [
+      "t",
+      "proofOfWork"
+    ],
+    [
+      "t",
+      "energytruth"
+    ],
+    [
+      "t",
+      "sovereignstacker"
+    ]
+  ],
+  "content": "s Bitcoin Mining Wasteful? A Myth Worth Dismantling\n\nOne of the most persistent myths I hear—even from well-meaning friends—is that Bitcoin mining is wasteful or bad for the environment.\n\nLet’s clear the air:\n\nBitcoin mining doesn’t waste energy. It uses energy—on purpose—to secure the most decentralized, censorship-resistant monetary system humanity has ever seen. That’s not waste. That’s proof of work.\n\nIn fact, Bitcoin:\n\t•\tIncentivizes renewable and stranded energy—hydro, wind, flare gas, even volcanoes.\n\t•\tStabilizes grids by acting as a flexible buyer of last resort.\n\t•\tCan make clean energy more profitable, helping new infrastructure get built in places where it otherwise wouldn’t.\n\nCompare that to the energy used by:\n\t•\tAlways-on banking servers.\n\t•\tThe military-industrial complex that backs fiat currency.\n\t•\tConsumer habits fueled by inflation and debt.\n\nThose systems burn energy to sustain control. Bitcoin burns energy to build freedom.\n\nWaste is producing something that isn’t worth the cost. Bitcoin, with its fixed supply and incorruptible ledger, is worth every watt.\n\nThe truth? Fiat is far more wasteful. You just don’t see the cost—because it’s been exported, inflated away, or hidden behind bureaucratic complexity.\n\nBitcoin makes the cost of trust visible—and pays it in full.\n\nZap if this resonates!\n\n#bitcoin #mining #proofOfWork #energytruth #sovereignstacker",
+  "sig": "d29b4fa0a4303919ca59a7c4c51c98ea9b0bc771e86b321973400a6c40f56c033eda07c879e2821fb1602d2344ff481b88f03e5f9188b532ead76c50e5fcdea4",
+  "_source": [
+    "primal backup"
+  ]
+}

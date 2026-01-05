@@ -1,0 +1,49 @@
+{
+  "id": "8f4ab77625065496e00edf4d33c0112a57e0075a1e3bb9d6675c61d5d4b97bbd",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1746859668,
+  "kind": 1,
+  "tags": [
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "freedom"
+    ],
+    [
+      "r",
+      "wss://nostr.reelnetwork.eu/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://relayable.org/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://bitcoinmaximalists.online/"
+    ],
+    [
+      "r",
+      "wss://nostr.bit4use.com/"
+    ]
+  ],
+  "content": "The Magic of Having a Decentralized, Sovereign Identity\n\n https://blossom.primal.net/1c88b3e3849aca882668d5b4f11f236ebc8d7bd2bc1101d66ecf15d008edaa52.png \n\nI’ve literally been on Nostr for 5 days.\n\nWow.\n\nThe thought that my digital profile here is truly mine is mind-boggling. I’m still trying to wrap my head around it.\n\nOur fractured digital lives play out across multiple rented spaces online.\n\nWalled gardens, every one of them.\n\nIn these places, your identity exists only at the discretion of the platform hosting it. It’s monetized with ads—or you pay rent to keep it alive.\n\nYou can’t move your identity between these gardens or live outside them.\n\nYour identity dies if you try to leave. It’s called deplatforming.\n\nIf you’re kicked out, you have to rebuild it somewhere else—in yet another walled garden.\n\nYou are a slave in these places.\n\nUntil Nostr. Until now.\n\nNostr is functionally different. Here, your public key uniquely identifies you, and your private key gives you control over your content—and even lets you monetize it through the zap economy.\n\nHere, you are sovereign and free. Your presence and voice are rewarded instead of exploited.\n\nTo freedom. To sovereignty.\n\n#nostr #bitcoin #freedom\n",
+  "sig": "68d200d68294ea837df09275f49f7d5a6f305d73232ee959b553315d86d5e3272259d1c596457a5ab7d5d61b1ef5c43248dc9ada0227f5f2210a22ade784341f",
+  "_source": [
+    "primal backup"
+  ]
+}

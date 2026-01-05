@@ -1,0 +1,37 @@
+{
+  "id": "220b22cc13f4a48001ab8e1a8896fe378750a8c5933c34501c43900b68136ae2",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1753049058,
+  "kind": 1,
+  "tags": [
+    [
+      "title",
+      "The Cost of Compromise"
+    ],
+    [
+      "published_at",
+      "1753049058"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "opportunity-cost"
+    ]
+  ],
+  "content": "# The Cost of Compromise\n\nWeb3 didn’t just waste time — it cost real capital, real trust, and real opportunity. Here’s my breakdown of what went wrong, why I left, and why I’m building on something better.\n\n->> https://is.gd/96Mmt7",
+  "sig": "e253e069d0a97b61f08cff845e2a9e2e7404313ff9d8b4ed1cbcef3327007fd310eadf439a96e4b2ea1ba5119f775583a0be5defc448fd5b0f4dfb6a34745194",
+  "_source": [
+    "primal backup"
+  ]
+}

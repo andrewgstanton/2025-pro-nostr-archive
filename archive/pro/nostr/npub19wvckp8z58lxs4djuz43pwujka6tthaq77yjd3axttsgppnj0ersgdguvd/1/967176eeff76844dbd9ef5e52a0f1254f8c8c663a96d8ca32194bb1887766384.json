@@ -1,0 +1,53 @@
+{
+  "id": "967176eeff76844dbd9ef5e52a0f1254f8c8c663a96d8ca32194bb1887766384",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747089417,
+  "kind": 1,
+  "tags": [
+    [
+      "r",
+      "wss://nos.lol/"
+    ],
+    [
+      "r",
+      "wss://nostr.reelnetwork.eu/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://relay.nostr.band/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relayable.org/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://bitcoinmaximalists.online/"
+    ],
+    [
+      "r",
+      "wss://nostr.bit4use.com/"
+    ]
+  ],
+  "content": " https://blossom.primal.net/b0b2ff05823d5c2735d0e181a0335942156498dbcc47b159b2a97f2202387a5e.png \n\nThere’s a kind of service that starts with the right heart...\nbut ends up feeling more like a performance.\n\nI’ve been part of communities—faith-based, tech-leaning, recovery-focused—that organize well.\nThey send thoughtful emails. They assign roles. They light candles. They pray.\n\nAnd yet, something inside me keeps asking:\n\nWhere’s the weight?\nWhere’s the actual transformation?\nIs this real help—or just a curated moment of compassion?\n\nI don’t doubt the sincerity.\nBut sincerity without structure becomes sentiment.\nAnd sentiment without follow-through becomes theater.\n\nI’m not angry. I’m just hungry—for something deeper.\n\nFor community that feels less like casting calls and more like shared labor.\nFor service that isn’t stylized, but sustained.\nFor impact that doesn’t end when the applause fades.\n\nLord, help us trade stage lights for fruit.\nHelp us put the costumes down.\nHelp us love in ways that don’t always photograph well—but heal deeply.\n\nAmen.\n\n",
+  "sig": "35908dcac33dc4ae1fcbae866679d8d8fa4706448f7f714be8eced03746c0b9a104b5069394e12e9ef3dc6dbc7db3287875283dd1b9a83bceeb7ba59885b7bca",
+  "_source": [
+    "primal backup"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "a88332d59b7e2520a0a5b4bf09d024774346aa8d1c467babfe66aa65ea4506c2",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1757262697,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:ae0e383656c9a34419072724a051b2610de1d22a727cbe9ad170aa244c7d1497:the-origin-of-a-radical-individual",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "ae0e383656c9a34419072724a051b2610de1d22a727cbe9ad170aa244c7d1497",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Great article !!\n\nResonated very deeply with me\nAs well.  I have been writing a lot about “sovereignty” and what that truly means \n\n",
+  "sig": "6b8cb8db489e43b5fa4b07acf27a31cdb058fc921c8260871f5e370492fcc6e5034705204dbed36338379208bdcbbf20845c6ad20ec154d1115a8faf425d871a",
+  "_source": [
+    "primal backup"
+  ]
+}

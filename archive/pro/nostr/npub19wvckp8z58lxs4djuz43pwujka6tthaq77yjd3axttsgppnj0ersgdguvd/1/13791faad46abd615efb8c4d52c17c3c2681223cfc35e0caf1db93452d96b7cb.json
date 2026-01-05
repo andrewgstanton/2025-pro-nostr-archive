@@ -1,0 +1,45 @@
+{
+  "id": "13791faad46abd615efb8c4d52c17c3c2681223cfc35e0caf1db93452d96b7cb",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748844632,
+  "kind": 1,
+  "tags": [
+    [
+      "t",
+      "Bitcoin"
+    ],
+    [
+      "t",
+      "Familie"
+    ],
+    [
+      "t",
+      "Freiheit"
+    ],
+    [
+      "t",
+      "Wohlstand"
+    ],
+    [
+      "t",
+      "Strike"
+    ],
+    [
+      "t",
+      "Bitwage"
+    ],
+    [
+      "t",
+      "ZapTheWorld"
+    ],
+    [
+      "t",
+      "Nostr"
+    ]
+  ],
+  "content": "Ich habe meinem Bruder Fred geholfen, die Strike-App zu installieren, und ihm 1.000 Sats geschickt – direkt von meinem Primal-Konto.\n\nSein Gesicht hat geleuchtet.\n\nManchmal braucht es keine großen Erklärungen. Nur einen kleinen Schritt in Richtung Souveränität.\n\nIch hoffe, dass es bei ihm etwas bewegt – und dass auch seine Kinder und seine Freundin Desiree anfangen, in Bitcoin zu denken.\n\n⚡Ich feile noch an meinen Gedanken – Feedback von signal-orientierten Bitcoinern ist immer willkommen.\n\nÜbrigens: Ich frische gerade mein Deutsch wieder auf.\nDr. C hat mir bei der Formulierung geholfen. 😉\n\n#Bitcoin #Familie #Freiheit #Wohlstand #Strike #Bitwage #ZapTheWorld #Nostr",
+  "sig": "f95332beb23ec94ac3eb16912d627be4c937b5457a0031a0773962d4d529a723969937601167fa9aabd47e7a5928afe779a782b083658da5e40e0c40503411ba",
+  "_source": [
+    "primal backup"
+  ]
+}

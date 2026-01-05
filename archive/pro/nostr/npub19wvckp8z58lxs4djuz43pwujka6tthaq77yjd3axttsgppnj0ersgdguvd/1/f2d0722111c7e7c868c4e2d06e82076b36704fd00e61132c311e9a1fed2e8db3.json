@@ -1,0 +1,35 @@
+{
+  "id": "f2d0722111c7e7c868c4e2d06e82076b36704fd00e61132c311e9a1fed2e8db3",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1759969595,
+  "kind": 1,
+  "tags": [
+    [
+      "p",
+      "e8d67c435a4a59304e1414280e952efe17be4254fca27916bf63f9f73e54aba4",
+      "wss://brb.io",
+      "mention"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ]
+  ],
+  "content": "nostr:nprofile1qyx8wumn8ghj7cnjvghxjmcpz4mhxue69uhk2er9dchxummnw3ezumrpdejqqg8g6e7yxkj2tycyu9q59q8f2th7z7lyy48u5fu3d0mrl8mnu49t5s02kql2  — just following up on my October submissions to Bitcoin Magazine. Grateful for the work you’re doing.",
+  "sig": "75266905cd786a8af3ac2c51c03ce38df63adecaa5f49f2c53e931447e59822d1a78eb0ed2f8264e37267413aeb0f319f0fd3c4e721791ab494b8183823f3b7d",
+  "_source": [
+    "primal backup"
+  ]
+}

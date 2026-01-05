@@ -1,0 +1,33 @@
+{
+  "id": "c0a517abc85d7d4676788e039a978ee284f5da7171c074dbd04ff88e8660a793",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747458110,
+  "kind": 1,
+  "tags": [
+    [
+      "t",
+      "iPhone16"
+    ],
+    [
+      "t",
+      "Apple"
+    ],
+    [
+      "t",
+      "USB"
+    ],
+    [
+      "t",
+      "ChargingBrickNotIncluded"
+    ],
+    [
+      "t",
+      "TechAnnoyances"
+    ]
+  ],
+  "content": "Why does a $1,200 phone not come with a charger?\n\nJust got the iPhone 16 Pro Max. Beautiful hardware — but once again, no charging brick included. Just a USB-C to USB-C cable (male to male). If you don’t already have a compatible charger, you’re stuck buying one separately.\n\nApple calls it “environmental.” I call it upselling.\n\n#iPhone16 #Apple #USB-C #ChargingBrickNotIncluded #TechAnnoyances",
+  "sig": "5a068cd1bb5e0badeeca12349e3bbe5d5dd5a7442493590269443c7e1841f90aec3eba2be11b7320c02920cb6acba2d5b544045d9fa6fc71ed6659d6af2e8c3e",
+  "_source": [
+    "primal backup"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "4d95748fbd9050c69d96e4f38635aa349302d5d85ed8ac410c1591bc7daade8c",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747012682,
+  "kind": 1,
+  "tags": [
+    [
+      "r",
+      "wss://nos.lol/"
+    ],
+    [
+      "r",
+      "wss://nostr.reelnetwork.eu/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://relay.nostr.band/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://relayable.org/"
+    ],
+    [
+      "r",
+      "wss://nostr.bit4use.com/"
+    ],
+    [
+      "r",
+      "wss://bitcoinmaximalists.online/"
+    ]
+  ],
+  "content": "Bitcoin is Web3 ?\n\n https://blossom.primal.net/e9a2d72b27c3d2e678b5e502ac80cf6543674f65dd2bf95fae8bec89bb68d2ca.png \n\n❌ Bitcoin is not Web3 in spirit, architecture, or culture.\nWeb3, as commonly understood, refers to:\n\nSmart contract platforms (Ethereum, Solana, etc.)\n\nDapps, DAOs, NFTs, DeFi, etc.\n\nToken-driven ecosystems with high programmability\n\nBitcoin, on the other hand:\n\nWas created before “Web3” existed as a concept\n\nDoesn’t rely on tokens, ICOs, or smart contract hype\n\nPrioritizes immutability, security, and monetary integrity\n\nHas a very different ethos: slow, deliberate, antifragile\n\n✅ But some people lump Bitcoin into Web3 anyway\nUsually for one of two reasons:\n\nMarketing convenience – they group all blockchain technologies together for fundraising or branding.\n\nLack of understanding – they assume “crypto = Web3,” so Bitcoin gets thrown in.\n\n⚠️ Why this matters\nThe Bitcoin community (especially Bitcoin Maximalists) tends to reject the Web3 label because:\n\nIt obscures Bitcoin’s core mission: sound money\n\nIt associates Bitcoin with speculative projects and vaporware\n\nWeb3 culture often chases features, while Bitcoin focuses on principles\n\nSummary:\nBitcoin is foundational. Web3 is derivative.\nOne is money. The other is architecture for apps.\nCalling Bitcoin “Web3” is like calling the U.S. Constitution a mobile app.\n\n",
+  "sig": "50f074a973b7582cefaae28fb7047b48a19bd2b9022d986e47263b36426ec25820601a8d1f680811ccfd4c8bc3add61fdca62a5fd2d38c02ddd1e7ceea333777",
+  "_source": [
+    "primal backup"
+  ]
+}

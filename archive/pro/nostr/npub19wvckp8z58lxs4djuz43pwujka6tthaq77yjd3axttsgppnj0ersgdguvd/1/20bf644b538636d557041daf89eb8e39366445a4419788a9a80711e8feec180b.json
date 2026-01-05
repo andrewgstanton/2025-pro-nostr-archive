@@ -1,0 +1,25 @@
+{
+  "id": "20bf644b538636d557041daf89eb8e39366445a4419788a9a80711e8feec180b",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756584003,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:8d34bd2432240c5637174a3db191878baa1c133aec739b64a264259f414be32b:ol0dYgu1O95yvFL_7gYTb",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "8d34bd2432240c5637174a3db191878baa1c133aec739b64a264259f414be32b",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Every word of scripture is true an inspired by the Holy Spirit\n\nBut we often misunderstand and misinterpret what is written to our detriment",
+  "sig": "239678b90c6dfa9eb7298033038b8e54f9af18f3ae9b6878eb5f171fce6a980164a08848a26c36f4bdf3afe4f942f2bbaa1f1c23a5c5bbeaf808303c73b0ba75",
+  "_source": [
+    "primal backup"
+  ]
+}

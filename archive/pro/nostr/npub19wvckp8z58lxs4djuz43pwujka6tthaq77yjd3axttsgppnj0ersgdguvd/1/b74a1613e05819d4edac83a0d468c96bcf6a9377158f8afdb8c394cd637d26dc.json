@@ -1,0 +1,25 @@
+{
+  "id": "b74a1613e05819d4edac83a0d468c96bcf6a9377158f8afdb8c394cd637d26dc",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1757648427,
+  "kind": 1,
+  "tags": [
+    [
+      "title",
+      "Sept. 10, 2025 - Charlie Kirk"
+    ],
+    [
+      "published_at",
+      "1757648427"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ]
+  ],
+  "content": "# Sept. 10, 2025 - Charlie Kirk\n\nYesterday was a horrible day for America. I still can’t believe Charlie Kirk is gone. I didn’t follow him closely at every turn, but his deep Christian convictions and his willingness to invite dialogue always resonated with me. On Sept 10 I published a set of reflections on faith and freedom in the shadow of his passing — pieces that feel all the more urgent today.\n\nFree Article featured: The Cost of Compromise\n\nZaps appreciated.  Please send to : andrewgstanton@primal.net\n\n-- Andrew G. Stanton",
+  "sig": "64216026f1218cbc3fd0e022a02a40834b8fdcb3ed29aa1f25a845f2152ad0787dd13768b03d327a796828e4a523fabc1924a2619c3a9275091005061dc62ec6",
+  "_source": [
+    "primal backup"
+  ]
+}

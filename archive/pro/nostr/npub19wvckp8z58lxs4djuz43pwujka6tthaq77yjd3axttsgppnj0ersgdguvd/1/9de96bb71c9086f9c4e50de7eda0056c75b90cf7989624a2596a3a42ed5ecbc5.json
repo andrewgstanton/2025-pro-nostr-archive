@@ -1,0 +1,12 @@
+{
+  "id": "9de96bb71c9086f9c4e50de7eda0056c75b90cf7989624a2596a3a42ed5ecbc5",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747116309,
+  "kind": 1,
+  "tags": [],
+  "content": "Experiming with using nsec.app to login to my primal.net client -- works well!",
+  "sig": "d52b62c66031fa2800f546634b8745474417f7c195f2b7e2f8e4515fa3832406750b3372dd34c8eec67e549eff7be495c4de15a44942643e4d5f2c5bdd3f0b20",
+  "_source": [
+    "primal backup"
+  ]
+}

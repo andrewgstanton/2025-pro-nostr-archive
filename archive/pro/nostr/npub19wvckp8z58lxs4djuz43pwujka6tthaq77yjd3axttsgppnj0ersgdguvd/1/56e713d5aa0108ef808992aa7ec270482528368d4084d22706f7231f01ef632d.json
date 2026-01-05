@@ -1,0 +1,25 @@
+{
+  "id": "56e713d5aa0108ef808992aa7ec270482528368d4084d22706f7231f01ef632d",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1751416637,
+  "kind": 1,
+  "tags": [
+    [
+      "title",
+      "🚀 Continuum v1.0.0 is live"
+    ],
+    [
+      "published_at",
+      "1751416637"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ]
+  ],
+  "content": "# 🚀 Continuum v1.0.0 is live\n\nA self-hosted, Bitcoin-aligned dashboard for reclaiming your digital life.\n\n✓ Markdown editing  \n✓ SQLite storage  \n✓ Local-first (Docker)  \n✓ Nostr notes + articles  \n✓ No Primal required.\n\nCode: https://github.com/andrewgstanton/continuum",
+  "sig": "28e61040d693e0dbb6bea9a973291d8e864ba51749312404bfff1eafe52ee67fa0c983f73320dfa6ab8cf5490ded8e4b800b4c2e5b183b08031c4157e218b0cc",
+  "_source": [
+    "primal backup"
+  ]
+}

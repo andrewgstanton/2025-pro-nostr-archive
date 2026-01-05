@@ -1,0 +1,41 @@
+{
+  "id": "230d949bb5c42a18b3ef38ddd184928c7c2860ce774b76d1c5b4ef80b95d0eaa",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747979363,
+  "kind": 1,
+  "tags": [
+    [
+      "t",
+      "Bitcoin"
+    ],
+    [
+      "t",
+      "PizzaDay"
+    ],
+    [
+      "t",
+      "MemorialDay"
+    ],
+    [
+      "t",
+      "BTCATH"
+    ],
+    [
+      "t",
+      "ZapLife"
+    ],
+    [
+      "t",
+      "ProofOfWork"
+    ],
+    [
+      "t",
+      "StillBuilding"
+    ]
+  ],
+  "content": "Made pizza for Bitcoin Pizza Day.\nTwo days before my birthday.\nBTC at an all-time high.\nMemorial Day weekend.\n\nThis is what 2025 looks like on a Bitcoin Standard.\nJoy, work, proof, and a little sauce on top. 🍕\n\n\nLet’s keep building. Let’s keep stacking.\n\n#Bitcoin #PizzaDay #MemorialDay #BTCATH #ZapLife #ProofOfWork #StillBuilding\nhttps://blossom.primal.net/c6ff8494663f831fefeb2be673053f7ce423153e447ecd6e8df0d0bcb6d259bb.mov\nhttps://blossom.primal.net/959ea05395572e70dcc1dfc03eb48ea8eee8af18117ecb8b3a22031d795e7c4c.jpg",
+  "sig": "bd3723f243fd3493d37b7ab7725a93a302aa478a568ab83ea0cd840dae0f116ee375ef6289029d4cd46ce2e52fe11d3e547f81aa2221e9a2c91f123001ffbe04",
+  "_source": [
+    "primal backup"
+  ]
+}

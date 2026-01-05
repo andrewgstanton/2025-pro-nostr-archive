@@ -1,0 +1,41 @@
+{
+  "id": "0067ae98b7c1708c6b05c2871a77012cde9ebf7aff98c68d83d4c092c2557ac6",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1761526862,
+  "kind": 1,
+  "tags": [
+    [
+      "p",
+      "356875ffd729b06eeb4c1d7a70a1f750045d067774d21c0faffe4af2bf96a2e8",
+      "wss://nostr.bitcoiner.social",
+      "mention"
+    ],
+    [
+      "p",
+      "38f9a05c1e1880410a8994326f8f2445eaf22f9b2b6c13d2f0918d996999fc04",
+      "wss://nostr-02.dorafactory.org/",
+      "mention"
+    ],
+    [
+      "t",
+      "ChristAlone"
+    ],
+    [
+      "t",
+      "SovereigntyOfGod"
+    ],
+    [
+      "t",
+      "GraceAlone"
+    ],
+    [
+      "t",
+      "AlphaAndOmega"
+    ]
+  ],
+  "content": "nostr:nprofile1qqsr37dqts0p3qzpp2yegvn03ujyt6hj97djkmqn6tcfrrvedxvlcpqpramhxue69uhkummnw3ez6vpj9ejx7unpveskxar0wfujummjvuhsz8nhwden5te0dehhxarj94c82c3wwajkcmr0wfjx2u3wdejhgtcl28a8f and nostr:nprofile1qqsr26r4lltjnvrwadxp67ns58m4qpzaqemhf5sup7hlujhjh7t296qpr3mhxue69uhkummnw3ezucnfw33k76twv4ezuum0vd5kzmqppamhxue69uhkumewwd68ytnrwg5pml9e \n\nYou both inspired me to write\n\n“The Gravity Of Grace” ->\n\nhttps://primal.net/andrewgstanton/the-gravity-of-grace\n\nThank you both!!\n\nMay the Lord be glorified in this amen!!\n\n#ChristAlone #SovereigntyOfGod\n#GraceAlone\n#AlphaAndOmega\n\n",
+  "sig": "8c51d06ed6224ef4865c75827baa83a15a72fdb0c6d1b6aff97df9b0f9c09a10e40f2c8fdb93ec5a5acfc671ea32eeb6fecf982951f93e4bd8d7f98fe480a87d",
+  "_source": [
+    "primal backup"
+  ]
+}

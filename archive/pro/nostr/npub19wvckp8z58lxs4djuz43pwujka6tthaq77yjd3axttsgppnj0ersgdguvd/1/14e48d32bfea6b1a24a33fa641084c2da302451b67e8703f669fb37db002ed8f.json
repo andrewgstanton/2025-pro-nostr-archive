@@ -1,0 +1,31 @@
+{
+  "id": "14e48d32bfea6b1a24a33fa641084c2da302451b67e8703f669fb37db002ed8f",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1757521903,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:3ea90be255671c79e4db2927b195544cbdb8d4638f736f068946073885dd9d42:hopewithbitcoin--hope-with-bitcoin-first-report-on-our-poultry-project-1757415152899",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "3ea90be255671c79e4db2927b195544cbdb8d4638f736f068946073885dd9d42",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "b6dcdddf86675287d1a4e8620d92aa905c258d850bf8cc923d39df1edfee5ee7",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I love this model!!\n\nWrote an article about this very thing called “sovereign support vs donor dependency”",
+  "sig": "49ccd2bbb69baf230919289e884400a90b63a667923c7b3c848e022018c91344e10665f36ae25aa83ff0ca73d8288d83f6b8f3cf9533bde29609bef92fb5a260",
+  "_source": [
+    "primal backup"
+  ]
+}

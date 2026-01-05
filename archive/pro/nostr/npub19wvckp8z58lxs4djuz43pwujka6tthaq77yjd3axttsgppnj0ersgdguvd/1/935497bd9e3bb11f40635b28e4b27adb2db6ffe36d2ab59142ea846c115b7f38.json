@@ -1,0 +1,33 @@
+{
+  "id": "935497bd9e3bb11f40635b28e4b27adb2db6ffe36d2ab59142ea846c115b7f38",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1746384905,
+  "kind": 1,
+  "tags": [
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://nostr.wine/"
+    ],
+    [
+      "r",
+      "wss://nostrelites.org/"
+    ],
+    [
+      "r",
+      "wss://relay.mostr.pub/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ]
+  ],
+  "content": "really liking nostr, but still learning so bear with me",
+  "sig": "2195a0ae3b0b2bb3ab7fe5cfb0a1c1b0e582ce2b20d0b43ac7b513519dac305c4a514ce040a7e5314327c9c63821829c0e12680269e4bff76a476a47833d4328",
+  "_source": [
+    "primal backup"
+  ]
+}

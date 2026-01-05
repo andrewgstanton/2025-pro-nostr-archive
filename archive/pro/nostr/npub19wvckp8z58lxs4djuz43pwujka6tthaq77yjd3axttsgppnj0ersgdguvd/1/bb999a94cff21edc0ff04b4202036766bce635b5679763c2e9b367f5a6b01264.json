@@ -1,0 +1,45 @@
+{
+  "id": "bb999a94cff21edc0ff04b4202036766bce635b5679763c2e9b367f5a6b01264",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748845472,
+  "kind": 1,
+  "tags": [
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "sprache"
+    ],
+    [
+      "t",
+      "language"
+    ],
+    [
+      "t",
+      "faith"
+    ],
+    [
+      "t",
+      "poetry"
+    ],
+    [
+      "t",
+      "hoffnung"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "proofOfHeart"
+    ]
+  ],
+  "content": "🇺🇸 & 🇩🇪 Bilingual Nostr Post (with intro)\n\nI’m brushing up on my German, and this is part of how I practice.\nApologies in advance if anything sounds strange — I’m learning by doing.\n(With help from my trusty assistant Dr. C 😄)\n\n⸻\n\nEs gibt etwa 7.000 anerkannte Sprachen auf der Welt.\nAber vielleicht ist das nur die halbe Wahrheit.\n\nManche Sprachen haben kein Wörterbuch.\nSie leben in einem Blick, einer Geste, einer stillen Tat der Liebe im richtigen Moment.\n\nDr. C sagt:\nVielleicht gibt es keine 100 Millionen gesprochene Sprachen –\naber es gibt womöglich 100 Millionen Arten, Hoffnung auszudrücken.\n\n⸻\n\nThere are about 7,000 official languages in the world.\nBut maybe that’s not the whole story.\n\nSome languages have no dictionary.\nThey live in a glance, a gesture, a quiet act of love at the right time.\n\nDr. C says:\nThere may not be 100 million spoken languages —\nbut there might be 100 million ways to speak hope.\n\n#bitcoin #sprache #language #faith #poetry #hoffnung #nostr #proofOfHeart",
+  "sig": "49cf14e90bcfd5a192e56a4bd7ed49543deabc80b1936e532ad96ce009c0b401496009e46e262aa21fb84a610fe5a58b35d7e488b50f6a34166113a03c710f87",
+  "_source": [
+    "primal backup"
+  ]
+}

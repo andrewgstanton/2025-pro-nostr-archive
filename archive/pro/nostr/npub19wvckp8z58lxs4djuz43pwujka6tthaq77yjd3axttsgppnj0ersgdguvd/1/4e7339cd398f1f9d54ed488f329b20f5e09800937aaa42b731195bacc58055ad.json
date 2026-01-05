@@ -1,0 +1,12 @@
+{
+  "id": "4e7339cd398f1f9d54ed488f329b20f5e09800937aaa42b731195bacc58055ad",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747980163,
+  "kind": 1,
+  "tags": [],
+  "content": "🌿 From Walled Gardens to Open Parks: Why I’m Building on Nostr\n\nThe more I experiment with Nostr, the more clearly I see the contrast:\nMost social platforms today feel like walled gardens — beautiful but locked.\nYou’re allowed to live inside, but not freely build, move, or grow.\n\nTry to automate your content, analyze engagement, or manage identity across platforms like Facebook, LinkedIn, or X?\nYou’ll hit gatekeepers.\nYou’ll hit rate limits.\nYou’ll hit terms of service that say: stay in your lane.\n\nBut Nostr is different.\n\nIt’s an open park.\nKeys, not accounts.\nProtocols, not platforms.\nPost once, propagate anywhere — and own it all the way down.\n\n⸻\n\nI’m working on a dashboard to:\n\t•\tWrite and publish from one place\n\t•\tFetch & format Nostr content for legacy networks\n\t•\tTrack zaps, reach, and engagement\n\t•\tMaybe one day even manage titles, signatures, and multisig permissions — all in the open\n\nThe idea isn’t just automation.\nIt’s reclaiming agency — from the silos, for the sovereign.\n\n⸻\n\nIf you’re building in this direction or just curious what it looks like, let’s connect.\nThis isn’t just a dev tool — it’s a bet on what the internet could be.\n\n🧡 Built on Bitcoin.\n💬 Boosted by Nostr.\n⚡ Fueled by zaps.\n🤖 Helped by ChatGPT.\n\n(And yes, I’d love a zap if this resonates.)\n",
+  "sig": "238358eccda1b1e7da7a1a5fb3c2a575248eea7e388a1e63bfbf847711a801adb76b98531901076e609d2f625cebb894f2a35e830bef5cd156cc1eea81daa619",
+  "_source": [
+    "primal backup"
+  ]
+}

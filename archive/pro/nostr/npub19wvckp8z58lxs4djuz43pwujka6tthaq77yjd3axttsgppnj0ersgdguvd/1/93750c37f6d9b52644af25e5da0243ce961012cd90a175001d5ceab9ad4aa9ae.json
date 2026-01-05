@@ -1,0 +1,33 @@
+{
+  "id": "93750c37f6d9b52644af25e5da0243ce961012cd90a175001d5ceab9ad4aa9ae",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1761715850,
+  "kind": 1,
+  "tags": [
+    [
+      "t",
+      "Bitcoin"
+    ],
+    [
+      "t",
+      "Authorship"
+    ],
+    [
+      "t",
+      "Continuum"
+    ],
+    [
+      "t",
+      "ProofOfWork"
+    ],
+    [
+      "t",
+      "Sovereignty"
+    ]
+  ],
+  "content": "Proof of Authorship — “Beyond The Noise -- Why Bitcoin's Volatility Is the Price of Truth”\n\nSHA-256 (PDF): \n5f1d0ba5cef371a43fe35d03442cf6fd60a1afb397367dcedecd0e00f4144fc2\n\nThis is the canonical PDF version submitted to *Bitcoin Magazine*.\n\nCreated and signed by Andrew G. Stanton on Oct 27, 2025. \n\n(@Akamaister)\n\nnpub: npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd \n\n#Bitcoin #Authorship #Continuum #ProofOfWork #Sovereignty",
+  "sig": "937ba544c94fb9be249b9f4223113d3626fef0bb0fc9fa765ac6173a7ff5c68a5b35191accdd8e6c247a6c19dac4ec3c7470a1e7c32e42b18a3fe008028f9449",
+  "_source": [
+    "primal backup"
+  ]
+}

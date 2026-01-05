@@ -1,0 +1,61 @@
+{
+  "id": "8a65850c12101c55df128184142dca1af39cfc6c40366fdd30b60177fae6710a",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747090762,
+  "kind": 1,
+  "tags": [
+    [
+      "t",
+      "ProofOfWork"
+    ],
+    [
+      "t",
+      "BitcoinJourney"
+    ],
+    [
+      "t",
+      "StackingSats"
+    ],
+    [
+      "t",
+      "BitcoinEthos"
+    ],
+    [
+      "t",
+      "RealSignal"
+    ],
+    [
+      "t",
+      "BuildOnBitcoin"
+    ],
+    [
+      "t",
+      "BitcoinPhilosophy"
+    ],
+    [
+      "t",
+      "SovereignStacker"
+    ],
+    [
+      "t",
+      "NoKeysNoCoin"
+    ],
+    [
+      "t",
+      "BitcoinDev"
+    ],
+    [
+      "t",
+      "OpenSourceContributor"
+    ],
+    [
+      "t",
+      "BitcoinerVoices"
+    ]
+  ],
+  "content": " https://blossom.primal.net/10e72d6775829395989d8905eefdfe65e1f0cb6149531a6de192d7bab5f3b615.png \n\n🧠 What Kind of Bitcoiner Are You?\nThere’s no single kind of Bitcoiner.\n\nSome of us are here for the money.\nSome for the mission.\nSome stumbled in through mining, memes, or Michael Saylor.\nSome came for the yield—and stayed for the ethos.\nSome stack quietly. Others preach. Some build.\n\nMe?\nI used to wander through Web3—curious, hopeful, but unsettled.\nNow I’m anchored. Not perfect, not loud, but aligned.\nI trade equities. I stack sats. I tithe in Bitcoin.\nI believe Proof of Work isn’t just a protocol—it’s a posture.\n\nI’ve been developing software for over 35 years—but I’ve yet to touch Bitcoin Core.\nI’d like to.\nAnd maybe that’s part of the journey too.\n\nSo I’m asking—not to judge, but to learn:\nWhat kind of Bitcoiner are you?\n\n#ProofOfWork #BitcoinJourney #StackingSats #BitcoinEthos #RealSignal #BuildOnBitcoin #BitcoinPhilosophy #SovereignStacker #NoKeysNoCoin\n\n#BitcoinDev #OpenSourceContributor #BitcoinerVoices\n",
+  "sig": "8614984b78a2b5478190c2e04364a5bef0ddbc8956d2819d627008f526479673d6c7ef600be5ebd1d311ef3d1d51c01bba00295f658626cd989f035a7a646c5e",
+  "_source": [
+    "primal backup"
+  ]
+}

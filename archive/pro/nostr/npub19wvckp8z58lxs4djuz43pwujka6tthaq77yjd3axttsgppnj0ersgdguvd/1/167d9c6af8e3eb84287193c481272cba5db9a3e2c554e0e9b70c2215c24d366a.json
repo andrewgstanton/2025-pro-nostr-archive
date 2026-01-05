@@ -1,0 +1,93 @@
+{
+  "id": "167d9c6af8e3eb84287193c481272cba5db9a3e2c554e0e9b70c2215c24d366a",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1761762783,
+  "kind": 1,
+  "tags": [
+    [
+      "t",
+      "Continuum"
+    ],
+    [
+      "t",
+      "BitcoinChronicles"
+    ],
+    [
+      "t",
+      "Sovereignty"
+    ],
+    [
+      "t",
+      "Hope"
+    ],
+    [
+      "t",
+      "Freedom"
+    ],
+    [
+      "t",
+      "Truth"
+    ],
+    [
+      "t",
+      "ProofOfWork"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://relay.nostr.band/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ]
+  ],
+  "content": "Teaser Post (for Paid Essay)\n\nTitle: The Price of Transmission\n\nExcerpt / Teaser Text:\n\n“When data crosses the void between Earth and Moon without permission, it does more than send information — it restores faith.\n\nBut every act of truth comes with a cost.\n\nFor those who built the first Entanglement Bridge, the price wasn’t measured in money or metal — it was measured in courage, secrecy, and the will to keep the signal alive.”\n\nThis new Bitcoin Chronicles essay explores what happens when the pursuit of truth collides with the machinery of control — how two scientists risk everything to let a single honest message travel faster than fear.\n\nWhy freedom demands payment.\nWhy hope has bandwidth.\nAnd why every transmission — signed, verified, and sent into the dark — is a heartbeat of human sovereignty.\n\nRead the full piece:\n→ “The Price of Transmission” (Paid essay — 500 sats)\nSupport: [andrewgstanton@primal.net]\n\n#Continuum #BitcoinChronicles #Sovereignty #Hope #Freedom #Truth #ProofOfWork",
+  "sig": "28f7280159383d237aa51e5879edc470f1c3be9ef96acbcfffb4cd5289d2d563502c483c722f937a572d064fab03a0dbefd55ceb6d540ef19578ed8e60bfbef1",
+  "_source": [
+    "primal backup"
+  ]
+}

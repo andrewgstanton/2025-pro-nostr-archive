@@ -1,0 +1,57 @@
+{
+  "id": "58c5cf226985757ff269d228a01c8d34944c98f1648ca7417583f46c89f6bb58",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1746771579,
+  "kind": 1,
+  "tags": [
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "opsec"
+    ],
+    [
+      "t",
+      "dueDiligence"
+    ],
+    [
+      "t",
+      "zaplife"
+    ],
+    [
+      "r",
+      "wss://nostr.reelnetwork.eu/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://relayable.org/"
+    ],
+    [
+      "r",
+      "wss://bitcoinmaximalists.online/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.bit4use.com/"
+    ]
+  ],
+  "content": "⚠️ Nostr community PSA\n\nI received a DM from a new, unverified account claiming to represent a major OTC Bitcoin investment tied to a public company. It referenced a $30M buy-in gap on a 5,000 BTC deal and offered me a chance to participate.\n\nThe message was unsolicited, lacked verification, and made aggressive claims around affiliations and returns.\n\nWhether scam or just inappropriate outreach, it’s a huge red flag. Be vigilant. Don’t let hype override wisdom.\n\n#nostr #bitcoin #opsec #dueDiligence #zaplife",
+  "sig": "2dea387b890762052853d606aedc5c3626c2d1daf2784c7cf6dade1f99d82d7448b2149b75aebfedb0b3b2cba9036d21582471c8d362fd9c1df43141f20f7039",
+  "_source": [
+    "primal backup"
+  ]
+}

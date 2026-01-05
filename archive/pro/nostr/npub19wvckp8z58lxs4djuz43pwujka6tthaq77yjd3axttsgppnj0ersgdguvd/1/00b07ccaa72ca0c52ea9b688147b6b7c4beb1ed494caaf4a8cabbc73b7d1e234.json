@@ -1,0 +1,25 @@
+{
+  "id": "00b07ccaa72ca0c52ea9b688147b6b7c4beb1ed494caaf4a8cabbc73b7d1e234",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747891257,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:bc6ccd13a32f94d36564dac8f5963a0d69c583c9968341bbdf278b21f53098e4:why-do-bullshit-jobs-exist?",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "bc6ccd13a32f94d36564dac8f5963a0d69c583c9968341bbdf278b21f53098e4",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Very good article. Many of the issues you bring up I think I am seeing from a slightly different angle - web3 magical money  thinking ",
+  "sig": "12b5dab2d02a6a7ee18b5cd7bf45bbf9df65dda5923d48627c74c9964dfdf7b21036686c7f4b76532f45100275aeeb8e78bea2ecb7db5f42b0a6a644f48e42eb",
+  "_source": [
+    "primal backup"
+  ]
+}

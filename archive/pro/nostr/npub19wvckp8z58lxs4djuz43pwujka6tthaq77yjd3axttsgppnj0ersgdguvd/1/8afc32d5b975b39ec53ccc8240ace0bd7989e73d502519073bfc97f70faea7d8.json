@@ -1,0 +1,29 @@
+{
+  "id": "8afc32d5b975b39ec53ccc8240ace0bd7989e73d502519073bfc97f70faea7d8",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747619291,
+  "kind": 1,
+  "tags": [
+    [
+      "t",
+      "ProofOfWork"
+    ],
+    [
+      "t",
+      "BitcoinNotCrypto"
+    ],
+    [
+      "t",
+      "Web3Exit"
+    ],
+    [
+      "t",
+      "StillBuilding"
+    ]
+  ],
+  "content": "🧱 Part 2 is live: The Breaking Point\n\nI didn’t walk away from Web3 in a single moment.\nIt was gradual — the kind of unraveling you only recognize once you're outside it.\nThis part of my journey is about realizing the difference between intentions and incentives — and what happens when systems rely more on performance than proof.\n\n🧱 From tokens to time.\n🧱 From noise to signal.\n🧱 From promises to proof of work.\n\n⚡ If it resonates, zap me some sats — or pass it forward.\n\n#ProofOfWork #BitcoinNotCrypto #Web3Exit #StillBuilding",
+  "sig": "ac056969e17ba0be245109d55c8a223cc2f3893b669563e810d1f0fcaf5e1a51d3cdcf2f1535d5eff93a1a31b330e149505649be27590a2c0267d0e86e08380b",
+  "_source": [
+    "primal backup"
+  ]
+}

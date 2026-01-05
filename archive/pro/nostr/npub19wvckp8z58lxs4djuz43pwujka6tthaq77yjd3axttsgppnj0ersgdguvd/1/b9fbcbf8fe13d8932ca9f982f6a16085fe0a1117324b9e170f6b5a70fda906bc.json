@@ -1,0 +1,53 @@
+{
+  "id": "b9fbcbf8fe13d8932ca9f982f6a16085fe0a1117324b9e170f6b5a70fda906bc",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1746992830,
+  "kind": 1,
+  "tags": [
+    [
+      "r",
+      "wss://nos.lol/"
+    ],
+    [
+      "r",
+      "wss://nostr.reelnetwork.eu/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://relay.nostr.band/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://relayable.org/"
+    ],
+    [
+      "r",
+      "wss://bitcoinmaximalists.online/"
+    ],
+    [
+      "r",
+      "wss://nostr.bit4use.com/"
+    ]
+  ],
+  "content": "Reconciling the World (and Our Ledgers)\n https://blossom.primal.net/bb69222d7deec7e2dda8017f0a793945233f0f2f5dbfe59343da54416c5f5653.png \n\n“In Christ God was reconciling the world to Himself, not counting their trespasses against them, and entrusting to us the ministry of reconciliation.”\n—2 Corinthians 5:19\n\nThe word “reconciliation” is both spiritual and economic.\n\nIn Christ, God reconciled our account—not by denying the debt, but by paying it Himself. He didn’t fudge the numbers. He didn’t cook the books. He settled them—justly and mercifully.\n\nAnd then He handed us the ministry of reconciliation. That’s more than forgiveness. It’s a calling to restore integrity in every domain—including how we deal with people, power, and even value itself.\n\nThat’s part of why I align with Bitcoin.\n\nIt's transparent.\n\nIt's rooted in truth.\n\nIt doesn’t erase the ledger—it settles it honestly through Proof of Work.\n\nThe gospel says: “Your sins are no longer counted against you.”\nBitcoin says: “Your work is no longer stolen from you.”\n\nBoth are acts of reconciliation.\nBoth cost something real.\nAnd both invite us to live differently.\n\nSo today, I pause not just to worship—but to reconcile:\nMy heart. My habits. My value systems.\nNot with hype, but with truth.",
+  "sig": "386895fa73c3ad11d88806a0932fc7ea8d47552fcab624bda103d2f0452a449e1d51459eb968dd86e2109e63502e3b4ad0d48187c52e74586da5a154f21cd92a",
+  "_source": [
+    "primal backup"
+  ]
+}

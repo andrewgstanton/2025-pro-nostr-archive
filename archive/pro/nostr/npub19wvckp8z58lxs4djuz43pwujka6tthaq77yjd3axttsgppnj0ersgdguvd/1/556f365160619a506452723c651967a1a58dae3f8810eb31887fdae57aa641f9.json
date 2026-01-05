@@ -1,0 +1,49 @@
+{
+  "id": "556f365160619a506452723c651967a1a58dae3f8810eb31887fdae57aa641f9",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1757792919,
+  "kind": 1,
+  "tags": [
+    [
+      "title",
+      "MLM and Web3: Two Sides of the Same Pyramid"
+    ],
+    [
+      "published_at",
+      "1757792919"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "mlm"
+    ],
+    [
+      "t",
+      "web3"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "recruitment models"
+    ],
+    [
+      "t",
+      "continuum"
+    ]
+  ],
+  "content": "# MLM and Web3: Two Sides of the Same Pyramid\n\nBoth multi-level marketing (MLM) and Web3 projects sell the same dream: financial freedom, lifestyle independence, and passive income. My short stint inside World Financial Group in 2023–2024 helped me recognize the same structural flaws now playing out across Web3. The names and technology change. The math doesn’t.  \n\nfree article Sept. 12: MLM And Web3: Two Sides of the Same Pyramid",
+  "sig": "3376d8caadbb83dc8de5321ca3431cfe0b5173b40c190a10f59bff4b3275d046e4c062727defc17ebfc81bac28a2cc33d88e40fc0df67c3cfdc3e40c23c8cfa7",
+  "_source": [
+    "primal backup"
+  ]
+}

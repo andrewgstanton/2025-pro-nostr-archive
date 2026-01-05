@@ -1,0 +1,53 @@
+{
+  "id": "13cf2cda6814c9fbd57c687ee02a085cd527a9a746a35e01756d68e823729a3e",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747779857,
+  "kind": 1,
+  "tags": [
+    [
+      "r",
+      "wss://nos.lol/"
+    ],
+    [
+      "r",
+      "wss://nostr.reelnetwork.eu/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://relay.nostr.band/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relayable.org/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://bitcoinmaximalists.online/"
+    ],
+    [
+      "r",
+      "wss://nostr.bit4use.com/"
+    ]
+  ],
+  "content": "🚨 New long-form drop:\nAI Isn’t Magic. It’s Engineering.\nHow I use ChatGPT like any other tool in the stack — with iteration, discernment, and real output.\nRead it here: https://primal.net/andrewgstanton/🛠️-ai-isn’t-magic.-it’s-engineering.\n\n⚡ Zaps appreciated if it resonates.",
+  "sig": "c1bf32162f86ba3ee7aa28de13de3153a1ba263eb5dca7b0a06503ed0e5d8d0de9c1a5dfb8d0a4dc70ca25c10546798fec574e02bcc262f87148306851a002f5",
+  "_source": [
+    "primal backup"
+  ]
+}

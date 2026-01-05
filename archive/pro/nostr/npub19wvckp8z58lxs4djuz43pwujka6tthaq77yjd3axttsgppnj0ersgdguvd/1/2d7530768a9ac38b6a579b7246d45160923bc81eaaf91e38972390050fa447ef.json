@@ -1,0 +1,12 @@
+{
+  "id": "2d7530768a9ac38b6a579b7246d45160923bc81eaaf91e38972390050fa447ef",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747194401,
+  "kind": 1,
+  "tags": [],
+  "content": "PSA -- “Be cautious of unverified accounts promising outrageous mining returns. If it sounds too good to be true, it probably is. Stay sovereign. Stay skeptical. 🟧”",
+  "sig": "64fdfc18e9dac83f3b23ad2a65975c22df7de907f7fb962dcf1859b89ec5433e7e9a3c308501eb323641ab5977de0b664ed26322fd658b67c1ef426e7992ea6c",
+  "_source": [
+    "primal backup"
+  ]
+}

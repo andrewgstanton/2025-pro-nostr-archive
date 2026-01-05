@@ -1,0 +1,25 @@
+{
+  "id": "622a7e6e678b18d6a2012dca2909c7dc47bc05e2c0520cfb4625a121e52ed21c",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1758567162,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:e8ed3798c6ffebffa08501ac39e271662bfd160f688f94c45d692d8767dd345a:DuQwvkEMBQJz1LEYoZQaz",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "e8ed3798c6ffebffa08501ac39e271662bfd160f688f94c45d692d8767dd345a",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "We absolutely have to believe in a future for humanity and our civilization\n",
+  "sig": "1829b755d5073cba30152d360c1333197beb37437dce2f3fd970c664a92b975403a49c9ded14bfa58bf6dffe21c65043e831acb940c6d83461b8688523093fe6",
+  "_source": [
+    "primal backup"
+  ]
+}

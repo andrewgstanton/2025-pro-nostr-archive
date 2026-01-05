@@ -1,0 +1,25 @@
+{
+  "id": "2c0cd885f80641b033f1bed5366ffac4cbbd8103a02070a842d4e7666f929a01",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1758086648,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:472f440f29ef996e92a186b8d320ff180c855903882e59d50de1b8bd5669301e:you-are-in-the-midst-of-a-spiritual-war",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "472f440f29ef996e92a186b8d320ff180c855903882e59d50de1b8bd5669301e",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Very powerful piece Marty thank you for  sharing !! ",
+  "sig": "f2e888f39f12734c4ddc6368f30ee33d6db21ce7cf8acc1b4f720f57d8f94118f6d3c5703ba7ce39ce39297dbcdd2634fbd0a40a89de1d744d6d5110863b2d41",
+  "_source": [
+    "primal backup"
+  ]
+}

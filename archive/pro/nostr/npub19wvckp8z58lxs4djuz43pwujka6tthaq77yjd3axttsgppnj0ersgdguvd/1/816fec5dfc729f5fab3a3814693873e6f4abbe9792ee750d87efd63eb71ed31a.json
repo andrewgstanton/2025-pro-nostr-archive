@@ -1,0 +1,49 @@
+{
+  "id": "816fec5dfc729f5fab3a3814693873e6f4abbe9792ee750d87efd63eb71ed31a",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1752034069,
+  "kind": 1,
+  "tags": [
+    [
+      "title",
+      "published continuum's pricing + roadmap breakdown"
+    ],
+    [
+      "published_at",
+      "1752034069"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "continuum-pro"
+    ],
+    [
+      "t",
+      "sovereign publishing"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "digital freedom"
+    ]
+  ],
+  "content": "# published continuum's pricing + roadmap breakdown\n\n⚡️ Just published Continuum’s pricing + roadmap breakdown.\n\n🆓 Free self-hosted version (Docker)\n🧑‍💻 Pro tier w/ identity switching, relay stats, publishing modal, and more\n🧠 Built with Nostr, not VC decks\n\n📖 Read it here:\nhttps://is.gd/Dunfrm\n\n🧵 Full article on Nostr:\n\nnostr: https://is.gd/e5Qm30",
+  "sig": "61846daab8a75b9f4f7c88fb6fa405f9ebc23e4727c99c58f89682c84cb6afaa8ce6cafad913469c925cfe5b99056075e9b181b94f1f5340755acd6c939a3b32",
+  "_source": [
+    "primal backup"
+  ]
+}

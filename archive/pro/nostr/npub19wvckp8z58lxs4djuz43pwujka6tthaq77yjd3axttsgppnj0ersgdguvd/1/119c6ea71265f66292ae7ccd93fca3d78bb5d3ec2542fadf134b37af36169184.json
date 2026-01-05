@@ -1,0 +1,25 @@
+{
+  "id": "119c6ea71265f66292ae7ccd93fca3d78bb5d3ec2542fadf134b37af36169184",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1746978555,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:7b20d99d490c2ac74ba03602e93e6424f0fc246152680ff483fcafa6d2a541a9:How-to-Avoid-Scams-in-Bitcoin-Charity-Projects-A-Survival-Guide-for-Conscious-Donors-u76kpf",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "7b20d99d490c2ac74ba03602e93e6424f0fc246152680ff483fcafa6d2a541a9",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "This is very very helpful thanks for sharing",
+  "sig": "b9173ca4f13f5f6088df6823353eeea7cc32dcb30bd28cc4be270db06896e8824a54f27837f6e8f867113375480df5c5440c6de0ac72e052c101a8dfbaae4629",
+  "_source": [
+    "primal backup"
+  ]
+}

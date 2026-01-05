@@ -1,0 +1,89 @@
+{
+  "id": "1511d01b4ce919749e86b889fbf8d8f6029430a21ccb885d2d9845baf87b9b51",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1751840468,
+  "kind": 1,
+  "tags": [
+    [
+      "t",
+      "linkedin"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "data-sovereignty"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "continuum-pro"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://relay.nostr.band/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ]
+  ],
+  "content": "TURNING THE WALLED GARDEN INTO AN OASIS\n\nStarted the process for importing data from my LinkedIn account.\n\nI’ve started working with ChatGPT to categorize my LinkedIn posts, articles, and profile — mapping them to Nostr event types (1, 30023, and 0 respectively).\n\nEventually I want to create posts and articles here and have them automatically crossposted to LinkedIn — using my npub identity that’s linked to my LinkedIn profile.\n\nI’m publishing outside the walled garden — but creating a two-way bridge to LinkedIn, allowing both import and export of content.\n\nFor all practical purposes, LinkedIn becomes just another relay — a lens through which my content is viewed, not the source. Walled gardens can be peaceful places to visit, a break from the noisy street — but they lose their value when you’re not free to leave. I’d rather treat LinkedIn as an oasis: a spot to reflect, not a place to live.\n\n#linkedin #nostr #data-sovereignty #continuum #continuum-pro\n",
+  "sig": "404976ed1f9c20bb6dd840d6e75d0168dba0089939ad262ec3147d934cdcc1ecc26e6e3812ae3516c24a5081d474006de344b05969dd4e9e2f10132221c41138",
+  "_source": [
+    "primal backup"
+  ]
+}

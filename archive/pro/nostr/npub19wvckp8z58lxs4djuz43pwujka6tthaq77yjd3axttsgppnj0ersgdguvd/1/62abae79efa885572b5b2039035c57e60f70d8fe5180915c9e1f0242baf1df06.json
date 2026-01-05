@@ -1,0 +1,29 @@
+{
+  "id": "62abae79efa885572b5b2039035c57e60f70d8fe5180915c9e1f0242baf1df06",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1746911229,
+  "kind": 1,
+  "tags": [
+    [
+      "t",
+      "ProofOfWork"
+    ],
+    [
+      "t",
+      "EquitiesNotAltcoins"
+    ],
+    [
+      "t",
+      "BitcoinOnly"
+    ],
+    [
+      "t",
+      "nostr"
+    ]
+  ],
+  "content": "Why I Trade Equities but Not Crypto\n\n https://blossom.primal.net/b384d8305b91eb4eeb7172d899a79f6756461fe68486729ea68166cc669b1d8a.png \n\nI’m often asked why I actively trade equities but don’t touch altcoins.\n\nThe short version? Transparency, liquidity, and real-world value.\n\nEquities represent ownership in real businesses with earnings, cash flow, and regulatory oversight. I can analyze them, hedge them, and exit them with precision. It’s a market—not a casino.\n\nCrypto (outside of Bitcoin) feels like the opposite. Thin liquidity, insider games, opaque tokenomics, and often... no real product.\n\nI trade to generate daily income. I stack Bitcoin to preserve long-term wealth.\n\nTrading altcoins would blur that line.\n\n#ProofOfWork #EquitiesNotAltcoins #BitcoinOnly #nostr\n\n",
+  "sig": "7a0cdc08ff40c3db5a895e9b61fc929de5de5fb4ca16f0933ff6fa8e9b5a97aae05bc0d6a7cdf1f98fb922ee7130912d183de547b79e8e9fa8aeccb5ebb2acf3",
+  "_source": [
+    "primal backup"
+  ]
+}

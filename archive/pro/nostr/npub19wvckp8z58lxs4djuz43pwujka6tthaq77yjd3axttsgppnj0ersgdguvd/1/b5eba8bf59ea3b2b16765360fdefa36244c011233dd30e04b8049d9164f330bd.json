@@ -1,0 +1,53 @@
+{
+  "id": "b5eba8bf59ea3b2b16765360fdefa36244c011233dd30e04b8049d9164f330bd",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1761538342,
+  "kind": 1,
+  "tags": [
+    [
+      "title",
+      "Patron Support"
+    ],
+    [
+      "published_at",
+      "1761538342"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "#bitcoin"
+    ],
+    [
+      "t",
+      "#continuum"
+    ],
+    [
+      "t",
+      "#proofofwork"
+    ],
+    [
+      "t",
+      "#sovereignty"
+    ],
+    [
+      "t",
+      "#writing"
+    ],
+    [
+      "t",
+      "#sabbath"
+    ],
+    [
+      "t",
+      "#sunday"
+    ]
+  ],
+  "content": "# Patron Support\n\n📚 I now have **40+ paid Continuum essays** available — each unlockable for **500 sats**,  \nor **always free** for my **Patrons** who support this work.\n\nBecoming a Patron helps sustain my writing, coding, and the broader Continuum project —  \nbuilding open, sovereign publishing tools on Nostr.\n\n🎟️ **Patron membership:**  \n• $250 USD (lifetime) — or $220 if paid in Bitcoin/Lightning  \n• Includes lifetime access to all paid essays  \n• Full access to the Continuum codebase  \n• Free **NIP-05 verification** for your npub  \n\n🌅 I also release all “paid” pieces freely on **Sabbaths and Sundays** —  \nmy way of giving back and keeping the work accessible to all.\n\nIf you’d like to become a Patron, just reach out or zap me directly.  \nEvery sat helps build the next civilization — one proof of work at a time. ⚡️",
+  "sig": "71ba545846d3d306ceefca3f79d9fd044ef7cdbc86b119aa08789b6f18fb66d1664d64c5d07288db2862cc13dc18c272091a4a2d725384ea4c84da8bc77e5221",
+  "_source": [
+    "primal backup"
+  ]
+}

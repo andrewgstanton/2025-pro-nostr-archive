@@ -1,0 +1,25 @@
+{
+  "id": "18bb084f025bf2bc0a2ba1b09a05f50b3a7e063241a21ea5831448b223f120f9",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1758087585,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:97c70a44366a6535c145b333f973ea86dfdc2d7a99da618c40c64705ad98e322:1757962925051",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "97c70a44366a6535c145b333f973ea86dfdc2d7a99da618c40c64705ad98e322",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Very insightful article you explained quite well why signed data weakens the hold  platforms have over users ",
+  "sig": "aa807dbd69c1ffca90b49b6f0b6fcb1ab4e1acd46a672281bdfa3ec93cf2e40b82afa0df72b0b11acb1b889779c01e45f2fc11ac28d6408b83df283b5c1781a4",
+  "_source": [
+    "primal backup"
+  ]
+}

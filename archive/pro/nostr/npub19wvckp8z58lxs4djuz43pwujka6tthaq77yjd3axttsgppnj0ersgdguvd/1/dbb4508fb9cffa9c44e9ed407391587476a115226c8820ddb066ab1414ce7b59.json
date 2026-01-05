@@ -1,0 +1,33 @@
+{
+  "id": "dbb4508fb9cffa9c44e9ed407391587476a115226c8820ddb066ab1414ce7b59",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1746903227,
+  "kind": 1,
+  "tags": [
+    [
+      "r",
+      "wss://nostr.reelnetwork.eu/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.bit4use.com/"
+    ],
+    [
+      "r",
+      "wss://bitcoinmaximalists.online/"
+    ]
+  ],
+  "content": "I went through some of the same questions first few days of using nostr, hope I can help , this was the easiest way for me:\n\n1. download the mobile app for nostr, login using your private key\n\n2. enable the wallet in the mobile app. (settings -> wallet -> start in wallet)\n(it will automatically give you a lightning address that updates your profile (mine is wittmoth13@primal.net)\n\nhttps://blossom.primal.net/f55c32c5dc4326afd6547d5556455da735c23010aadcab7fd15719336c8f98cf.png \n\n\n 3. In your web application primal (log in using your private key), connect the primal wallet (settings -> connected wallets -> Connect).  Mine is enabled, but I showed the screen as you would see it, screenshot below:\n\n https://blossom.primal.net/ec43e91688667ea74e69a074e2389712f7627568c5a19b345fcc8680c43f1e97.png \n\n4. One it's connected you should be able to receive and send sats\n(once you have zap enabled, let me know I will zap you some)",
+  "sig": "5817b7bf968009b6a73cd19c7611816236450fcf6530b8c62cc79e6727cbb055222ad7fd87712b8911b0de218382ad7241002ff82c0ff01f06ebec7328e51276",
+  "_source": [
+    "primal backup"
+  ]
+}

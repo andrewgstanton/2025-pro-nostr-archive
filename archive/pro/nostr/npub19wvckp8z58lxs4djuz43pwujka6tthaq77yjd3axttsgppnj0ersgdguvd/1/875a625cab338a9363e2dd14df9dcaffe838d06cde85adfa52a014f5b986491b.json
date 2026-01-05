@@ -1,0 +1,95 @@
+{
+  "id": "875a625cab338a9363e2dd14df9dcaffe838d06cde85adfa52a014f5b986491b",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747261762,
+  "kind": 1,
+  "tags": [
+    [
+      "t",
+      "ProofOfWork"
+    ],
+    [
+      "t",
+      "BitcoinBusiness"
+    ],
+    [
+      "t",
+      "BitcoinRealEstate"
+    ],
+    [
+      "t",
+      "BitcoinTrading"
+    ],
+    [
+      "t",
+      "RegenerativeFinance"
+    ],
+    [
+      "t",
+      "StartupEthos"
+    ],
+    [
+      "t",
+      "FounderConviction"
+    ],
+    [
+      "t",
+      "VictoriousGospel"
+    ],
+    [
+      "t",
+      "BitcoinPhilosophy"
+    ],
+    [
+      "t",
+      "ThreeVenturesOneVoice"
+    ],
+    [
+      "p",
+      "a44dbc9aaa357176a7d4f5c3106846ea096b66de0b50ee39aff54baab6c4bf4b",
+      "wss://filter.nostr.wine/npub153xmex42x4chdf757hp3q6zxagykkek7pdgwuwd074964dkyha9s82ryu8?broadcast=true",
+      "mention"
+    ],
+    [
+      "r",
+      "wss://nos.lol/"
+    ],
+    [
+      "r",
+      "wss://nostr.reelnetwork.eu/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://relay.nostr.band/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://bitcoinmaximalists.online/"
+    ],
+    [
+      "r",
+      "wss://nostr.bit4use.com/"
+    ]
+  ],
+  "content": "🧭 Three Ventures, One Philosophy\n\nI’ve been thinking a lot about how to align my work with what I believe — not just spiritually, but economically and technologically.\n\nInspired by people like nostr:nprofile1q9n8wumn8ghj7enfd36x2u3wdehhxarj9emkjmn99ah8qatzxy6nx7rdv4urgvncx33kserxxu6nw6rsxdcnv7ncv9nhj6mtv44nwuryvamh2amyxqmngwfkx3jxk7tgvyuhxwpjwfuh2wplvfex7ctyvdshxapaw3e82egpremhxue69uhkummnw3ez6er9wch8wetvd3hhyer9wghxuet59uqzpfzdhjd25dt3w6nafawrzp5yd6sfddnduz6sacu6la2t42mvf06ts86un7  of Peony Lane Wine, I want to build businesses that aren’t just products — they’re expressions of conviction. Proof of work, not proof of marketing.\n\nRight now, I’m stewarding three ventures:\n\n🏛 Golden Gate Group Investments\nThis is where I hold several Texas properties. It’s more than an LLC — it’s a seed for something bigger.\nI want this to become a Bitcoin-first real estate venture. Rents in BTC. Property purchases on-chain. Long-term, sovereign ownership — grounded in trust and time preference.\n\n🌍 Blue Planet Ventures\nRight now, it’s still new — but it represents my intent to explore the intersection of capital, responsibility, and long-term sustainability.\nThis could evolve into a fund or studio focused on high-integrity trading, Bitcoin-aligned impact models, or regenerative finance powered by proof of work.\nA place to take risks — not for hype, but for stewardship.\n\n🤖 StartNation\nCo-founded with Kevin, who sees it as an AI-centric engine for empowering startups. I share that vision.\nWe help early-stage ventures grow by trading equity for talent, not VC capital.\nWhile Bitcoin isn’t woven into StartNation’s mission today, the deeper philosophy — skin in the game, long-term value, sustainability — still resonates with everything I believe.\n\nNot every venture I touch will scream “Bitcoin” from the outside.\nBut inside — at the level of conviction, ethics, and vision — I know what anchors me.\n\nProof of Work isn’t just a protocol.\nIt’s a way of showing up.\n\n—\n\n✍️ ChatGPT helped me write this—but the architecture, the philosophy, and the direction are mine.\n\n\n#ProofOfWork #BitcoinBusiness #BitcoinRealEstate #BitcoinTrading #RegenerativeFinance #StartupEthos #FounderConviction #VictoriousGospel #BitcoinPhilosophy #ThreeVenturesOneVoice",
+  "sig": "712a4be16ddfa26ea36000222166fd457b704fe63a951c851ab774bda439eebb15be4aa0a1819b5685a327852e1fae43889e3b420c7d2c877710aad909960961",
+  "_source": [
+    "primal backup"
+  ]
+}

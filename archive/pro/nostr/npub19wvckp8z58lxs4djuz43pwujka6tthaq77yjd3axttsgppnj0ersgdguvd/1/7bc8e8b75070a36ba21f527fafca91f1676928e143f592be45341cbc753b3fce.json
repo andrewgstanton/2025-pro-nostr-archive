@@ -1,0 +1,25 @@
+{
+  "id": "7bc8e8b75070a36ba21f527fafca91f1676928e143f592be45341cbc753b3fce",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1755811488,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:3c7aee7ad0cd6d8e3ddf2ab8e23815353fcce3cce528d4ce7505654ebbce3b6f:step-by-step-guide-secure-bitcoin-self-custody-with-ian-coleman",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "3c7aee7ad0cd6d8e3ddf2ab8e23815353fcce3cce528d4ce7505654ebbce3b6f",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "You might also consider adding why cold storage/hardware wallets are important for self custody.  I use Ledger.",
+  "sig": "8583a9fb9a43fae0d71d2418b3d4926b7a4a757d20328b78938ac939149eb7c866c5035d946708552fe537f3da31c0472a446723a641d0a7315d7b35d3903044",
+  "_source": [
+    "primal backup"
+  ]
+}

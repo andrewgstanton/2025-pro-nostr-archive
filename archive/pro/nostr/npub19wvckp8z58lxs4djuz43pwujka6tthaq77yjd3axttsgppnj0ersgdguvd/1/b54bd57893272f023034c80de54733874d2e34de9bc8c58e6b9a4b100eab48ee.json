@@ -1,0 +1,25 @@
+{
+  "id": "b54bd57893272f023034c80de54733874d2e34de9bc8c58e6b9a4b100eab48ee",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1753290941,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:83d999a148625c3d2bb819af3064c0f6a12d7da88f68b2c69221f3a746171d19:sovereign-engineering-whats-in-a-name",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "83d999a148625c3d2bb819af3064c0f6a12d7da88f68b2c69221f3a746171d19",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Check out my latest article\n\nThe cost of compromise ",
+  "sig": "2d455aa69e30894a8107af0db7cc39afa7774496e83f5b82f4a3d0c229523b1c5c5818d335d2ac03c079ee7953d13eb986bf029da89a92cca030b8755d680964",
+  "_source": [
+    "primal backup"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "820a10ee071120b4db2702c1b87418c1b55c780c40b0008b1dad04b3315f0751",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1746562625,
+  "kind": 1,
+  "tags": [
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "lightning"
+    ],
+    [
+      "t",
+      "faith"
+    ],
+    [
+      "t",
+      "buildinpublic"
+    ],
+    [
+      "client",
+      "snort",
+      "31990:84de35e2584d2b144aae823c9ed0b0f3deda09648530b93d1a2a146d1dea9864:app-profile"
+    ]
+  ],
+  "content": "Verified on Nostr via @iris.to ✅\n\nZap-enabled and building on Bitcoin 🧡⚡\n\nFollow: https://primal.net/p/npub19wv...\n\n#bitcoin #nostr #lightning #faith #buildinpublic",
+  "sig": "508e7020ab06c8854a9b5ea0382c3c48556dec4e3e6386b2bc3df3d90e8ebf83fdc7a37c9a20ab85c2549bef7ab73f078382f7048345b034402b7bf76bca7fe1",
+  "_source": [
+    "primal backup"
+  ]
+}

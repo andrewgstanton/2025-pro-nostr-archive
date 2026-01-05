@@ -1,0 +1,93 @@
+{
+  "id": "92e2673ce77d503cc16477a5ee01f7accec77cba7bb6d04e666819482771dfcd",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1750299357,
+  "kind": 1,
+  "tags": [
+    [
+      "t",
+      "Bitcoin"
+    ],
+    [
+      "t",
+      "PropertyRights"
+    ],
+    [
+      "t",
+      "AlohaAina"
+    ],
+    [
+      "t",
+      "Sovereignty"
+    ],
+    [
+      "t",
+      "ProofOfWork"
+    ],
+    [
+      "t",
+      "Decentralization"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://relay.nostr.band/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ]
+  ],
+  "content": " https://blossom.primal.net/91190a29586bfdedb1fa57855e9d69be161c481defc3e375e903a8035501d076.png \n\n🏝️ Day 4: Land and Legacy\nIf there's one thread that ties sovereignty, history, and dignity together — it's land.\n\nIn the Kingdom of Hawai‘i, private property rights were respected. Land could be owned, stewarded, and passed down. That matters.\n\nAfter the overthrow, some of those rights became tangled in trust structures, leaseholds, and institutional control.\n\nTake the Bishop Estate — one of the largest private landowners in Hawai‘i. It predates the overthrow, and while I respect its role and legacy, I also believe:\n\nAllowing more land to be sold fee simple (not just leased) would benefit everyone — Hawaiian and non-Hawaiian alike.\n\nToday, much of the land under Bishop Estate can’t be purchased — only leased. You can’t truly be sovereign if you can’t own the land you live on.\n\nThat’s not unique to Hawai‘i. I can’t buy land on Indian reservations. I can’t buy land from the Bishop Estate. I can’t buy land in most of Israel, or in most of the Arab world.\n\nTrue sovereignty starts with the ability to own land — and to sell it to anyone, freely.\n\nWe need to rethink what it means to honor legacy while also embracing freedom. And that means asking tough questions about land access, ownership, and trust.\n\n#Bitcoin #PropertyRights #AlohaAina #Sovereignty #ProofOfWork #Decentralization\n",
+  "sig": "1f81eb3d679db3f9d0f703a40ccbff573a18d22b33b5b7e983ac05ff80f6e08a97ab7ff1768c010aafb7deaba64399a48a8fcc5df6cb6a05963e8b3831185ba7",
+  "_source": [
+    "primal backup"
+  ]
+}

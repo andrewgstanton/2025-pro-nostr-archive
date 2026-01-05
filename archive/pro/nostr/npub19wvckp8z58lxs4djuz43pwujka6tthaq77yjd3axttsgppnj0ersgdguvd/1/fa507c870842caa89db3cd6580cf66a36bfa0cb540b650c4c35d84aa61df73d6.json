@@ -1,0 +1,19 @@
+{
+  "id": "fa507c870842caa89db3cd6580cf66a36bfa0cb540b650c4c35d84aa61df73d6",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748475595,
+  "kind": 1,
+  "tags": [
+    [
+      "p",
+      "ee6ea13ab9fe5c4a68eaf9b1a34fe014a66b40117c50ee2a614f4cda959b6e74",
+      "wss://nostr-01.yakihonne.com",
+      "mention"
+    ]
+  ],
+  "content": "In honor of nostr:nprofile1qqswum4p82uluhz2dr40nvdrflspffntgqghc58w9fs57nx6jkdkuaqpr3mhxue69uhkummnw3ez6vp39eukz6mfdphkumn99e3k7mgpzemhxw309aehgunfvd5zumr0vdskcw358q6rsd7gcj9  here my boys  back home miss them too (one is temporary we are hosting Baxter (the one on the right) for a few weeks.  My beautiful wife is taking care of both while I am here @ Bitcoin 2025\n\n\nhttps://blossom.primal.net/83b444a11f6d44b8416cb445301d3c812896c1858b84ab550baf1ac3cf85fee9.jpg",
+  "sig": "6e517e1bd24ef24aae56a6d9fa3c61236dc45449c59185625e345d08769048dc5a1cf72a0a8f218f7bc167acf6ef3fbf51b9a259747395dd14db15386b1bb9e3",
+  "_source": [
+    "primal backup"
+  ]
+}

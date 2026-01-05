@@ -1,0 +1,41 @@
+{
+  "id": "8c2f3bc0948350f7498eb1fea7ca78c11ffeefb165295e7d27065eb3aa2cb380",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1752625226,
+  "kind": 1,
+  "tags": [
+    [
+      "title",
+      "Old Twitter handle hacked"
+    ],
+    [
+      "published_at",
+      "1752625226"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "sovereign-identity"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "continuum-pro"
+    ]
+  ],
+  "content": "# Old Twitter handle hacked\n\nThis week my old Twitter handle got hacked.\nX support? Silence.\n\nOn Nostr, this isn’t possible. I own my keys. My content. My multiple identities.\n\nContinuum makes this seamless.\n\nWeb2: you rent your identity.\nWeb3: you pawn it to a token.\nNostr: you own it — fully, forever. 🔑⚡️",
+  "sig": "bf80432d30ade5bfe78dc5a3ab20dc6c8a433fde9372a26dff6f480c8318d14388386ad57c08f59f3e7c5d4a176f19afdba38a133dbc32f9029e88ecf4f34542",
+  "_source": [
+    "primal backup"
+  ]
+}

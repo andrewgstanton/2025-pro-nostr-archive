@@ -1,0 +1,77 @@
+{
+  "id": "4618a19fa737fba4ff659b10abb3a33da92c6fb04b84a37eb46e88653f934faf",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1746556976,
+  "kind": 1,
+  "tags": [
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "zap"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "faith"
+    ],
+    [
+      "t",
+      "missions"
+    ],
+    [
+      "t",
+      "victoriousgospel"
+    ],
+    [
+      "t",
+      "startnation"
+    ],
+    [
+      "r",
+      "wss://nos.lol/"
+    ],
+    [
+      "r",
+      "wss://nostr.bitcoiner.social/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://nostr.wine/"
+    ],
+    [
+      "r",
+      "wss://nostrelites.org/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://relay.nostr.band/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ]
+  ],
+  "content": "Grateful for those early zaps—thank you 🙏\n\nMy zap icon isn’t active yet (still using Strike to receive sats), but it works.\n\nIf anything I’ve posted—on faith, Bitcoin, or mission-driven building—has encouraged or resonated with you, feel free to zap ⚡\n\nI’m the CTO at StartNation and actively exploring how Bitcoin can support missions  in places like India and Africa.\n\nBuilding on Bitcoin. Rooted in the Victorious Gospel.\n\n#bitcoin #zap #nostr #faith #missions #victoriousgospel #startnation",
+  "sig": "ca6f912476c6d4f76268c7def006687085829ff00424308b8ff8f4fb00745144ab890e310c632fff51c8e468d002bec9ced8946e762e2bb74c35bd3486066952",
+  "_source": [
+    "primal backup"
+  ]
+}

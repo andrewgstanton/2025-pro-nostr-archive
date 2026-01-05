@@ -1,0 +1,41 @@
+{
+  "id": "a1977d483f3e132a0a18f9c6a0436a88b0dc5b5a062bb5a99dbd59618a82bc74",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756063748,
+  "kind": 1,
+  "tags": [
+    [
+      "title",
+      "Just shipped my first sovereign gated article through Continuum → Primal."
+    ],
+    [
+      "published_at",
+      "1756063748"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "decentralization"
+    ]
+  ],
+  "content": "# Just shipped my first sovereign gated article through Continuum → Primal.\n\nAndrew G. Stanton - August 24, 2025\n\nJust shipped my first *sovereign gated article* with Continuum → Primal.\n\nFlow:\n\n- Public teaser (free)\n- Zap (500 sats)\n- Full article delivered via encrypted DM\n- Backup: the complete Markdown archived in my own encrypted inbox\n\n⚡️ No Substack. No Patreon. No PayPal. Just sats → content.\n\n**Note for Pro users & Patrons of Continuum**:\n\nThis feature is being built into Continuum Pro. That means:\n\n- You’ll be able to write your own gated articles or notes directly inside Continuum.\n- Post a free teaser to Nostr.\n- Set a sats unlock price.\n- When a supporter zaps you, Continuum will handle the flow → deliver the full piece as an encrypted DM, with the option to archive every article automatically.\n\nIt’s a sovereign monetization path: no platforms, no middlemen, just your keys, your npub, and your audience.",
+  "sig": "177654e1be8f35acaab007a6d340a43c4b54fb180c3f94b32932225518a8b11b686a4aef0a6fa1dd9870c111893270f8561823a10f90f4fca7f19f4b376b32d3",
+  "_source": [
+    "primal backup"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "b38074822112a37d5c77438f239c3be43300bc8d4ea640fceca6117fe4974261",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756067807,
+  "kind": 1,
+  "tags": [
+    [
+      "title",
+      "Sovereign Publishing"
+    ],
+    [
+      "published_at",
+      "1756067807"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "sovereign-publishing"
+    ],
+    [
+      "t",
+      "bitchat"
+    ]
+  ],
+  "content": "# Sovereign Publishing\n\nEveryone’s talking about **Bitchat** — sovereign messaging on Nostr.\nIt proves what’s possible:\n\n- No phone numbers\n- No platforms\n- Just npubs, relays, and sats\n\nThat’s what we need across the board. Bitchat for chat. Continuum for publishing.\n\nToday I shipped my first gated article using a similar model: teaser (free), zap (500 sats), full article (encrypted DM).\n\nIt's similar because ** No Patreon. No Substack. No PayPal. Just sats → content.**\n\n🔗 Read the teaser here: Sovereign ≠ Decentralized -> https://is.gd/RCTLco\n\nSovereign chat. Sovereign publishing. The future is arriving piece by piece.",
+  "sig": "e22324740dfff5624fc8d2f4d940d397e8eee348756818448be4ed0057d1cdebc70307b3247266d95a4d465ec3b14456206e48fa74e49ca7a3fb22cb7d44ea2b",
+  "_source": [
+    "primal backup"
+  ]
+}

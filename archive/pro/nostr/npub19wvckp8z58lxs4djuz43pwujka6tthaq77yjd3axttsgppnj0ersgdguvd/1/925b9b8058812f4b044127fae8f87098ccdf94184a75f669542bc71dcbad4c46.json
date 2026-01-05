@@ -1,0 +1,77 @@
+{
+  "id": "925b9b8058812f4b044127fae8f87098ccdf94184a75f669542bc71dcbad4c46",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1746554861,
+  "kind": 1,
+  "tags": [
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "notyourcustodian"
+    ],
+    [
+      "t",
+      "trustbutverify"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "ira"
+    ],
+    [
+      "t",
+      "bitcoinira"
+    ],
+    [
+      "r",
+      "wss://nos.lol/"
+    ],
+    [
+      "r",
+      "wss://nostr.bitcoiner.social/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://nostr.wine/"
+    ],
+    [
+      "r",
+      "wss://nostrelites.org/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://relay.nostr.band/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ]
+  ],
+  "content": "Just experienced real custodian risk in a traditional IRA transfer.\n\nI approved a legitimate transfer from my legacy brokerage. It went through. The next day, a second *unauthorized* transfer was initiated by a third-party sub-custodian I had never interacted with.\n\nSame amount. No additional confirmation. No alert. Just another pull on my assets.\n\nThankfully caught it fast and got confirmation it will be reversed. But this proves what many of us already know:\n\n🟠 Trusting custodians = trusting systems you don’t control.\n🟠 Bitcoin is the exit — but legacy interfaces still carry legacy risk.\n\nEven Bitcoin-aligned platforms that rely on fiat rails can get caught in the middle.\n\nLesson: verify everything. Push for confirmation layers. And minimize reliance on opaque systems.\n\n#nostr #bitcoin #notyourcustodian #trustbutverify #sovereignty #ira #bitcoinira https://blossom.primal.net/60fe128d567528d6059a6f2547edd0c712ad93ac62a113af425f990097e81382.png ",
+  "sig": "7846b094a46701bee0206d54c79cd0e572244cc1d8c017c5ee34a773b63646cace69bc2ab40a6731d8d83380a8e4ee8cec3aba89cd4ffe109b03a1ed0aa5296e",
+  "_source": [
+    "primal backup"
+  ]
+}

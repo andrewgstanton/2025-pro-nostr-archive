@@ -1,0 +1,12 @@
+{
+  "id": "442b259192df5ff4356b4faab9c32bfbda5e917facfb10f5f1032e60ed26a563",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1761714898,
+  "kind": 1,
+  "tags": [],
+  "content": "Proof of authorship — “The Economics Of Mercy” (pdf proof copy)\n\nSHA256: \na6d69e91c9fb4974b72cd5500eef86e830ead096120e20b57d2bbf7cb7094c1b \n\nCreated: Oct 24 2025\nAuthor: Andrew G. Stanton (@Akamaister)",
+  "sig": "2bad01ffdac500542ff27751d29b45c03a73a5a8cc060fe8dfa7ece44d231a34c0534c1c04d09841ff238ef0eb92d1e95f2bfeb453b2ce970780c910ea215ffc",
+  "_source": [
+    "primal backup"
+  ]
+}

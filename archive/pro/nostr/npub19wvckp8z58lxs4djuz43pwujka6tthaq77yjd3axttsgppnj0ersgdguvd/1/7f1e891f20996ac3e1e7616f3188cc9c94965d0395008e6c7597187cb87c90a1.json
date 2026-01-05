@@ -1,0 +1,12 @@
+{
+  "id": "7f1e891f20996ac3e1e7616f3188cc9c94965d0395008e6c7597187cb87c90a1",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748724591,
+  "kind": 1,
+  "tags": [],
+  "content": "Hi everyone,\n\nPlease welcome my wife Kiyomi\nTo Nostr/primal:\n\nKiki’s. Life: https://tinyurl.com/2ar46e3f\n\nThanks y’all !!",
+  "sig": "a528aa093ae7216a6a6745d7ed40c82dbb981c1641d9f0972ea37dba2bff19584a706c8995433ea7ecd955c9e09d4a206d7665e4639896f363257652861cd762",
+  "_source": [
+    "primal backup"
+  ]
+}

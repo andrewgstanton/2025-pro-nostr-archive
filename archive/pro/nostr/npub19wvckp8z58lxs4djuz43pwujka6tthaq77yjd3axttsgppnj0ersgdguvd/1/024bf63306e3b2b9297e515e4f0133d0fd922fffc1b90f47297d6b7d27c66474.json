@@ -1,0 +1,61 @@
+{
+  "id": "024bf63306e3b2b9297e515e4f0133d0fd922fffc1b90f47297d6b7d27c66474",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1752461488,
+  "kind": 1,
+  "tags": [
+    [
+      "title",
+      "🚀 Continuum v1.4 milestone"
+    ],
+    [
+      "published_at",
+      "1752461488"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "continuum-pro"
+    ],
+    [
+      "t",
+      "sovereign-publishing"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "digital-freedom"
+    ],
+    [
+      "t",
+      "linkedin"
+    ],
+    [
+      "t",
+      "linked-exit"
+    ],
+    [
+      "t",
+      "linkedin-oasis"
+    ]
+  ],
+  "content": "# 🚀 Continuum v1.4 milestone\n\n🚀 Continuum v1.4 milestone:\n\nI just imported my LinkedIn profile — and published it as a sovereign Nostr identity (complete with kind:0 metadata).\n\nNo OAuth. No scraping. No API keys. Just exported ZIP → parsed JSON → signed + published.\n\nOne identity. Many contexts. Fully portable.",
+  "sig": "9d007a1dff8a363cafffd8c081f96e47746c5f971271f4154a226799e3308c3a62841ee0b98712930fa5d6c1a573c31a2d447973b4ed2319acac0b605ee534df",
+  "_source": [
+    "primal backup"
+  ]
+}

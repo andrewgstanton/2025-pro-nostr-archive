@@ -1,0 +1,25 @@
+{
+  "id": "8f04c66b52dc36a2aad40c628e0f175470192aa4c9be0753c9354bb4cebfe1ea",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1755149571,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:54609048284d2a151c8df625f40c389d423ed057fcef927db88956d28e22ba03:permission-is-the-new-currency",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "54609048284d2a151c8df625f40c389d423ed057fcef927db88956d28e22ba03",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Very important article\n\nI think we have 5 years befire the window closes completely \n\n",
+  "sig": "8372c8a8f1bf80b22b51f89ec861e7927ef563aca9c196d1f71087ac6a1045813fdab499b97e323e4d60b5da453fe2a18abe335a769533eeda33277c487bf0fe",
+  "_source": [
+    "primal backup"
+  ]
+}

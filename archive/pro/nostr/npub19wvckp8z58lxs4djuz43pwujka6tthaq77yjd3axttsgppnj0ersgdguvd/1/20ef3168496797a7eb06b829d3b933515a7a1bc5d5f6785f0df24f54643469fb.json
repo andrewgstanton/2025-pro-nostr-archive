@@ -1,0 +1,73 @@
+{
+  "id": "20ef3168496797a7eb06b829d3b933515a7a1bc5d5f6785f0df24f54643469fb",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1749667857,
+  "kind": 1,
+  "tags": [
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://nostrelites.org/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://relay.nostr.band/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ]
+  ],
+  "content": "Yes, akamaister is me. Andrew G. Stanton. Trader. Builder. Bitcoiner. From Hawai‘i to the Bay. I write about sovereignty, faith, and freedom.",
+  "sig": "79b76b6ed0c518f4d2e0f956bd6cc7e88f26d94511d0d68d77bcb11b2151bac19fc80cb3c9ca939776057297f1f137a8c7d065fb9034d598e83a716a308cf4bb",
+  "_source": [
+    "primal backup"
+  ]
+}

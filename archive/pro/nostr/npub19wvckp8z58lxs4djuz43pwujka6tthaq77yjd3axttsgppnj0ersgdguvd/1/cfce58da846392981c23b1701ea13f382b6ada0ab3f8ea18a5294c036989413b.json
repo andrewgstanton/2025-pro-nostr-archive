@@ -1,0 +1,25 @@
+{
+  "id": "cfce58da846392981c23b1701ea13f382b6ada0ab3f8ea18a5294c036989413b",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748838624,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:4fe4a5289baac7c31b44a8181d7e08b1b633ef8b678633837b9c2a903ff6bf06:ai-and-wealth",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "4fe4a5289baac7c31b44a8181d7e08b1b633ef8b678633837b9c2a903ff6bf06",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I actively use ChatGPT a lot\n\nThe two most recent articles I posted earlier today highlight how I use it my nickname for the AI is “Dr. C”",
+  "sig": "811b5c6c4859d00b46093295c6d1a9e2b4368f74e290bdb53b7cc72aae17b542a0aa67d8041c20abdb65fa25473efec49bf182902f00e13b619e66721b710288",
+  "_source": [
+    "primal backup"
+  ]
+}

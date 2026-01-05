@@ -1,0 +1,12 @@
+{
+  "id": "b8c07f3e425ef4ee92ecebea05b64807dee748c38a860e4b35d6e8fabd254638",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1761762010,
+  "kind": 1,
+  "tags": [],
+  "content": "Proof of authorship — “The Bitcoin Chronicles - The Price of Transmission” (pdf proof copy)\n\nSHA256: \n02eb4fc2a9d95277444f90ba86e38f887c080837981c364aeb97abd127b93579\n\nCreated: Oct 29 2025\nAuthor: Andrew G. Stanton (@Akamaister)",
+  "sig": "3a80808d66fbc218930ada4ad43bf9f5e0fe81a81326bfd5c784f65cb626ee06472b73053e2af909b36982fa283ed98656c0e263460fe63ca67590a340c8012c",
+  "_source": [
+    "primal backup"
+  ]
+}

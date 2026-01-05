@@ -1,0 +1,73 @@
+{
+  "id": "2e45d58d365b9ebde054f65cb5b54d5d6556784fac033dd94231a8a46e73b620",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1750022054,
+  "kind": 1,
+  "tags": [
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://nostrelites.org/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://relay.nostr.band/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ]
+  ],
+  "content": "made a new background for my primal.net profile -- I hope it's not too cheesy --- it's kind of a combination of all the places I've lived and experiences i\"ve lived through",
+  "sig": "0280171ddde2d9a31a4d164b5bf215a7b043dc49d6f235173d4dce8256247943db3a82700f9300f3ba52448b1a7ce6b15629dfbd7119f8b698ec8e0aaa710481",
+  "_source": [
+    "primal backup"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "547bd0097d0f6e9c9367bc66b9fdfb267ef9a9ba969d869bf89d4b4a7a921b9a",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756582889,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:06bb56d2eccc168193dafbb97ec866ad8773c3cd9de73db4fe06240717279280:bitcoinforpeace-aloha-bitcoiners-im-back--1756566976587",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "b6dcdddf86675287d1a4e8620d92aa905c258d850bf8cc923d39df1edfee5ee7",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "06bb56d2eccc168193dafbb97ec866ad8773c3cd9de73db4fe06240717279280",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Aloha nui loa!! Hawaiʻi no ka oi !",
+  "sig": "893a7ab26ebe41a0e84a3e6136a7e09e4d5101a332be7d643bd589c09bb4bc8dbcc2892fbb719d9e7666468c3240dfff5bbdaf2ddef0ad49cedcecb0a1be4dfd",
+  "_source": [
+    "primal backup"
+  ]
+}

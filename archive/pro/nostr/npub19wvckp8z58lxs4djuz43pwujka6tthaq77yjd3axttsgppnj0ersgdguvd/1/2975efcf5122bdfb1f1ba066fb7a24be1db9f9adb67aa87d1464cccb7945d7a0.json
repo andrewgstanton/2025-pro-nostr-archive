@@ -1,0 +1,25 @@
+{
+  "id": "2975efcf5122bdfb1f1ba066fb7a24be1db9f9adb67aa87d1464cccb7945d7a0",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748365766,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:1d7ff02a58602a852d17ed3bb909fe15bdb18f12395dffcc8533af70d042b5be:ccBuOQAv2pDtds11vF5RU",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "1d7ff02a58602a852d17ed3bb909fe15bdb18f12395dffcc8533af70d042b5be",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Any way we could get translated or if you know a good tool for doing ? (Actually a good idea to include as an option in Nostr)",
+  "sig": "072a259f1d81993260b5e8d86df35dc6b68c612c2d9ccf4ba74ffc0507aff3fae7bf0ec5ee9f6b27be58b1c32d624cc3a0e1640255d34fcc7062566580534f8f",
+  "_source": [
+    "primal backup"
+  ]
+}

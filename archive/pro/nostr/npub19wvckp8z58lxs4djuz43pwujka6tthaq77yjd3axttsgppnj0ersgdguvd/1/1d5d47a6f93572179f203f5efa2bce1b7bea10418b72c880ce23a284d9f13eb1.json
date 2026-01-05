@@ -1,0 +1,45 @@
+{
+  "id": "1d5d47a6f93572179f203f5efa2bce1b7bea10418b72c880ce23a284d9f13eb1",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748113202,
+  "kind": 1,
+  "tags": [
+    [
+      "t",
+      "Bitcoin"
+    ],
+    [
+      "t",
+      "Nostr"
+    ],
+    [
+      "t",
+      "OpenSource"
+    ],
+    [
+      "t",
+      "DigitalSovereignty"
+    ],
+    [
+      "t",
+      "ProofOfWork"
+    ],
+    [
+      "t",
+      "ZapLife"
+    ],
+    [
+      "t",
+      "MyContinuum"
+    ],
+    [
+      "t",
+      "BuildWithoutPermission"
+    ]
+  ],
+  "content": "🚀 It's live: [mycontinuum.xyz](http://mycontinuum.xyz)\n\nContinuum is my self-hosted signal dashboard — built to reclaim everything I’ve ever posted across Nostr, Twitter, Facebook, LinkedIn, and more.\n\nIt’s early, but it’s real.\n\nBuilt with Bitcoin. Shaped by faith. Powered by proof of work.\n\n⚡ Zap me if this resonates:\nandrewgstantoin@primal.net\n\n🔗 Explore: mycontinuum.xyz  \n⭐ Contribute: github.com/andrewgstanton/continuum\n\n#Bitcoin #Nostr #OpenSource #DigitalSovereignty #ProofOfWork #ZapLife #MyContinuum #BuildWithoutPermission\n",
+  "sig": "8821c1499fa41d6dec4e5c1d6656a08d84b723ec289e0588e2af64eed3bebafef6b62dc75b665087ac7d5cadc124b67531aad92d6506036f32f4e18acac15013",
+  "_source": [
+    "primal backup"
+  ]
+}

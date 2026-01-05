@@ -1,0 +1,19 @@
+{
+  "id": "a78b4f0d49ab6aa5039879a623313ee976393c795d68ba1a6a7371998690cf6d",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1759614720,
+  "kind": 1,
+  "tags": [
+    [
+      "p",
+      "0ee827a36e8bb0cfc483cf1872781182c4a16c58acba3ae2d7b155e0370e93b8",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "nostr:npub1pm5z0gmw3wcvl3yreuv8y7q3stz2zmzc4jar4ckhk927qdcwjwuq3txe07  please generate an image for  me that illustrates theocrat of „sovereignty“",
+  "sig": "e71b6a6b3954886c942f3dda0858379127fc794179c94bed0280d68cad9e013f7a7035e5b61af86a391e4ea383fd8f9a91bbcbe88a9ea95215fefdd7ed36178f",
+  "_source": [
+    "primal backup"
+  ]
+}

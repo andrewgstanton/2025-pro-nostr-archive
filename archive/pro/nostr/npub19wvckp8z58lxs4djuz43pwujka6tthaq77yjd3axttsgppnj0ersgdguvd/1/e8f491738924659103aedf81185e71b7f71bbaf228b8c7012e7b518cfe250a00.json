@@ -1,0 +1,41 @@
+{
+  "id": "e8f491738924659103aedf81185e71b7f71bbaf228b8c7012e7b518cfe250a00",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748196214,
+  "kind": 1,
+  "tags": [
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "freelygive"
+    ],
+    [
+      "t",
+      "proofofwork"
+    ],
+    [
+      "t",
+      "kingdomeconomy"
+    ],
+    [
+      "t",
+      "zaplife"
+    ],
+    [
+      "t",
+      "buildwithconviction"
+    ]
+  ],
+  "content": "Sometimes I get zaps. Sometimes I don’t.\n\nAnd that’s okay — because I’m not here to extract value. I’m here to create it. To tell the truth. To encourage. To build.\n\nI want to grow my sats stash, yes. But posting for sats? That’s not how this works. You can’t fake resonance. You can’t manufacture trust. And you shouldn’t try.\n\n“Freely you have received, freely give.”\n— Matthew 10:8\n\nSo I zap the notes and stories that move me. I post what I believe is worth sharing. I trust that what’s freely given in love has a way of multiplying — in ways that can’t always be counted.\n\nThis isn’t about clout. It’s about calling.\n\nLet’s keep building signal.\n\n⚡️Zap if it resonates. But either way — thank you for reading.\n\n#bitcoin, #nostr, #freelygive, #proofofwork, #kingdomeconomy, #zaplife, #buildwithconviction",
+  "sig": "52017fe02da8974d120de41a616874460cb38399362e39b3906409bfe1d1c975735bae1b1d4fc78953d2a5be65ec5973526882f03132bc8b7a9b088c40cf4004",
+  "_source": [
+    "primal backup"
+  ]
+}

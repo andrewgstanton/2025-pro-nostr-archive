@@ -1,0 +1,33 @@
+{
+  "id": "249dffe0c98bf1765a8c66339b6ae35163883b8e250be60d10dc40e5b6acf36d",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747978985,
+  "kind": 1,
+  "tags": [
+    [
+      "t",
+      "Nostr"
+    ],
+    [
+      "t",
+      "Permissionless"
+    ],
+    [
+      "t",
+      "ProofOfWork"
+    ],
+    [
+      "t",
+      "ZapLife"
+    ],
+    [
+      "t",
+      "DigitalSovereignty"
+    ]
+  ],
+  "content": "The more I use Nostr, the more I like it.\nAnd the less I like… everything else.\n\nPermissionless. Portable. Signal-rich.\nNo gatekeepers, no bait-and-switch.\n\nEvery day on here feels like it’s mine.\nThat’s rare. That’s worth building on.\n\n⚡️ zap if you feel it\n#Nostr #Permissionless #ProofOfWork #ZapLife #DigitalSovereignty",
+  "sig": "102afc897fbee0ad338464ef31f829fffdd32fcf6e09cfb32db26d7c0f9ea25cbd9116b2cfdfe89da04935891c61824ec5392819293e7479b483c4cede025c86",
+  "_source": [
+    "primal backup"
+  ]
+}

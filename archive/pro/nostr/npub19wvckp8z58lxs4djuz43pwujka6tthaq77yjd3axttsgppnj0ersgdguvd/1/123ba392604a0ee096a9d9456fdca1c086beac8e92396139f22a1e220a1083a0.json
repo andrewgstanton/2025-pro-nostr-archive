@@ -1,0 +1,33 @@
+{
+  "id": "123ba392604a0ee096a9d9456fdca1c086beac8e92396139f22a1e220a1083a0",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747458497,
+  "kind": 1,
+  "tags": [
+    [
+      "t",
+      "iPhone16"
+    ],
+    [
+      "t",
+      "AppleLogic"
+    ],
+    [
+      "t",
+      "USBCHungerGames"
+    ],
+    [
+      "t",
+      "LedgerToTheRescue"
+    ],
+    [
+      "t",
+      "TechIrony"
+    ]
+  ],
+  "content": "A follow on to my earlier post about the new iPhone 16… Got the new iPhone 16 Pro Max. Gorgeous device. No charger.\nJust a USB-C to USB-C cable in the box — and zero love for folks without a matching brick.\n\nSolution? I charged it using the cable from my Ledger Nano.\nApparently, you need a hardware wallet to power your Apple wallet. 😂\n\n#iPhone16 #AppleLogic #USBCHungerGames #LedgerToTheRescue #TechIrony",
+  "sig": "71b73ddf7dd0c73c6c67915842274182871f4150dd048a582d5c27431f83995aa2e9a082377a00c76a1cece597132d47f70386f3418478124e25a97a2c9c140e",
+  "_source": [
+    "primal backup"
+  ]
+}

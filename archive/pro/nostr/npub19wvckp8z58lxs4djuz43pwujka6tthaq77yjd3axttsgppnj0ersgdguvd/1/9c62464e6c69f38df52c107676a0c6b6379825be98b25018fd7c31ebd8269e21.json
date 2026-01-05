@@ -1,0 +1,49 @@
+{
+  "id": "9c62464e6c69f38df52c107676a0c6b6379825be98b25018fd7c31ebd8269e21",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748837545,
+  "kind": 1,
+  "tags": [
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "family"
+    ],
+    [
+      "t",
+      "bitcoinerforgood"
+    ],
+    [
+      "t",
+      "strike"
+    ],
+    [
+      "t",
+      "zaptheworld"
+    ],
+    [
+      "t",
+      "proofOfWork"
+    ],
+    [
+      "t",
+      "wealthbuilding"
+    ],
+    [
+      "t",
+      "bitwage"
+    ],
+    [
+      "t",
+      "nostr"
+    ]
+  ],
+  "content": "Showed my brother Fred how to install Strike on his phone — then sent him 1,000 sats from my Primal account.\n\nHis face lit up.\n\nHe got it.\n\nSometimes all it takes is a simple transfer — not a lecture, not a debate.\n\nI also shared how Bitwage works so he can start stacking with part of his paycheck.\nHoping this sparks something for his kids and his girlfriend Desiree too.\n\nWealth isn’t built overnight. But it starts with one step toward sovereignty.\n\n#bitcoin #family #bitcoinerforgood #strike #zaptheworld #proofOfWork #wealthbuilding #bitwage #nostr",
+  "sig": "c0c0a0db1234dc10d056e977a859f0533f1d0515a5043d3f273e9f629ced663e712b86fa6f4874fe736df64cc601b1ee78f539f2d688aef88e2eb13deff781bd",
+  "_source": [
+    "primal backup"
+  ]
+}

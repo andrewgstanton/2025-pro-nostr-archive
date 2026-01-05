@@ -1,0 +1,25 @@
+{
+  "id": "dd3f2143e79e16726aedcc6fed8b78889c2cc7c04f24517779feb038f973936b",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1762656896,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:248d077e17268dee253a31c33cd5ca88eac031d3d98f5dd0b397cceb377c622f:the-resurrection-banquet-has-already-begun-wednesday-of-trinity-20-2025",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "248d077e17268dee253a31c33cd5ca88eac031d3d98f5dd0b397cceb377c622f",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Beautiful and very important as we head towards the holidays!",
+  "sig": "f67164018e243b75b36e8627812ced71fc03f5d3cc9bf97e1880fdcd7be5e8f3aa21c8b446cf541282f997ce68d735ff9b0e0bbdfdc57c1cb68ccc2303113531",
+  "_source": [
+    "primal backup"
+  ]
+}
