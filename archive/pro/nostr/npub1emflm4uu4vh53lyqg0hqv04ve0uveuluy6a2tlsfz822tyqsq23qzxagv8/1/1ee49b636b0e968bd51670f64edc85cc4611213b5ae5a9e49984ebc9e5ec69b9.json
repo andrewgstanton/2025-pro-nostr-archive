@@ -1,0 +1,31 @@
+{
+  "content": "# test w/ multipub (a different npub\n\nanother test",
+  "created_at": 1751693211,
+  "id": "1ee49b636b0e968bd51670f64edc85cc4611213b5ae5a9e49984ebc9e5ec69b9",
+  "kind": 1,
+  "pubkey": "ced3fdd79cab2f48fc8043ee063eaccbf8ccf3fc26baa5fe0911d4a5901002a2",
+  "sig": "10cd2e47c34f47980ae60ffce0004e8cfba176209ade05e9ee9eb6e4035fbb02c744c0b614f056fe47f50473181dabc5b3672fc0e8999224426eee824774c8a6",
+  "tags": [
+    [
+      "title",
+      "test w/ multipub (a different npub"
+    ],
+    [
+      "published_at",
+      "1751693211"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "test"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://nostr.bitcoiner.social"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "content": "# 🚀 Continuum v1.4 milestone\n\nI just imported my LinkedIn profile — and published it as a sovereign Nostr identity (complete with kind:0 metadata).\n\nNo OAuth. No scraping. No API keys. Just exported ZIP → parsed JSON → signed + published.\n\nOne identity. Many contexts. Fully portable.",
+  "created_at": 1752461634,
+  "id": "265175e6bf1c318904caf7cbfc6f9bb8f7f5c0ed7f0bf6f7320fd6d53830479b",
+  "kind": 1,
+  "pubkey": "ced3fdd79cab2f48fc8043ee063eaccbf8ccf3fc26baa5fe0911d4a5901002a2",
+  "sig": "c09be48b2997715b0f1a764503ed68702772f789b41fca84489998327062f131cceabf3224a3f65f83584a4de44a06d34c7a8fb61b0c86b7348ee1f53ffafd3d",
+  "tags": [
+    [
+      "title",
+      "🚀 Continuum v1.4 milestone"
+    ],
+    [
+      "published_at",
+      "1752461634"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "continuum-pro"
+    ],
+    [
+      "t",
+      "sovereign-publishing"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "digital-freedom"
+    ],
+    [
+      "t",
+      "linkedin"
+    ],
+    [
+      "t",
+      "linkedin-exit"
+    ],
+    [
+      "t",
+      "linkedin-oasis"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://nostr.bitcoiner.social"
+  ]
+}

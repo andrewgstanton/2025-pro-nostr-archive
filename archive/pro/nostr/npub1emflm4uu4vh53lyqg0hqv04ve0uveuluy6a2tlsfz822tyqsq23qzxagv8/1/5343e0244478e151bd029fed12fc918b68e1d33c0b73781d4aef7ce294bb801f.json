@@ -1,0 +1,47 @@
+{
+  "content": "# Patron Support\n\nWe’re building Continuum as a sovereign platform for identity, publishing, and connection on Nostr.\n\nPatron support helps us accelerate development — from LinkedIn imports and multi-npub publishing to private, encrypted messaging.\n\nPatron package: $250 (or sats equivalent, with a 10% discount).\n\n⚡ Support: andrewgstanton@primal.net\n\nPlease DM if you have any questions. Thank you everyone!!",
+  "created_at": 1755540217,
+  "id": "5343e0244478e151bd029fed12fc918b68e1d33c0b73781d4aef7ce294bb801f",
+  "kind": 1,
+  "pubkey": "ced3fdd79cab2f48fc8043ee063eaccbf8ccf3fc26baa5fe0911d4a5901002a2",
+  "sig": "6e4e14dbd5fae27808ff70ea5f74fb244ab1d976e69a63508962f83e31ffab6661ca0cf25c04d68c8c26f5fcf8b7ba16a0b6dc4fa2ed9fd6fbc3262483621e69",
+  "tags": [
+    [
+      "title",
+      "Patron Support"
+    ],
+    [
+      "published_at",
+      "1755540217"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "continuum-pro"
+    ],
+    [
+      "t",
+      "patron"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "sats"
+    ],
+    [
+      "t",
+      "lightning"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.snort.social"
+  ]
+}

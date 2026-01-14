@@ -1,0 +1,39 @@
+{
+  "content": "# ** Verified NIP-05 service !!! **\n\nI can provide verified NIP-05 addresses at mycontinuum.xyz.\nDM me your npub and preferred name, and I’ll set it up for you.\n\nRequests with insulting, demeaning, or offensive names — including those targeting public figures, groups, or individuals — will be rejected.",
+  "created_at": 1755800226,
+  "id": "b802a9cd7ed3e3dfa34a34d4027abe6b0c4022e33cbf31406dd5607193649820",
+  "kind": 1,
+  "pubkey": "ced3fdd79cab2f48fc8043ee063eaccbf8ccf3fc26baa5fe0911d4a5901002a2",
+  "sig": "0ec99c5db761f99dced082487dce01e44f43d315216edcf25c18026ff59a41a37ad3ef1db7716b9b5e78aea9500da29139fb575d37941b772a424d3d22c76de9",
+  "tags": [
+    [
+      "title",
+      "** Verified NIP-05 service !!! **"
+    ],
+    [
+      "published_at",
+      "1755800226"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "nip-05"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "continuum-pro"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://nostr.bitcoiner.social"
+  ]
+}

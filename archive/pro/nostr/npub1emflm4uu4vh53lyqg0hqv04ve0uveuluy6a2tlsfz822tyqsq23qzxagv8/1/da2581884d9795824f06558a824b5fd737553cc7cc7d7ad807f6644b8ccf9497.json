@@ -1,0 +1,51 @@
+{
+  "content": "# Just published Continuum’s pricing + roadmap breakdown.\n\n⚡️ 📣 Here’s the official Continuum pricing breakdown — what’s included in the free Docker-hosted version vs. the hosted Pro tier. Roadmap, sats discount, and open source pledge included.\n\n\n🆓 Free self-hosted version (Docker)\n\n🧑‍💻 Pro tier w/ identity switching, relay stats, publishing modal, and more\n\n🧠 Built with Nostr, not VC decks\n\n📖 Read it here: https://is.gd/Dunfrm\n\n🧵 Full article on Nostr:\n\nnostr: https://is.gd/cHOSoh",
+  "created_at": 1752034371,
+  "id": "da2581884d9795824f06558a824b5fd737553cc7cc7d7ad807f6644b8ccf9497",
+  "kind": 1,
+  "pubkey": "ced3fdd79cab2f48fc8043ee063eaccbf8ccf3fc26baa5fe0911d4a5901002a2",
+  "sig": "4ca7074732209e11b4c4c7ec640cc23f0d53d0f304dafa59bc71a6ec97dd9ef64d9dc326bdbe0ad339fd75b3a726acf839474b9a58a0182f792b1fc3b45d3e0a",
+  "tags": [
+    [
+      "title",
+      "Just published Continuum’s pricing + roadmap breakdown."
+    ],
+    [
+      "published_at",
+      "1752034371"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "continuum-pro"
+    ],
+    [
+      "t",
+      "sovereign publishing"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "digital freedom"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://nostr.bitcoiner.social"
+  ]
+}

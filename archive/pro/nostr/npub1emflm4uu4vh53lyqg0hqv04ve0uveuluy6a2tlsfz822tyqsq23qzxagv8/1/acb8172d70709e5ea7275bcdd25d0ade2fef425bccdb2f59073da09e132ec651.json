@@ -1,0 +1,52 @@
+{
+  "content": "# Built Continuum because I needed it — now I want to keep it independent.\n\nBuilt Continuum because I needed it — now I want to keep it independent.\n\n💥 $250 one-time = Lifetime Pro\n⚡️ 10% off if paid in Bitcoin/Lightning\nNo subscriptions. No strings. Just full access and support for sovereign publishing.\n\nIf you’ve found value in this project, consider becoming a Founding Patron.\n\nDM me at https://primal.net/andrewgstanton\n\nor visit https://mycontinuum.xyz\n\nEvery bit of support matters — thank you 🙏",
+  "created_at": 1752349535,
+  "id": "acb8172d70709e5ea7275bcdd25d0ade2fef425bccdb2f59073da09e132ec651",
+  "kind": 1,
+  "pubkey": "ced3fdd79cab2f48fc8043ee063eaccbf8ccf3fc26baa5fe0911d4a5901002a2",
+  "sig": "489666a877a20158cf4577be0295779174cfaf2b4a1e07339e9bf86349e4a50b23b27f41f9c206f2e2d355295ce01846cc84711ae8ed4ae9b4311618144ab8dd",
+  "tags": [
+    [
+      "title",
+      "Built Continuum because I needed it — now I want to keep it independent."
+    ],
+    [
+      "published_at",
+      "1752349535"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "continuum-pro"
+    ],
+    [
+      "t",
+      "sovereign publishing"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "digital freedom"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://nostr.bitcoiner.social",
+    "wss://relay.snort.social"
+  ]
+}

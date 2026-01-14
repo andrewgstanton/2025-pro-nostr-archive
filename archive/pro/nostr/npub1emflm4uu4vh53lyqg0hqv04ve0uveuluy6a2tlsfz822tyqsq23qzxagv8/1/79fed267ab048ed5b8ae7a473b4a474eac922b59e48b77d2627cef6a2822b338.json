@@ -1,0 +1,51 @@
+{
+  "content": "# July 4,  2025  -  A Declaration of Digital Independence\n\n## 🎆 On July 4, I’m declaring independence — not just from old empires, but from centralized systems.\n\nThis is the first post from Continuum — a new Nostr identity I created this morning — and published from a self-hosted system running on my own machine.\n\nNo cloud. No middlemen. No platforms.\nJust freedom — and a sovereign stack.\n\n🛠️ Built on Nostr\n⚡ Powered by Bitcoin\n📡 Posted from localhost\n\nHappy Independence Day.\nLet’s build something better.\n\n🔗 https://github.com/andrewgstanton/continuum",
+  "created_at": 1751647265,
+  "id": "79fed267ab048ed5b8ae7a473b4a474eac922b59e48b77d2627cef6a2822b338",
+  "kind": 1,
+  "pubkey": "ced3fdd79cab2f48fc8043ee063eaccbf8ccf3fc26baa5fe0911d4a5901002a2",
+  "sig": "7a5586729f1dd5620e7f836fe75e94878467717e4b66d8d8966fdaa9b43a20e8d656578edfae809f375081170cf3bbace77c2d5b26723d64211718f200fe3904",
+  "tags": [
+    [
+      "title",
+      "July 4,  2025  -  A Declaration of Digital Independence"
+    ],
+    [
+      "published_at",
+      "1751647265"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "#nostr"
+    ],
+    [
+      "t",
+      "#bitcoin"
+    ],
+    [
+      "t",
+      "#sovereignsoftware"
+    ],
+    [
+      "t",
+      "#selfhosted"
+    ],
+    [
+      "t",
+      "#digitalindependence"
+    ],
+    [
+      "t",
+      "#july4"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.damus.io",
+    "wss://nostr.bitcoiner.social"
+  ]
+}
