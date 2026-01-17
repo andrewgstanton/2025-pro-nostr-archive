@@ -1,0 +1,15 @@
+{
+  "content": "{\"name\": \"Continuum\", \"about\": \"A sovereign publishing dashboard for Nostr.  \\nWrite, edit, and publish from your own machine \\u2014 no platforms, no gatekeepers.\\n\\nBuilt for builders who value freedom, not followers.  \\n\\nmycontinuum.xyz | github.com/andrewgstanton/continuum\\n\\n\\ngithub: https://github.com/andrewgstanton/continuum\", \"picture\": \"https://blossom.primal.net/8983ef0c3878a4fea4cbf0ad803e96f4f70e73118fb061732fc54801365f63b3.png\", \"banner\": \"https://blossom.primal.net/70a42c55dc7a30001affb4c5cf9ba91fbc2c28771916847dabb5f4ff7bdb94e3.jpg\", \"website\": \"https://mycontinuum.xyz\", \"nip05\": \"continuum@mycontinuum.xyz\", \"lud16\": \"None\"}",
+  "created_at": 1763748563,
+  "id": "1b860635752c95d04dcd05f9735d273304b72e60cf180c702c0858d8197ee802",
+  "kind": 0,
+  "pubkey": "ced3fdd79cab2f48fc8043ee063eaccbf8ccf3fc26baa5fe0911d4a5901002a2",
+  "sig": "0e4738159c3c04bfbb896fef4a05685023a1364956aa975e71380239252519ba38a760b39c18950ca0de297bf311336ef2a15179a0334161f0475e1f248f747b",
+  "tags": [],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nostr-pub.wellorder.net",
+    "wss://nostr.mom"
+  ],
+  "npub": "npub1emflm4uu4vh53lyqg0hqv04ve0uveuluy6a2tlsfz822tyqsq23qzxagv8"
+}
