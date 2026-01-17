@@ -1,0 +1,14 @@
+{
+  "content": "{\"name\": \"Continuum Magazine\", \"about\": \"A weekly collection of essays, reflections, and sovereign thought \\u2014 published every issue under one npub. Part of the Continuum ecosystem.\", \"picture\": \"https://blossom.primal.net/8983ef0c3878a4fea4cbf0ad803e96f4f70e73118fb061732fc54801365f63b3.png\", \"banner\": \"https://blossom.primal.net/70a42c55dc7a30001affb4c5cf9ba91fbc2c28771916847dabb5f4ff7bdb94e3.jpg\", \"website\": \"https://continuum.xyz\", \"nip05\": \"magazine@mycontinuum.xyz\", \"lud16\": \"\"}",
+  "created_at": 1757653001,
+  "id": "b4c74153b3984021213742f37a37d910abb747f9c083c191fb22c64c463c6445",
+  "kind": 0,
+  "pubkey": "fb700c6b97241eb0776a54c74e13ace5003a4a5619b81d7ef6c4f4fc80e625f6",
+  "sig": "886910460442b9ac5eb2dc17e0d84ee2f193223de2462b60540f9c8fdafd3343eb655376c05288f302ab83900bc818aee9fed2c6d0abd962582917029f0c355d",
+  "tags": [],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.damus.io"
+  ],
+  "npub": "npub1ldcqc6uhys0tqam22nr5uyavu5qr5jjkrxup6lhkcn60eq8xyhmq88042a"
+}
