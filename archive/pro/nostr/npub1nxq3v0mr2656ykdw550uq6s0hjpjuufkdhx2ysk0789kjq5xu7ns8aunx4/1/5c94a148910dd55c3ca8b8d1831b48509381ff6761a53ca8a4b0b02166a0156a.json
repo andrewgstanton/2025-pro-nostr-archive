@@ -1,0 +1,22 @@
+{
+  "content": "We’re exploring the frontiers of value, trade, sovereignty, and sustainability through Bitcoin and open protocols.  This was posted on mycontinuum where I also created the identity (npub/nsec).\n\nFollow along → https://is.gd/LGjxKV",
+  "created_at": 1752020530,
+  "id": "5c94a148910dd55c3ca8b8d1831b48509381ff6761a53ca8a4b0b02166a0156a",
+  "kind": 1,
+  "pubkey": "9981163f6356a9a259aea51fc06a0fbc832e71366dcca242cff1cb690286e7a7",
+  "sig": "412bb303261ca54b2b458fc287cf4cb42ad3f1108e83bdf36d722d9fbfce0c4c3d15435cc6216d1587264bfb1cd29cf1efe78acf24bf541c003356f31c6a17ca",
+  "tags": [
+    [
+      "published_at",
+      "1752020530"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nostr.mom"
+  ]
+}
