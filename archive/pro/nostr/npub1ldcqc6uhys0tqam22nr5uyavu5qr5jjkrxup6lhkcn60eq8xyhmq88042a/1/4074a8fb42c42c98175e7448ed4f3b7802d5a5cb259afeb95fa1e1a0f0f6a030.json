@@ -1,0 +1,38 @@
+{
+  "content": "# New paid essay:  “Why Sovereign Tools Must Outlast Their Creators”\n\nContinuum isn’t a platform — it’s a long-term cathedral for digital independence.  \nThis one goes deep.\n\nRead the full piece:\nhttps://is.gd/Zv1lgb\n\n#sovereignty #continuum #patrons",
+  "created_at": 1765490009,
+  "id": "4074a8fb42c42c98175e7448ed4f3b7802d5a5cb259afeb95fa1e1a0f0f6a030",
+  "kind": 1,
+  "pubkey": "fb700c6b97241eb0776a54c74e13ace5003a4a5619b81d7ef6c4f4fc80e625f6",
+  "sig": "b437ce4883316e3c03c3fbd2c7fc71dd3f20ce646a01909c95d40894e93bbeb6582f1f8cc68be166e4b4fdfae411a014fbcfffbd797cb34960afc1cab4a452db",
+  "tags": [
+    [
+      "title",
+      "New paid essay:  “Why Sovereign Tools Must Outlast Their Creators”"
+    ],
+    [
+      "published_at",
+      "1765490009"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "patrons"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.damus.io"
+  ]
+}

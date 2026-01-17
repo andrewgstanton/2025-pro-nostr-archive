@@ -1,0 +1,54 @@
+{
+  "content": "# Continuum Magazine — Issue #1 (Sept 1–7, 2025)\n\nThe first issue is here: one paid article + two free reflections each day, curated into a weekly record of sovereignty, faith, and conviction. This opening issue carries a heavy remembrance of Sept 11 and the loss of Charlie Kirk, while pointing toward renewal and hope.\n\n📖 Read Issue #1: [Continuum Magazine](https://is.gd/q7Ajaw)",
+  "created_at": 1757711017,
+  "id": "8c59f2c0e3926e26ac53e29d21f92d903d9b83c6a58b789c8e7213bd6ded1b0b",
+  "kind": 1,
+  "pubkey": "fb700c6b97241eb0776a54c74e13ace5003a4a5619b81d7ef6c4f4fc80e625f6",
+  "sig": "259bf781407a932574155d2af35b4151c4bbdf8479aadce277d8bcee0000550ba5d790b63f277800d744cfe35b07f982d96b8510e4c650ae077dd18037284dd0",
+  "tags": [
+    [
+      "title",
+      "Continuum Magazine — Issue #1 (Sept 1–7, 2025)"
+    ],
+    [
+      "published_at",
+      "1757711017"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "continuum"
+    ],
+    [
+      "t",
+      "magazine"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "t",
+      "faith"
+    ],
+    [
+      "t",
+      "freedom"
+    ],
+    [
+      "t",
+      "charliekirk"
+    ],
+    [
+      "t",
+      "sept11"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.damus.io"
+  ]
+}

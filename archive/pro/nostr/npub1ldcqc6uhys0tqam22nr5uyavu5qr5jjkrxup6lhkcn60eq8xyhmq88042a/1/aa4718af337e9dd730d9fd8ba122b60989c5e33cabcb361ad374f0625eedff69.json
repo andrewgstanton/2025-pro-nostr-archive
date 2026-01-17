@@ -1,0 +1,38 @@
+{
+  "content": "# Bitcoin Chronicles lore drop:  “The First Pilgrim Charter”\n\nA recovered document from the early expansion era — the moment humanity asserted jurisdiction over its own future.\n\nRead here:\nhttps://is.gd/1A57oM\n\n#BitcoinChronicles #scifi #worldbuilding",
+  "created_at": 1765487498,
+  "id": "aa4718af337e9dd730d9fd8ba122b60989c5e33cabcb361ad374f0625eedff69",
+  "kind": 1,
+  "pubkey": "fb700c6b97241eb0776a54c74e13ace5003a4a5619b81d7ef6c4f4fc80e625f6",
+  "sig": "9880605827e197e444016b7d7d0c91aa1ce050b7b0886702eba291b69b72077c364542b8c713646e1bea81216881aa218761b17f6b6fc4616dab80f9e455b914",
+  "tags": [
+    [
+      "title",
+      "Bitcoin Chronicles lore drop:  “The First Pilgrim Charter”"
+    ],
+    [
+      "published_at",
+      "1765487498"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "bitcoinchronicles"
+    ],
+    [
+      "t",
+      "scifi"
+    ],
+    [
+      "t",
+      "worldbuilding"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.damus.io"
+  ]
+}
