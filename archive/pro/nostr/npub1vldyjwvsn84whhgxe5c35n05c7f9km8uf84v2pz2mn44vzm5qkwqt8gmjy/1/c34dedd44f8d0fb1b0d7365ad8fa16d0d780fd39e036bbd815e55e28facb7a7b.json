@@ -1,0 +1,76 @@
+{
+  "content": "🏠 Introducing Golden Gate Group Investments\n\nAfter years of trading, building startups, and investing across markets, I’m proud to formally introduce one of my core ventures: Golden Gate Group Investments LLC — a real estate investment company rooted in long-term value, community integrity, and financial sovereignty.\n\nOur mission is simple:\nTo help reshape access to real estate with practical, sustainable strategies that don’t depend on the traditional fiat treadmill.\n\nWe're actively growing a portfolio of income-generating properties—and in the near future, we aim to support tenants paying rent in Bitcoin and enable property transactions directly through BTC.\n\nBecause real assets and sound money should go hand in hand.\n\n🟧 Sound homes, sound money.\n\nMore to come soon — this is just the beginning.\n\nMy profile on primal ->\n\nhttps://primal.net/npub19wvckp8z58lxs4djuz43pwujka6tthaq77yjd3axttsgppnj0ersgdguvd\n\n\n#Bitcoin #RealEstate #SoundMoney #GoldenGateGroup #FinancialSovereignty #BTC #LongTermVision #HardAssets #SatsAndBricks",
+  "created_at": 1747110019,
+  "id": "c34dedd44f8d0fb1b0d7365ad8fa16d0d780fd39e036bbd815e55e28facb7a7b",
+  "kind": 1,
+  "pubkey": "67da49399099eaebdd06cd311a4df4c7925b6cfc49eac5044adceb560b74059c",
+  "sig": "5cedc76e23fa3e6fe83cf0c7f3c476eeed10ab058116e40308160c0ad2fbc23281e9d9a897257b2e2c165c9f4084dbfccbdf1eeb358f37281189fbb8a3d5d532",
+  "tags": [
+    [
+      "t",
+      "Bitcoin"
+    ],
+    [
+      "t",
+      "RealEstate"
+    ],
+    [
+      "t",
+      "SoundMoney"
+    ],
+    [
+      "t",
+      "GoldenGateGroup"
+    ],
+    [
+      "t",
+      "FinancialSovereignty"
+    ],
+    [
+      "t",
+      "BTC"
+    ],
+    [
+      "t",
+      "LongTermVision"
+    ],
+    [
+      "t",
+      "HardAssets"
+    ],
+    [
+      "t",
+      "SatsAndBricks"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+      "",
+      "mention"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://nostr.wine/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://wot.nostr.party/"
+    ]
+  ],
+  "_source": [
+    "wss://nostr.mom",
+    "wss://relay.damus.io"
+  ]
+}
