@@ -1,0 +1,50 @@
+{
+  "content": "# Scaling Smarter: Our Vision for Remote Talent + AI-Driven Startups\n\nAt StartNation, we believe the future of startup growth lies at the intersection of remote talent and AI agents — not just for cutting costs, but for scaling with purpose and precision.\n\nWe're building a model where:\n\n🌍 Remote, mission-aligned teams work across time zones to push product and service forward,\n 🤖 AI tools and agents handle the repetitive and the predictable — freeing human minds to focus on the creative and the critical,\n 🚀 Founders don’t burn out trying to do it all, because the right structure supports real momentum.\n\nIf you're a founder building something real — and fast — we invite you to explore StartNation.\n\nRecruit equity-aligned talent to launch your startup smarter.\n\nWhether you're building an MVP or scaling services, StartNation helps you match with mission-driven contributors ready to build.\n\n➡️ Sign Up at https://is.gd/XxphcJ\n\n\n(originally posted on Linkedin: https://is.gd/VJkQhV",
+  "created_at": 1753227590,
+  "id": "b0d6dc6e331808a69a3d9cdb0ae9e07d1c27b982a01f78861a7e1940ad7a7714",
+  "kind": 1,
+  "pubkey": "4bc301477b9357b783e3f1f52151da0d9d5d91502c9ead4231af6e86ca09ed61",
+  "sig": "67d79ca054cd2c480d0adc36faf29d17345327c32644cc2facd36f68c86b937c8228df4794269b62c31bfdbeb023e68494b8c3905bde8daca4664a1b7e2cef77",
+  "tags": [
+    [
+      "title",
+      "Scaling Smarter: Our Vision for Remote Talent + AI-Driven Startups"
+    ],
+    [
+      "published_at",
+      "1753227590"
+    ],
+    [
+      "client",
+      "mycontinuum-localhost"
+    ],
+    [
+      "t",
+      "remotework"
+    ],
+    [
+      "t",
+      "ai"
+    ],
+    [
+      "t",
+      "startupgrowth"
+    ],
+    [
+      "t",
+      "startnation"
+    ],
+    [
+      "t",
+      "futureofwork"
+    ],
+    [
+      "t",
+      "proofofwork"
+    ]
+  ],
+  "_source": [
+    "wss://relay.damus.io",
+    "wss://nostr.mom"
+  ]
+}
