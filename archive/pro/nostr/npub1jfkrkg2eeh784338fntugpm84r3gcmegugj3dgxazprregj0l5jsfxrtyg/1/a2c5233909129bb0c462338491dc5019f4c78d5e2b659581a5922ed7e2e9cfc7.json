@@ -1,0 +1,18 @@
+{
+  "content": "Hi all, just joined nostr (actually my husband joined for me and set up my initial profile.  \n\nPlease like and subscribe to a recent short I posted\n\"Japanese Style Hamburger Steak\"\n\nhttps://youtube.com/shorts/KwT6PwrgLzM?si=DpA8ISNrKb-EkfDc\n",
+  "created_at": 1748724262,
+  "id": "a2c5233909129bb0c462338491dc5019f4c78d5e2b659581a5922ed7e2e9cfc7",
+  "kind": 1,
+  "pubkey": "926c3b2159cdfc7ac6274cd7c40767a8e28c6f28e22516a0dd10463ca24ffd25",
+  "sig": "25ca77a09b4e0a29d6368056bb0e46daa85d121b76a6bbcdb319fbf35c202cf9223148f009d3998242684b51ece0f72a455e35ff43b025b00d91c5a4bf9b98c8",
+  "tags": [
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ]
+  ],
+  "_source": [
+    "wss://nos.lol",
+    "wss://relay.damus.io"
+  ]
+}
