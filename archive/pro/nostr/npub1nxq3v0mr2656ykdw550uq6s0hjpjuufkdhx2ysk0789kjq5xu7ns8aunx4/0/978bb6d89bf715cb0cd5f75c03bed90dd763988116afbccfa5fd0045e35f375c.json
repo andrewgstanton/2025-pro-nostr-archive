@@ -1,0 +1,13 @@
+{
+  "content": "{\"name\": \"BluePlanetVentures\", \"about\": \"Exploring the frontiers of value, trade, sovereignty, and sustainability through Bitcoin and open protocols.\", \"picture\": \"https://blossom.primal.net/800f03101b7e285b648d9ff1ca2eeb2dfd4a4eaf99127be37db216c1283ef9a7.png\", \"banner\": \"https://blossom.primal.net/ef11d7a93e0c2fbf8339a6601da39c7724cf116dd751ed8665d8d3f0f7b0014c.png\", \"website\": \"https://bpv.one\", \"nip05\": \"blueplanet@mycontinuum.xyz\", \"lud16\": \"None\"}",
+  "created_at": 1755573596,
+  "id": "978bb6d89bf715cb0cd5f75c03bed90dd763988116afbccfa5fd0045e35f375c",
+  "kind": 0,
+  "pubkey": "9981163f6356a9a259aea51fc06a0fbc832e71366dcca242cff1cb690286e7a7",
+  "sig": "822f069cf08a3387f7e9ef9c6a4b35cc0c3c3bdd1577210f5d4776f08954bb46ceba19a79b16834fab27da0c5defe8fc5daf1c562c53f16bdcaa83db088de9a4",
+  "tags": [],
+  "_source": [
+    "wss://relay.damus.io"
+  ],
+  "npub": "npub1nxq3v0mr2656ykdw550uq6s0hjpjuufkdhx2ysk0789kjq5xu7ns8aunx4"
+}
