@@ -1,0 +1,13 @@
+{
+  "content": "{\"name\": \"GGG\", \"about\": \"Worldwide Real Estate Investments powered by Bitcoin\\n\\n\\nCurrent owner of properties in Texas and Ohio\", \"picture\": \"https://blossom.primal.net/0e9756ba521c177b644b59a8c1c6fe8a084b82ad831ec11598ab75db9b5d2f0f.jpg\", \"banner\": \"None\", \"website\": \"None\", \"nip05\": \"goldengate@mycontinuum.xyz\", \"lud16\": \"None\"}",
+  "created_at": 1755573684,
+  "id": "f6f370f407c74cc36fe51c234d150c00775f502ac51ca610c50423dad32bb673",
+  "kind": 0,
+  "pubkey": "67da49399099eaebdd06cd311a4df4c7925b6cfc49eac5044adceb560b74059c",
+  "sig": "b8efb4aa2cb79dcbb79875d9bfe7b2952204dc5a0fbee6b5f4dc599421c16ec99e87ba4dfa1a59739116275a5ac99c1433cae92e500ccf30e3d282c342776260",
+  "tags": [],
+  "_source": [
+    "wss://relay.damus.io"
+  ],
+  "npub": "npub1vldyjwvsn84whhgxe5c35n05c7f9km8uf84v2pz2mn44vzm5qkwqt8gmjy"
+}
