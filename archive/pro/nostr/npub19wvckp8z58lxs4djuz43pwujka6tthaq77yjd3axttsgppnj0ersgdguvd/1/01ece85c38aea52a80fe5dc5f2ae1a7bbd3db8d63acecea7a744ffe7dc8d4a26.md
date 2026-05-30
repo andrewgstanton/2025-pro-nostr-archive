@@ -1,0 +1,1 @@
+Yes very true.   I started using hardware wallets (ledger) started last dec  but there are still better ways I can safeguard the bitcoin I have 

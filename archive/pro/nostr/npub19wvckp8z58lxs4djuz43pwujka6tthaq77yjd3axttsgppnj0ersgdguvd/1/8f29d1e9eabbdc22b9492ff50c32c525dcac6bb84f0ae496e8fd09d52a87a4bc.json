@@ -1,0 +1,44 @@
+{
+  "id": "8f29d1e9eabbdc22b9492ff50c32c525dcac6bb84f0ae496e8fd09d52a87a4bc",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748069146,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "b3f2dd81c255da3c94493ce966bb2c48b40b6b47146a4edc95e8bbad9d15d269",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "e192e7d30dec99a11b9b40ec77e46fdfd05bac566ecf47b9a71822e574bd54b9",
+      "wss://relay.primal.net",
+      "reply"
+    ],
+    [
+      "p",
+      "a80fc4a78634ee26aabcac951b4cfd7b56ae18babd33c5afdcf6bed6dc80ebd1",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "5144fe88ff4253c6408ee89ce7fae6f501d84599bc5bd14014d08e489587d5af",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "4eb88310d6b4ed95c6d66a395b3d3cf559b85faec8f7691dafd405a92e055d6d",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Does make u think actually … I am trying to get a few local businesses in my neighborhood to use strike or some other lightning wallet to take payment",
+  "sig": "7c34425c094c6323828e2d6a1a558e581ea8589b47091e1cf70c490535741f7198003307b22dcaa0423f43ec3ef83a1d8d2d20e7b82d8af8d20433b080486256",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

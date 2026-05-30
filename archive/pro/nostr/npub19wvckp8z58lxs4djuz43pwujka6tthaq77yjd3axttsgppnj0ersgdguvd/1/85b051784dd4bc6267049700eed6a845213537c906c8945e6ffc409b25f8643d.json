@@ -1,0 +1,32 @@
+{
+  "id": "85b051784dd4bc6267049700eed6a845213537c906c8945e6ffc409b25f8643d",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748050357,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "52d8d22ead8aa18fa85ebf93c30357dcc1c80f3094f47d2621d713f0f305aa85",
+      "wss://feeds.nostr.band",
+      "root"
+    ],
+    [
+      "e",
+      "fb0c1509a6e43f45596447987eac0ab212095fdc869aa5b10c1fa2c316dc8222",
+      "wss://relay.damus.io/%20wss://relay.notoshi.win/%20wss://nos.lol/%20wss://relay.siamstr.com/%20wss://relay.0xchat.com/%20wss://nfrelay.app/%20wss://relayrs.notoshi.win/%20wss://relay.nexterz.com/%20wss://fenrir-s.notoshi.win",
+      "reply"
+    ],
+    [
+      "p",
+      "604e96e099936a104883958b040b47672e0f048c98ac793f37ffe4c720279eb2",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "But ok here u go",
+  "sig": "e8f87e79d33ca2b5d6032410b94755b467db718ace53f562f7fac5286d6eddc5e98ae73061b02683564e58013d3970ce0b899dcaca9cf783e5b66a38d5dd49f2",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

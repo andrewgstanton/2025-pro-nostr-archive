@@ -1,0 +1,26 @@
+{
+  "id": "8e12a0e6b9545060a45c5d62140202989edc8a8786701819dcf1a2a95bc5998f",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1761717442,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "212150c1b79388f8acbf9376dbc5e184e0d2d941c5d6c483368d5e8d49a58eb6",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "d84dd710d4a328bf332471584b841a7c6217c8c018f26841160942447da9373e",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Hi welcome to Nostr!!",
+  "sig": "6c60d34b9749b328b4b37fa1fa314fc577aaaa281134b0f2c4d29346d58ac07d2151c67459ecc9be0217be1e8c9147a48b4233004cb1f33ad6d13eb1f4b1d7b8",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

@@ -1,0 +1,32 @@
+{
+  "id": "eb705f5aef13029d31abfc4550bc263ff4eb9397896cb51418984b3a037183ad",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748050335,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "52d8d22ead8aa18fa85ebf93c30357dcc1c80f3094f47d2621d713f0f305aa85",
+      "wss://feeds.nostr.band",
+      "root"
+    ],
+    [
+      "e",
+      "fb0c1509a6e43f45596447987eac0ab212095fdc869aa5b10c1fa2c316dc8222",
+      "wss://relay.damus.io/%20wss://relay.notoshi.win/%20wss://nos.lol/%20wss://relay.siamstr.com/%20wss://relay.0xchat.com/%20wss://nfrelay.app/%20wss://relayrs.notoshi.win/%20wss://relay.nexterz.com/%20wss://fenrir-s.notoshi.win",
+      "reply"
+    ],
+    [
+      "p",
+      "604e96e099936a104883958b040b47672e0f048c98ac793f37ffe4c720279eb2",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I am wanting the same I wanted to top 1000 sats by pizza day (yesterday ). I am up to 931 sats (from 0 3 weeks ago)",
+  "sig": "fcb4ed78c7752ddda48b8f3b5eef1d561e92369bbea186870b2f42569bc0a12368788ca82eb0a921e5b5b462f3f902b668469f4d7a0d69c1d39b9e0b0d3d5a75",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

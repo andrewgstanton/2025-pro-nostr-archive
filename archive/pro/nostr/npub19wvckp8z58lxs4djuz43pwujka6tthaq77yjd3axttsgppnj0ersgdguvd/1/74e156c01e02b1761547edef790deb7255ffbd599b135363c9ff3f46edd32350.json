@@ -1,0 +1,32 @@
+{
+  "id": "74e156c01e02b1761547edef790deb7255ffbd599b135363c9ff3f46edd32350",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1766633966,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "3e780f95bd1e139e69a9c5fe805516a1a555b5647639d3c5a06f692e6afaff7f",
+      "wss://relay.nostrcheck.me",
+      "root"
+    ],
+    [
+      "p",
+      "9c86d77537a6380ce371e3a4860bc7e1fb2adbb2821bf1a8f1cd4e8ce02240c9",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "31ff694f01417160459e59e2e283b5454b499d3885092c792ae0d6b2de7839f0",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Amen ",
+  "sig": "a4c96d0936750f8aaa83e91311d3262db32451dccbc904d5b248a64850552e0df7e9be961d73dadef2c98992177b0331a13fad4917afabf97f200b35bcf2649e",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

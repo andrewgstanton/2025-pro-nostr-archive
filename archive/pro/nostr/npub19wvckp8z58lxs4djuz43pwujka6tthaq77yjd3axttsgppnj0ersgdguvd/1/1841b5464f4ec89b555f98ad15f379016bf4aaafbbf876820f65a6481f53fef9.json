@@ -1,0 +1,32 @@
+{
+  "id": "1841b5464f4ec89b555f98ad15f379016bf4aaafbbf876820f65a6481f53fef9",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748050390,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "52d8d22ead8aa18fa85ebf93c30357dcc1c80f3094f47d2621d713f0f305aa85",
+      "wss://feeds.nostr.band",
+      "root"
+    ],
+    [
+      "e",
+      "fb0c1509a6e43f45596447987eac0ab212095fdc869aa5b10c1fa2c316dc8222",
+      "wss://relay.damus.io/%20wss://relay.notoshi.win/%20wss://nos.lol/%20wss://relay.siamstr.com/%20wss://relay.0xchat.com/%20wss://nfrelay.app/%20wss://relayrs.notoshi.win/%20wss://relay.nexterz.com/%20wss://fenrir-s.notoshi.win",
+      "reply"
+    ],
+    [
+      "p",
+      "604e96e099936a104883958b040b47672e0f048c98ac793f37ffe4c720279eb2",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I just did can u confirm u got them?",
+  "sig": "c25b76368da93c9d51013ad5cb16286e1fcbc06bb779750e5caabe11c446a0d6846f07c51f9590cb00969e75357ef25863a464f0d56818f82b2b8968d913aef5",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

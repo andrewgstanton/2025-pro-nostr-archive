@@ -1,0 +1,1 @@
+Yes AI and bitcoin  !!! I have been using chatGPT  A LOT

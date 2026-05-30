@@ -1,0 +1,26 @@
+{
+  "id": "2413ed7e4ad80675e41a8566925b481d62d8e0deee54a94b608b8cda8852eb31",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1763682910,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "7d9cdf1906733b40b79e042c2bc54549e24c0309870188ba291353679c66fbe8",
+      "wss://feeds.nostr.band/bens",
+      "root"
+    ],
+    [
+      "p",
+      "d70d50091504b992d1838822af245d5f6b3a16b82d917acb7924cef61ed4acee",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "https://primal.net/andrewgstanton/the-bitcoin-chronicles-toward-the-stars---full-series",
+  "sig": "c25c14c1d7121a3737d47637d65b4e5a8262c094b5da2fffa16e727bd217c2d9f478e584cbaf2e1d3cd493bd24f0bc41db905501cb330c6cb9f1080f496f55b4",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

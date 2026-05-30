@@ -1,0 +1,34 @@
+{
+  "id": "0fa36fbe4f85de58d3848d57017b574ca5358aaac3a28ce12d938cf7382bfa36",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1746386868,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "503825ef33222cb7012639588888767c3361c950a8b6e4220ba9dc8acb31eba0",
+      "wss://nostr.oxtr.dev",
+      "root"
+    ],
+    [
+      "e",
+      "451abc99ac45fbd88d001e290b38e999b5fc6173df4898e0866b88c52c5a1df1",
+      "wss://nostr.oxtr.dev",
+      "reply"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "p",
+      "f2e31fc7b13d15faf657f3f5343b61429727c7868374d612aee6f816db09a157"
+    ]
+  ],
+  "content": "Thank you Juls",
+  "sig": "fad4e58515149786faee91d5324306d68bd34e6758ae84627ea0191fd5fec11df55f7475fe87bb77fc0183637b4e602385e705e69f54aa2b42251b5cd55eefff",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

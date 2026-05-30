@@ -1,0 +1,26 @@
+{
+  "id": "3d80e3fd720b90f5892df4c92dff8a5473a3d7611789cf24754a5c898cc885af",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1763603884,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:adc14fa3ad590856dd8b80815d367f7c1e6735ad00fd98a86d002fbe9fb535e1:f269ed3e04626e4c",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "adc14fa3ad590856dd8b80815d367f7c1e6735ad00fd98a86d002fbe9fb535e1",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Beautiful !!\n\nTruth is so important!! \n\n",
+  "sig": "ad56cd96df9869ac317456fb16a5574e55982dbe832aa5f9eb6fb8994b57abe1550f1b78b27643d3082372471524943d0a659ebb4d5c5516b8074cf671ff2f1d",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

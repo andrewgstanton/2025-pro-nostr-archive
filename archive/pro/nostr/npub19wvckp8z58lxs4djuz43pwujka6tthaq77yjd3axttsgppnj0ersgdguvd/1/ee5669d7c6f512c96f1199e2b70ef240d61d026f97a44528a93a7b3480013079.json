@@ -1,0 +1,38 @@
+{
+  "id": "ee5669d7c6f512c96f1199e2b70ef240d61d026f97a44528a93a7b3480013079",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748211786,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "a4810a5edbf1c2d0100e0ad98c16fc7f4ab05290c68978bdcddcf7fa32970563",
+      "wss://nostr.sathoarder.com",
+      "root"
+    ],
+    [
+      "e",
+      "a5d746419235408169d7b86303ea4b4c6067be68bcb1ca3e228ff795181132f6",
+      "wss://nostr.sathoarder.com",
+      "reply"
+    ],
+    [
+      "p",
+      "548aed73cf0bd94c0637872b6acd2c83977dde03d745db65c8af72516c7993d2",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "f44a1fd3e75e1a08d6ee22cbe63a56a3ff8504cf704eee14bda85c1e3111d411",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Worked in browser it’s iPhone 16 pro   Max by the way ",
+  "sig": "dfb74e1a39d986eb44a377aba50510c5112ab909facb0e2fbf20c11d3592a9083a9b384ecab1af72a8da3d361d790821176da1c5e6877a496e4e60d259daa720",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

@@ -1,0 +1,42 @@
+{
+  "id": "35e11a67b4f98ba566cc730aec73a23e515579c650922a3baf6512fbcea05236",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747629274,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "5d6f5437a1ea8f5d0af3f74881de909a9d8e15b28fd9402409fc608c73c3d571",
+      "wss://nos.lol/%20wss://nostr.land/%20%20avatar%20wss://nostr.wine/%20%20avatar%20wss://purplerelay.com/%20wss://relay.damus.io/%20wss://relay.snort.social/",
+      "root",
+      "98aa4d34d35bec262097231d305be1cce77629ed47c95c511309abdeea7079d8"
+    ],
+    [
+      "e",
+      "7e67a32ff1bb303354ec44686dbb278b2b77b7d262b18dacdbf96dc0433a5a55",
+      "wss://nos.lol/%20wss://nostr.land/%20%20avatar%20wss://nostr.wine/%20%20avatar%20wss://purplerelay.com/%20wss://relay.damus.io/%20wss://relay.snort.social/",
+      "reply"
+    ],
+    [
+      "p",
+      "c9e9bdc0b03c21bd337a12dcf5b463d49fdafe884aa12bb950c182e9e4dbe9b8",
+      "wss://buzzbot-relay.bullishbounty.com",
+      "mention"
+    ],
+    [
+      "p",
+      "98aa4d34d35bec262097231d305be1cce77629ed47c95c511309abdeea7079d8"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+      "wss://relay.primal.net"
+    ]
+  ],
+  "content": "vielen Dank.  Sie sind ziemlich aelter als meiner Kinder (meiner war ungefaehr bis 12 Jahre alt)\n",
+  "sig": "3ea3566cd6be970bb3679758a15056ef6b7e4a21fe4ca3d2faf0214391a6070dc931f1d3da1dbcc767c72d7df9c4b69e7e4b346730ce85d9addbb27ffd8e77ce",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

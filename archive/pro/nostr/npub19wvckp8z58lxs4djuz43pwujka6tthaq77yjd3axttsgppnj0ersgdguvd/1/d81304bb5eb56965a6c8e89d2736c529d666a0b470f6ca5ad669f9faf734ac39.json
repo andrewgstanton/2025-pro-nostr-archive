@@ -1,0 +1,26 @@
+{
+  "id": "d81304bb5eb56965a6c8e89d2736c529d666a0b470f6ca5ad669f9faf734ac39",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1766687722,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "75733ad307217dde44fb50e59a72a331448706e20adc29795b0a70c5e533e7de",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "ab7d91705025289d6149ad9ea1abc4ce4c49555df71904f29136c223785ea6f7",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "From a recent story \n\n„LAUNCH AUTHORIZATION IS A PUBLIC SAFETY FUNCTION.\n\nBell had never agreed with the sentence. Not fully.\n\nNot because safety didn’t matter. But because the sentence pretended safety was the point.\n\nSafety was not the point.\n\nThe point was containment.“",
+  "sig": "3485dd61c27196d93e2141bf3883eb5632aa0660721b9746636b51ea944d989e5891e6702ee44c6404321893b9b06405d598b05e04b1a267a0bcb14c1aad2eb8",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

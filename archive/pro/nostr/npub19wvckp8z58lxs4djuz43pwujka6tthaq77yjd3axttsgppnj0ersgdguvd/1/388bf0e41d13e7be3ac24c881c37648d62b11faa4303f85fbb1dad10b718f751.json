@@ -1,0 +1,36 @@
+{
+  "id": "388bf0e41d13e7be3ac24c881c37648d62b11faa4303f85fbb1dad10b718f751",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1746773017,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "58c5cf226985757ff269d228a01c8d34944c98f1648ca7417583f46c89f6bb58",
+      "wss://relay.primal.net",
+      "root",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "e",
+      "df16134e7173f09a265deb193ddeab862c30d6ec1c59d05d32219e6205217342",
+      "wss://relay.primal.net",
+      "reply"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+      "wss://relay.primal.net"
+    ],
+    [
+      "p",
+      "48747a0dd3a073821b9ecb5352a0a33ea2f5b775abe0393240a061b5dbe8a6bf"
+    ]
+  ],
+  "content": "That's great .. I might try that 😉 ",
+  "sig": "f62b5f1a69e67e5ad042687d93e585879f3a3e97d70817a580638b099a51ea016e68390af762c09127ed381fc3e153fc98eb900c943604ffcaa2e9b1038569b2",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

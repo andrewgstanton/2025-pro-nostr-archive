@@ -1,0 +1,26 @@
+{
+  "id": "6f59ed7513a786645ecfc0ade2ee36d0db7efe3bc3d398a4e40835bbe16a798c",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1762756233,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "1723f356c180197395fa0aaf5590cb8b7d15aecbb88ec0298b0d23d0db42b8f1",
+      "wss://espelho.girino.org/",
+      "root"
+    ],
+    [
+      "p",
+      "43e0497121757c220ff2fbbd231b8ed55c26b27d91cdaf897d36fec9851139b5",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Thank you Mr. Satoshi ",
+  "sig": "2a26be032e47cef5212c273fe38ef7a36401e5601b25f8f574a9393123e4eec15e52f45e713b253e6f71e5f7cf0f4284ad7b86befe3eea7a6557e581972a7e19",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

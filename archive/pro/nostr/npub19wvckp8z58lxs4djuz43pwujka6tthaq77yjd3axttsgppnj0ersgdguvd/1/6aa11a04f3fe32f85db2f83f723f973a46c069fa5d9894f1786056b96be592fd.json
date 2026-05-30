@@ -1,0 +1,32 @@
+{
+  "id": "6aa11a04f3fe32f85db2f83f723f973a46c069fa5d9894f1786056b96be592fd",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747514838,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "6e2f387c625da78039e43bf02ca704a64274ea60b7f1a025ebd8f414252bc38b",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "5f0c0ddc263f7d338788afecfe096b67ad6d025f064b4210f7fe9965df2b72e7",
+      "wss://feeds.nostr.band/lang/en",
+      "reply"
+    ],
+    [
+      "p",
+      "b7274d28e3e983bf720db4b4a12a31f5c7ef262320d05c25ec90489ac99628cb",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Thanks !!",
+  "sig": "b2ca3ea4c7d1f9c1589efc63c1c7ed32d63c73ca8e1b584835cf168250f9426c608538f51d0d879c92cb5eb55905b90041ba397275b5e2c391f28f470c4e7d2b",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

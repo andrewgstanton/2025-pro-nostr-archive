@@ -1,0 +1,32 @@
+{
+  "id": "a2ede378d037f72d37d9f26e78001edb38d37bd6cb08ee357070c45833b0b151",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748223576,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47:what-does-work-look-like-in-a-deflationary-economy?",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "c1ea594907874b5b42ead44374c98155a8edee13241700dc2e9e5179fb6e20ad",
+      "wss://relay.damus.io",
+      "reply"
+    ],
+    [
+      "p",
+      "1d7ff02a58602a852d17ed3bb909fe15bdb18f12395dffcc8533af70d042b5be",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Pardon typos !!",
+  "sig": "85a3979b37f55488b5c902db154089da8860fecf22edef7e80b5fd6f2e8f13f2f78be3a99f34fe0ff7b1502dc1e73def90b77e0798b57d7cc9fada6dc94e55a6",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

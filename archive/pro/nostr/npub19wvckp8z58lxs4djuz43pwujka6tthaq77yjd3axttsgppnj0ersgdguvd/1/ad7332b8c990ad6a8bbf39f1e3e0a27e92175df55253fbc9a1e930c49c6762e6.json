@@ -1,0 +1,54 @@
+{
+  "id": "ad7332b8c990ad6a8bbf39f1e3e0a27e92175df55253fbc9a1e930c49c6762e6",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1746903715,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "fd81ddf2220b246a449ec0f178a0bac9893302af1b95e2f32305d588fb956397",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "5fe3ee52d529fc99f1dc2c5d102699e39519ecb099499d4eb34deb1d279a7386",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "6bb0082dfd02be52ba7d532cf29dcf82977df9eb10483ccf71efc6f00146ed0a",
+      "wss://bitcoiner.social",
+      "mention"
+    ],
+    [
+      "p",
+      "cef805126ca71d8e9a3b82469c443d471510b23722bc405fa38fa8572a270ddf",
+      "wss://23asdfasf2r341gnbrrhjhwggadffgasfsadfasafa.xyz",
+      "mention"
+    ],
+    [
+      "p",
+      "82341f882b6eabcd2ba7f1ef90aad961cf074af15b9ef44a09f9d2a8fbfbe6a2",
+      "wss://nos.lol",
+      "mention"
+    ],
+    [
+      "p",
+      "da66d621d05bb7a7d64c1adfe0ea6421ca7db60d1089cd98b06ccfcd0ea2ed78",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ]
+  ],
+  "content": "I went through some of these questions first few days of nostr,\n\n1. get the mobile app for nostr once you are logged in (using same private key for connecting on the web app to edit content), you can enable the wallet (settings ->wallet -> start in wallet).  It will give you a lightning address (mine is willymoth13@primal.net)\n\n https://blossom.primal.net/f55c32c5dc4326afd6547d5556455da735c23010aadcab7fd15719336c8f98cf.png \n\n2. in the web app, enable the wallet (settings -> Connected Wallets -> connect primal wallet)\n\n https://blossom.primal.net/ec43e91688667ea74e69a074e2389712f7627568c5a19b345fcc8680c43f1e97.png \n\n3. Once you connect your primal wallet, you should be able to send and receive zaps.  Let me know when you have the wallet enable and I will send you some sats.\n",
+  "sig": "c1eb91f8f1f66dacb9f84a33c10e52370a7db25341f09ea307bd5e9a6be6b0c2a9a2d8e6da3943f31a48f6c08c7d8e486254cedaac197ff2609883325843a824",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

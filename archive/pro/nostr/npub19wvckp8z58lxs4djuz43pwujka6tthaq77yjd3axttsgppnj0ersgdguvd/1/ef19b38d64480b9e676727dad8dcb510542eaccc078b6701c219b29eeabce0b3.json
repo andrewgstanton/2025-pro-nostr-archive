@@ -1,0 +1,34 @@
+{
+  "id": "ef19b38d64480b9e676727dad8dcb510542eaccc078b6701c219b29eeabce0b3",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1746906571,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "3b7c94b6b9ecf803492d1f1d63f71faeed079e5ad37d740b24a19bb92e58560b",
+      "wss://nostr.mom",
+      "root"
+    ],
+    [
+      "e",
+      "85cb6366986a97c8e3722ad23c002cc79a893a606ddf72d11dd8a16a6bc4af15",
+      "wss://nostr.mom",
+      "reply"
+    ],
+    [
+      "p",
+      "efe5bbc8345806e8ef4f1f7cb8f0fc0014a8b7436a0a07dfdae9db269775bed9"
+    ],
+    [
+      "p",
+      "8f13f2180142931c3d416299aac09b1dbe76d338b42d822066a49bb3a3c4b4f0"
+    ]
+  ],
+  "content": "mi tambien,  nada como unos saticos con btc encima de 500",
+  "sig": "7ca773140521cde5b739638f41eac62c7a63ae03f9649d57215bacfccfe0ed039605820ef5629e8223fff3dd5165a718b2cd1afbc9cc6f59c21ca8de5db6502e",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

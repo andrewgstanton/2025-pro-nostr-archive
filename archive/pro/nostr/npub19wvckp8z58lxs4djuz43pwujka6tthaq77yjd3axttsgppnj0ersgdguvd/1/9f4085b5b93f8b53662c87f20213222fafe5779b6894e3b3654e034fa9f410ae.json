@@ -1,0 +1,26 @@
+{
+  "id": "9f4085b5b93f8b53662c87f20213222fafe5779b6894e3b3654e034fa9f410ae",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1766913987,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "df888fdc6983d59762d461122248f4fc5fcb9167fbe13edb03881747cca6ad6b",
+      "wss://relay.damus.io",
+      "root"
+    ],
+    [
+      "p",
+      "c1831fbe2653f76164421d57db6cee38b8cef8ce6771bc65c12f8543de4b39bf",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Beautifully written ",
+  "sig": "9c9456f79310ff1aeaf47e108420afac5b5afdca6b28227207cf7cbf4a97acb4e1697399c873cc964d59cf247e5e72c2aa4de4db6aa8f2a24655ca3beb2b0167",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "2a5b129a5a9168aa0e396a7712bed40f57b69873829721f06ff335b4f485a615",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1760590238,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "c3122adc79bb365b58eab33ed96aa627fe64b5789c6f8632fc770bb50adeea9c",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "c7eda660a6bc8270530e82b4a7712acdea2e31dc0a56f8dc955ac009efd97c86",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Congratulations!!",
+  "sig": "265ebc9654cd4d0066ee986ee9a234e75ca136c57b55bfe89e47c9cd6afc593d3965a57a66bb1dfda3762368c34c25350fe1dff076f31426426acd7117b716f3",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

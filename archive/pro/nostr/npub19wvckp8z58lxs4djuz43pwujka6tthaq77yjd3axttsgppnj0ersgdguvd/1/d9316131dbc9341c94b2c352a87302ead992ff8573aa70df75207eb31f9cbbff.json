@@ -1,0 +1,39 @@
+{
+  "id": "d9316131dbc9341c94b2c352a87302ead992ff8573aa70df75207eb31f9cbbff",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747893444,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "1de5f3cbf97c111f74c17c12ce4f52c96a9bba3d182b4e309032f312f2a082bf",
+      "wss://nostr-pub.wellorder.net",
+      "root",
+      "9c47bb510f8e732abc68518f1e88d3dfcfe2fcc624cd9427aefc759d000381d0"
+    ],
+    [
+      "e",
+      "da734bd09aa4f6103eeb019c8b1732c16ab786977d994027ca5d23bc7416b142",
+      "wss://relay.primal.net",
+      "reply"
+    ],
+    [
+      "p",
+      "165b9d37a28903103af9ad24036bdc54270882c01add515791fc9666167cfac1",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "9c47bb510f8e732abc68518f1e88d3dfcfe2fcc624cd9427aefc759d000381d0",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Or bitcoin … ( according to some)",
+  "sig": "074e4a4f4d23095f650bd9264e211a642424302244e88105176c5f52ca5f89a6325a03243196a70372170997955924a4595fcff705e60e537fcb1e356bdb2e3f",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

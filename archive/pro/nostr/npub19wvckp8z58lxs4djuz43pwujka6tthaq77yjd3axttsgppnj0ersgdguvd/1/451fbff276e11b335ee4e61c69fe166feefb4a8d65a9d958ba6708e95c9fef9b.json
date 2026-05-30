@@ -1,0 +1,26 @@
+{
+  "id": "451fbff276e11b335ee4e61c69fe166feefb4a8d65a9d958ba6708e95c9fef9b",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1763519877,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:adc14fa3ad590856dd8b80815d367f7c1e6735ad00fd98a86d002fbe9fb535e1:c27abe9e18477312",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "adc14fa3ad590856dd8b80815d367f7c1e6735ad00fd98a86d002fbe9fb535e1",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Beautiful and very well said  And very true in my case.  \n\nI do have formal  degrees in a technical field (physics) but not  in computer science (or journalism) \n\nFor most of my career i was building software applications in silos ( learned most if my skills in the job)\n\nNow  i want to huild in open systems and protocols and write about my journey.  \n\nI have now written 300 plus articles on continuum and designed a multi npub self hosted client for nostr \n\nAll of this was new learning for me  since May of this year — just 6 months.",
+  "sig": "304fd73c949519f7e8f883a70cb5ec945309ea072db6ee0216f8cd9208801798a9e36a9409ec4e2bf4265bfb0dcb698498ff72d67a282fd1af745f03e1b6bc2b",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

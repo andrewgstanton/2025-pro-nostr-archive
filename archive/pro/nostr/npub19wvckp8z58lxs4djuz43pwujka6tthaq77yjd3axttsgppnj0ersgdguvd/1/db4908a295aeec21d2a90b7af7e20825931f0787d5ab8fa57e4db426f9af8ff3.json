@@ -1,0 +1,32 @@
+{
+  "id": "db4908a295aeec21d2a90b7af7e20825931f0787d5ab8fa57e4db426f9af8ff3",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1759612933,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "9b14d147384a6bcd86e490ce13645960095616aeb2f28c3f3d75035524a8476a",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "0ee827a36e8bb0cfc483cf1872781182c4a16c58acba3ae2d7b155e0370e93b8",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "d700fc10d457eeae4f02eb04d715a054837e68a2e2d010971382c5e1016dc99e",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Article was posted on Sept 23not really sure why you are having trouble seeing it\n\n",
+  "sig": "9347cffc802a5866af0a3bb2908987604eae89f8d72bd28b956ad17bc3098c479056231aae7a8debad07379e930871db9ed33bafb496f09edd84bc275643f8b7",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

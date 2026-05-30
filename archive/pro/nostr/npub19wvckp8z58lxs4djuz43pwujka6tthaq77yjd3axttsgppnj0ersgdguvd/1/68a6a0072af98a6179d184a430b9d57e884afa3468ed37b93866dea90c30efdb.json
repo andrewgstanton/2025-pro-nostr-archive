@@ -1,0 +1,32 @@
+{
+  "id": "68a6a0072af98a6179d184a430b9d57e884afa3468ed37b93866dea90c30efdb",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1758578476,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "afe45140aa6eb5f4fa3c22d101945b2165803e822e447a729ce30fc1bc93123d",
+      "wss://pyramid.fiatjaf.com",
+      "root"
+    ],
+    [
+      "p",
+      "3f770d65d3a764a9c5cb503ae123e62ec7598ad035d836e2a810f3877a745b24",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "474dd0ecab2b7bbbe80af870fa8578266ef2412d48850297dd4723dc9de958e7",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "So happy for the two of you !!",
+  "sig": "a4cc687539239303a43175d8b6b4d22a381dbdbbd30867d3274a8e92263988d15e583dcc908ec3e7f0f0aaee7d89ac135278c60d8578277a55f35d9a2f971173",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

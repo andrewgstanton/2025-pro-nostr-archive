@@ -1,0 +1,128 @@
+{
+  "id": "b0c167339c949aba7afbc3cf772191dbd599172195c63138bc1a6c54b5616c57",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1761890542,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "88a24cee8bcd8f74e29fcdf2fe01228c10aa45a66618b2802083cae86a9e3a93",
+      "wss://nos.lol",
+      "root"
+    ],
+    [
+      "p",
+      "82341f882b6eabcd2ba7f1ef90aad961cf074af15b9ef44a09f9d2a8fbfbe6a2",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "ee6adf05ade8aed334a6124433e7c93b4849651db298fc63b7dd3e6c8ccbf01c",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "692c6feb28a0bd93d67cc19840bb07bfe678f97bf15930b5d812676b4cd512ef",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "990694581c58124489d0b08dfa4d2a7523a713b16a829a0bc161ad82bffdc915",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "32e1827635450ebb3c5a7d12c1f8e7b2b514439ac10a67eef3d9fd9c5c68e245",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "17538dc2a62769d09443f18c37cbe358fab5bbf981173542aa7c5ff171ed77c4",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "3efdaebb1d8923ebd99c9e7ace3b4194ab45512e2be79c1b7d68d9243e0d2681",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "460c25e682fda7832b52d1f22d3d22b3176d972f60dcdc3212ed8c92ef85065c",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "2779f3d9f42c7dee17f0e6bcdcf89a8f9d592d19e3b1bbd27ef1cffd1a7f98d1",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "5f66d7d60c4b6e35fbf746b47f26ef228cc324232ced692bc30246648736ffdb",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "04c915daefee38317fa734444acee390a8269fe5810b2241e5e6dd343dfbecc9",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "50d94fc2d8580c682b071a542f8b1e31a200b0508bab95a33bef0855df281d63",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "532d830dffe09c13e75e8b145c825718fc12b0003f61d61e9077721c7fff93cb",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "63a86cbbe36f0db2d6f2537d8500d6a0b0ad1fb8f3eaa7bbdac3272e65477fcb",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "3f770d65d3a764a9c5cb503ae123e62ec7598ad035d836e2a810f3877a745b24",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "805b34f708837dfb3e7f05815ac5760564628b58d5a0ce839ccbb6ef3620fac3",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "20986fb83e775d96d188ca5c9df10ce6d613e0eb7e5768a0f0b12b37cdac21b3",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "53d10e4cf045789e92ec0c7d30a7f16b4f0762e85c82c4ce7d5bccb63a9f2d76",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Love this idea!!",
+  "sig": "91355779c0fab568ff38e5521c5f3a76b429931ef38d17314bc490e5fe968f3e7ee6eb09957ae4ae996d5c4e212dbbd81b73f360144f7b402c600f5d276b3065",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

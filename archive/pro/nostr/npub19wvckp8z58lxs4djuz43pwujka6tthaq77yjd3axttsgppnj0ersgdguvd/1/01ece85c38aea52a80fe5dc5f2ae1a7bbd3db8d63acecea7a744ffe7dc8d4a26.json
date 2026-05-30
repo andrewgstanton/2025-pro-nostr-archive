@@ -1,0 +1,32 @@
+{
+  "id": "01ece85c38aea52a80fe5dc5f2ae1a7bbd3db8d63acecea7a744ffe7dc8d4a26",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747509554,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "6e2f387c625da78039e43bf02ca704a64274ea60b7f1a025ebd8f414252bc38b",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "78814579dcf63517a9f2c01d74bcb5ceb13510002a2f8ee0dc968be604546498",
+      "wss://relay.primal.net",
+      "reply"
+    ],
+    [
+      "p",
+      "b7274d28e3e983bf720db4b4a12a31f5c7ef262320d05c25ec90489ac99628cb",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Yes very true.   I started using hardware wallets (ledger) started last dec  but there are still better ways I can safeguard the bitcoin I have ",
+  "sig": "683339110ee32fc1a68ac008ca08f7ae025e2b062b00b533ffc3a0ef25f40011ae1a282aad11fb85cf1cfdb3962b19f0f025342646bbef7c07a1fac183d1c68a",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

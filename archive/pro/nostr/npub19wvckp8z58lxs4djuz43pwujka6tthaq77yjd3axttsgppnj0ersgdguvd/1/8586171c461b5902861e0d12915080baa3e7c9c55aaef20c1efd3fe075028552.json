@@ -1,0 +1,39 @@
+{
+  "id": "8586171c461b5902861e0d12915080baa3e7c9c55aaef20c1efd3fe075028552",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1746423269,
+  "kind": 1,
+  "tags": [
+    [
+      "p",
+      "261d6aae8dd6174f80475c455d46f8b3c04d9388e80c7fe19b111cb97c363a51",
+      "",
+      "OgFOMK ArTS"
+    ],
+    [
+      "p",
+      "83e818dfbeccea56b0f551576b3fd39a7a50e1d8159343500368fa085ccd964b",
+      "",
+      "Jeff Booth"
+    ],
+    [
+      "e",
+      "71460a2b7cf14941af632d68089f438640dcaec76bc44c6690bcc52f34263d0c",
+      "wss://nostr.bitcoinplebs.de/",
+      "root"
+    ],
+    [
+      "e",
+      "d89244bea9f07dad7bdfed8400d279b4abd410dc8d323c8eed4a6ee27c7472ce",
+      "",
+      "reply",
+      "261d6aae8dd6174f80475c455d46f8b3c04d9388e80c7fe19b111cb97c363a51"
+    ]
+  ],
+  "content": "Yes, I believe CBDCs will be a precursor to the Mark of the Beast, and Bitcoin is the (freedom-loving) alternative.",
+  "sig": "ea3ea8f056107949474372a5acf66a91afedf0637fb0ce47c3a17796d1099a63f81120596631e3bf55ea4aa9031bbee442d8cbb87af0d93f8220d5b70940ad2b",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

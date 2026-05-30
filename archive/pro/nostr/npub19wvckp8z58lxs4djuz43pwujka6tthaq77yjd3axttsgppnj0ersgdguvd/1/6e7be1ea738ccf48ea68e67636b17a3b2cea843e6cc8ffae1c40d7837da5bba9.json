@@ -1,0 +1,26 @@
+{
+  "id": "6e7be1ea738ccf48ea68e67636b17a3b2cea843e6cc8ffae1c40d7837da5bba9",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1758568140,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "eea5a21fae4aae44ab5af49201be19465266ca61a5118924e835f836186acac2",
+      "wss://search.nos.today",
+      "root"
+    ],
+    [
+      "p",
+      "e8ed3798c6ffebffa08501ac39e271662bfd160f688f94c45d692d8767dd345a",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "100% right!! ",
+  "sig": "1fba7052598233126e362a0e6db346999eb2cb583695ada99eb6eccdc00625af07c2fe6972e9eb1f34c981dbe3f4f56c880d879268aaa77a0cce9a2548cf6940",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

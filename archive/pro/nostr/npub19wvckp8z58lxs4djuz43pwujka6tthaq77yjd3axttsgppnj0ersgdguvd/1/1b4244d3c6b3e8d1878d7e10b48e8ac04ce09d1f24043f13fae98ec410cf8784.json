@@ -1,0 +1,26 @@
+{
+  "id": "1b4244d3c6b3e8d1878d7e10b48e8ac04ce09d1f24043f13fae98ec410cf8784",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1762570472,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "55a00ff87699ed16350065085be402207be4f44ce1d3b0b9413b86a8f2e9d5c2",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "805b34f708837dfb3e7f05815ac5760564628b58d5a0ce839ccbb6ef3620fac3",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Lovely!!\n\nJust got back from a trip to Honolulu",
+  "sig": "336eed798138a4640cdfce807657adad500b56d8b42fcc889307f58bdf2dce7daa76d9dba1123c2f560b80722c76dca565c4e0f7c7c0a30e7b295b7fad708396",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

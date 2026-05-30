@@ -1,0 +1,38 @@
+{
+  "id": "3f774efc80898cefde00eb09a9fe5d23bf3f652e11343601de14357e93687ae4",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748029674,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "c686b7368318b26383e9edd2819301ba571a706c7a7ee90b7412b57d7270d040",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "e45c5a2739b500f273e5a9ef6c8380aa3b6e4bf69a1e9e651587a5fc084b7a12",
+      "wss://feeds.nostr.band",
+      "reply"
+    ],
+    [
+      "p",
+      "123afae7d187ba36d6ddcd97dbf4acc59aeffe243f782592ff8f25ed579df306",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "3f770d65d3a764a9c5cb503ae123e62ec7598ad035d836e2a810f3877a745b24",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Right up there with going to the DMV or getting a root canal (never had a root canal but I HaVE been to the DMV",
+  "sig": "17334fd8f121e1d3c9cdd240aab184418aedeb6f70f24614f3bef9bf0758263da66087d6a9f2bdb91850fe23779ca6e62195abbeaf4db5b21eb9bcf456f168e2",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

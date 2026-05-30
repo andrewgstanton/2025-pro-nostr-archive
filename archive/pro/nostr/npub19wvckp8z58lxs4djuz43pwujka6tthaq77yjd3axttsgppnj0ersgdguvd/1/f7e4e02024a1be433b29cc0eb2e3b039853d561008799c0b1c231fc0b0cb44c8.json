@@ -1,0 +1,51 @@
+{
+  "id": "f7e4e02024a1be433b29cc0eb2e3b039853d561008799c0b1c231fc0b0cb44c8",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1746918672,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "fd81ddf2220b246a449ec0f178a0bac9893302af1b95e2f32305d588fb956397",
+      "wss://nostr.bitcoiner.social",
+      "root",
+      "da66d621d05bb7a7d64c1adfe0ea6421ca7db60d1089cd98b06ccfcd0ea2ed78"
+    ],
+    [
+      "e",
+      "bc6bea190d99f9d85effe44dffaf66e4375e50dcf0a0d1dd4913084dae67b253",
+      "wss://relay.primal.net",
+      "reply"
+    ],
+    [
+      "p",
+      "cef805126ca71d8e9a3b82469c443d471510b23722bc405fa38fa8572a270ddf",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "da66d621d05bb7a7d64c1adfe0ea6421ca7db60d1089cd98b06ccfcd0ea2ed78",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "82341f882b6eabcd2ba7f1ef90aad961cf074af15b9ef44a09f9d2a8fbfbe6a2",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "6bb0082dfd02be52ba7d532cf29dcf82977df9eb10483ccf71efc6f00146ed0a",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Where are you based ?  if you can set up or use a VPN you can proxy requests so it looks like you are coming from the us (i use strongVPN ).",
+  "sig": "89bd756e2223a4484249a3fffcb555c1b256f98ca9d92fd50ab38ae38a2485d33a63cb0b13ffd065ebe373db0327c3ad3deea9efbad224e4ef50987ee2cbf108",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

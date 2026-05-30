@@ -1,0 +1,26 @@
+{
+  "id": "383e17b327a2cffaadbbc6483d7055a174a6e67abbbcf9004476a724be4bd87a",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1763497073,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "27153406abcf77330b5ee2c6aa6bfd14bd1a3783228b7020501ee2e2b35df994",
+      "wss://relay.damus.io",
+      "root"
+    ],
+    [
+      "p",
+      "43e0497121757c220ff2fbbd231b8ed55c26b27d91cdaf897d36fec9851139b5",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Hey, I appreciate your thoughtful replies.\nQuick question — what actually brought you to Nostr in the first place?\nMost people have a pretty specific story or moment that got them here.\nCurious what yours was.\n\n",
+  "sig": "cf148a2b8dde52e1b380fd407da314972bca78027e58ffef40d322ed91c048b97f511eb0c891805d7240533d7f177bcc0546b865198f0c11bae4f17764afebbb",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

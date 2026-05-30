@@ -1,0 +1,26 @@
+{
+  "id": "3e2e1ace9c4c0269dbf3f70e6152457eee7c7f9261cea2f87803585d6f42e6b4",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1761519674,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "31acdbf14c31f5a6c41594ce7f297a78df8f17198e9068291560fb90eb214f5b",
+      "wss://@nos.lol",
+      "root"
+    ],
+    [
+      "p",
+      "1cafeeca3ad24e547588bc75765f584d79a20f82ebb6fb4730557dad2204fc9a",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Amen he is King of Kings and Lord of Lords",
+  "sig": "09fc6f82de5e02f27549f4683f2ceccdde720ad4a486bf0cfd5f66066a0086fc88f76eec3e8e2174581796527385727ce1fe7f776d99443c9711c1ded71b8283",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

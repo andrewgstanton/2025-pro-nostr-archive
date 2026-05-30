@@ -1,0 +1,26 @@
+{
+  "id": "cad8d0ad880887b89b0feceb4a6267b3d9afb9fdf6cd8e68c924d2d8b512bc7e",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1766693919,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "ee569f63caa7c485807d67ecd94531c849c24daff8bac26186c15c6718b034f2",
+      "wss://pyramid.fiatjaf.com",
+      "root"
+    ],
+    [
+      "p",
+      "3f770d65d3a764a9c5cb503ae123e62ec7598ad035d836e2a810f3877a745b24",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Merry Christmas nostr:npub18ams6ewn5aj2n3wt2qawzglx9mr4nzksxhvrdc4gzrecw7n5tvjqctp424 ",
+  "sig": "93087f6fd94beac384c2bf72e3970986f682cac0580e872a8aab6cb240490d25f54d0503b691a60bc3e439662ac6054642f476d85a5de4cbad49f6b2ffe145b3",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

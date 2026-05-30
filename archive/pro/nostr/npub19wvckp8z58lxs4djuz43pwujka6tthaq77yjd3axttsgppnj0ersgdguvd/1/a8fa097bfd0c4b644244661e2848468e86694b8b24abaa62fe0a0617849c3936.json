@@ -1,0 +1,26 @@
+{
+  "id": "a8fa097bfd0c4b644244661e2848468e86694b8b24abaa62fe0a0617849c3936",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1761416343,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "8fe82ac453c30d04b9ffae944877c6992b9e4e245e3ce34017e7a5a7edeb91ec",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "088436cd039ff89074468fd327facf62784eeb37490e0a118ab9f14c9d2646cc",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Hope it doesn’t ",
+  "sig": "12d408bbea268d52e0a9f71cde2b953ef00fd7ef798c743539c1775495e3b3cdd34a70f4705f77b29de5429f88e04ba2ce300159c46c9891297ae3e7c8743feb",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

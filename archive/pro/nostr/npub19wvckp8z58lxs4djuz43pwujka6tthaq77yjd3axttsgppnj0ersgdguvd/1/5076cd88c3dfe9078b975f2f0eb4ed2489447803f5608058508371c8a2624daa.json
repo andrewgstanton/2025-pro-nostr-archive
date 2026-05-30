@@ -1,0 +1,32 @@
+{
+  "id": "5076cd88c3dfe9078b975f2f0eb4ed2489447803f5608058508371c8a2624daa",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748199782,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "e8f491738924659103aedf81185e71b7f71bbaf228b8c7012e7b518cfe250a00",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "e",
+      "44fe05a67937e7070eb4d44b88720a58a2f65e4cd2353805f824a1bb207ebf9b",
+      "wss://nos.lol",
+      "reply"
+    ],
+    [
+      "p",
+      "db9e61746a09b0ace48ba458fb866b7fbffde514e1d0b9f6c2d3515bf6335f54",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Sometimes I play games though not recently these days I have this burning desire to promote self sovereignty and themes around redemption and value creation",
+  "sig": "8f107525d204d6fd91d9759d58b7a4b12c7251f86af06972f28dfb5a075e7e79487a9d02ff71cc0225910654883f27000047d4e5f1a87a0760dfa45047972010",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

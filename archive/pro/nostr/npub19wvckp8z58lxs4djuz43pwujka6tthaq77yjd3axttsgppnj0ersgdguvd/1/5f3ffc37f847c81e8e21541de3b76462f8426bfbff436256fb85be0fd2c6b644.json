@@ -1,0 +1,26 @@
+{
+  "id": "5f3ffc37f847c81e8e21541de3b76462f8426bfbff436256fb85be0fd2c6b644",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1759613571,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "8469da0b8f6231f2e5172d3475215d31dc24b8dc87f660fc0e08cde64d6bf0cd",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "0ee827a36e8bb0cfc483cf1872781182c4a16c58acba3ae2d7b155e0370e93b8",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "He wasn’t tagging me ",
+  "sig": "ca5e2c7e65df69e3419f29b9207f5f16c049a7885154dc80ae41972b6509d03a150e46e64300fafee36219a9f4d1e253061f0501cbc3716be3a52ff0f624aa28",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

@@ -1,0 +1,36 @@
+{
+  "id": "dfd16aaac7fdb41d6be1b290d6dcacd25e073856c88c56dd958a1f4a5fe2deba",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1746928713,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "e7cc71da50e69cd9624470a2674a33679fe0cb506aedf33be2bc226172a4d7c9",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "e",
+      "1bb70fea3f5414f12a28b3ba88fe7b222194248477c5fa371edffdcf0161c42f",
+      "wss://relay.primal.net",
+      "reply"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "3df7fcb356cf4f6c9d1625e04297e226714fc4b9a5440b71e5a99f8ddb550c1e"
+    ]
+  ],
+  "content": "I think humans are wired to solve problems—and with that comes an innate drive to create tools, systems, and yes, technology. It's part of what makes us human.\n\nI don't think we’d be fully alive without some form of technological expression. Fire. Shelter. Language. The wheel. Even writing is a kind of abstraction.\n\nSo while I agree we should live aligned with the natural world, I don’t believe that means rejecting all innovation or reverting to a hunter-gatherer lifestyle.\n\nThe challenge is discernment:\nWhich technologies make us more human—more rooted, aware, and alive?\nAnd which ones seduce us into disconnection?",
+  "sig": "20c3ddfe17c89c5c81c0b0e6e3bf93b0b63cd376c9d6112cceb890f78c2c4a6ba9ca11e1f3670db02d943d9d69ae089fe3c0c309da1e9aa877bccd42074161fd",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

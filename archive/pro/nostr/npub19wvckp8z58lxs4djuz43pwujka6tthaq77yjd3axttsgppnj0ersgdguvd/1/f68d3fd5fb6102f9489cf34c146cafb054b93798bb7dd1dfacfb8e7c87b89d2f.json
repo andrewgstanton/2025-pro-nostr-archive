@@ -1,0 +1,26 @@
+{
+  "id": "f68d3fd5fb6102f9489cf34c146cafb054b93798bb7dd1dfacfb8e7c87b89d2f",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1759614805,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "07825d74e9e90101deea4defaacfcabf7fbdb8c7f038ff7a0cee418e10a16178",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "0ee827a36e8bb0cfc483cf1872781182c4a16c58acba3ae2d7b155e0370e93b8",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I am using a paid tier of chatGPt interesting you are using Gemini",
+  "sig": "4b358f073497a4cc31e168f4d0d8f0eb3e598fce9ef70e7a55c3093c52c54c14ae28d2d3d5deb39d39b335420f07c5d733422af8a2d487d4c57563564504489e",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

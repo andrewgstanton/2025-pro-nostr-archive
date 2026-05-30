@@ -1,0 +1,26 @@
+{
+  "id": "0344a75581a7c04746b5e8ceedc2286b329ab33e02dbb94fda35cc81ff60ac2a",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1766687599,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "75733ad307217dde44fb50e59a72a331448706e20adc29795b0a70c5e533e7de",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "ab7d91705025289d6149ad9ea1abc4ce4c49555df71904f29136c223785ea6f7",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I am actually exploring these themes in the Bitcoin Chronicles\n\n",
+  "sig": "053b160a8deeb1c8a928cb1f2f11fe61e7a4b0773c7458fc28b3969650a2fb2825a9c24e6a9de7c1f9eaf669d0199c15dd656baa0443b4966dd20b887e7e4663",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

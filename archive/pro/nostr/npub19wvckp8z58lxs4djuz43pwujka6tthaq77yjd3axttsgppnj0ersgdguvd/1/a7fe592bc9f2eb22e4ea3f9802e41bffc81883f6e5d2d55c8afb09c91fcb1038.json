@@ -1,0 +1,26 @@
+{
+  "id": "a7fe592bc9f2eb22e4ea3f9802e41bffc81883f6e5d2d55c8afb09c91fcb1038",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1758567667,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "9a98540b527bb3b22a30d98b8033fc3f3b8bd0326c900ccaef22f71a9b4f98c9",
+      "wss://relay.damus.io",
+      "root"
+    ],
+    [
+      "p",
+      "e8ed3798c6ffebffa08501ac39e271662bfd160f688f94c45d692d8767dd345a",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Let’s replace all the complexity with nouns and signed messages it’s very doable i think ",
+  "sig": "090208a1991db627e0c56cbbcb93f2ab09ea2424b8d3d694bc054941545adc3f04b7f0cbaad2498fd8dd12abe51dde8e5f27a280c53460d93f39567e0e0071d3",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

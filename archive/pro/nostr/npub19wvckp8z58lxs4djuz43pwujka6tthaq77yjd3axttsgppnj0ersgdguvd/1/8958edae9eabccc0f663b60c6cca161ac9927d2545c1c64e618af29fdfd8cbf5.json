@@ -1,0 +1,34 @@
+{
+  "id": "8958edae9eabccc0f663b60c6cca161ac9927d2545c1c64e618af29fdfd8cbf5",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1746386635,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "503825ef33222cb7012639588888767c3361c950a8b6e4220ba9dc8acb31eba0",
+      "wss://nostr.mom",
+      "root"
+    ],
+    [
+      "e",
+      "c8703e657bb12ad38d25bc7d7f7a9ebcfe1709d4ebc25888aaa323324fc2fb1f",
+      "wss://nostr.mom",
+      "reply"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "p",
+      "bdb0820270e747d68228a5c8c4b73671038552a5acf6e421c1220dd879388553"
+    ]
+  ],
+  "content": "thanks marcp.  I will do it shortly.  ",
+  "sig": "c8b8b4cb1287402d23ad99000862e94a0e2e7323dfe7e511240e6cf05ae61c651ea77104857afda7d54f7df4664891244a5787f43d5e27c4c35c0ef1d2c21169",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

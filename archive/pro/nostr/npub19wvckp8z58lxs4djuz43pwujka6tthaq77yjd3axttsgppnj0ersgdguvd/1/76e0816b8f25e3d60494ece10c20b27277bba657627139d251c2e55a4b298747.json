@@ -1,0 +1,26 @@
+{
+  "id": "76e0816b8f25e3d60494ece10c20b27277bba657627139d251c2e55a4b298747",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1758333186,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "78c911ce1581d924701e22519542746bff0bddb36097e37589136e2c6a1d59a4",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "0a380f63e1a7b0015117a5c21eb4878da085fb8a19e13601b862cbe3ad09293b",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I am deeply convinced that “sovereignty” is the deeper revelation (sovereignty in identity income streams money and health)",
+  "sig": "96b3a1cea5d1a317e6e1b142dc41b93f5e428cca2f0d341f477125b548d61886e384dc475940050b1292ac00feb181e7a412c5ab581d4aa61c8802fb97e552b3",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

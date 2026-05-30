@@ -1,0 +1,26 @@
+{
+  "id": "eaddd2b9ea7afe1b5bb16eee59abff91c4a6391940028b1ee0de2c6214913422",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1757899483,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "c2feefd1131d31301c9cc080e9edf131fdd4ac9a451c982f98b20e8fb8432833",
+      "wss://relay.damus.io/%20wss://relay.notoshi.win/%20wss://nos.lol/%20wss://relay.siamstr.com/%20wss://relay.0xchat.com/%20wss://nfrelay.app/%20wss://relayrs.notoshi.win/%20wss://relay.nexterz.com/%20wss://fenrir-s.notoshi.win",
+      "root"
+    ],
+    [
+      "p",
+      "4183678d8ebfba9c2fa2ff9d1880c131b1bd59f951411b01b4460081cf5dc35d",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "So so true !!!",
+  "sig": "4c016cfe251c4e66277db557f0c176bf1232551d1ec8ac8d6a83ee47920f37574c23e76449539a4a9d0281d889d41713709703764e2c9c1e75be358a501883a3",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

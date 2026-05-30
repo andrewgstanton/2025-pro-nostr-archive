@@ -1,0 +1,26 @@
+{
+  "id": "7697f123137f555cf121b66e58a2c7f89f4b898442aada3edfdb91e833620476",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1758918720,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "1453e451b2ba4741978fb8957f8c05e9d824421e1916476b51b61e87177266bf",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "356875ffd729b06eeb4c1d7a70a1f750045d067774d21c0faffe4af2bf96a2e8",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "And Satan is a defeated doomed foe ",
+  "sig": "56657ed80e4ece8c177838edbcc0c06d979a8f0dd1884c6d727186c5f5848325ab4c43f4e6114683b9d265405c41981bebe68f5625c6f0571e1e6027cd46b5ab",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

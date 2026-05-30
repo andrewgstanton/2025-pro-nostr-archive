@@ -1,0 +1,26 @@
+{
+  "id": "2a21e64e103257ad471d3de83e635db62adb63f89f5fb79e6adf2556699243d0",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1761538980,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "2b9b76ab03a97ac1beda75ff5a7897e64dc5e6d1833f0d0f94c7f5d053e80ca2",
+      "wss://espelho.girino.org/",
+      "root"
+    ],
+    [
+      "p",
+      "43e0497121757c220ff2fbbd231b8ed55c26b27d91cdaf897d36fec9851139b5",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I don’t have to publish anything sabbath and Sunday publishing are given as a gift ",
+  "sig": "71ea2cb98287f82add77f4af1f59501885ff46b0bccfaa217a1bbbca4261f2bda9216a93f382425f5342c1c6f03d1a880cb401bcff7d623acb2b3e88717c6042",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

@@ -1,0 +1,32 @@
+{
+  "id": "f500a0db0bc73163a7b29db92c6b5bd93d00c76e8f19662225fa92901e759b9a",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1761534483,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "12ae7bacf7bd27325c04649975763c1732db5528ceb3197efee71a57061b3542",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "805b34f708837dfb3e7f05815ac5760564628b58d5a0ce839ccbb6ef3620fac3",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "aa55a479ad6934d0fd78f3dbd88515cd1ca0d7a110812e711380d59df7598935",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Sorry about the horrible surf ! ",
+  "sig": "64efc21f3c2b352e7726a501510c10744e1358f6a2f46cb03b7858f0e13d258048a025845ff75bc3f9818110bc5746374a0d7eba39e1f0a4e31ec0b1f76715d3",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

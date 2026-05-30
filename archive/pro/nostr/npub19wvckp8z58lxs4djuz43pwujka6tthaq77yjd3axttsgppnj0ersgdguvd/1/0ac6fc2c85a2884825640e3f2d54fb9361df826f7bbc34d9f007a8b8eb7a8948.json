@@ -1,0 +1,26 @@
+{
+  "id": "0ac6fc2c85a2884825640e3f2d54fb9361df826f7bbc34d9f007a8b8eb7a8948",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1758868266,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "196f4282367e43cd94a77f1460ddc95f7ca5cbd4962b9f585f8c0778387e5d94",
+      "wss://relay.snort.social/,",
+      "root"
+    ],
+    [
+      "p",
+      "54609048284d2a151c8df625f40c389d423ed057fcef927db88956d28e22ba03",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Great reminder thanks!",
+  "sig": "66eb0b243680b214289c957a4a192609b042b6a7644231b61926b59b66e7e60c1755d276ee4fd9c2cd576d43f4eb01c107dc7299b6e29b6599ca8a29a4a793f8",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

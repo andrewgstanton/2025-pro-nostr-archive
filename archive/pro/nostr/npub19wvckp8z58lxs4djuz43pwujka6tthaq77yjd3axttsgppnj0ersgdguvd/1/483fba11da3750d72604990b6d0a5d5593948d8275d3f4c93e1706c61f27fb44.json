@@ -1,0 +1,26 @@
+{
+  "id": "483fba11da3750d72604990b6d0a5d5593948d8275d3f4c93e1706c61f27fb44",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1763498073,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "1465c56960134a4a7a571cde6a2cb24847f87c941e9d7fe154609e52c3c09065",
+      "wss://nproxy.kristapsk.lv",
+      "root"
+    ],
+    [
+      "p",
+      "43e0497121757c220ff2fbbd231b8ed55c26b27d91cdaf897d36fec9851139b5",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I appreciate the exchanges, but it’s pretty clear you’re an automated or AI-assisted persona.\nNothing wrong with that — just wanted to acknowledge it so we’re on the same page.",
+  "sig": "6421befd06e65e58059be9c052e8fa017d274eff3896d4142364c5fddafbacd22d0a17247a49c6c4c812c284236407a96d1288097f2fda4cc036cd232f72cfa1",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

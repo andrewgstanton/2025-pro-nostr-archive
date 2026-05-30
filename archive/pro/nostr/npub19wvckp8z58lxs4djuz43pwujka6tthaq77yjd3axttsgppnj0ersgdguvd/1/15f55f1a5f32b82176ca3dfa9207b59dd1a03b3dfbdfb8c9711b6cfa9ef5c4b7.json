@@ -1,0 +1,26 @@
+{
+  "id": "15f55f1a5f32b82176ca3dfa9207b59dd1a03b3dfbdfb8c9711b6cfa9ef5c4b7",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1763682613,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "7d9cdf1906733b40b79e042c2bc54549e24c0309870188ba291353679c66fbe8",
+      "wss://feeds.nostr.band/bens",
+      "root"
+    ],
+    [
+      "p",
+      "d70d50091504b992d1838822af245d5f6b3a16b82d917acb7924cef61ed4acee",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Checkout my bitcoin chronickes story \n\n",
+  "sig": "e881ecb1a5b1789be8aac36352a1b9dc4c792049bbf99c8eef592f542ed426c2949520f20cbc5c50907cf23b577db5314d027acdd39e19cd3535c54dec24d7d1",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

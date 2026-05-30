@@ -1,0 +1,72 @@
+{
+  "id": "033427c4b2f403631e47f2c241bc8d4493e785c22ad057e88d3a43d26ebec918",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1767214559,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "ed7382d92bee2553c68ffc1ddd9550594589dc3aa66ba8028be78fc607d72b65",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "54609048284d2a151c8df625f40c389d423ed057fcef927db88956d28e22ba03"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ]
+  ],
+  "content": "thank you Kudzai -- God Bless you in 2026 !!",
+  "sig": "9b85207889c0303168d7eda9d9767e94f7df456c0699790136d4f3d92e43a7c92f192aa1ffa2a493f807dd551b5d2f64090fb55cd05149bb72818ac0db78844d",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "74f3745d471613d736140f3a009f3110cc3682935a0b3a929d90ebe54e444457",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1759613529,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "8469da0b8f6231f2e5172d3475215d31dc24b8dc87f660fc0e08cde64d6bf0cd",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "0ee827a36e8bb0cfc483cf1872781182c4a16c58acba3ae2d7b155e0370e93b8",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Why is he tagging you though ?",
+  "sig": "2884f8a6329158ab149075064b9c84d276b973fd10b8039207b32f403e65ad1e44747bd6f86c7a482a315471165296e959eb68d3bfe0d6bf035665961f1de05a",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

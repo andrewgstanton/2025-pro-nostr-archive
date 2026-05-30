@@ -1,0 +1,26 @@
+{
+  "id": "afc61bbd8af49645467a497bdd2d3ba2273a53b30525e6a31f2f3f36b861b04f",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1761269358,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "5b27f0c8ea48fc26c90936f054f08977177604a0ea8b0ab1c3bdf850cd5294be",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "0e29efc2a3eb6966403e8c61cb8bea6d78527af5e0565a2baa0f313eff142af2",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I would write the script if I know the task is something I expect will be repeated ",
+  "sig": "f4411a8b6fe066b28204fb57651efa2f36069c41f7cbce2bb5d14ecdb6f41828e1d2ad77b72095ef276c493eda1671cb38f058caeaae4b518a361eb78c5482b2",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

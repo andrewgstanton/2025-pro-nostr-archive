@@ -1,0 +1,26 @@
+{
+  "id": "6dc2bc007260a33bab8723a772ff0e2743a5cba2361d8afd724581a93e717599",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1765332684,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "fcebd89fbcc42b81655f17e11acebaf36a8c2e21d44f3fca02beb8efd80b67ea",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "768b93e9ed1fa3dfb936aee813bfab6a7709a67b1183e27f2d66b78d5507960b",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Meow meow ",
+  "sig": "f711a493f0eaff21b85207455afd2364b0659d255aad5d651fe5bdc0a55ec314f909aa078ab1b1f18aa76167fa518aa7cf1683907b654779e466114ed3be137f",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

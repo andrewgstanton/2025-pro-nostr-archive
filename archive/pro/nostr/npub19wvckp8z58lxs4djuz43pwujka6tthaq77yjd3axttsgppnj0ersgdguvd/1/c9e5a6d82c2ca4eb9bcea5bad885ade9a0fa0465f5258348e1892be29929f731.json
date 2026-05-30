@@ -1,0 +1,26 @@
+{
+  "id": "c9e5a6d82c2ca4eb9bcea5bad885ade9a0fa0465f5258348e1892be29929f731",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1758918684,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "1453e451b2ba4741978fb8957f8c05e9d824421e1916476b51b61e87177266bf",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "356875ffd729b06eeb4c1d7a70a1f750045d067774d21c0faffe4af2bf96a2e8",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "“Do not love the world or the things in the world.  If anyone loves the world the love of the Father is not in him. “1 John 2:15",
+  "sig": "4a541b1e56f073b27e61eebc03e28ce4c9f0aaa4c8a214fac6178f0639bd8d3f3180f0654767f69b7a920b7fe127b2711e1d65cc57104eaa5a9fb3015177b76f",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "0c4392239a1266410e3e633c3717d00bc9a3f8cfe6ef46e72c3344720e82fb17",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1764561780,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "2806d9e48e79dce4e8bc3135772705c492712c9794c005ea556044eced92ff82",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "31ff694f01417160459e59e2e283b5454b499d3885092c792ae0d6b2de7839f0",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "But you  might dangerously start to think like a conservative once yiu start reading the Bible ",
+  "sig": "66d4cdffee0e1f969a5d451f60c00b0ac0845149e8c49870c0b571b1ac2d98774ada44f92c64cd8cd9561a2b2bced185947da9f2970d17a7a2cc1976265990f8",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

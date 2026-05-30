@@ -1,0 +1,36 @@
+{
+  "id": "cf58d92409784498034a9b3356fc2ddc23f8ce99301fe19a6f2f4d75e88909cf",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1746929590,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "2dbaa4888510a2ff0620d70dafb859b795755892b423657fc81f5143f64c58a2",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "5d9cdd1db9b8fa888797b5b3054bb6cbb71e8a2e5c956d209e19451d7c65f71c",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "1afe0c74e3d7784eba93a5e3fa554a6eeb01928d12739ae8ba4832786808e36d",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "bef724f6f1f6cb54930c23aaa23f639b8bab67d12d4f37c53b48e8892930f78c"
+    ]
+  ],
+  "content": "Isn't this the truth ?\n\n\"If you want to lead, you are not fit to lead.\"\n\nBest leaders are those that don't really want the job but realize no else is able to \"step up\"",
+  "sig": "84ac62bf749988c6000cd92ea939301155e98a1fc86b363cc34611b8ffdc17cd0226abb237b82f9f177415a1818d3c603a6fbcfdc29e67717f684c8534836365",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

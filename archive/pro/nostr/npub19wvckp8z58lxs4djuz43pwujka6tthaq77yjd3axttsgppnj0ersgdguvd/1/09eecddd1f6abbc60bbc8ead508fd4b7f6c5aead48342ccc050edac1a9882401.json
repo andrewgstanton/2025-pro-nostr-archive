@@ -1,0 +1,39 @@
+{
+  "id": "09eecddd1f6abbc60bbc8ead508fd4b7f6c5aead48342ccc050edac1a9882401",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1746817543,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "71460a2b7cf14941af632d68089f438640dcaec76bc44c6690bcc52f34263d0c",
+      "wss://nostr-verified.wellorder.net",
+      "root",
+      "83e818dfbeccea56b0f551576b3fd39a7a50e1d8159343500368fa085ccd964b"
+    ],
+    [
+      "e",
+      "84c82dbac80f5a44ac47278f71e475f27127f5dea779b6a29b933a482d188086",
+      "wss://relay.primal.net",
+      "reply"
+    ],
+    [
+      "p",
+      "cef805126ca71d8e9a3b82469c443d471510b23722bc405fa38fa8572a270ddf",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "83e818dfbeccea56b0f551576b3fd39a7a50e1d8159343500368fa085ccd964b",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Yes AI and bitcoin  !!! I have been using chatGPT  A LOT",
+  "sig": "90cdff05dccf30691ee956799c6c21bb57b0462e8f06bd309ed9e1d8a57ffd88d6a3714f708abcfc5579a36783f953ba92f9c76628d8ceebd5c088d4e8b9fd5c",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

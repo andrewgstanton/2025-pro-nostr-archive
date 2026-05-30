@@ -1,0 +1,26 @@
+{
+  "id": "969a97bd4813d082a1e2c39fafd0367b1c5a140aaa7f58fe3e356f6c6e3013c3",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1759613841,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "780b0958df1de08f4a120f3e9adefc06aa8c282799bea44e63e2eea816218c6f",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "0ee827a36e8bb0cfc483cf1872781182c4a16c58acba3ae2d7b155e0370e93b8",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "And Hal he referred to you not to me in his first common (Hal what’s this about?“ so I feel like I’m being discussed without explicitly referring to me it’s ok just feels weird to me ",
+  "sig": "537ea5fecd04ac87c3160c689178f17229c333d6f78699434b2f73cbfcce8f08c901c0c7d6595371ba87a5f8c36533d34b8e11ed0b7af00829057fa7e7203f48",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

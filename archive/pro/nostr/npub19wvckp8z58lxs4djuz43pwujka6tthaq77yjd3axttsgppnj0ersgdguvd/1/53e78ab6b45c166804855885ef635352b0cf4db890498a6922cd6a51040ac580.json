@@ -1,0 +1,32 @@
+{
+  "id": "53e78ab6b45c166804855885ef635352b0cf4db890498a6922cd6a51040ac580",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748200165,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "51a737c8c99443d926e9cd75818fa8bd0e6241289ce8d2335530625323a2d876",
+      "wss://nos.lol/%20wss://nostr.land/%20%20avatar%20wss://nostr.wine/%20%20avatar%20wss://purplerelay.com/%20wss://relay.damus.io/%20wss://relay.snort.social/",
+      "root"
+    ],
+    [
+      "e",
+      "99b1574dc780fe3eac3e88940257116b932b6f94a6867f7cf44c80a0b83a3e8f",
+      "wss://a.nos.lol",
+      "reply"
+    ],
+    [
+      "p",
+      "db9e61746a09b0ace48ba458fb866b7fbffde514e1d0b9f6c2d3515bf6335f54",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "It’s ok mist philosophers don’t either ( teasing)",
+  "sig": "53173e0c7052bd178d7ccc86c0ae835793474309188e55ae8ad5860f43089c63324b91717c0c1704d4eb7e12a99135e440c146a52deec0d08ee4f591cd04cf7c",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

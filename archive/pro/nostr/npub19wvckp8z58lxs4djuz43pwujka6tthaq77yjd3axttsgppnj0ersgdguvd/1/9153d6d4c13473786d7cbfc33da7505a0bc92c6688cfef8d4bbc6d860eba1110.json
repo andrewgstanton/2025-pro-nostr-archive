@@ -1,0 +1,38 @@
+{
+  "id": "9153d6d4c13473786d7cbfc33da7505a0bc92c6688cfef8d4bbc6d860eba1110",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1764541178,
+  "kind": 1,
+  "tags": [
+    [
+      "t",
+      "Bitcoin"
+    ],
+    [
+      "t",
+      "Nostr"
+    ],
+    [
+      "t",
+      "Sovereignty"
+    ],
+    [
+      "t",
+      "Longform"
+    ],
+    [
+      "t",
+      "SovereignWriting"
+    ],
+    [
+      "t",
+      "BitcoinChronicles"
+    ]
+  ],
+  "content": "Appreciate all the recent likes, follows, and zaps — thank you all. \n\nIf my writing resonates or adds value, even a 500-sat zap helps me keep the work sovereign and independent. ⚡️🙏\nGrateful for everyone walking this journey with me.\n\n#Bitcoin #Nostr #Sovereignty #Longform #SovereignWriting\n#BitcoinChronicles",
+  "sig": "465e9290e9accbad57ef2e1f3c5ed9e04faf2c8497fdcfb15690026ae89de6803489775d848dadfcb4e00f4f2169f874c3f2cdd569bb660f4395236ce5a7ca7d",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

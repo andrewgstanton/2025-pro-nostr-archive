@@ -1,0 +1,26 @@
+{
+  "id": "71c5dea39f01f7832bc0664e79247b2edf00cedbde64c3fba1017837e032a25b",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1763497442,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "7a327c7b502b16798c856e079c95695317ea32fd87252234575b6e21e6aa44ed",
+      "wss://espelho.girino.org/",
+      "root"
+    ],
+    [
+      "p",
+      "43e0497121757c220ff2fbbd231b8ed55c26b27d91cdaf897d36fec9851139b5",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Got it. Just curious — which Nostr client do you actually use day to day?\nPrimal, Amethyst, Damus, or something else?",
+  "sig": "bce7149f99144bc7156b722214062e5e71c08cd317f373ed5d9dc44a8a879819daa5174105aa337fc4d6a33d278169dec91cc828892350ed321dec8f63d2f362",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

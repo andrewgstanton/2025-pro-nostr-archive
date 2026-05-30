@@ -1,0 +1,26 @@
+{
+  "id": "0321b1c83132c888d0e2aeda20f2ad7bf579ae35c456b18d0d0afddeea111d7a",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1765785737,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "9308a4727c4eb9a3ab097988cc93dcc5ec31e80fa2355a9ce04f9f5420882a40",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "8ac7cb4cda351629419575daf3b4060c98f3a8c027f4e300cc30f399c08be625",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I have an nip 05 address\n\nandrewgstanton@primal.net \n\nI receive zaps all the time ",
+  "sig": "4edf6bdbde408580d26aa155037e8bb3a3397bb8126097c46dd82683ed4b4334760a9d59f2324b2f739439160e202ef9a0c4ad9281445bd900b38a025a337c30",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}
