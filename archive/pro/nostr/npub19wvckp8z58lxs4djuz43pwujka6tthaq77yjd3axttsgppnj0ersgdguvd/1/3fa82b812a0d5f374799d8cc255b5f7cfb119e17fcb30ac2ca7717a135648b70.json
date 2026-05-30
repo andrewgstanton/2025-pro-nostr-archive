@@ -1,0 +1,26 @@
+{
+  "id": "3fa82b812a0d5f374799d8cc255b5f7cfb119e17fcb30ac2ca7717a135648b70",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748044338,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "2cf8df40c88a084823a896129f51c80d366f4716be5a17d4abb4aa082f104b0a",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "30e0a129606706a5c10530224cab84f4f6624b1f1b8418ac651c5156cf2e0194",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Oy",
+  "sig": "898a0215fc70679cee9c27c60a306008d2ab3577be80a93bdc919ea434855ce9af9775e98684c304a0e3bda5e812af5987ca163b605b34a2b07aff71f29662a9",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "04a8300193f9d060fa1c350029ce36e5ca52140b9f17b24ad79e7845185add39",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747004070,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "e2c2c7e2693f60e7ebba74389e15a90c11f1957026a2732340037a35e852b08a",
+      "wss://nos.lol/%20wss://nostr.land/%20%20avatar%20wss://nostr.wine/%20%20avatar%20wss://purplerelay.com/%20wss://relay.damus.io/%20wss://relay.snort.social/",
+      "root"
+    ],
+    [
+      "p",
+      "1bc70a0148b3f316da33fe3c89f23e3e71ac4ff998027ec712b905cd24f6a411",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Probably because they know you are an emissary from the Dark Side of Bitcoin Onlyism ( I am teasing)",
+  "sig": "70251e8fa9fe33c07f216db71e80e05eb3f2d1394780c9a379d87961ec5d69a4b44f9b22a2fdd9bc5bc83a2e3c8d3ff82cb2884ac3936f43b13d9f266a0bcb56",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

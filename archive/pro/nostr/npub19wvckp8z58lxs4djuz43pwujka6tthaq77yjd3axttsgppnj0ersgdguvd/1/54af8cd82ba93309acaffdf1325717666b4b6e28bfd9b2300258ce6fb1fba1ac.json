@@ -1,0 +1,26 @@
+{
+  "id": "54af8cd82ba93309acaffdf1325717666b4b6e28bfd9b2300258ce6fb1fba1ac",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748466731,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "0e9c00aea7b6759ad37a6b170e7e9621913a051b9fb0fbca34d3b02194c9cf78",
+      "wss://a.nos.lol",
+      "root"
+    ],
+    [
+      "p",
+      "519d2fb3c354f44f5d4c7cdfc532633daf029bcc7d54beb0cb0f770646f8350f",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Amen so true for me ",
+  "sig": "0a2d6a95bcf186b5430938cdbba053569e3477d1aaf925c8c839fdc1df8b9d61dc003b85f350c4f18c6e8bebd73c49a209b1b953f08503951d3465320bc9dc18",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

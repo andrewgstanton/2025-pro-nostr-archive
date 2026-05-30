@@ -1,0 +1,26 @@
+{
+  "id": "607856647142ee29a86f7d735d67e0d33f76f31e01ebd8e2881d5f4e7330e9af",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747805187,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "26ebd6a77b3c301c4d16684d58a16a739a03dea31662882f4a4eb6f686b2a526",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "5b0183ab6c3e322bf4d41c6b3aef98562a144847b7499543727c5539a114563e",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I am liking Nostr more and I am using it as my default (where I start )and cross post from Nostr to other platforms ",
+  "sig": "8ae0bb85c23fa2aa4db51c495c72d29a70e500926f960137fc7137f43934c35d08a48b730593f8f681e53f669ea371745013ecfa387d6bfd0a1f7c4295eb1805",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

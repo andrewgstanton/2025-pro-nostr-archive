@@ -1,0 +1,26 @@
+{
+  "id": "a79921437ad13ad41de1064192b04b7b28894a696f7cd05793f9f01866ca1e18",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748310228,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "36ab0b1a9ccda46217373ccb1056c5cca12fc236880f3c2ad16b6c73ee4df86c",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "ae8ef5576370b5cb91d262cf0d31d5ce9f5ca26c3ad2d56d5c58f6023633e453",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Aslan Is known by a different name here but is the same Person in both realms",
+  "sig": "5d2fd0bc8e8623647cf000c24146dd61bdefac34d7fe96bdd5a564a0f9a0a0d7f6d4892ab9f4e2719b7fdf7a36db401580027b5e547449bc2d6d75ccd48e22c4",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

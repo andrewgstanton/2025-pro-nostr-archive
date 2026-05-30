@@ -1,0 +1,68 @@
+{
+  "id": "63feb5b6bb4a03834107c423ef55ce06670eab56a966fab7afb67e0106d5a09c",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1746857123,
+  "kind": 1,
+  "tags": [
+    [
+      "p",
+      "6bb0082dfd02be52ba7d532cf29dcf82977df9eb10483ccf71efc6f00146ed0a",
+      "wss://bitcoiner.social",
+      "mention"
+    ],
+    [
+      "p",
+      "cef805126ca71d8e9a3b82469c443d471510b23722bc405fa38fa8572a270ddf",
+      "wss://23asdfasf2r341gnbrrhjhwggadffgasfsadfasafa.xyz",
+      "mention"
+    ],
+    [
+      "p",
+      "82341f882b6eabcd2ba7f1ef90aad961cf074af15b9ef44a09f9d2a8fbfbe6a2",
+      "wss://nos.lol",
+      "mention"
+    ],
+    [
+      "e",
+      "fd81ddf2220b246a449ec0f178a0bac9893302af1b95e2f32305d588fb956397",
+      "wss://bitcoiner.social",
+      "root"
+    ],
+    [
+      "p",
+      "da66d621d05bb7a7d64c1adfe0ea6421ca7db60d1089cd98b06ccfcd0ea2ed78",
+      "",
+      "mention"
+    ],
+    [
+      "r",
+      "wss://nostr.reelnetwork.eu/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://relayable.org/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.bit4use.com/"
+    ],
+    [
+      "r",
+      "wss://bitcoinmaximalists.online/"
+    ]
+  ],
+  "content": "replying to\n \n@Asanoha\nFriends:\nnostr:nprofile1qyt8wumn8ghj7cnfw33k76twv4ezuum0vd5kzmqpp4mhxue69uhkummn9ekx7mqqyp4mqzpdl5ptu54604fjeu5ae7pfwl0eavgys0x0w8huduqpgmks523rxvn \nnostr:nprofile1qy68wumn8ghj7v3nv9ekgenpwdnryu3nxsckwmnzwfexs6ngwankwctyvenxwctnveekzerxv9ekzenp9eu8j7spzdmhxue69uhk2mmnw3skwunpd5hxxmmdqqsva7q9zfk2w8vwngacy35ugs75w9gskgmj90zqt73cl2zh9gnsmhcyxy6x3 \nnostr:nprofile1qyxhwumn8ghj7mn0wvhxcmmvqyehwumn8ghj7mnhvvh8qunfd4skctnwv46z7ctewe4xcetfd3khsvrpdsmk5vnsw96rydr3v4jrz73hvyu8xqpqsg6plzptd64u62a878hep2kev88swjh3tw00gjsfl8f237lmu63q8dzj6n \n",
+  "sig": "7a1b58072fc93317b0107d45bd0a20b407899e19a14a683c4f43b2dcec7a9364b868e0fbabe3a94fdc92e88ebf37e3db4cc5d3fceef8fd4b20d36162c9403ea3",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

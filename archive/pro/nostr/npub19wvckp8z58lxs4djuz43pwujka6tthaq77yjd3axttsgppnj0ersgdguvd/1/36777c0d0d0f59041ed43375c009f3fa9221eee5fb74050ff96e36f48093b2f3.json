@@ -1,0 +1,26 @@
+{
+  "id": "36777c0d0d0f59041ed43375c009f3fa9221eee5fb74050ff96e36f48093b2f3",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748208046,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "1583e409e67d349d13638d631a65c096a6d96d19730f0dba65f964979478908c",
+      "wss://relay.nostr.net",
+      "root"
+    ],
+    [
+      "p",
+      "4b3b84876e5a927069c5a31ff66e5bb3bb0634ebf39e8861f0fc3ac8a10f2708",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Why are posting this ?",
+  "sig": "63b0d034dcb9fe38c2d2c5fb8fc27ffc410918e84b250211db89e6d3bb7973df543abb45b656dd9df64f55f7d3ed253c0acd12f45855e64c7ee4d457a124a2d3",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

@@ -1,0 +1,24 @@
+{
+  "id": "075e79ad6c132e8812586d65341573082ff6f7170b5e9f1b2d0d2a1b25497786",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747685375,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "b46eaf2e47768a5fc53ad4c5a32473c51b86e9de61f42c41a9dccf47a27bd861",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "185f9e130d643eb3425f943d10d441c6bfa305702911315eab47ee130ab09a98"
+    ]
+  ],
+  "content": "AMEN.  Could not have said it better!  I LOVE bitcoin, but I LOVE Jesus even more.",
+  "sig": "d01b5b16838cdc707cac46eb8c0d938ab47004bf577d0baa21a2ebbed0b8ade0a59c0c815d23766a4d0e36309d4080e2922e3bc8bc95f35605f9a16c71f2aa0b",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

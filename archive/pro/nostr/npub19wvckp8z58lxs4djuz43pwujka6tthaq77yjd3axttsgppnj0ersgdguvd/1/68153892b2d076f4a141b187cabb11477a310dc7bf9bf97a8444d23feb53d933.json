@@ -1,0 +1,26 @@
+{
+  "id": "68153892b2d076f4a141b187cabb11477a310dc7bf9bf97a8444d23feb53d933",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747529680,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "1403ca97a8b20ee48acf01b5361792897b65c78cdcc6136d322c5f46c8a3b9ae",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "d81a8a7ca131dadcf45d9477981f473dccacf0d4ae2fdde9a1b9315006c4adf6",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I’ve seen the expressions  “stacking sats”  and Hodling bitcoin both used a lot I can use bitcoin.  ",
+  "sig": "8a63c99503ca2a0a716f035c68c36af716aca0e2c3a105b321f05eff770cf1a0f62af1a1eea23bbaf487520ebbb8fe66bc50d498f73cbd556c784baa1bfc1694",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

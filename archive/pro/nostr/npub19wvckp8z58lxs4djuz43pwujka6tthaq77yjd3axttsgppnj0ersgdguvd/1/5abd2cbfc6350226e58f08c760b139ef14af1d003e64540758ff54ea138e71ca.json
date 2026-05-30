@@ -1,0 +1,26 @@
+{
+  "id": "5abd2cbfc6350226e58f08c760b139ef14af1d003e64540758ff54ea138e71ca",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747863646,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "92cacb2a65cc91b47869c0f4110218a9d77b27c650c300d19d64e5a8eed782ee",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "185f9e130d643eb3425f943d10d441c6bfa305702911315eab47ee130ab09a98",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Get a primal premium subscription ",
+  "sig": "31ebd9c4edae31d36a686e86b284e739a618bff96a32f55ec7d1f5d8aa7ad5b1190d7bbf99f53524e2dc86c027e9f9cb293f1a435def765503fbecc894311b5b",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

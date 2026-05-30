@@ -1,0 +1,26 @@
+{
+  "id": "ad5afc0470104efe7e5f82d6e096815e00e8fffeba669f5f199c6696c13ef07b",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747027956,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "031250e69593c154b3e9709e033110f92842a040dda7d829f8093ad544d5501d",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "a80fc4a78634ee26aabcac951b4cfd7b56ae18babd33c5afdcf6bed6dc80ebd1",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I totally agree … but let me check with chatGPT",
+  "sig": "186221dbe0a263623123bb291e4ae5bc53e9816467a7ac6c3e8101eb13beab4fc8578434796578b98051f900551b9610b26ec28f43cd1318808f3928f6e248f4",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

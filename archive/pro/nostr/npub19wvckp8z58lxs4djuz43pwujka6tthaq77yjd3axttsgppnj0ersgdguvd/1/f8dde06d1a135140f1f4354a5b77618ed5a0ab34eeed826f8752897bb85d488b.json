@@ -1,0 +1,26 @@
+{
+  "id": "f8dde06d1a135140f1f4354a5b77618ed5a0ab34eeed826f8752897bb85d488b",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747543572,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "a14b6267d4139250199bc2bdb1b7a435331c84b3a31c1d26b05ee4064a5ce3a3",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "ac340a0ffa48589e98af8577754529e8c59f7fd110f1bc832d0e8d4c4d3d1853",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Send me some please !!",
+  "sig": "971036ef16e4396181b320c1b1256fff5c178ed8cb5b1a24b0b24a10734037a8ba30b273681b20dac8f49a13c968d99416a0e2aa43f9b1ef4ec80c6753e94476",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

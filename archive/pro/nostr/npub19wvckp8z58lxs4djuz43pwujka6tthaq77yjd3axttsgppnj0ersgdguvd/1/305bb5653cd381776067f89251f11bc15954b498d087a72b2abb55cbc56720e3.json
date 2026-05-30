@@ -1,0 +1,32 @@
+{
+  "id": "305bb5653cd381776067f89251f11bc15954b498d087a72b2abb55cbc56720e3",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1746979820,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "aab8e317a11bf363c29abc15f9cf31708b5773dc7f8ff61bbeb7dfca8f0022c1",
+      "wss://bitcoiner.social",
+      "root"
+    ],
+    [
+      "p",
+      "83e818dfbeccea56b0f551576b3fd39a7a50e1d8159343500368fa085ccd964b",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "0815ff97fe03766824041b68e2a39f3e3c9580852643803307eabea240a2bb75",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "This is great would love to go there and check it out",
+  "sig": "22a5d31e2c408f32f5e94658b0406733921e3dac1eadf420d4fa8d796ee96e1b2dbf51b41402e0809df9ffcfdc2898f8d90b6aba33472b27aaa590166ac21194",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

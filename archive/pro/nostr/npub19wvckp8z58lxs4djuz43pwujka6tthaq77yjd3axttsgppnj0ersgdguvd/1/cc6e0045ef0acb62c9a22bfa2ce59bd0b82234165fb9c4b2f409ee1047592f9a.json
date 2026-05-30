@@ -1,0 +1,26 @@
+{
+  "id": "cc6e0045ef0acb62c9a22bfa2ce59bd0b82234165fb9c4b2f409ee1047592f9a",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748200108,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "51a737c8c99443d926e9cd75818fa8bd0e6241289ce8d2335530625323a2d876",
+      "wss://nos.lol/%20wss://nostr.land/%20%20avatar%20wss://nostr.wine/%20%20avatar%20wss://purplerelay.com/%20wss://relay.damus.io/%20wss://relay.snort.social/",
+      "root"
+    ],
+    [
+      "p",
+      "db9e61746a09b0ace48ba458fb866b7fbffde514e1d0b9f6c2d3515bf6335f54",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I like games don’t get me wrong I  want to post on philosophy that’s my passion on Nostr these days ) used to work at a company that built games ( using Adobe flash)   Maybe I will get an Xbox ..",
+  "sig": "607420384570585c0ecf74063175b2d39257a01fdb35ca6cd0b3ab4dd19a5bec4a22ee434d8665d78a95ff3761e6525b96dc5fbc79fdcd735d0e2d017309ced2",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

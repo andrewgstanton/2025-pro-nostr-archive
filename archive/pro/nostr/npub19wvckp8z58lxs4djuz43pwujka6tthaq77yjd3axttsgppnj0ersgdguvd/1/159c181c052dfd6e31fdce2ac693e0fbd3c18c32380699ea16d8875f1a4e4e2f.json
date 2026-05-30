@@ -1,0 +1,52 @@
+{
+  "id": "159c181c052dfd6e31fdce2ac693e0fbd3c18c32380699ea16d8875f1a4e4e2f",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1746771972,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "923d3afe52d3f70ba8313750d658809aebe7d582c0d23f6292fc7aed1bf7899f",
+      "wss://nos.lol",
+      "root"
+    ],
+    [
+      "p",
+      "c9e9bdc0b03c21bd337a12dcf5b463d49fdafe884aa12bb950c182e9e4dbe9b8"
+    ],
+    [
+      "p",
+      "ac340a0ffa48589e98af8577754529e8c59f7fd110f1bc832d0e8d4c4d3d1853"
+    ],
+    [
+      "r",
+      "wss://nostr.reelnetwork.eu/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://relayable.org/"
+    ],
+    [
+      "r",
+      "wss://bitcoinmaximalists.online/"
+    ],
+    [
+      "r",
+      "wss://nostr.bit4use.com/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ]
+  ],
+  "content": "SatsMan can you send me some zaps !",
+  "sig": "0d6b90392e854a48864351ab4726c33b4f0e44b4ebdfb861dc39b165722914393fde8b87c69992c52b8ae84c0ba318c5d6f13ae007fc29fde56dccbc423d80a6",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

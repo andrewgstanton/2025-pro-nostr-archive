@@ -1,0 +1,24 @@
+{
+  "id": "3b4cf6ce0cb5f85cd95673160ddef38fbbf213cfe5de95f6de411f4762e5e915",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747713366,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "3acb68ba591e6d59b8af6f73c863f4f33a63cef74c030cd497cf76013446bd68",
+      "wss://relay.bitcoinpark.com",
+      "root"
+    ],
+    [
+      "p",
+      "e2ccf7cf20403f3f2a4a55b328f0de3be38558a7d5f33632fdaaefc726c1c8eb"
+    ]
+  ],
+  "content": "SO TRUE!!!",
+  "sig": "90ec875db35389312de9979e6f18b6b28def675dbfdabbf2a3f48b5536aca723586e36753431da1bc180fbbae8f12e52c7e2af5e9bfdf345ddba555ea026f14f",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

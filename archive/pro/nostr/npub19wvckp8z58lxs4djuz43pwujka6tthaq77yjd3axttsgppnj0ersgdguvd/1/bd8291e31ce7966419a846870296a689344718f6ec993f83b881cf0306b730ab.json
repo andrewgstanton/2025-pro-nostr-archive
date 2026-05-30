@@ -1,0 +1,76 @@
+{
+  "id": "bd8291e31ce7966419a846870296a689344718f6ec993f83b881cf0306b730ab",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747012881,
+  "kind": 1,
+  "tags": [
+    [
+      "t",
+      "OriginallyOnNostr"
+    ],
+    [
+      "t",
+      "BitcoinNotWeb3"
+    ],
+    [
+      "t",
+      "ProofOfWorkNotPerformance"
+    ],
+    [
+      "e",
+      "4d95748fbd9050c69d96e4f38635aa349302d5d85ed8ac410c1591bc7daade8c",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "r",
+      "wss://nos.lol/"
+    ],
+    [
+      "r",
+      "wss://nostr.reelnetwork.eu/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://relay.nostr.band/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://relayable.org/"
+    ],
+    [
+      "r",
+      "wss://bitcoinmaximalists.online/"
+    ],
+    [
+      "r",
+      "wss://nostr.bit4use.com/"
+    ]
+  ],
+  "content": "Just adding for indexing...\n\n#OriginallyOnNostr\n#BitcoinNotWeb3\n#ProofOfWorkNotPerformance\n\n",
+  "sig": "9ff2aabd19b85e6ceefa617c9cfdc547328674ad862914f4f241ffe6f67226f030bef0ca0a79fb30a984bf8802ad1a1032fe29dfb55e0b53f161c8b383d2e51f",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

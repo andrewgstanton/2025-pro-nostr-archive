@@ -1,0 +1,26 @@
+{
+  "id": "99a77f9fd7a847f187ca1b3021b240e779462a50f98f7074f5eeeb0659bf1a13",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748229231,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "349ceded4f5908344a3f2edb323905236471dba29754b973b7b5d45b638a61f1",
+      "wss://relay.damus.io/%20wss://relay.notoshi.win/%20wss://nos.lol/%20wss://relay.siamstr.com/%20wss://relay.0xchat.com/%20wss://nfrelay.app/%20wss://relayrs.notoshi.win/%20wss://relay.nexterz.com/%20wss://fenrir-s.notoshi.win",
+      "root"
+    ],
+    [
+      "p",
+      "0d3730a793245901d5aa9c70ef01074ea74e89293930185c3c40d4231dee628c",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Great quote .  I have been feeling that tempestuous sea of  late I think",
+  "sig": "dd06bc2cc2a302312f5f449e522ea50d80dada8e959e8a0109855e5880ddeba0ccac229b3a8fdfc66031d6746e39a870265b42a6101ff52149dddba3d63ee212",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

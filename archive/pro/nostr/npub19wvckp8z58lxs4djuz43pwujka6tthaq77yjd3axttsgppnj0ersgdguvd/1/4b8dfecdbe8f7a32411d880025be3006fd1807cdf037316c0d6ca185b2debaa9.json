@@ -1,0 +1,30 @@
+{
+  "id": "4b8dfecdbe8f7a32411d880025be3006fd1807cdf037316c0d6ca185b2debaa9",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747610192,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "4f784bd4b98ed769b54b2ddd8a220221318ebdbafbcc69d16a52d50375e7ebd2",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "c9e9bdc0b03c21bd337a12dcf5b463d49fdafe884aa12bb950c182e9e4dbe9b8",
+      "wss://buzzbot-relay.bullishbounty.com",
+      "mention"
+    ],
+    [
+      "p",
+      "6bb0082dfd02be52ba7d532cf29dcf82977df9eb10483ccf71efc6f00146ed0a"
+    ]
+  ],
+  "content": "AMEN Zoltan!",
+  "sig": "9c084328e41aab54f4517b92d9ea7e4730811b35848341bb70c36d2a5219537d4c1d2e8ede867b8759fb2df366a2f362c050b6c10ef1115a12921c1fca274e08",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

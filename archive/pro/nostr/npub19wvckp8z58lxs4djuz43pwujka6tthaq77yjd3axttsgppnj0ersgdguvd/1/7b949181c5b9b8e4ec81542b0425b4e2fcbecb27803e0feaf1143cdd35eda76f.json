@@ -1,0 +1,28 @@
+{
+  "id": "7b949181c5b9b8e4ec81542b0425b4e2fcbecb27803e0feaf1143cdd35eda76f",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1746574536,
+  "kind": 1,
+  "tags": [
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "e",
+      "219e2b81b09488632fdf2d26a16b71c3b9a68c1fdcb4ce871965a74db7b25916",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Just noticed: any nostr.band links or even my own npub posted on Primal get auto-converted to primal.net — would love to see this be optional in the future. \n\nANY LINK containing my npub key gets autoconverted to my pimal.net profile:\n\nhttps://primal.net/e/nevent1qqszr83tsxcffzrr9l0j6f4pddcu8wdx3s0aedxwsuvktf6dk7e9j9ssewhgd\n\nPrimal rewrites anything that even looks like an npub string, even if it’s:\n\nNot a hyperlink\n\nIn plain text\n\nNot formatted as a URL at all\n\nThey’ve built in a strict regex pattern that matches Nostr identifiers (like npub1..., note1..., nprofile1...) and wraps them in primal.net URLs no matter what.\n\n->> To bypass this, use bitly.com to generate a short url.\n\nThis, IMHO undermines the spirit of Nostr to a degree\n\nI should be able to post content EXACTLY as it appears -- maybe there is and I haven't figured out a way to do that yet, so apologies in advance   😉 \n\n\n#nostr #sovereignty",
+  "sig": "8f9c42c94022b0e1c0e738768dbef4e76f209b843f3225dfb358c3a971aee0fffef96a925d0e04b904e70294f598dec149d0fccd1f7721e1235846022440f315",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

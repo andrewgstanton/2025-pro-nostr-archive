@@ -1,0 +1,44 @@
+{
+  "id": "5682acf7c7ea9ad7ffdcbb9efd36100f89a328fd2b25457947921df2e5336476",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1746772374,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "925b9b8058812f4b044127fae8f87098ccdf94184a75f669542bc71dcbad4c46",
+      "wss://nos.lol/",
+      "mention"
+    ],
+    [
+      "r",
+      "wss://nostr.reelnetwork.eu/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://relayable.org/"
+    ],
+    [
+      "r",
+      "wss://bitcoinmaximalists.online/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.bit4use.com/"
+    ]
+  ],
+  "content": "Follow up on this event (happened 2 days ago) .... \n\nTook the sub-custodian no time to take the 2nd unauthorized transfer ... \n\nmoney has not been sent back to my legacy brokerage yet\n(but hopefully tomorrow).\n\nnostr:nevent1qvzqqqqqqypzq2ue3vzw9g07dp2m9c9tzzae9dm5kh06paufymr6vkhqszr8ylj8qy88wumn8ghj7mn0wvhxcmmv9uq36amnwvaz7tmwdaehgu3wvf5hgcm0d9hx2u3wwdhkx6tpdshsqgyjtwdcqkyp9a9sgsf8lt50suycen0egxz2whmxj4ptcuwuht2vgcjs34hs ",
+  "sig": "9aa66ed3c1802850da70ce48aa2d2f35ab2055f53e4465ce398ea60ad202570af8c56ef8295d454699f2b64b8085798db3d2d16cb4641a7a5760f7b049071a31",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

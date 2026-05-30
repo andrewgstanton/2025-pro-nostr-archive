@@ -1,0 +1,32 @@
+{
+  "id": "00bbc49088ebb1c781b41145feb7dc9794f2bbdbac02276fe3dbc6dc29548dbe",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748479154,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "e39307e53520e4a698cdca34a480d515085b51ae38d0ed11f21bc1d7164df6b4",
+      "wss://nostr-verified.wellorder.net",
+      "root"
+    ],
+    [
+      "p",
+      "b708f7392f588406212c3882e7b3bc0d9b08d62f95fa170d099127ece2770e5e",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "3f770d65d3a764a9c5cb503ae123e62ec7598ad035d836e2a810f3877a745b24",
+      "wss://nostr-relay.derekross.me/",
+      "mention"
+    ]
+  ],
+  "content": "Yes thank you nostr:nprofile1qqsr7acdvhf6we9fch94qwhpy0nza36e3tgrtkpku25ppuu80f69kfqpramhxue69uhkummnw3ez6un9d3shjtnyv4ex26mjdaehxtndv5hsz9thwden5te0wfjkccte9ejxzmt4wvhxjme0gufsax it was a pleasure to meet. ",
+  "sig": "64b0cf6f95c750002240eea3cec6da873f11c95da091b80f4857d49535fd65f52d53c98fb50c21e5771db2c703d2f6f1bfb4f7a2922bc1f846b87b8f67808d90",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

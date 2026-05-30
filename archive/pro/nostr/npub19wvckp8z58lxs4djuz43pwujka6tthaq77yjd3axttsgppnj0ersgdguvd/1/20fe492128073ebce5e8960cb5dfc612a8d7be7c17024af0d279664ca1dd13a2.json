@@ -1,0 +1,26 @@
+{
+  "id": "20fe492128073ebce5e8960cb5dfc612a8d7be7c17024af0d279664ca1dd13a2",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1746929468,
+  "kind": 1,
+  "tags": [
+    [
+      "p",
+      "1afe0c74e3d7784eba93a5e3fa554a6eeb01928d12739ae8ba4832786808e36d",
+      "wss://eden.nostr.land",
+      "mention"
+    ],
+    [
+      "e",
+      "2dbaa4888510a2ff0620d70dafb859b795755892b423657fc81f5143f64c58a2",
+      "wss://offchain.pub",
+      "root"
+    ]
+  ],
+  "content": "Very well said nostr:nprofile1qy2hwumn8ghj7etyv4hzumn0wd68ytnvv9hxgqtxwaehxw309anxjmr5v4ezumn0wd68ytnhd9hx2tmwwp6kyvtjw3k8zcmp8pervct409shwdtwx45rxmp4xseryerdx3ehy7f4v3axvet9xsmrjdnxw9jnsuekw9nh2ertwvmkg6n5veen7cnjdaskgcmpwd6r6arjw4jsqgq6lcx8fc7h0p8t4ya9u0a92jnwavqe9rgjwwdw3wjgxfuxsz8rd5mths8c \n\nI see leadership as helping those I lead become the best version of themselves.\n\nBut that’s hard—really hard—especially in a culture that elevates leaders to guru or god-like status.\n\nTrue leadership looks more like lowering yourself than raising your platform.\n\nWould we have the humility of Jesus, who washed His disciples’ feet the night before He was crucified?\n\nThat’s the model. Not dominance. Not applause. But love expressed through service—even when it costs everything.\n",
+  "sig": "86aed17f3cd4ccd0e848649675d053b5d48a228548215005739d582e8891f11edb0614512317f8ce05b9277bc7297f6af78567e73b44956cec5acec1f382e70c",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

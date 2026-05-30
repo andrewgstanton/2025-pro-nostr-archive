@@ -1,0 +1,26 @@
+{
+  "id": "05c10faa6b1851fbbd1cddf63380effbd5549dbc25f33fb79ddd35d151cdcff7",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748211482,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "01a382297a060ecde50a1745408912e39cf43c6740d5513d92ac0f82931e56ff",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "0fb2a3a8d9b628db215e1a47133ce59f915dc0dd180cfd249d844d4cba4960b3",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Thanks fir highlighting this I dint think we really understand what this means ",
+  "sig": "7ab35312e265f3fe4fcfc58803f00935d5b6e446cf11a963a04a4ebf8a4c20dd87ded08a8233ee3963ce5be1ddbb76161368a3eec469c92f2f9171c91d698197",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

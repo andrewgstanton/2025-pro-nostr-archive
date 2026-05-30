@@ -1,0 +1,26 @@
+{
+  "id": "c691e4e11c6ff1f584dc9f9ae3e6bd68d1ec5db76f8ef3cf3b4cfb10f5dd8df8",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748062789,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "dc4cf9a5ac35ec12ea4724af3640dcd9fa3b2509fb7edd4191ed4390106baf92",
+      "wss://relay.damus.io",
+      "root"
+    ],
+    [
+      "p",
+      "16d114303d8203115918ca34a220e925c022c09168175a5ace5e9f3b61640947",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Very very true",
+  "sig": "d52d4b09a9428c64024b7c07270e2bbbb66bcb0c601b5f61850453347870558319753eb99378331a7ea636f4d47255c3be5dd121de4197ecc13586af17ac0382",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

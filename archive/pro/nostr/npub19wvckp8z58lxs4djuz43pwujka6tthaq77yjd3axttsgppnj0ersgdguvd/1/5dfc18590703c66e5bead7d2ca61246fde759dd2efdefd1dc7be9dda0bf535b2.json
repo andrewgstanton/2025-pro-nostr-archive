@@ -1,0 +1,26 @@
+{
+  "id": "5dfc18590703c66e5bead7d2ca61246fde759dd2efdefd1dc7be9dda0bf535b2",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748473769,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "a29342b5c6a3bcd4b4583f63a0dc467e2f612f4f5e071fffca7f8098b2a7dc9d",
+      "wss://feeds.nostr.band",
+      "root"
+    ],
+    [
+      "p",
+      "16d114303d8203115918ca34a220e925c022c09168175a5ace5e9f3b61640947",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "So so true !!!",
+  "sig": "1de4f88e3ce9e744c7600a16157ca4ae0b0ca2e580dfe143c6d20ff40eea592dcc3aea7cbabb2767948754ac98427c9e8438e4308344f47bf325b42cd225a74f",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

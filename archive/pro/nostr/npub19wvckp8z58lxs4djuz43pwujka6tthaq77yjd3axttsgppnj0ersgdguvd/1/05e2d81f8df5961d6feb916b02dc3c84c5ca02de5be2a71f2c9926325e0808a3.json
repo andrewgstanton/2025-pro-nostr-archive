@@ -1,0 +1,26 @@
+{
+  "id": "05e2d81f8df5961d6feb916b02dc3c84c5ca02de5be2a71f2c9926325e0808a3",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747805040,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "26ebd6a77b3c301c4d16684d58a16a739a03dea31662882f4a4eb6f686b2a526",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "5b0183ab6c3e322bf4d41c6b3aef98562a144847b7499543727c5539a114563e",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I wrote a long list on linked to sort of do the same thing \n\nhttps://www.linkedin.com/posts/andrew-g-stanton_bitcoin-nostr-proofofwork-activity-7330726755025977345-eqVR?utm_medium=ios_app&rcm=ACoAAABQv18BeAPYRkxkYSr1mQStB9TczIhoXvQ&utm_source=social_share_send&utm_campaign=copy_link",
+  "sig": "59bd0bfc80c85ba1c7c0ad4a87cc271b537849e4fb4ab79434a8ebedf5cbce20c5bd9e776376de354cc7c02db3c6dd182b94f1a5c47164ffe52e9a70786d6dad",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

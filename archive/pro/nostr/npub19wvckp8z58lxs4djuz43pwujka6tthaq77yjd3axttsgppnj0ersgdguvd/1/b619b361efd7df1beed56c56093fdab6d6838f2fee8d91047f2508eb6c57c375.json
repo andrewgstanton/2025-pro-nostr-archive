@@ -1,0 +1,26 @@
+{
+  "id": "b619b361efd7df1beed56c56093fdab6d6838f2fee8d91047f2508eb6c57c375",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748240240,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "4505e0568f1881667bc765f6a66f602876e7e05630ba6902f8a8e7d243711ce0",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "dab6c6065c439b9bafb0b0f1ff5a0c68273bce5c1959a4158ad6a70851f507b6",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Let’s accelerate this process!! ",
+  "sig": "6e899f7d45486f4a5bd50bb6ad0c7d5c4387bc54a78b2814007bb4d4c480cea03cea5e0ffb28ddd89e35b18d94b8e76ce5dfd5975dc3267f0adbec5b534a3b98",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

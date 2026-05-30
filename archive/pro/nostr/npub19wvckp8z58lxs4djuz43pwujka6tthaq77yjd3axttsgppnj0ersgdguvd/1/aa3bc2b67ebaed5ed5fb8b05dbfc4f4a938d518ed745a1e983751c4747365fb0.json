@@ -1,0 +1,32 @@
+{
+  "id": "aa3bc2b67ebaed5ed5fb8b05dbfc4f4a938d518ed745a1e983751c4747365fb0",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747853336,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "64fe35e0a3163bd64fae64cf5858f6eace19ac03a8799e6d412079275afb9f35",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "e32b9d0519fe0d5355c615073dbf6aed56e185b2c3e4aeeebeddaf8acd66a191",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "805b34f708837dfb3e7f05815ac5760564628b58d5a0ce839ccbb6ef3620fac3",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Welcome Logan !! I feel the same way",
+  "sig": "1acc3dc1afbe704526b49f54f7c99fc11a0bd83b8219e42fc8c1fdd73d6ea502638e4ba77b2e631d07b88ffe156673e31813bc14436cd756a719033aeb5a84b3",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

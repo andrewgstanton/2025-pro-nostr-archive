@@ -1,0 +1,26 @@
+{
+  "id": "adba28e73344f61f7830ca2972d517a0229eabf84684496ff72530cc56ab73cf",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1746919297,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "e7cc71da50e69cd9624470a2674a33679fe0cb506aedf33be2bc226172a4d7c9",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "3df7fcb356cf4f6c9d1625e04297e226714fc4b9a5440b71e5a99f8ddb550c1e",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "And yet here we are communicating in a completely  virtual abstracted context.  I agree with you by the way with some caveats ",
+  "sig": "ed6b6fa7df0484897796bcb9b6e670570497de4935b92a286869d71dc5674756fe9cc942d0c23e5a6465bf1dc33ae8e8c307c455c31c4a781057975694ac0a7f",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

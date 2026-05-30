@@ -1,0 +1,26 @@
+{
+  "id": "ac50c4756d0f5cf8c6229eb67286c7ad56221ea850ff2e50d44df89a53cf4141",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1746930989,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "e777a2559492b9234fae6a5c06c766dc18a8cfc45edc1501080d244c846aa857",
+      "wss://relay.wellorder.net",
+      "root"
+    ],
+    [
+      "p",
+      "83e818dfbeccea56b0f551576b3fd39a7a50e1d8159343500368fa085ccd964b",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "That must have been fun!!",
+  "sig": "109fa758fd5493b85ea14be876cd69b8a3d6cce8a122389714ef820a11df4421c1717cccff3a9a3cf74f7227ecb72896689a313b6cf2026e2c81f18aa2770204",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

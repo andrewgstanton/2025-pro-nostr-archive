@@ -1,0 +1,26 @@
+{
+  "id": "8a1062f7caf41019e194ca1f589d7b69c8a47a74cc321f34205592d7c304fd16",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747843806,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "57049dddf5195908cf645a428069804c1932c63ff99afcf0af71b0299e78a5a7",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "7f0e64b52ef56bec2b588d460fc63125f567db2c014d1ecce806d8d5b4209e2e",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Onward and upward!!",
+  "sig": "3b8fafecb152ffc90f6376235b0aac5914fa9f58d6622370fcadab6244006fcadc703cc1d8e1c6ddb6af7b754475b7ba3eb83ffd5f4d6e2d86b456aa9f21eca4",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

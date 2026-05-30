@@ -1,0 +1,64 @@
+{
+  "id": "7d2933b866f8822f6867df05a279bea52f14f78658e6e7d6c93b2194b52f5122",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747529508,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "7e054c03d2ab7f5ff8d3dcb400456b3a7acced2c243378c688b5415b37298d93",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "p",
+      "d81a8a7ca131dadcf45d9477981f473dccacf0d4ae2fdde9a1b9315006c4adf6"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://relay.nostr.band/"
+    ],
+    [
+      "r",
+      "wss://nos.lol/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.reelnetwork.eu/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://nostr.bit4use.com/"
+    ],
+    [
+      "r",
+      "wss://bitcoinmaximalists.online/"
+    ]
+  ],
+  "content": "thanks !",
+  "sig": "8922868816d3520be3a75efd0201c04aeba87e256c28be284daa953a233bedd5518f3083db3694f3c80b6b6497f2ff49972bced11e8deb5a8b8ade3104ba4810",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

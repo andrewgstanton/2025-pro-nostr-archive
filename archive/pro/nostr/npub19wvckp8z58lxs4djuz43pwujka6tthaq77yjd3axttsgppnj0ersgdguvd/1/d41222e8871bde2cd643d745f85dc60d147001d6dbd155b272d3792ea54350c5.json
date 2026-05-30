@@ -1,0 +1,60 @@
+{
+  "id": "d41222e8871bde2cd643d745f85dc60d147001d6dbd155b272d3792ea54350c5",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747089689,
+  "kind": 1,
+  "tags": [
+    [
+      "t",
+      "MinistryOfReconciliation"
+    ],
+    [
+      "t",
+      "ProofOfWork"
+    ],
+    [
+      "t",
+      "LoveOverPerformance"
+    ],
+    [
+      "t",
+      "ServantLeadership"
+    ],
+    [
+      "t",
+      "RealImpact"
+    ],
+    [
+      "t",
+      "TheaterOfService"
+    ],
+    [
+      "t",
+      "StageVsFruit"
+    ],
+    [
+      "t",
+      "LiveYourConvictions"
+    ],
+    [
+      "t",
+      "IntegrityIsInfrastructure"
+    ],
+    [
+      "e",
+      "967176eeff76844dbd9ef5e52a0f1254f8c8c663a96d8ca32194bb1887766384",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ]
+  ],
+  "content": "Forgot hashtags on the original—adding here for signal seekers:\n\n#MinistryOfReconciliation #ProofOfWork #LoveOverPerformance #ServantLeadership #RealImpact #TheaterOfService #StageVsFruit #LiveYourConvictions #IntegrityIsInfrastructure",
+  "sig": "732a62b6b266388f9b815731b3a24ce96c890c1dbea27cc44e2ec962715fb057a6fce3614912541ec9c7df68f8970a5fe7097b74faede404bd97bbdadba625df",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

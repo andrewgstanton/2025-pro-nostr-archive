@@ -1,0 +1,38 @@
+{
+  "id": "e4a9a4c52a94936992e52482fd919a0645eab0e47d8e60967d21224ac0c37478",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748473692,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "d8d105970296dd6ae7b757eed81a52b1652c7220a87af8573b9a9527d050e883",
+      "wss://relay.damus.io/%20wss://relay.notoshi.win/%20wss://nos.lol/%20wss://relay.siamstr.com/%20wss://relay.0xchat.com/%20wss://nfrelay.app/%20wss://relayrs.notoshi.win/%20wss://relay.nexterz.com/%20wss://fenrir-s.notoshi.win",
+      "root"
+    ],
+    [
+      "p",
+      "af9c1a3a64eb4457e619acc5f4e4d5657af3782570958f1ba0426ebc656d13c6",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "805b34f708837dfb3e7f05815ac5760564628b58d5a0ce839ccbb6ef3620fac3",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "532d830dffe09c13e75e8b145c825718fc12b0003f61d61e9077721c7fff93cb",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Me too that’s great !!",
+  "sig": "1ad13d3baed63a63630aeae0623f04429c4dead380cdbe9a64949af7ba876e479ebf9de523939c91dfa664ce4e006e34fd05794f04e17c279def03fa267af6e3",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

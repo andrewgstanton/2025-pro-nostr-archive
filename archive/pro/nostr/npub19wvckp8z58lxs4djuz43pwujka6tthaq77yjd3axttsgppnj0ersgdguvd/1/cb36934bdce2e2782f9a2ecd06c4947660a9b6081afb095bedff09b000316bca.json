@@ -1,0 +1,26 @@
+{
+  "id": "cb36934bdce2e2782f9a2ecd06c4947660a9b6081afb095bedff09b000316bca",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748050036,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "52d8d22ead8aa18fa85ebf93c30357dcc1c80f3094f47d2621d713f0f305aa85",
+      "wss://feeds.nostr.band",
+      "root"
+    ],
+    [
+      "p",
+      "604e96e099936a104883958b040b47672e0f048c98ac793f37ffe4c720279eb2",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Did it work (this time:) just kidding  ",
+  "sig": "1f7ecc63f0d1c48334c4d989bfe1ec4c5522c7324a0fad2393c06a3efd38b251a74ea7843eca6a19b6039b96eb68cbb9aa3fad777df06c02774bb428398ccf6d",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

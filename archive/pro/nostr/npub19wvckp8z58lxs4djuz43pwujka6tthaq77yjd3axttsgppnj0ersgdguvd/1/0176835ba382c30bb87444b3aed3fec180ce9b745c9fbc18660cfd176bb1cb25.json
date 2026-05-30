@@ -1,0 +1,56 @@
+{
+  "id": "0176835ba382c30bb87444b3aed3fec180ce9b745c9fbc18660cfd176bb1cb25",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748056804,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "922e931c9cf08be3a1de005e735467846b6ec6d3eaa94988acec9d9fe6cba06d",
+      "wss://offchain.pub",
+      "root"
+    ],
+    [
+      "p",
+      "1afe0c74e3d7784eba93a5e3fa554a6eeb01928d12739ae8ba4832786808e36d"
+    ],
+    [
+      "r",
+      "wss://nos.lol/"
+    ],
+    [
+      "r",
+      "wss://nostr.reelnetwork.eu/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://bitcoinmaximalists.online/"
+    ]
+  ],
+  "content": "AMEN.  Evil is real. And it exists in every human heart!  Or more precisely the line between good and evil crosses through every human heart. (paraphrasing Aleksandr Solzhenitsyn, from the Gulag Archieplago)",
+  "sig": "3e95ef4c8cbb87433f8f06f062e0eba6eeab313c19dfcc51b739952ac7fab102aa335c2ddaa4e8f769ffb386f925cfb13975befc3d92b28ebc8e1549d2c62a26",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

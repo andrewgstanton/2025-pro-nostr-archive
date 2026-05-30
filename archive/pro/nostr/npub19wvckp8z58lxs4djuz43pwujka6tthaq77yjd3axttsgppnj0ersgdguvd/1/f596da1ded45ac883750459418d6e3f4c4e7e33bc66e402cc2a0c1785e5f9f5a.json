@@ -1,0 +1,26 @@
+{
+  "id": "f596da1ded45ac883750459418d6e3f4c4e7e33bc66e402cc2a0c1785e5f9f5a",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747447877,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "5c2569949168dadf3a55a75129e2ac1386ac99758df9dba9c2a9664a85509576",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "7b20d99d490c2ac74ba03602e93e6424f0fc246152680ff483fcafa6d2a541a9",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Would be good to show specific location (or general area in Africa) where the PoW was spent \n\nAlso would like to see if it is possible to develop tools to send sats directly to those in need ",
+  "sig": "90a692ec4b36072ee96427bbe36c3097d5dafb6a49866a0f3e413191e1aa785d0dead757685e5217f89ed8d6ec5cd805b0a232f820847e2cac708ce0fc3ea69f",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

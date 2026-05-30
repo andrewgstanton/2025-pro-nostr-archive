@@ -1,0 +1,26 @@
+{
+  "id": "36cd924a4e1c8a0bfeee80aac1088da8b0afc298ba50d94a769d787327bc4957",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748142205,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "3c8478de88c8c56cfdc88486c1c32b3e9ef1459e155e25e9ccdebc0f22b04ab2",
+      "wss://nostr.oxtr.dev",
+      "root"
+    ],
+    [
+      "p",
+      "9cbe03db7919d149fc450242657e322519fed49b25f6dcd549052d59b51ada16",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "That is a great way of putting it!!",
+  "sig": "8292066fc2da8949fb1a8e5030ea98b984035f2b8af5ac4f9d42ed72d02825c6a8301ade4f992419e39dcdfeadf679ea7174fa3cf9a1b08c0dc801c531b9b2aa",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

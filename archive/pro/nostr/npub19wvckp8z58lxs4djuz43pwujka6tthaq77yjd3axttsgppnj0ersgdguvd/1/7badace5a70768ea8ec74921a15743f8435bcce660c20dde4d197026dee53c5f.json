@@ -1,0 +1,24 @@
+{
+  "id": "7badace5a70768ea8ec74921a15743f8435bcce660c20dde4d197026dee53c5f",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1746928430,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "c76083a105e7905c1fce7c56fba7d0eb6cefc739fd6fcf6afac152090ddbcfeb",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "cef805126ca71d8e9a3b82469c443d471510b23722bc405fa38fa8572a270ddf"
+    ]
+  ],
+  "content": "welcome to nostr Denise!",
+  "sig": "38faa5b80845881dc4df4d080bea729ffcd5e849a98e9e9ee2493baeda6754241a435b249fd591d060e93d8f210493aec3ef477e5800ac584e94f131c8b8638c",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

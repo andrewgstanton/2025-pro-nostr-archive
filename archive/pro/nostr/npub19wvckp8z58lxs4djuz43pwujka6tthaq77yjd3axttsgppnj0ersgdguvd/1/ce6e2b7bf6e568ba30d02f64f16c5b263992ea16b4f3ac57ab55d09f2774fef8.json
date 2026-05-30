@@ -1,0 +1,24 @@
+{
+  "id": "ce6e2b7bf6e568ba30d02f64f16c5b263992ea16b4f3ac57ab55d09f2774fef8",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1746567021,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "a49c03673f9ec5344eff08796ff36314b4d9785a5feac35541ca7115becb3eae",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "91f11c642414ebb245dc973ed479de5f43b19933f6b5e0399c66f8cf90f43712"
+    ]
+  ],
+  "content": "Love to learn more about your BTC treasury strategy.  Thanks!",
+  "sig": "9fdaedda532cb1efcd1a26540dd462d726cb4201cce287c32dc3681f8967aa460d188abbc9e41d1c72b1c34d8d3ddfa98032833dec149c301cee306edd2cd407",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

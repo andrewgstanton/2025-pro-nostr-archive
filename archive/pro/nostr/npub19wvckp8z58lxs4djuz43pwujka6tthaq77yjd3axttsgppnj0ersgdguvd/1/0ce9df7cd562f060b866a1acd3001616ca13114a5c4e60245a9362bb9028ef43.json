@@ -1,0 +1,30 @@
+{
+  "id": "0ce9df7cd562f060b866a1acd3001616ca13114a5c4e60245a9362bb9028ef43",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747624184,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "5d6f5437a1ea8f5d0af3f74881de909a9d8e15b28fd9402409fc608c73c3d571",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "c9e9bdc0b03c21bd337a12dcf5b463d49fdafe884aa12bb950c182e9e4dbe9b8",
+      "wss://buzzbot-relay.bullishbounty.com",
+      "mention"
+    ],
+    [
+      "p",
+      "98aa4d34d35bec262097231d305be1cce77629ed47c95c511309abdeea7079d8"
+    ]
+  ],
+  "content": "Die Thema ist \"Spielen\" nicht wahr es ist ein gute Thema. \nVorher war ich ein Kindergartner fuer ein \"Kramm Schule\" in Japan. \nSpielen war immer benutzt",
+  "sig": "473f0fafe64162b8050548707935282a4316112e014b2adf2b524da9e581de9c00d776023cb1aac3def2a7fad2c823b3c01c7198027b49e191f71391399b6bd5",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

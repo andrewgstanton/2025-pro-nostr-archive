@@ -1,0 +1,26 @@
+{
+  "id": "4ca43dc42d0b62f4534882b057015efa8711ddc7f3ce4d3fd413336110936614",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747508961,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "6e2f387c625da78039e43bf02ca704a64274ea60b7f1a025ebd8f414252bc38b",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "b7274d28e3e983bf720db4b4a12a31f5c7ef262320d05c25ec90489ac99628cb",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I still fall in the trap of thinking the bitcoin I have is somehow “in my wallet”  I know it’s not it actually.  It’s on every node that has a copy  of the blockchain running and that description is probably not completely accurate either.",
+  "sig": "d7e0db47c17c0454476c09f1122d0af7e04a13971f699ca6d360039643452493073ddf1beeb041a67634b39afd689c1115ac542d51499905776121dd0901419e",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

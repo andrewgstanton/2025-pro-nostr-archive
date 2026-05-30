@@ -1,0 +1,54 @@
+{
+  "id": "1d40774672deaf4c2ebe5937d13c7e75a4eeec20fac3a8049edc7a222830e153",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1746770022,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "8bc66952cd19f7b1aeb476952fc572317e80c3598ce62a92af0b38724af89546",
+      "wss://nostr.mom",
+      "root"
+    ],
+    [
+      "p",
+      "c9e9bdc0b03c21bd337a12dcf5b463d49fdafe884aa12bb950c182e9e4dbe9b8",
+      "wss://relay.damus.io",
+      "mention"
+    ],
+    [
+      "p",
+      "e07bfc04ea87c72a9185b0891f055361e6492f259f81247683d6c9ccb2b651ed"
+    ],
+    [
+      "r",
+      "wss://nostr.reelnetwork.eu/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://relayable.org/"
+    ],
+    [
+      "r",
+      "wss://nostr.bit4use.com/"
+    ],
+    [
+      "r",
+      "wss://bitcoinmaximalists.online/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ]
+  ],
+  "content": "Great quote !!",
+  "sig": "7f2890a95726204fd6201ff1b7a1d1c96fa9ad6303780af0d7147df93f9f23f0b756395dc30d27def07795bdd01bf9795471d2d331536988569c45910db71371",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

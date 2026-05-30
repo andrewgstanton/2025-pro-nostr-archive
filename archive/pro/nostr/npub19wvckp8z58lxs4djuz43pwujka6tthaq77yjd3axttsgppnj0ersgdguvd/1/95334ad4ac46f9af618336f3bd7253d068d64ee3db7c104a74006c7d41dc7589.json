@@ -1,0 +1,26 @@
+{
+  "id": "95334ad4ac46f9af618336f3bd7253d068d64ee3db7c104a74006c7d41dc7589",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748472128,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "a6c1a58ae9e9e84411f46c07c65b33a4a08ef3a3aee515cb281ad980241358ec",
+      "wss://nos.lol/%20wss://nostr.land/%20%20avatar%20wss://nostr.wine/%20%20avatar%20wss://purplerelay.com/%20wss://relay.damus.io/%20wss://relay.snort.social/",
+      "root"
+    ],
+    [
+      "p",
+      "cd416a22a80269583ef3881e5766a2e8e9e46d78e689c755755fc6c5ba9378df",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Amen",
+  "sig": "dcb1cd25488fa70460295edc900d70a691106051c4414d1585f72331266dc42edf5f0800bf5b3a1eeae7127e67751f0a892b2b670c2f9f22ce7bad3541fd830e",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

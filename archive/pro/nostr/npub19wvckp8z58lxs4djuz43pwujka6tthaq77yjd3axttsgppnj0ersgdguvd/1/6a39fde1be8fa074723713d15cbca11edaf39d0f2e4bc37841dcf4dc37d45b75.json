@@ -1,0 +1,48 @@
+{
+  "id": "6a39fde1be8fa074723713d15cbca11edaf39d0f2e4bc37841dcf4dc37d45b75",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1746904116,
+  "kind": 1,
+  "tags": [
+    [
+      "t",
+      "bitcoin"
+    ],
+    [
+      "t",
+      "nostr"
+    ],
+    [
+      "t",
+      "freedom"
+    ],
+    [
+      "t",
+      "sovereignty"
+    ],
+    [
+      "p",
+      "efe5bbc8345806e8ef4f1f7cb8f0fc0014a8b7436a0a07dfdae9db269775bed9",
+      "ws://127.0.0.1:4869/",
+      "mention"
+    ],
+    [
+      "e",
+      "8f4ab77625065496e00edf4d33c0112a57e0075a1e3bb9d6675c61d5d4b97bbd",
+      "wss://nostr.reelnetwork.eu/",
+      "mention"
+    ],
+    [
+      "e",
+      "3b7c94b6b9ecf803492d1f1d63f71faeed079e5ad37d740b24a19bb92e58560b",
+      "",
+      "root"
+    ]
+  ],
+  "content": "Hi nostr:nprofile1qy28wue69uhnzv3h9cczuvpwxyargwpk8yhszxrhwden5te0vdex2ct5wghxummnw3ezuamfdejj7qpqaljmhjp5tqrw3m60ra7t3u8uqq223d6rdg9q0h76a8djd9m4hmvstyc3y3 \n\n1. Just reposted this note and followed you!\n\nI wrote a post recently about some of the same things you are alluding to here, here is the post.\n\nhttps://primal.net/e/nevent1qvzqqqqqqypzq2ue3vzw9g07dp2m9c9tzzae9dm5kh06paufymr6vkhqszr8ylj8qydhwumn8ghj7mn0wd68ytnjv4jkcmn9w3mk7unt9ejh2tcpzdmhxue69uhhqatjwpkx2urpvuhx2ue0qqsg7j4hwcjsv4ykuq8d7nfncqgj54lqqadpuwae6en4ccw46juhh0gx5m6l6\n\n#bitcoin #nostr #freedom #sovereignty",
+  "sig": "bc6f1193a33298efe06b68e1369969a06ff16ec61a87ca9482a97a55e8708cf3431beb39bfa4c33fe6ebd4ee2e5ee0dea2c110b8ea9d980a8fc3cc182596dbc4",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

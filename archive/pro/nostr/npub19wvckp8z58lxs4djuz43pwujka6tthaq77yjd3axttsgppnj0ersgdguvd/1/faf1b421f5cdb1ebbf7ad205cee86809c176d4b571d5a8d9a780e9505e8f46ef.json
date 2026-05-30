@@ -1,0 +1,52 @@
+{
+  "id": "faf1b421f5cdb1ebbf7ad205cee86809c176d4b571d5a8d9a780e9505e8f46ef",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1746385263,
+  "kind": 1,
+  "tags": [
+    [
+      "t",
+      "Bitcoin"
+    ],
+    [
+      "t",
+      "Bitcoin"
+    ],
+    [
+      "e",
+      "71460a2b7cf14941af632d68089f438640dcaec76bc44c6690bcc52f34263d0c",
+      "wss://nostr-dev.wellorder.net",
+      "root"
+    ],
+    [
+      "p",
+      "83e818dfbeccea56b0f551576b3fd39a7a50e1d8159343500368fa085ccd964b"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://nostr.wine/"
+    ],
+    [
+      "r",
+      "wss://nostrelites.org/"
+    ],
+    [
+      "r",
+      "wss://relay.mostr.pub/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ]
+  ],
+  "content": "I think I am just beginning to understand #Bitcoin.  I read your book \"The Price of Tomorrow\" very powerful, but just scratching the surface.  I am trying to understand how to build a foundation based in #Bitcoin.  ",
+  "sig": "2c87b37c85747f8cb6305e37c2f0593a31c4fb4391bee3e0f9932c6412da3fa7b943cce01f81c2122aba11214dc4534d436f2c31ddf4e368f28068416c2feba2",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

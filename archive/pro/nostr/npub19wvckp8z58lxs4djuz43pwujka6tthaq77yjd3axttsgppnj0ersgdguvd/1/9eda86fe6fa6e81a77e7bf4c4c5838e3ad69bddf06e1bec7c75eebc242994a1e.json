@@ -1,0 +1,24 @@
+{
+  "id": "9eda86fe6fa6e81a77e7bf4c4c5838e3ad69bddf06e1bec7c75eebc242994a1e",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747711575,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "e215ceb9a2b85d1be9d4b1411a6e38db4465cfa868e77855182292e0f83d2230",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ]
+  ],
+  "content": "Does this make me \"An anti-thought-leadery Thought Leader ?\n\nMaybe so ?",
+  "sig": "1c7742801ff791b9b5f42b10886a79d3ffa6f6efb46fa7e28dd958c859aca78fddd7e15c3b04563a27da52065bb0f5202fd1a4df0316377a41e131ce04034472",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

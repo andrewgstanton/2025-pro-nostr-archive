@@ -1,0 +1,20 @@
+{
+  "id": "86a3dc786b9e7195b429ac68d5d54a7714cbe08a2a268cfddaebe8098593477b",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747685128,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "66d587a9ec80ecc43fdedc5615afaa9d6b25032253c56d525ace6f15f7545489",
+      "wss://nos.lol/",
+      "mention"
+    ]
+  ],
+  "content": "reposting hope you get the word out\n\nnostr:nevent1qvzqqqqqqypzps5xcd4ejtejaltg4ds9sjvy2u424qj984te7w6c46jmzhg6rvk9qy88wumn8ghj7mn0wvhxcmmv9uq36amnwvaz7tmwdaehgu3wvf5hgcm0d9hx2u3wwdhkx6tpdshsqgrx6kr6nmyqanzrlhku2c26l25advjsxgjnc4k4ykkwdu2lw4z53ydyv5ht ",
+  "sig": "8203903dcfcc52a09f9560285b284e936aa03feb12052f938782a3e7a6eebee205b128cf39607eb9a9a0ce7da76b1be732f94e866ea7ca68189f1e4faf095e9b",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

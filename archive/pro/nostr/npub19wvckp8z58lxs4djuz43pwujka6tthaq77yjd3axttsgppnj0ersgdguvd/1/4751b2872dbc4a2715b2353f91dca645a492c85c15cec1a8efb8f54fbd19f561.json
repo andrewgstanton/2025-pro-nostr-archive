@@ -1,0 +1,26 @@
+{
+  "id": "4751b2872dbc4a2715b2353f91dca645a492c85c15cec1a8efb8f54fbd19f561",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748029595,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "c686b7368318b26383e9edd2819301ba571a706c7a7ee90b7412b57d7270d040",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "123afae7d187ba36d6ddcd97dbf4acc59aeffe243f782592ff8f25ed579df306",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Banks are wonderful to work with aren’t they ? :)",
+  "sig": "935428231d6273160a30f69fb3ff5600fce0aa350657466352d214ff07c950fa0418e4dcabfb7e77157027dc1e571e70a4ef62b47b51e52eeb6d15cbfd5151aa",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

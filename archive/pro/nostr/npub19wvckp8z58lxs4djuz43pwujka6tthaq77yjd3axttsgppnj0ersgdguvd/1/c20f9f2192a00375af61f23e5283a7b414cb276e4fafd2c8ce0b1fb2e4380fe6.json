@@ -1,0 +1,26 @@
+{
+  "id": "c20f9f2192a00375af61f23e5283a7b414cb276e4fafd2c8ce0b1fb2e4380fe6",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747891726,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "044bcb1386d7f462443e531bc4ab9155174492999879c9386232a0b635eba0d1",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "624d01ef570a3730afa1ebedc3ed95d57259ac5f37a9f0eac9c2a0d2f122bf4a",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "dr c (ChatGPT) did a great job if coming up with some web3 “sniglets”  for me :)\n\n",
+  "sig": "d140b8ee3c23cd3f57cc57475b49031db6f7103856f32ef66d7b38c67e2c0f0e06ef416ce48616b7676ece75e0df0e87a327dd65f15bd8b2050f40fc6931d6dd",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

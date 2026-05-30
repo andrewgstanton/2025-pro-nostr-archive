@@ -1,0 +1,26 @@
+{
+  "id": "14158c91f964bf6b5c338c7bfbf84c8aae4449c20859243007ceec2ee1016556",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747285243,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "8086f65610806103c0410c162df1e0133ec82200349e316ba2f0cce475787487",
+      "wss://relay.damus.io",
+      "root"
+    ],
+    [
+      "p",
+      "a80fc4a78634ee26aabcac951b4cfd7b56ae18babd33c5afdcf6bed6dc80ebd1",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "That is quite cool ",
+  "sig": "c2f17fb5754a16ecddb7e7de980502e2ba7277542b677f8eb86bb484076ae259b755533af90ebe429f229fc679229028960c651810b491790f22971e06b6f317",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

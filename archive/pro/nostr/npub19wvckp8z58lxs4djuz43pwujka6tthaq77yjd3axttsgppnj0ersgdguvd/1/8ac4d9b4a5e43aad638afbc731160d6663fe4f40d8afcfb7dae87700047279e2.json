@@ -1,0 +1,24 @@
+{
+  "id": "8ac4d9b4a5e43aad638afbc731160d6663fe4f40d8afcfb7dae87700047279e2",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748059534,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "922e931c9cf08be3a1de005e735467846b6ec6d3eaa94988acec9d9fe6cba06d",
+      "wss://offchain.pub",
+      "root"
+    ],
+    [
+      "p",
+      "1afe0c74e3d7784eba93a5e3fa554a6eeb01928d12739ae8ba4832786808e36d"
+    ]
+  ],
+  "content": "I wrote a short article on this topic got me thinking\n\nhttps://tinyurl.com/2bjyynae",
+  "sig": "6c9862983aae6bd6ba38d33bd5b045a8801501006b751f3f5cf0e838ae88a0d1192f0cd2e352cd70b3478bf5dfa0fcb0d22c525c9652c63cec07647c6f6ed79c",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

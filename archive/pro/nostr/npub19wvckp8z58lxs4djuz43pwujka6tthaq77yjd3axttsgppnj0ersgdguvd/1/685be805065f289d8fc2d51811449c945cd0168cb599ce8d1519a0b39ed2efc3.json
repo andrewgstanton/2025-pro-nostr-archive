@@ -1,0 +1,26 @@
+{
+  "id": "685be805065f289d8fc2d51811449c945cd0168cb599ce8d1519a0b39ed2efc3",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748102386,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "7b07bf919bdb2ff2776e7a4fe0cf8d5084513e5c581a91196b420c55c65597e4",
+      "wss://relay.nos.social",
+      "root"
+    ],
+    [
+      "p",
+      "91c9a5e1a9744114c6fe2d61ae4de82629eaaa0fb52f48288093c7e7e036f832",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I will be there !!",
+  "sig": "a35b600a88b43c84402fecfe236ab1515479afaafe5f8b57cf63b19c117811d736704c9afb3e832db9bd94e423ee8d27d697c1239acdee53f21fea3150ce27c4",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

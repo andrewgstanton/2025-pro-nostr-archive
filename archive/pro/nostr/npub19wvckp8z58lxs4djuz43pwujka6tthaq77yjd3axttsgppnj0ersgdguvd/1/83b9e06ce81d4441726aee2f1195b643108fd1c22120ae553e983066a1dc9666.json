@@ -1,0 +1,26 @@
+{
+  "id": "83b9e06ce81d4441726aee2f1195b643108fd1c22120ae553e983066a1dc9666",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747893289,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "044bcb1386d7f462443e531bc4ab9155174492999879c9386232a0b635eba0d1",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "624d01ef570a3730afa1ebedc3ed95d57259ac5f37a9f0eac9c2a0d2f122bf4a",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Here is the original post \n\nhttps://primal.net/e/nevent1qqsfdksz4vsawsuy7spl92tw8swknnqhl5g90s0lhjklhl54y9n93wsf3zr6d",
+  "sig": "1afd37dd813eabd6fa3f76a2ee2ae3bbbf9dd98ba28c1dfc29d80a77acc77a1e69d0cb80b36795a7ce1a2e41e55881c251b304cae936e0761f7ea4d95b0308d4",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "3178c6c4c4630b9c962e9f877dc454b1548e7ed93220b45ac1d9ddb4ead6e67a",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747853898,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "84308c1e56bfe32286bea41a8ac6077a79d78e48ce4a7391bc38453ddb202597",
+      "wss://nostr.land",
+      "root"
+    ],
+    [
+      "p",
+      "18905d0a5d623ab81a98ba98c582bd5f57f2506c6b808905fc599d5a0b229b08",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Yes something important I hope",
+  "sig": "5ae27df2e6fa8279a385ae84568c324df0eef0b86127b556fa7a8b84b716f70e9d258ab448fa8bf2ded83a540cc06406ca5d1f05a98ae8e40ba632dbb3a6252a",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

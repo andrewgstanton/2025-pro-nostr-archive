@@ -1,0 +1,24 @@
+{
+  "id": "59a82402ac57d2ff232be5d66048a2fdc7b48adc701a4ae74cdb72cab68bb53d",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1746941323,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "49afef69be3406038894e932ee9d2ee684d688e9a85c038452cd5006e7dc14df",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "a44dbc9aaa357176a7d4f5c3106846ea096b66de0b50ee39aff54baab6c4bf4b"
+    ]
+  ],
+  "content": "What a great way to let Bitcoin do the heavy lifting !\n",
+  "sig": "3a9cacda1ae621e54477433515c70fecc03e8f317ffcba50cdc26f3a12abb7a391e3a03e504feb89ca4c4a78b60c6e4aaafee16fcee307683c4e479f5eeee9bd",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

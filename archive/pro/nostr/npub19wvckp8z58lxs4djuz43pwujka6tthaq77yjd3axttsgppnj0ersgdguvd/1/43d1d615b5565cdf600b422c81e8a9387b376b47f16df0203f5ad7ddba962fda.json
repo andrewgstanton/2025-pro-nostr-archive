@@ -1,0 +1,24 @@
+{
+  "id": "43d1d615b5565cdf600b422c81e8a9387b376b47f16df0203f5ad7ddba962fda",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748210150,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "b798707d800705b77d9b66b457980ef4a7eef0a0ea8afcc09fdc704967051b4c",
+      "wss://bitcoinmaximalists.online",
+      "root"
+    ],
+    [
+      "p",
+      "472f440f29ef996e92a186b8d320ff180c855903882e59d50de1b8bd5669301e"
+    ]
+  ],
+  "content": "Great summary!",
+  "sig": "c62a2dfca7dd7c0d0c112dec4c7ca91fff03573e18adbd7e361827ad372dbf4f4ba70491ed94d6e6bee92fb3672e5df41ca5592ee293782d59469c1b58dad129",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

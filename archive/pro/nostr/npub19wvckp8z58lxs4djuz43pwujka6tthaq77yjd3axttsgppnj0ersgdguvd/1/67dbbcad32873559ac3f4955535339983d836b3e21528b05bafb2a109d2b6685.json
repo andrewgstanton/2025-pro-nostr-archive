@@ -1,0 +1,30 @@
+{
+  "id": "67dbbcad32873559ac3f4955535339983d836b3e21528b05bafb2a109d2b6685",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747111376,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "962e52ca3cbcd941ef70a0926f7a1377bbd34df8c8f27fda33b9298a873ceb72",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+      "wss://bitcoinmaximalists.online",
+      "mention"
+    ],
+    [
+      "p",
+      "cef805126ca71d8e9a3b82469c443d471510b23722bc405fa38fa8572a270ddf"
+    ]
+  ],
+  "content": "Tried to send you some zaps but failed 😉 \n\nI am going to try to send sats to Golden Gate group (and send them back)\nIf that works, I'll show how to to set up without having to use alby connected hub",
+  "sig": "60a4af7b4b61e586b8dd88ecf6954e504866e754f894fd35fec7360de2fbb3055a834b8bb43bc4b82d02171beb904b4cf5b94b4fe46d415151515d6d1e311ec1",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

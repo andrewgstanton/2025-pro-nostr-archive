@@ -1,0 +1,39 @@
+{
+  "id": "393f8d7902882ac4666a45ea5cd61222ef4107212e8fe3bde390fbd3c9bfcd25",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1746988380,
+  "kind": 1,
+  "tags": [
+    [
+      "p",
+      "b7996c183e036df27802945b80bbdc8b0bf5971b6621a86bf3569c332117f07d",
+      "wss://relay.snort.social/",
+      "DrJeff"
+    ],
+    [
+      "p",
+      "4d7842051782e0d3feb034d150adc2b6bae4ee3b49786793bffa468b6f5b96b3",
+      "",
+      "flash"
+    ],
+    [
+      "e",
+      "b8c7f35438efbe5cc3650a3f4891d74793853b0ba7d17dbf4c8dfa67ca0c271d",
+      "wss://relay.primal.net",
+      "mention"
+    ],
+    [
+      "e",
+      "ed34a8e8983ce50aa44c390862e2e47a3d17f67b21165a1ffe60c949194727f9",
+      "wss://nostr.wine/",
+      "root",
+      "b7996c183e036df27802945b80bbdc8b0bf5971b6621a86bf3569c332117f07d"
+    ]
+  ],
+  "content": "great graphic and I agree with you!",
+  "sig": "ee4a66b1b31e6258edb5cf9e7086f5503e441667a031f4504b4f7cfb9435173f436a92472a3b4e0373f5032b5fcaef88d07bb12f06d0d23e5d7740b657892fc2",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

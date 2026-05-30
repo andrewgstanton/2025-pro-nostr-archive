@@ -1,0 +1,32 @@
+{
+  "id": "1233672354e35e894fba8a4a56c43abc755d22dcbf7e963e8047b02b75e7cd30",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747523657,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "627646c9173bc6536c8f34e759b9b7d4db3ce49839b64f01d57c9c5fd9b92beb",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "339db62c91c8cfa8f085f89f115f1ad95df10ce749730239b6054d2453332908",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "a80fc4a78634ee26aabcac951b4cfd7b56ae18babd33c5afdcf6bed6dc80ebd1",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Can’t wait",
+  "sig": "147100741039aff5dfdec574811e8f15f70c762dc12c2bb0492fe7c44179c4a4bfcb95fee3c1a0be256a5c22ba819edc8f168e7a6e781ec330ef9b753f383106",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

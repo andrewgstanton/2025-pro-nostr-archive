@@ -1,0 +1,26 @@
+{
+  "id": "964213abda8bc6e7f270199d36ed86cbfb0905caabcbc72ce4e660b009397993",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747893667,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "aaa6dbdb865931788670c94398315d2cebd18ddcc6234921b0208fd58af434ea",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "624d01ef570a3730afa1ebedc3ed95d57259ac5f37a9f0eac9c2a0d2f122bf4a",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I am now using Nostr as my default social app/ network and I can make the others (Facebook,x, linked etc) function more like a client (or receiver) … the idea is that I can post once and make that post get farmed out to many different endpoints  without too much work I am taking back ownership of my content",
+  "sig": "3eb312341e83ae244dd846490009153df667008b3f2ffa3963750738ff95465d9a9cc3a979b5b5b3eee07687c98fe6ef71227ce60417979dc32d2710bd4db9e0",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

@@ -1,0 +1,44 @@
+{
+  "id": "fdde991cff5fb2427ca9714c08f0dcf5acb8f17a2214bd3c6770b22d31c01f92",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1746388368,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "31858cda377b2abade3ab86c54273225823f1762d362e0c9de5b96ca5bf282a6",
+      "wss://nostr.mom",
+      "root"
+    ],
+    [
+      "p",
+      "532d830dffe09c13e75e8b145c825718fc12b0003f61d61e9077721c7fff93cb",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "c9e9bdc0b03c21bd337a12dcf5b463d49fdafe884aa12bb950c182e9e4dbe9b8",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "9b29c1686ee70ce778d3fd27d8e0e137c721af0af3317f0adfc404f62238b38a"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://nostr.wine/"
+    ]
+  ],
+  "content": "sorry Shooter I happen to love \"Hawaiian Pizza\" 😃 ",
+  "sig": "4b8fde69768f81497260488d777193b0b0d2b592cbe940fe38083c5eb841a9a958268252037e2e5f02f3d10ad9bfa8967f086b1a728ac7dc6c39e7cd64a69e52",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

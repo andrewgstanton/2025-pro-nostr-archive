@@ -1,0 +1,24 @@
+{
+  "id": "6cd91095efb0366c620b6d01c1ab4dcbfccdbf031b5dced93620c527dcb1853f",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1746569092,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "ddd2746ecbf925896d021649975a81a343584bdcc525b0ce0b0d76d99f40a236",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "7b3f7803750746f455413a221f80965eecb69ef308f2ead1da89cc2c8912e968"
+    ]
+  ],
+  "content": "Yep. Thanks Jimmy.  Clear as always.   By the way, shared your book \"Fiat Ruins Everything\" and he couldn't get very far.  His reaction ... \"everything is so negative...\"\n",
+  "sig": "c8f9f51735e6e87095790e622229e30fca9dfa7f1bbc3d7ea776e53892c856d2e4efeb4ad895faa9e35d06c795d172df81e610fa9d8b5abb0d4fc84881e5b921",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

@@ -1,0 +1,24 @@
+{
+  "id": "25a2d2e096687ed217fe404c5c7dfaae4f759e1e491783672529f010a1d7bde9",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748064423,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "037be5f88a2960a49cdf78036f108cc1ba353ab2d3b5116c81f313f39e9036c3",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ]
+  ],
+  "content": "well apparently the 500 zap failed (and I didn't realize until later)",
+  "sig": "11e625c7ea8e9d5d4123ca871a10f3294fc909d8539f251c17dc2c628d5a6b52759695a5357b3dbfbe6d8d84ab2a32357de5e7d5e1fe0b55f47d7fbbef765613",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

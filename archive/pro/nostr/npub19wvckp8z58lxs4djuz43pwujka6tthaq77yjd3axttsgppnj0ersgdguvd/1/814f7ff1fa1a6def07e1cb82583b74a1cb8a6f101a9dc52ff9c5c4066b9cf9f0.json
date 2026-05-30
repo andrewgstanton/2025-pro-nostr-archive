@@ -1,0 +1,24 @@
+{
+  "id": "814f7ff1fa1a6def07e1cb82583b74a1cb8a6f101a9dc52ff9c5c4066b9cf9f0",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747932859,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "ff01074edeea13e1183b00c4498a049582bc51079abd2fa25de368dd42a7b4cc",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "088436cd039ff89074468fd327facf62784eeb37490e0a118ab9f14c9d2646cc"
+    ]
+  ],
+  "content": "I hope we can meet there Ross.  ",
+  "sig": "7b5da226545c616b7d3076589da4270d3ddc3a70f043dff496a081b2b74c17ba38e4091fe7ae599398320946a974a387e607fc4b6f97c65b2e0879d3156349f3",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

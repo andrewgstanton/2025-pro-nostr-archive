@@ -1,0 +1,26 @@
+{
+  "id": "54a0db59155f96760ea852037bf90173d7711b72e1f592b2e551d88e49101b4e",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748468677,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "36f7428c5205eb3901ea34726f7fdd519d53a8c4efabbe839d3abf605ba4ceda",
+      "wss://nostr.land",
+      "root"
+    ],
+    [
+      "p",
+      "ee6ea13ab9fe5c4a68eaf9b1a34fe014a66b40117c50ee2a614f4cda959b6e74",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Dogs are the best",
+  "sig": "19098c0ab8c35d62005baaac45e025d5669eb831e441b0d3ef11df13dcfb86ff0128fe3348cf0bdfc222ae910333bca65558b012cd38974be2a7e5e3f9f8d4ec",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

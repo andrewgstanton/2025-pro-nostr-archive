@@ -1,0 +1,30 @@
+{
+  "id": "18eed1936178929e1325175c535f4f4c32ed85e8d1130647abdbf09486edab72",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747093973,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "eb8200b2b45434f16b97b77ecb6fc03fc4f109d648155b38211796e915a0aa38",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "c9e9bdc0b03c21bd337a12dcf5b463d49fdafe884aa12bb950c182e9e4dbe9b8",
+      "wss://buzzbot-relay.bullishbounty.com",
+      "mention"
+    ],
+    [
+      "p",
+      "6bb0082dfd02be52ba7d532cf29dcf82977df9eb10483ccf71efc6f00146ed0a"
+    ]
+  ],
+  "content": "Indeed.  I am buying as much as I can.  ",
+  "sig": "6643a8548b4d580337c84609f8a8638e365d6196b30ef1a34ece158d0652c2590408e98e4b710695c8569c99c40896511bb467c05b39c8a5c883d6b1013ade95",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

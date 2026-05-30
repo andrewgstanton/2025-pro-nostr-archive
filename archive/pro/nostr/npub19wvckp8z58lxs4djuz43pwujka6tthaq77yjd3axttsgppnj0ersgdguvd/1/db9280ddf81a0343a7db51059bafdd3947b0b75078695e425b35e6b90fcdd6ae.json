@@ -1,0 +1,26 @@
+{
+  "id": "db9280ddf81a0343a7db51059bafdd3947b0b75078695e425b35e6b90fcdd6ae",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1746924987,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "2795bea39a3c7f8240768406135d924a5bddae75707f0645283b025fcf31b2b4",
+      "wss://bitcoiner.social",
+      "root"
+    ],
+    [
+      "p",
+      "7c765d407d3a9d5ea117cb8b8699628560787fc084a0c76afaa449bfbd121d84",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Congratulations what’s your channel name?",
+  "sig": "4968dbd417ab285d3842db85abd73c9646ffcc634a9fa5ecc8347544cef51ea35f8a2686a30fedab656d0de61e5455fdade02b72d21ff09b98ce462825736c1b",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

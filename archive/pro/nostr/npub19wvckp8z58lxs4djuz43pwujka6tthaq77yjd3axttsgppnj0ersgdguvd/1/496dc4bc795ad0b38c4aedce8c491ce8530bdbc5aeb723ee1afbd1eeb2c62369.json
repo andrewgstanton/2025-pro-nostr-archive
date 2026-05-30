@@ -1,0 +1,54 @@
+{
+  "id": "496dc4bc795ad0b38c4aedce8c491ce8530bdbc5aeb723ee1afbd1eeb2c62369",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1746769764,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "6d95967ce7bdb3820d25ba8cb1f4233645fd1a1f058844b640a051ecd2da04ff",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "c9e9bdc0b03c21bd337a12dcf5b463d49fdafe884aa12bb950c182e9e4dbe9b8",
+      "wss://buzzbot-relay.bullishbounty.com",
+      "mention"
+    ],
+    [
+      "p",
+      "6bb0082dfd02be52ba7d532cf29dcf82977df9eb10483ccf71efc6f00146ed0a"
+    ],
+    [
+      "r",
+      "wss://nostr.bit4use.com/"
+    ],
+    [
+      "r",
+      "wss://nostr.reelnetwork.eu/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://relayable.org/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://bitcoinmaximalists.online/"
+    ]
+  ],
+  "content": "Very good to know -- thanks for sharing!!",
+  "sig": "67956b6cf45fca643484f2ac8ef3afcc3aa956d3f11b1060f78eb4cfbf25731cbecd3a63796789f258ae545d8450a36647096d864c2acf269f44911b7fcf8a99",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

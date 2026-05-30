@@ -1,0 +1,44 @@
+{
+  "id": "9489606d73910587c8e7d4b36ae7ab9d88c58ddde992585fdd464d3789f4e4b4",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748191391,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "af085cf0c2d554edaa54a4f92d70d22a35f6d7ae2d00e760e86070d7e7970bda",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "e32b9d0519fe0d5355c615073dbf6aed56e185b2c3e4aeeebeddaf8acd66a191",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "effc02b182a734e19d628c09a2fada98acc66f575d75ea746c5750c59222097b",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "532d830dffe09c13e75e8b145c825718fc12b0003f61d61e9077721c7fff93cb",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "9989500413fb756d8437912cc32be0730dbe1bfc6b5d2eef759e1456c239f905",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "What platform are you talking about specifically ?   But I know what you are talking about we used Rover in the past (for providing dog care to others)  and they took a hefty cut  similar patterns apply if you work with Uber or airBNB ( I have not but my friends have).  And of course if you have used Facebook or YouTube it’s “free” because YOu are the product that is being sold.  Nostr is the way to go!!",
+  "sig": "6fc528ac57325f74f2d1ee10a1f36ea821a2cef065e77b871366092dbbc968a9e3587fb8024c74bf069dd73c2bfba104b5e0765ca4669fb6b88d1d1fb525f092",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

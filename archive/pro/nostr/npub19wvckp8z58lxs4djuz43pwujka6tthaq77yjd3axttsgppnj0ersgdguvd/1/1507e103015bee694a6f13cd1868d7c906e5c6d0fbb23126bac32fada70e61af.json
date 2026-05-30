@@ -1,0 +1,36 @@
+{
+  "id": "1507e103015bee694a6f13cd1868d7c906e5c6d0fbb23126bac32fada70e61af",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747093872,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "1791821043204143c9e9245ff342f6c413e51aef14be9f6d357f3833b381337a",
+      "wss://nostr.oxtr.dev",
+      "root"
+    ],
+    [
+      "p",
+      "c9e9bdc0b03c21bd337a12dcf5b463d49fdafe884aa12bb950c182e9e4dbe9b8",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "82341f882b6eabcd2ba7f1ef90aad961cf074af15b9ef44a09f9d2a8fbfbe6a2",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "9b29c1686ee70ce778d3fd27d8e0e137c721af0af3317f0adfc404f62238b38a"
+    ]
+  ],
+  "content": "Very deep and thoughtful. 😉 ",
+  "sig": "d56fa17609fb7726425302701e808e3d576c52b76d23f57daa61c4da2323963cb70e15c623c76caf5df8bfdbb5df4419a0ecb58fa710e0ddd9267e89fa008e8c",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

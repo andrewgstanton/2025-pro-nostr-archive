@@ -1,0 +1,26 @@
+{
+  "id": "31d3943ef6a0a02f13971711df21d6db80955dff4b25dc292f8cf081e78f873f",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1746420700,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "0a531e8dbb5eef864e0dbb68a640759105198fba86d8c9dcd863fd66b7f5306e",
+      "wss://nostr-verified.wellorder.net",
+      "root"
+    ],
+    [
+      "p",
+      "7b3f7803750746f455413a221f80965eecb69ef308f2ead1da89cc2c8912e968",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Amen ",
+  "sig": "1e61783da28d4f84d4800f4726c83a4643f21bfb6fa0263d7765494686f73c65a47128cc575f4720ff49f10a4be56eacc76ae3ba24a0600207f7f8dc1cee5173",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

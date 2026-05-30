@@ -1,0 +1,26 @@
+{
+  "id": "52e027c3b13ad98bff2be28daddf9aa51e3dc1b81ebcdbb1a6b24e3d54b9f53c",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748068256,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "c83c09c76dc0a06100a7d4d3e15d333c4ab4f0f3d6ca23a34548d003678dd332",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "b9e76546ba06456ed301d9e52bc49fa48e70a6bf2282be7a1ae72947612023dc",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Really important to think about these issues!!",
+  "sig": "0ea221a9d7daf8c1f0e6569f46db53ae3b16a6ddfd219e6b4022fdf56b84c453dad79b93b4543fe31f73391884407687d44169aeee7a9d68eadb685ee9c1eb41",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

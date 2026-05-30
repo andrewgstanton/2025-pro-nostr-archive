@@ -1,0 +1,26 @@
+{
+  "id": "300308f009c4ef2be45f2c30f7ccfb973519c17fb50954a1babafc690ede08e4",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748236100,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "19f3bbe3f61429f602428312eaa78be6563ca042534a0bb7dda168eef98d1c0b",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "228056c3400fb707ec673aa5c7a0ad73095ffe592c561765e9acf6bc08cb2578",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Love it!! ",
+  "sig": "7f2f570193176b234d7cfc9787e480147fb7222fa0117da0d616b5f67381bff78e7a3aae0c4e0009e3232dc76c80f688bb01078d73b9b82fb1e75ad06307b830",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

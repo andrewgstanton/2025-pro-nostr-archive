@@ -1,0 +1,30 @@
+{
+  "id": "cc8478b03df0ae48eda71d154c806e1324f5f17946803d20bf3d91449fc076d0",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747713931,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "b48541d99c2a9a2286ad2f0673bb6e2026f3c65f224775c8502c5cf4146a4c98",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "1baf18ae863cfd815a775c28943d8f4efe7ddbfe9e7bd1da1cddac93b75e2806",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "91c9a5e1a9744114c6fe2d61ae4de82629eaaa0fb52f48288093c7e7e036f832"
+    ]
+  ],
+  "content": "I am at least to  try buying at the Shake n Steak with  my primal wallet\n(or is it Steak n Shake I forget now I've seen too many posts tonight 😉 )",
+  "sig": "af35e62a7d97f7e38647ee7094baff91388c02edd0f0a339b1210e3f3a5bc392f1918c0bfccbeefdb72c0e6db51f015d407cf50bee4be5213484ad8b86f66216",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

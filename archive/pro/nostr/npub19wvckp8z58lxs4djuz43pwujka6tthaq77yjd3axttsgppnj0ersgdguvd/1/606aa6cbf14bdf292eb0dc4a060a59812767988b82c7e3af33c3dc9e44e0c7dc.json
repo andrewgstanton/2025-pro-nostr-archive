@@ -1,0 +1,26 @@
+{
+  "id": "606aa6cbf14bdf292eb0dc4a060a59812767988b82c7e3af33c3dc9e44e0c7dc",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748193076,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "19e8670f0e114e74320eb8dc68df29594fd6794f0f5740ac8ef96b49b3ea4245",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "91c9a5e1a9744114c6fe2d61ae4de82629eaaa0fb52f48288093c7e7e036f832",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Great article!",
+  "sig": "502fe11b315a63c4ab2c678017db2f98fff7b779812cc53e67fe057e2653bc7c05e949a25036e024be96a2e81bc90def66b75b9c34bac75ccf6a1dffa38e8e95",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

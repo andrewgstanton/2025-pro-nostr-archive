@@ -1,0 +1,24 @@
+{
+  "id": "e7c8990b9bb1fa129d2c5009e72d2d7bcf0911aa41d9f2fa1a4cc2964266bae9",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1746942301,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "bfc59f6c3ca5033ad2a1f7ad97ed4b276f6a7a390adf0f1f8d46ec4d33997336",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "30e0a129606706a5c10530224cab84f4f6624b1f1b8418ac651c5156cf2e0194"
+    ]
+  ],
+  "content": "that's weird.  ",
+  "sig": "3476e5cd4c6637d89fee5072e98918d7c1db80f57b4a6428c112c9fa0abe5e274292e0ffc34a130fc65272d5984f8b664c12543408a14b15ed149a5f5cc53168",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

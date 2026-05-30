@@ -1,0 +1,32 @@
+{
+  "id": "d5da3068a7d2c232b3324cb474e30a5561e582a07a97e388fcbbfab99810a548",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747507734,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "2715565539403bce3866499bb84ddc7a5524d6106d586674a7b0c8cf76dd189f",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "6bb0082dfd02be52ba7d532cf29dcf82977df9eb10483ccf71efc6f00146ed0a",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "c9e9bdc0b03c21bd337a12dcf5b463d49fdafe884aa12bb950c182e9e4dbe9b8",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Indeed!!",
+  "sig": "a5d44cee854226b3e19f4fbbe247ea855342823ba59f82999b9daf346c6bb41faf100461e02572d8a5ef5f8517330b254ad7c066c4d69efcae1dacf726115028",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

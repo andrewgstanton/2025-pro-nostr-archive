@@ -1,0 +1,26 @@
+{
+  "id": "fa70379021c9e8cd6bf7e02f9efdb4df8f9e6212f8df1d5e9799b9e0c7332bd4",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747514571,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "04f8b20aacb6ce2632eaffb37cdf35c0a65e3d7f388df842664794d62248a6d2",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "604e96e099936a104883958b040b47672e0f048c98ac793f37ffe4c720279eb2",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I will definitely check it out!!",
+  "sig": "f5233a8465d21d90dbe7320cbdb0abc574260bfa160c78a4881d06864da13a83a97031a3697eb3ebc993f96eb559d1121b2d40025055dd70e560bc7c5b3298b9",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

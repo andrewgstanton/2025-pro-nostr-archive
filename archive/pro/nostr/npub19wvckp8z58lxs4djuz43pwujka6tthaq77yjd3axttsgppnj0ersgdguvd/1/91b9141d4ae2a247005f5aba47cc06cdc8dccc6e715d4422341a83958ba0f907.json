@@ -1,0 +1,26 @@
+{
+  "id": "91b9141d4ae2a247005f5aba47cc06cdc8dccc6e715d4422341a83958ba0f907",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1746931059,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "e777a2559492b9234fae6a5c06c766dc18a8cfc45edc1501080d244c846aa857",
+      "wss://relay.wellorder.net",
+      "root"
+    ],
+    [
+      "p",
+      "83e818dfbeccea56b0f551576b3fd39a7a50e1d8159343500368fa085ccd964b",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Can I go with you as a companion when go next time to El Salvador?  :)",
+  "sig": "bfc1c6b002ef341fb36d037d3bcbbe844257329294b92e5cabd72e6208d9f84c92c78e99cfe10b3af7e23ee3422bb905c91da2d01bce409f772867437d175bae",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

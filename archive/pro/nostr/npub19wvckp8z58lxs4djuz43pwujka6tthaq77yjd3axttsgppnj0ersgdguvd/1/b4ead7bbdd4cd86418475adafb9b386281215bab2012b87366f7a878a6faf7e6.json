@@ -1,0 +1,30 @@
+{
+  "id": "b4ead7bbdd4cd86418475adafb9b386281215bab2012b87366f7a878a6faf7e6",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747098821,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "fe3032ab171346c793bcea59c58b929ec2801e98f127a6e87c749dede870dce2",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "83e818dfbeccea56b0f551576b3fd39a7a50e1d8159343500368fa085ccd964b",
+      "wss://nostr-pub.wellorder.net",
+      "mention"
+    ],
+    [
+      "p",
+      "45904b28ffe0e5cb9132f9a08e976ed7f0fc57d8387781ea9c80f256c412c1b4"
+    ]
+  ],
+  "content": "I ran into the same problem.  The way I distinguish the real one from the fakes was checking the number of followers (but this may not be foolproof) https://blossom.primal.net/bbd02adcfdfc5b167893c70bdae447311d1887189e8dee229ff4ecec03ee7201.png ",
+  "sig": "999fff75117116397a916a9aa358b86a2b63ab0f163cc45bc34e06db8a7c305efbc810d2ae1a71fe3386b421cf5600799e2e37ceb3911f7eff4be31dd172dd66",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

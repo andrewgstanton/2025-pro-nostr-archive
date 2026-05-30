@@ -1,0 +1,60 @@
+{
+  "id": "1a235c3cfbbbd4d71601a6e1ea659d95314f209287051af608fdc35cb80588fb",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1746556924,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "0800d787c91cafa5d2daa2cab4f88177e6c2fc3e928ab4fedd4895599ec543b5",
+      "wss://nostr.bitcoiner.social/",
+      "root"
+    ],
+    [
+      "p",
+      "bdb0820270e747d68228a5c8c4b73671038552a5acf6e421c1220dd879388553"
+    ],
+    [
+      "r",
+      "wss://nos.lol/"
+    ],
+    [
+      "r",
+      "wss://nostr.bitcoiner.social/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://nostr.wine/"
+    ],
+    [
+      "r",
+      "wss://nostrelites.org/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://relay.nostr.band/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ]
+  ],
+  "content": "Hi Marcp, thanks for your zaps on my recent post on custodial risk",
+  "sig": "7d2a047167ebbcc21b22995ca7673599d0ed529da7aa045ad9fe344b1833df298ef04b98ef51981ebdcc089acaf8592d8c7ac61ffd8b255490536e7adc20820d",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

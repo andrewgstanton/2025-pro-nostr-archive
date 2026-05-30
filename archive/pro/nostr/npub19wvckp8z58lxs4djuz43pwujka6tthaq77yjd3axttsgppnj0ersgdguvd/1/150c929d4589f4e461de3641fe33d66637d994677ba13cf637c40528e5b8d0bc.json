@@ -1,0 +1,30 @@
+{
+  "id": "150c929d4589f4e461de3641fe33d66637d994677ba13cf637c40528e5b8d0bc",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1747623807,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "5d6f5437a1ea8f5d0af3f74881de909a9d8e15b28fd9402409fc608c73c3d571",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "c9e9bdc0b03c21bd337a12dcf5b463d49fdafe884aa12bb950c182e9e4dbe9b8",
+      "wss://buzzbot-relay.bullishbounty.com",
+      "mention"
+    ],
+    [
+      "p",
+      "98aa4d34d35bec262097231d305be1cce77629ed47c95c511309abdeea7079d8"
+    ]
+  ],
+  "content": "Ich werde das Video bei YouTube anschauen und komentieren..",
+  "sig": "e9b184ec48ab06f535890f0a55cf2b043196ca36ab14466473be8be2207dd565d2d65538dee18b04d2ba4558f5f55504ef17e8a6d9fdfff8dae67f94727ed9e6",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

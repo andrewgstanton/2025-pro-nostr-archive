@@ -1,0 +1,26 @@
+{
+  "id": "e4a376241ea0a31e25f2f2b4e7307948a9307c5dcd2c46bfa120e04f27ceeb42",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748475659,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "fa507c870842caa89db3cd6580cf66a36bfa0cb540b650c4c35d84aa61df73d6",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "ee6ea13ab9fe5c4a68eaf9b1a34fe014a66b40117c50ee2a614f4cda959b6e74",
+      "wss://nostr-01.yakihonne.com",
+      "mention"
+    ]
+  ],
+  "content": "One on the left is Whiskers ",
+  "sig": "c02a859b0a2af036d493f2f8d50db9826571bb8d83212b2204a492ce9012f6032a335f9126e23c921638a4c9a11b50165ccd9bdbad470c73a82f1552abf78042",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}
