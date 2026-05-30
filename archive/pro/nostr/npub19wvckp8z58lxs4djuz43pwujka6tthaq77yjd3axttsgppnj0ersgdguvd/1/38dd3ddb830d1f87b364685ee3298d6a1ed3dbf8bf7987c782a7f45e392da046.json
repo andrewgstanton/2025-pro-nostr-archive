@@ -1,0 +1,26 @@
+{
+  "id": "38dd3ddb830d1f87b364685ee3298d6a1ed3dbf8bf7987c782a7f45e392da046",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1749702804,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "39b9b30b785bd914ee3df3521f2f458c32a695a19e886bc8704392e430b977c6",
+      "wss://relay.bitcoinpark.com",
+      "root"
+    ],
+    [
+      "p",
+      "472f440f29ef996e92a186b8d320ff180c855903882e59d50de1b8bd5669301e",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Amen I am saying pretty much the same thing using different words !",
+  "sig": "33e242b669f1db85682e497fc58adf3174aaa5f0a4bf9299f11651617473896ca851ec0929affb4cc33ff4c81f318dd109ffb5e0f7a8b4446c5f19172fcdce0e",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

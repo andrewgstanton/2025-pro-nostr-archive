@@ -1,0 +1,26 @@
+{
+  "id": "71a396a283c5a5648fd10be21ab25a52bc823f5ae5559f26060f295f3c9e7c50",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756314227,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "a0c9dd7acfca41762da31eb2d775d3ced73be1a0d28d1812a29b64bc1b5de34c",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "3c7aee7ad0cd6d8e3ddf2ab8e23815353fcce3cce528d4ce7505654ebbce3b6f",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Think about hiw we can use npubs + signed messages to login\n\nhttps://primal.net/andrewgstanton/npubs--signed-messages-replacing-logins",
+  "sig": "2cd7e886fdc92a1391a8551f1c63e19407f0019745cf0de6af409c6df1b411301842d32b0bc4c270ccd35a3c25f8ee638998b93e126629ce3ef4f371c358c930",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

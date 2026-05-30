@@ -1,0 +1,26 @@
+{
+  "id": "9345635be5f6d16eb315113390bacd633bd0a078febbc9f1ad294a60fc546d5e",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1757899445,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "f53f20e28cde6629ee326f619fa69377f6242e56903de2ee72ec0765090e7c56",
+      "wss://relay.damus.io",
+      "root"
+    ],
+    [
+      "p",
+      "4183678d8ebfba9c2fa2ff9d1880c131b1bd59f951411b01b4460081cf5dc35d",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Good for you!!! It does change you doest’t  it ?",
+  "sig": "7bff2d7e744b137e4a1dc1586addacad6b5869ddd313733fd0628222f489e859a1869a8f90bb03cbd44350affa58103ad3031ce2fc2e828bb2a570ce20ace877",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

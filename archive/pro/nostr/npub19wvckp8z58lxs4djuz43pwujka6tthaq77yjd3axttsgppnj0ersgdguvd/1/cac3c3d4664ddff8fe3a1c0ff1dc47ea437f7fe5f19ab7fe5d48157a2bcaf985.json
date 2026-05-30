@@ -1,0 +1,26 @@
+{
+  "id": "cac3c3d4664ddff8fe3a1c0ff1dc47ea437f7fe5f19ab7fe5d48157a2bcaf985",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1749946557,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "a1e581b708bf6b6cc7a9b6e5e73c6064f1398aa72adcd91ac83c1471fc030d13",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "8aedc87160819e490cb0162acbd8c9a26d79e63db74f5b1b65939012924a7f05",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "What does that mean exactly ? ",
+  "sig": "019171b58ae492e4a9534c450ee107d8fd1c7699114e5187bc34bb9382b3efe12d6c74cbf2170798c056404f0d485530853dd6698de0b31a8f095cda2a0e3b06",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

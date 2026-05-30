@@ -1,0 +1,26 @@
+{
+  "id": "817b59bf37b7ab271b696a4f28fe3990c4c981e1f8c52354c6a1159ef095aca0",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756753040,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "ff5114cf85904f1734b54f5f90263c453b152077115efc071b694702878cfcfb",
+      "wss://a.nos.lol",
+      "root"
+    ],
+    [
+      "p",
+      "6597a1668c0436f59aa39da7b0660198879944c26c8b20bc227c2c4378762b5e",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "21 million BTC",
+  "sig": "662be1011dacf17fa56a2c902120e73dcbd157314c8a8c08bed77c37e9de9a4a9599cfc526fe0062bf9aefe644db283ecf61f5be64168d241df5d26ce30bc105",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

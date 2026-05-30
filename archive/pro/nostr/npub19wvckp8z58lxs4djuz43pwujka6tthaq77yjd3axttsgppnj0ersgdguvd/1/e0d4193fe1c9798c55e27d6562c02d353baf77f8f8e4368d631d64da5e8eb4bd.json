@@ -1,0 +1,26 @@
+{
+  "id": "e0d4193fe1c9798c55e27d6562c02d353baf77f8f8e4368d631d64da5e8eb4bd",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1757570309,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "64f8d87ac7ab6cf4d31e576a5fe496fb3e9f7e8b39d183d79967fc68bec13be1",
+      "wss://relay.snort.social/relay.snort.social",
+      "root"
+    ],
+    [
+      "p",
+      "8f3fbb5129dcb9194c02b67c1b41a3f60dd369663f53499b2b3c72a73c6fa9d0",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "AMEN",
+  "sig": "222b2e8a8762a0566c48518dd307a25169c60a409f0b405922e8a92b57ff6ef07b53974ac386f36ff132599d6d566a111ecd444929406a3ee76315776ad1f8ca",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

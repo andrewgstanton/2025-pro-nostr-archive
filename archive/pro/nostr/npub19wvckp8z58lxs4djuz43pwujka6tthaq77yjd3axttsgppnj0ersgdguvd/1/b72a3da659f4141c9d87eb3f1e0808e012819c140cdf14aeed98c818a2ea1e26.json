@@ -1,0 +1,26 @@
+{
+  "id": "b72a3da659f4141c9d87eb3f1e0808e012819c140cdf14aeed98c818a2ea1e26",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748702623,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "a74389bb3a23ff09f2bfc3933015fb68dbc12475850fa168ff6cc92b1f2d7a17",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "7b3f7803750746f455413a221f80965eecb69ef308f2ead1da89cc2c8912e968",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "This was my first bitcoin conference (in person), wonderful experience for me but yes there was that “blockchain not Bitcoin” vibe I was picking up.  \n\nI think you are correct unfortunately the more I think about it.  ",
+  "sig": "9b85692e335d4e470908bd8334d68fca563637379b3e4f49353adbbbc497bcedadf0395d511706c5c0c7f119460be3bf0559220720c5a2ac7624fe4fa553977f",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

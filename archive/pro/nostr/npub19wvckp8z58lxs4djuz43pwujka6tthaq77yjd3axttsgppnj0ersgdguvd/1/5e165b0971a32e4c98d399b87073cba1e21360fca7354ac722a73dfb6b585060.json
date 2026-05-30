@@ -1,0 +1,26 @@
+{
+  "id": "5e165b0971a32e4c98d399b87073cba1e21360fca7354ac722a73dfb6b585060",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756439724,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "92cd9506bb0a07b03982b717b8b98ba96b657d8325dd2f366668bf2673c7f34d",
+      "wss://nos.lol/%20wss://nostr.land/%20%20avatar%20wss://nostr.wine/%20%20avatar%20wss://purplerelay.com/%20wss://relay.damus.io/%20wss://relay.snort.social/",
+      "root"
+    ],
+    [
+      "p",
+      "1140e4fc580c7e47d093fc26492b9b76856e630385209ae862182286446f65a8",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Hey there. I noticed you don’t have a verified NIP-05, I can set one up for you free at mycontinuum.xyz if you’d like.",
+  "sig": "bd99dc2692657d139113d6f0775fab3f74ca9505691fc677a6fc605dabf14f64ee18a7ccd309b395881ae1abdd4c13cbdd9d0ad587e009870cab73964023314d",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "98459bd28008ed8db059b62ae10c1b94ebe919046f1c63c3153a876e9b5a080f",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1749946440,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "3dff205f574fcc01197133ceae48d0ef6a2392f83b86f52513764984c9ef8b6b",
+      "wss://nproxy.kristapsk.lv",
+      "root"
+    ],
+    [
+      "p",
+      "8aedc87160819e490cb0162acbd8c9a26d79e63db74f5b1b65939012924a7f05",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "🧯 Here are the facts:\n\t•\tThe quote that starts with “America is a golden calf and we will suck it dry…” has never been verified or sourced to any credible record.\n\t•\tIt is most commonly cited with a location like “Fink’s Bar, Jerusalem, 1990,” but no reputable journalist, recording, or transcript confirms that such a conversation took place.\n\t•\tFact-checking outlets like Snopes, Reuters, and others have labeled this a fabricated or unverifiable quote that originated in anti-Israel or antisemitic forums and has been widely circulated online.",
+  "sig": "64d086bc1b5c501be53c436fe50b7d8eaa8ecff5ae2dee2628bc074131da1cee8aad94df1751e4b1d443c133efe882a97f979dd51b123311a1064e2c5fdcf630",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

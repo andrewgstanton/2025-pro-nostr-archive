@@ -1,0 +1,26 @@
+{
+  "id": "879fe5bc6af57b3a97094aadedc6a6e5df01b27bfa48802b2ee6ffac739fd825",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756765482,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "cd1013bc74cc9f269d9ce86a79f2088661c348890af2cecd35b58fe539939a6d",
+      "wss://nostr-verified.wellorder.net/",
+      "root"
+    ],
+    [
+      "p",
+      "a44dbc9aaa357176a7d4f5c3106846ea096b66de0b50ee39aff54baab6c4bf4b",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Love the analogy!!",
+  "sig": "ec6f0fd4ad1cd442b7121e0f0685ddda6a52d87ca51f5e8989bf84f8b232787daa31f9e175ccbb97b5ca277c3be68a732a676209c7bfd17a557a983520dbd5ab",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

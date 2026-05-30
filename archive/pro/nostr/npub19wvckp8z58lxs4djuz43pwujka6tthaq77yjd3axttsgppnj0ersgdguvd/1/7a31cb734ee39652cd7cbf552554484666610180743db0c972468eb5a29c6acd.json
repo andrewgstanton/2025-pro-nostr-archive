@@ -1,0 +1,26 @@
+{
+  "id": "7a31cb734ee39652cd7cbf552554484666610180743db0c972468eb5a29c6acd",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1755495823,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "1c7928ae77cc3b29b8549051ce95a27ebef25ca91090dec66930cb6420518bdf",
+      "wss://bitcoiner.social",
+      "root"
+    ],
+    [
+      "p",
+      "738f7873ac2c6cb7701e3150616afc824379b132b467ba5a8429d5964af1b136",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Interesting was Teaching English in Japan for 3 years",
+  "sig": "17dbafaeeacfaca021023b708f7beae23c13e950b1d73536423a5d208311525bc3deb3787d280bb6855d8411288dd0a695ef5dd9247fbd08aa6c2acb59098a85",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

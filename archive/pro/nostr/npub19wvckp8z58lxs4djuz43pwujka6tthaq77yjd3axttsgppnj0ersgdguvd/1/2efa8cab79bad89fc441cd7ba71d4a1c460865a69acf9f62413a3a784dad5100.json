@@ -1,0 +1,26 @@
+{
+  "id": "2efa8cab79bad89fc441cd7ba71d4a1c460865a69acf9f62413a3a784dad5100",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756612657,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "084d2c9afc1af2e500799dddab52bb98a59e6bf929c3ceff7408689386c078c9",
+      "wss://nostr.mom",
+      "root"
+    ],
+    [
+      "p",
+      "ec99edc5567e02815fb15020285e2fa8390931cedf59c83d6bb2c5f6ee1530b9",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Amen",
+  "sig": "f92a3d093517b7c0d95e303ab7ca9f8df21b7d7a6d8d972db0aef0328e84d0c368ed35551fb9c00a910b8c09ab35e6c67fb0020cc2d21db018f5a08c7d48222a",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

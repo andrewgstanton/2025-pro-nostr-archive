@@ -1,0 +1,32 @@
+{
+  "id": "0f3ddb28ff567c170359637cd2ca6365f40d0982da4c71a6e42edfd4dbb2c01c",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748546571,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "69e55827a91a9b1b291276948fe5295ae5a5af488a0114d1dfdb1ebd5319d624",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "1bd32a386a7be6f688b3dc7c480efc21cd946b43eac14ba4ba7834ac77a23e69",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "5b0183ab6c3e322bf4d41c6b3aef98562a144847b7499543727c5539a114563e",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I do",
+  "sig": "84c0494dbdb9a7d314520d46a19ac38a900a7c9735ea79a5b1288de3381d9a9773b53165da9444f1eaeb5af69777ff47905e79b20aa970479740138271eecd79",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

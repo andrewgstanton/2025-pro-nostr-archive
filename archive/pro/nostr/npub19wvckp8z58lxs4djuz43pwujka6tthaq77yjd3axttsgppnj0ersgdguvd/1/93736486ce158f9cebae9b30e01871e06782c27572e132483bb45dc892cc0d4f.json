@@ -1,0 +1,26 @@
+{
+  "id": "93736486ce158f9cebae9b30e01871e06782c27572e132483bb45dc892cc0d4f",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748732655,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "86a3771f56eb8a51a84d0229497a25fd7d74ca62810012e53353ca063a9d395f",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "4eb88310d6b4ed95c6d66a395b3d3cf559b85faec8f7691dafd405a92e055d6d",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Amen and for the record I voted for trump (and would probably do it again since the dems are even worse ) but I am not in his cult ",
+  "sig": "e8dbc4314c90e4fc428040d8f6705a0b84ea1005f5bfe47046786a22730396492028dd4ab8171566ba74cccbedf727bf4da43e86a2cbe9bdbf8822d62480cb70",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

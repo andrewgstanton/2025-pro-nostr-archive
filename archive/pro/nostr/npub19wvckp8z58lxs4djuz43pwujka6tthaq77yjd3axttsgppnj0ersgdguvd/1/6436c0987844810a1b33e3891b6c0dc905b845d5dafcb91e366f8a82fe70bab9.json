@@ -1,0 +1,20 @@
+{
+  "id": "6436c0987844810a1b33e3891b6c0dc905b845d5dafcb91e366f8a82fe70bab9",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1749949420,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "c4fe7d3cd3ffb6b3e1a5b58b3b7a0b31878e9350573121c783c94118d4307564",
+      "wss://relay.primal.net",
+      "root"
+    ]
+  ],
+  "content": "Final screenshot response from someone accusing me of being a dual citizen \nhttps://blossom.primal.net/a38e62bf2d71969f3f62d2df5f1d6879e9512a8c2e279ec9f2548b236c6c7036.png",
+  "sig": "6a8c583235e21a38058772cb1c83da6114040f2bb8addbaa9c94d7fe36ba5c12512b6cbedeca0bdfbbd9314968761d5fff69b6588a5e75b47e6604518992c7ed",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

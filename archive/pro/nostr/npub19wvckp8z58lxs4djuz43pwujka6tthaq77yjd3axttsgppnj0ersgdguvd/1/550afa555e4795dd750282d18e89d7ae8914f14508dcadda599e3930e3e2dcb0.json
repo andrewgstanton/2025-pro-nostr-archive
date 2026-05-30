@@ -1,0 +1,80 @@
+{
+  "id": "550afa555e4795dd750282d18e89d7ae8914f14508dcadda599e3930e3e2dcb0",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1750094006,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "86f19e0610ec6d61237331f78065aff1617d11cc41039c149938838c5d274b44",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "b9e76546ba06456ed301d9e52bc49fa48e70a6bf2282be7a1ae72947612023dc"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://relay.nostr.band/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ]
+  ],
+  "content": "I reiterate a point I made over the weekend in another reply -- Bitcoin won't eliminate war just make it harder to fund and execute",
+  "sig": "31e220c7f7f46752b7ecde3bbcf21c405756d6256661fc4a875206696d3293783e90f23749ee25a0626f0285f205026f15a78a6e5b9860131cf32b4b5bfc0724",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

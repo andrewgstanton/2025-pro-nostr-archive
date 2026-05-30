@@ -1,0 +1,26 @@
+{
+  "id": "90ec8fed628cbcf0f02cb7b711ab4133f41addb5c11afaa8c30862de6f53f6f4",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748540683,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "9432be62b25725838f59ff8272f231df45b7557b7ca317cc6fa1142f37644111",
+      "wss://@nos.lol",
+      "root"
+    ],
+    [
+      "p",
+      "3f770d65d3a764a9c5cb503ae123e62ec7598ad035d836e2a810f3877a745b24",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Good morning will post  a bunch soon",
+  "sig": "3fee763ae045ca64460fc7a7dfb4881e1b7ed6f36eb0c94c179885684b3b3ced114af7b8db6a98059341c9e0d8469049313b9317c7799a18a7c8177ff5885f66",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

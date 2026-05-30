@@ -1,0 +1,26 @@
+{
+  "id": "976b3709aaf9316848c362ed7bd9d4664b654daa349babd43ad4ae09645e463d",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1757571140,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "af9e7a176d7c19b72194beb3aa8a7ae5f7dc34fc1bfe6509c35a5341dc75c171",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "a2ddc2e07b48561da61f5e06cb5a172329a8afdc1e5f8059154330be5b30ea24",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Very beautiful",
+  "sig": "fcb92b82ce5e0dc1dcc01ffa19571259ea4e7708763ee28b3c15d5486ffe32deb85e1c5b8298a26bd7407880d6b12eb266809ec7de5fa1bb674ff0f4c85c8d36",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

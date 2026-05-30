@@ -1,0 +1,26 @@
+{
+  "id": "d028f0b3ec41bc6412fbf8d32e2ddd423ca29f17196f1dd89c195e822eca07eb",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756308443,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "35d30483d1b742d9711d75176067d9d1731077d82bbc76062da2253b96b15260",
+      "wss://nostr.oxtr.dev",
+      "root"
+    ],
+    [
+      "p",
+      "58c741aa630c2da35a56a77c1d05381908bd10504fdd2d8b43f725efa6d23196",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Ugh so sorry you have to go through This",
+  "sig": "b0e6157ad2bfe040b7cf5f56b3748461509b39bcbfbb9410f1fe1daf94f2ab0aab70b28d32eca5752213ed1454c21900d4765f6bd510056513121463c2ec4abb",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "8bdf0d6137f89343582881c002c88a0275ad2c510872d8e4844dc99f71bc71d2",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756314567,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "a0c9dd7acfca41762da31eb2d775d3ced73be1a0d28d1812a29b64bc1b5de34c",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "3c7aee7ad0cd6d8e3ddf2ab8e23815353fcce3cce528d4ce7505654ebbce3b6f",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Oauth Solutions Google auth and Apple auth save you from having to use a new email/password but yiu still rely on a centralized service to aurhentice you what hapoens if you lose your account @googke ir account is frozen?",
+  "sig": "d5bed37c164d18831720c625dce26d4f62c53ac959770536c860d186cbdab00cbc9f9687a9a545510e4000d45abd66d5ef5983277c6b57a0c8e7ea23292fef2a",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

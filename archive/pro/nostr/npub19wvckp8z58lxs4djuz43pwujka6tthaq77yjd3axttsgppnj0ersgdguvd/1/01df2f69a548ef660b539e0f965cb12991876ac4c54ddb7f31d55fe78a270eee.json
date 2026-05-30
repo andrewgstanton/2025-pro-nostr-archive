@@ -1,0 +1,26 @@
+{
+  "id": "01df2f69a548ef660b539e0f965cb12991876ac4c54ddb7f31d55fe78a270eee",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748662704,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "1f0ea9d76531e1c4152240826132c25d9a09099f7148e37d36d2ea93176ef0f7",
+      "wss://nostr-dev.wellorder.net",
+      "root"
+    ],
+    [
+      "p",
+      "d5415a313d38461ff93a8c170f941b2cd4a66a5cfdbb093406960f6cb317849f",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Maybe we Bitcoiners can write to Trump about this and get him to stop it.",
+  "sig": "6cc96e9a94fe1aed2bcb8dae1da89c0506661f4eeb22c1c8209a3862a2c81074a3028956298cebf76356416734f241e8c8aa959f4d44127136c72489af9489ba",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

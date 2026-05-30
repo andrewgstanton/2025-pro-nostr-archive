@@ -1,0 +1,26 @@
+{
+  "id": "1d7a85e7eac3702d4fc6bb7fcdd5fa9a37272596ce7f87bcf4f0adae91680823",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748733182,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "fc8e433b2bc0de00d23fbf7890de95312aef7e49e7bc764ba7b63c8cf5440d36",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "4eb88310d6b4ed95c6d66a395b3d3cf559b85faec8f7691dafd405a92e055d6d",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I am trying to get my family orange-pilled but I have better results with strangers",
+  "sig": "a3197ae8115df4029565509d7445ca71a3ce0fd05812f706852961919084f583fa6171f9ee9609710623bc3eae97d96d54df710f0b507f5777a11191ecd15d20",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

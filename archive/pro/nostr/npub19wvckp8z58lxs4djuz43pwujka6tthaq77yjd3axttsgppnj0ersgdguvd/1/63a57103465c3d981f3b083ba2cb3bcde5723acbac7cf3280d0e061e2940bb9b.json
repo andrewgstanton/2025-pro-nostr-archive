@@ -1,0 +1,26 @@
+{
+  "id": "63a57103465c3d981f3b083ba2cb3bcde5723acbac7cf3280d0e061e2940bb9b",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1749946500,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "3dff205f574fcc01197133ceae48d0ef6a2392f83b86f52513764984c9ef8b6b",
+      "wss://nproxy.kristapsk.lv",
+      "root"
+    ],
+    [
+      "p",
+      "8aedc87160819e490cb0162acbd8c9a26d79e63db74f5b1b65939012924a7f05",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "can corroborate this quote ?  ",
+  "sig": "904cdac38eefe0317804ae731bb7d9a99ce1c97011b472e0222a8ded8107f850696bd954594d968afbf24061c53fd8cc06ba603863114f747493e9e55eeb6976",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

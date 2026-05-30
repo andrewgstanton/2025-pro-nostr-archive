@@ -1,0 +1,26 @@
+{
+  "id": "b5f52848bd5f20fa67281e89b2b32c0b633dccf8b331de6192eaf220b536b701",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748658269,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "6e44450e796b4581cd7edba9e8176faa5fc1ee964e7ca33073179d0b9b3191a3",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "c43bbb58e2e6bc2f9455758257f6ba5329107bd4e8274068c2936c69d9980b7d",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "https://bitcoindeaths.com/",
+  "sig": "2070254bc94e25cbcdd79109f474494fa2c39f1f2d6a91f705b9e4c9ea2636b2e4f82225555a6d06f667466a78c3071bc5c65c298587bb887f05dde743c5362f",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "bf02adfc92885f8f19d20feab7ce0d9206d3ba07393f25f1f467bb6caf189b7b",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1752474280,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "ef8f63b4e1530777a651dee220bcf6a7d06a50d45e0e31410af65bfe691e9955",
+      "wss://nostr.oxtr.dev",
+      "root"
+    ],
+    [
+      "p",
+      "50d94fc2d8580c682b071a542f8b1e31a200b0508bab95a33bef0855df281d63",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Totally agree ",
+  "sig": "539f9229c68ebb91b6ae5f96e841cf4888237cf8757bb03a89b1b0684dbfa52969155980eaf0c1ef512aca4c71964e2e7e70596e6a6ab178c2fe9501f1727065",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "92c96890dd03b129b07644a3460c127fdafc933be92d4297bf2a736a73dfbfc3",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1749927082,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "03c18b4408297b12d4ace0860987b06343480a8ddaa55d26d9f7e15e5a073489",
+      "wss://relay.damus.io",
+      "root"
+    ],
+    [
+      "p",
+      "29904dc1dc3101581a87ccd2b2e35dfa07bf2bbafe2e1feea390916ff1332910",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Great insight!!",
+  "sig": "a2ed6bc32fd8ac9b7a5b4e6bb218ffbda99d6039e9b8ada458fab55b8426ce9460eb0b2445a70ff437460580baa569ee254166af74275765a5d1f740f2ef6a89",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

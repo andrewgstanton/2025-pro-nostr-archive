@@ -1,0 +1,26 @@
+{
+  "id": "cdb2a3068f75e0af5c07eccb7b6654a2b1d7275a3b0d798f7eb7dfb3144196a6",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1752472207,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "af0833d0363da9e6a77031d399bc95d99404b0a47508cf4b38807c4914f6c537",
+      "wss://relay.damus.io",
+      "root"
+    ],
+    [
+      "p",
+      "b830e07b197f29cf22ba3d8f067b15b8b2acb27b725b36ae008c839c66bd8a02",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Beautiful and true!! amen \n\n",
+  "sig": "843bef74dc28f4b4c7d420dc36119d808286922a54f582b8f69245f9a479f6d77313c9b8d6c6301f6a4649fe8556706209d1134ab0104c2bbca35c6e7aa60404",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

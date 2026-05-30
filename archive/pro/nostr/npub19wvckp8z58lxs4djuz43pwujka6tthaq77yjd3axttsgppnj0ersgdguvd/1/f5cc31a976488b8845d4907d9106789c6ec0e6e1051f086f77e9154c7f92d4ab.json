@@ -1,0 +1,26 @@
+{
+  "id": "f5cc31a976488b8845d4907d9106789c6ec0e6e1051f086f77e9154c7f92d4ab",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1750537936,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "8bad63485f91dffbda3f77d1d63d30ebc00964009e841cc404a89356f1bb5d2c",
+      "wss://nos.lol/%20wss://nostr.land/%20%20avatar%20wss://nostr.wine/%20%20avatar%20wss://purplerelay.com/%20wss://relay.damus.io/%20wss://relay.snort.social/",
+      "root"
+    ],
+    [
+      "p",
+      "c582af78dff442700ec59e21786532a7074c00be8b7b1eac989bbf62698069cc",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "New land someday soon !!",
+  "sig": "af6d27fdf3b6e9332718e6b07dda900171a31839af8f8457407412f4e3f6ad488752fa3ed00864af0b52d73f91f5fac72ddee731a34d29334681f28da0317c7e",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

@@ -1,0 +1,76 @@
+{
+  "id": "11d56e8fd3e3a2dbe0d01b9cee3463c3e8c7685e3dc6cd21b19b9c27d6e0a68d",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1750118202,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "96fac33c6c5c64237518b5816ee6961f7aea056b99a5cdb3e7f48d93c29c04a2",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "7a6576649f478bd1efb8b8bc99cacb23ef5e11b7d8524cf6b1750d939315c0b5"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://relay.nostr.band/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ]
+  ],
+  "content": "Hang in there.  It's tough.  We lost our dog Champ., ran out and was hit by a car.   He was only 1 years old.  But his brother (Whiskers) is still with us.  They were from the same litter.  We got them at 6 weeks.  \n\nWhiskers just turned 15.  I hope we can have him another 3-5 years.\n\n",
+  "sig": "a856b7c3013ae75f5b404c547f5ba22cfacf2af29245e2b11dc162c458616de011df90d2f8753f539cc76cfbd09115b5be171b84a8c072d4c034e3a0600fb1ae",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

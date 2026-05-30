@@ -1,0 +1,26 @@
+{
+  "id": "64b22ebd39e90d67e9afee52880d22aeef92aea1950e3d63449a20a528e77ab5",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1750374512,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "afbb6b488f6cfc47b046a67dfbe643a01500549ca2517d203637c2059f104252",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "4d41a7cbc9b7f7e8484d15499aa9141c73f9a39c3765cc5d5631fa1e7d3633cc",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Bucky … a great visionary ",
+  "sig": "a741265f8988bd9b850fdbb41ea63607b4736448ace01cfd84d59247cf50b094093605fbdfe5988889b6990642f2d0260077edf427d32152987fd018a5c5cd48",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "51ea8c111f9e9fbad7cf940bedbff56cba388dd0a88a9771c6517a793ef90e85",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756261503,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "99e0480c3892d1bde651f4510a8f493de80ce57f331eb6d8fcdc91af046fbe94",
+      "wss://nostr-pub.wellorder.net",
+      "root"
+    ],
+    [
+      "p",
+      "eb8fd39bf77e0d7897c04aea68637ebfdd15747c3fef31f78be3ddbe0b9496ea",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Thanks for sharing I have to think about this carefully as I invest in real estate",
+  "sig": "30b2ed12ab14ea1b6a1b7745adc1cb1b7a8ed8f2e2ad0987d25e6cf54a5fdd3325d5303a6ea762521a09804bb04b80d8d7a6623eaa608d9c85aeb5a21cf3ac87",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

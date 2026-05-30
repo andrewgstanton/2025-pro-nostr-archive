@@ -1,0 +1,32 @@
+{
+  "id": "2ce86917b7ac3992ac89443ca251f7a62b6b81eb7b9e50b83c3fa13b28af35f6",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748822844,
+  "kind": 1,
+  "tags": [
+    [
+      "p",
+      "98aa4d34d35bec262097231d305be1cce77629ed47c95c511309abdeea7079d8",
+      "wss://eu.purplerelay.com",
+      "mention"
+    ],
+    [
+      "e",
+      "35827988951cd5e7d1f0dd92085951091a26c49d4ad28e7580bb32ccb6b2cf5c",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "c9e9bdc0b03c21bd337a12dcf5b463d49fdafe884aa12bb950c182e9e4dbe9b8",
+      "wss://buzzbot-relay.bullishbounty.com",
+      "mention"
+    ]
+  ],
+  "content": "danke shoen nostr:nprofile1qyv8wumn8ghj7et49ec82unsd3jhyetvv9ujucm0d5q3camnwvaz7tmvw4hxx6rzdauzuumpdej8w6trdqhxvctjd5qzpx92f56dxklvycsfwgcaxpd7rn88wc57637ft3g3xzdtmm48q7wc2df87l  ",
+  "sig": "27035992bb45307823c3d140311b38338fe0db31dcf4cbeb50ae23008e312098d57b124f8b813a7f36f55ffb0bd451965290fae0efc7f10910fc755e3c899da2",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "bf1b4324d1e4027311a629cc7e537c995c8048000dc70b816437677ac4067926",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1749535598,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "3de8ba58b3b216cb86c139d8a3785408bdb0cf1985eddbf5f6361e7b4e38103f",
+      "wss://nostr.oxtr.dev",
+      "root"
+    ],
+    [
+      "p",
+      "184dca27c18fec7d9e38e15552a6d5c2cd22741a7fe356fd13c4bd99c63594ee",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "AMEN",
+  "sig": "6d54e0203f3b4871863bf19c854a1529b479b856047e094ea8ea4f7d77f8a4ed5321fcacc27f3173d5cf3299552181ae541741008541633a803b59f9cc781bb4",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

@@ -1,0 +1,32 @@
+{
+  "id": "38527a67e7619bac54da671169b7f8808a97540f2daf69f0737eef4bb09028a3",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1750167637,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "a0be4052dd1c34a86417c1f778ebd70bb44ba4a7696bf630f384e617b4eda948",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "bbf923aa9246065f88c40c7d9bf61cccc0ff3fcff065a8cb2ff4cfbb62088f1e",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "1bc70a0148b3f316da33fe3c89f23e3e71ac4ff998027ec712b905cd24f6a411",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Exactly !! Made this point in an article earlier ",
+  "sig": "74ca78e7af9073479b6c5f9a4a24ace4bd509319a873ff220baad8f48acfdf9a3143d6c3c11b45d9b8f547b2606c0ccc66cd2c5a194baa7a374839f68535c115",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

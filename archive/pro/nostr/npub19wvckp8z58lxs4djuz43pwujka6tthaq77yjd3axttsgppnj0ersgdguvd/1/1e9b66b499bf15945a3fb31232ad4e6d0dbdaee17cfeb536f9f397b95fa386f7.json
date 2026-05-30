@@ -1,0 +1,26 @@
+{
+  "id": "1e9b66b499bf15945a3fb31232ad4e6d0dbdaee17cfeb536f9f397b95fa386f7",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756439658,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "92cd9506bb0a07b03982b717b8b98ba96b657d8325dd2f366668bf2673c7f34d",
+      "wss://nos.lol/%20wss://nostr.land/%20%20avatar%20wss://nostr.wine/%20%20avatar%20wss://purplerelay.com/%20wss://relay.damus.io/%20wss://relay.snort.social/",
+      "root"
+    ],
+    [
+      "p",
+      "1140e4fc580c7e47d093fc26492b9b76856e630385209ae862182286446f65a8",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Welcone!!",
+  "sig": "bfa411eb4afdc7cba96427484ec1a8c04acd196188d90ef97fdea70e827fb75eb6768a666792c816d7ac5e170022d9fc422cac8a6bb2355304d0a8180017d8e4",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "b9f57fb424ebb582deb6587477238777ffd766067c3e67aac5590d97ecb425fb",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748661652,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "e211653712859de141c27f1ce2f94fe94d3171bff8f2651bc7ae3f9d9716ac92",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "4eb88310d6b4ed95c6d66a395b3d3cf559b85faec8f7691dafd405a92e055d6d",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "So on the one hand he pardons Ross Ulbricht and on the other he is building this massive database  to spy on us can anyone explain what’s going on here ?  ",
+  "sig": "a86b7b2d3441aecc780c0d50abba51035fd863418ab4eaea443a24f1afae7bb0a75a1599304cad3e5e001bd41d65469aec929b19861baf00a6ac7ff0fdd30e07",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

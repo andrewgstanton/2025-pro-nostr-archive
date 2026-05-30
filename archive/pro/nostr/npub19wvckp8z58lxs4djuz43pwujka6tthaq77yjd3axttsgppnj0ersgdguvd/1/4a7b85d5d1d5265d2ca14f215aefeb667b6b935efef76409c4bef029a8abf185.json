@@ -1,0 +1,26 @@
+{
+  "id": "4a7b85d5d1d5265d2ca14f215aefeb667b6b935efef76409c4bef029a8abf185",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748547351,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "a7a4334b1cf7e0b09e96244abf3409c48976d886f4c03620337b9ac10677bffa",
+      "wss://nostr.oxtr.dev",
+      "root"
+    ],
+    [
+      "p",
+      "7b3f7803750746f455413a221f80965eecb69ef308f2ead1da89cc2c8912e968",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Amen ",
+  "sig": "4eb0108ecba234aa12d1bad5152965177def9e5b0f54a9a4494d513032d348fb5a2b057efd346ec0cf724ef4934dc2df6a1f007942cb4516708538b78307f2f8",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ea9e13826494bdefbec501bc6c30b4219a60b9bec54ac31e5733b140acaeeb94",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1752299013,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "69de196b27593968198f428dcd7ea207b5aa6ee29b2db6e83efc87e03bd20287",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "7b3f7803750746f455413a221f80965eecb69ef308f2ead1da89cc2c8912e968",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Amen",
+  "sig": "e17f017a65bb4b1a9294db171bbd2d02b734e4ff3b8b6baba5bf1925f62c65f7c5eff25bc520da33fdb5f9f7ba9c44d2241ed2feee743b2a462124b334c882bf",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

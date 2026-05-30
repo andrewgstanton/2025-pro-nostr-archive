@@ -1,0 +1,32 @@
+{
+  "id": "2b0b1048e902bafcd7d3c4195b23f1a767ca118b8f9f46e6691dfaf53b0b0045",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1749939875,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "f7f66a7ff93c47a045632ac50c1607044a25e5ffdc745c5868ad0317738f1689",
+      "wss://nostr-verified.wellorder.net/",
+      "root"
+    ],
+    [
+      "p",
+      "0018b7ee33fb253843639c62e292fec700a69a93b08ee374c5bda971c9b39564",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "4379e76bfa76a80b8db9ea759211d90bb3e67b2202f8880cc4f5ffe2065061ad",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Ben what is the specific clip is this in nothing stops this train talk at Bitcoin2025",
+  "sig": "e68694ff53250e93224708cdafc31a44ed48975a8e8801ac5d4d424b2e3cd3562d122a2bb8920e3a779cd885df611e12064056bd00a03367fc57515bc92367e4",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "f53c18a539057846103af290bfae1a8101f1c2f614d847d9583b3bfd9dba039a",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1749016340,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "beaf89f0e9250fd5b927402f8098d0422a541251e0c7d5c6b3075f198759938a",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "4eb88310d6b4ed95c6d66a395b3d3cf559b85faec8f7691dafd405a92e055d6d",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I was born in Palau ",
+  "sig": "68ba27e58524ad3e185ce16a7e42b980f949c03e0ff4ec993b1572d1c77c6fc591f3c496c38a149cc2f0e48c4828c0392c96481acb8a19c4596c641ad1a36bee",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

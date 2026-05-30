@@ -1,0 +1,26 @@
+{
+  "id": "9f9c0c9f0a18f8133fde598aee4e6461530867c9cd1aea25df3bc583696f7bce",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1749926792,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "ce6ec12a404a71c2490357f500d062495a5d8fe56d413d7b3d6b854616a605ea",
+      "wss://relay.damus.io",
+      "root"
+    ],
+    [
+      "p",
+      "8aedc87160819e490cb0162acbd8c9a26d79e63db74f5b1b65939012924a7f05",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "That’s kind of my feeling too ",
+  "sig": "307d2bdae7e79994a6b773a70367d8cbf6e916f2f5bab77393c6555719a66024b6d92845f9b35cf15c4cbae15908d8538e8376fa7b1fea616a482ef2282ab459",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "45c53a5a4511fde0c4b7c97e30982ff23bcd07436f60b0563b804faf24c2e2de",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1751592907,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "f0b4d5c60e343368596c50fe0009b1a4ef4a4fd9d65fb64a4e86abe0777092f5",
+      "wss://nostr.oxtr.dev",
+      "root"
+    ],
+    [
+      "p",
+      "184dca27c18fec7d9e38e15552a6d5c2cd22741a7fe356fd13c4bd99c63594ee",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Ouch ",
+  "sig": "85a5ef87576062730e1a96dd661e8595cc8897e400e5a77511d03722c8b62010fc4529675ef9c3355650297dc4c1ca2b662c0356dd679c00647561fe2f175d8a",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

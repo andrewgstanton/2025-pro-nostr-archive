@@ -1,0 +1,26 @@
+{
+  "id": "3481fe5e93a0011ad98f779523ae29de9f20c0da17e1a385c9454bdd8e4e1bc5",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1751592276,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "0a3528224c578ca76f509910faf627b77e2d3085232ce14ef485392be6d619e5",
+      "wss://nostr-pub.wellorder.net",
+      "root"
+    ],
+    [
+      "p",
+      "5e70f2977a61214de215585a409f9592e65bd1b8177190700ae61937b1014737",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Noice ",
+  "sig": "864ea12281ddd05a8ecdd9c7e8185b53b0c045295a5c927ec05d467305ecb1d6f7ca7347325208e81635b1028c7a7ac17747a6c11b7e5d163c8ae898289424b0",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

@@ -1,0 +1,32 @@
+{
+  "id": "c97598890fa2cf4c460c20ed4f3fc1b070f02f3da4fce1663fad359d35bc7daf",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1755579491,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "00002b8151ed1ca3cf15c373790fb462123d20bb3993e994ceea422901dba5a7",
+      "wss://nostr.land",
+      "root"
+    ],
+    [
+      "p",
+      "b7cf9f42a796b091e843dce919d3ef4c0dc82e029452edf0bdbcdeb9ecb93e78",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "4d7842051782e0d3feb034d150adc2b6bae4ee3b49786793bffa468b6f5b96b3",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Wow",
+  "sig": "1b39162c74a5eb9e63e639fdc3aecd81eb84b4eca894186a19994e562226cc0ebb2cb51e1107ed2da46ab22aaebbd9a47d3ccc1acc7eb60766d81196b5eb6661",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

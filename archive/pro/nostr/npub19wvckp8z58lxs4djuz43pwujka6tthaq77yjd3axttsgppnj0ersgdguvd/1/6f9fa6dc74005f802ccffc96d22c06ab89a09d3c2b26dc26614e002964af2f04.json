@@ -1,0 +1,84 @@
+{
+  "id": "6f9fa6dc74005f802ccffc96d22c06ab89a09d3c2b26dc26614e002964af2f04",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1749950328,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "1f4dd1c3b4b00d522e9fee19f43345cd7ecb85efb03d885af602da8aa2ff4acd",
+      "wss://relay.damus.io/%20wss://relay.notoshi.win/%20wss://nos.lol/%20wss://relay.siamstr.com/%20wss://relay.0xchat.com/%20wss://nfrelay.app/%20wss://relayrs.notoshi.win/%20wss://relay.nexterz.com/%20wss://fenrir-s.notoshi.win",
+      "root"
+    ],
+    [
+      "p",
+      "bc02e0a6c0f01ad9cb57a2b0f8ef8241bc5ff979ce4452ce9e243de457756725"
+    ],
+    [
+      "r",
+      "wss://nostrelites.org/"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://relay.nostr.band/"
+    ]
+  ],
+  "content": "Great comment!  Bitcoin will NOT end war it will just make it harder to justify and execute.\n\n",
+  "sig": "ae6617a02cfbf1e59f8924586896c57c3b5d1e3136a441326ac394b827b0c2ac6d3f52a63c1fd49486eb7f0d18300ef988fcaaf8bdf90661d3e79c881a0e95e0",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

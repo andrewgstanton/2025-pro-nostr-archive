@@ -1,0 +1,32 @@
+{
+  "id": "d45f631f18b84604228a6a7a0abee0e18d7eaf15d36187d07fef68e23b8c06bc",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748661798,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "ff2b9727399841298aebf77ab574c8cccaf739eeaae2e9a77665cce7c3ec8114",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "e2ccf7cf20403f3f2a4a55b328f0de3be38558a7d5f33632fdaaefc726c1c8eb",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "a10260a2aa2f092d85e2c0b82e95eac5f8c60ea19c68e4898719b58ccaa23e3e",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Although it might cost you more in fees to do so ",
+  "sig": "94a73765f4a1b98e953f888ba3e639c6259a782d5f380149dc06933cdddbba2196d5708390a9a9f7af9f2581c2faefbcd8ca87f1a039cce77e0724c47e56ee84",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

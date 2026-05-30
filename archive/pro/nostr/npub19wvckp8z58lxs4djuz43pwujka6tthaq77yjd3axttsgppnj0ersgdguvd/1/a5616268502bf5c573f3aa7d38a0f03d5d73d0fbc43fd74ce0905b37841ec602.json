@@ -1,0 +1,26 @@
+{
+  "id": "a5616268502bf5c573f3aa7d38a0f03d5d73d0fbc43fd74ce0905b37841ec602",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748733633,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "54eda143cb87cbda9487c6ae646caddc37a25dd0ba0270ffd30e7cbd42f0f48b",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "4d7842051782e0d3feb034d150adc2b6bae4ee3b49786793bffa468b6f5b96b3",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I suppose if the FTC doesn’t really police MLM/pyramid schemes the SEC shouldn’t police cryptocurrencies makes total sense now (sarcasm)",
+  "sig": "ab958bc3ea0ff24cb4bdf34f6f28c3a5ae2f60f217714882bab471a76e4e40bc67e9309277ed14602c15a5b808f48118042c083ed73ae4ab6303b442e856a550",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

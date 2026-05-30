@@ -1,0 +1,80 @@
+{
+  "id": "cb528b1ba07f1caf8a6df93c298af0513b713b54839d6cdb128f22131614003d",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1750093937,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "86f19e0610ec6d61237331f78065aff1617d11cc41039c149938838c5d274b44",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "b9e76546ba06456ed301d9e52bc49fa48e70a6bf2282be7a1ae72947612023dc"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://relay.nostr.band/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ]
+  ],
+  "content": "Yes, war is awful.  ",
+  "sig": "3458b2664cf7aa4ca2a1b2ae79a6c73597a274546228fe740ea1c1071e94118c86f60b1186c73315f7b3c630764235a1d36d541dbe3965394d5d63d9fab04335",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

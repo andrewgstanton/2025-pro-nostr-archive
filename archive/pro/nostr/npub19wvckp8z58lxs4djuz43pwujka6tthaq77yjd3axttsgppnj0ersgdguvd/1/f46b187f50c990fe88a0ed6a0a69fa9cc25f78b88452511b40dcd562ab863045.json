@@ -1,0 +1,26 @@
+{
+  "id": "f46b187f50c990fe88a0ed6a0a69fa9cc25f78b88452511b40dcd562ab863045",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748890035,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "f2df0ddf9630eaa829424b1d6c29363bf2a256cff5c4937366bf4731158bdb00",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "b9e76546ba06456ed301d9e52bc49fa48e70a6bf2282be7a1ae72947612023dc",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "And altcoins and web3",
+  "sig": "4ce09bb0be760a1f440562d4cd727e9eda2ef9d10558c8862075e1722dc34071593534452073013fbe0403bcf1e6308eee3bb0c5a8ac8e7bd2d046e444d797a2",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

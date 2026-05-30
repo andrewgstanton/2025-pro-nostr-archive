@@ -1,0 +1,26 @@
+{
+  "id": "243258a38ddcd52f942c8dd6b572170ab4c7a6bbf2779f4a83fc084e68844ce4",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748559563,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "66c2bf4274249a5c3c8e65a8ed51ed5221179e75a63450b52ff2a7d31c77aa5b",
+      "wss://relay.damus.io",
+      "root"
+    ],
+    [
+      "p",
+      "9267545d2917b80f707ffdb44a8ff979182568ef7baa04ee756b1f01d4e3688a",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Nice I was too !",
+  "sig": "61dee462ca0f2a4f9f3e5d798c698ed7a1d7b655eb76e51c31a3b182f310f71db65d616138560182ef2b85200648f2f1c8961d3c387184447b75ebc3df0d51b7",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

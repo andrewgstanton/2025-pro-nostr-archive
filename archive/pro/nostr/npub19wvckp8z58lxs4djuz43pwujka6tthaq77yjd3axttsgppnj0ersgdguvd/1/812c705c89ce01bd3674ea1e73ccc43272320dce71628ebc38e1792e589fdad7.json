@@ -1,0 +1,32 @@
+{
+  "id": "812c705c89ce01bd3674ea1e73ccc43272320dce71628ebc38e1792e589fdad7",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1749926304,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "b9da1bc1ad99aa845758a1bd0ff5bba13997f7582a2e44e624b80126fa6d3d07",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "b9e76546ba06456ed301d9e52bc49fa48e70a6bf2282be7a1ae72947612023dc",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "4d7842051782e0d3feb034d150adc2b6bae4ee3b49786793bffa468b6f5b96b3",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Love this thanks for sharing guy !!",
+  "sig": "16a2c9e7992e70cedc94668e8f15e4ca5748f8fe00c663df62f43e8bf3a49ff48a883a697b8b703253619bd8e4b835b262cb757132a8a19dbecdb0fd5a6ae808",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

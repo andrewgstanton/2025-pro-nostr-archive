@@ -1,0 +1,32 @@
+{
+  "id": "4c7661ed8c8dc2b02fc3b5166d6921d27384023acd69390b2c114c2f1f39fd4c",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1752474156,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "7cb7ab09c0a0d80c728ad3b94fa6379e9bf093bb4e57683e2688e3113414e4b2",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "e57fec0c802eaeacd7f204277ddb1f86eaa92e62cadd0d2697084cb4e3153bf8",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "805b34f708837dfb3e7f05815ac5760564628b58d5a0ce839ccbb6ef3620fac3",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "A lot more traveling and building (I don’t think I will ever stop building)",
+  "sig": "da93044e787d9e617b9819770a880e96dbc4a6e0a2fdbb31e8eecb6c0e74814e90cf16f2c7e30e6fd655016cb1bff604e17d35a67346fc38a971dd34aa98a94e",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

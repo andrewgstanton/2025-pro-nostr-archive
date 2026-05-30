@@ -1,0 +1,26 @@
+{
+  "id": "e905aa61915b123d66a37fd8069ab17dc6c7892c06d3a472aa1d1efb456a043a",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1754013820,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "9dd6317d83728d78707623831d2d4dff9b15eb0ef8c206bbaebce96dcd087b09",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "f4d89779148ccd245c8d50914a284fd62d97cb0fb68b797a70f24a172b522db9",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Thanks for that.  Good to know ",
+  "sig": "28d5452d3e23f5db21547e0e34f3ff7fba9fee1e02cb7f4c605f127fe8933d0eb016aa9e08694d9fde62eb952cba619e62ad7c4c4e12434fe6f76ae96f11277f",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

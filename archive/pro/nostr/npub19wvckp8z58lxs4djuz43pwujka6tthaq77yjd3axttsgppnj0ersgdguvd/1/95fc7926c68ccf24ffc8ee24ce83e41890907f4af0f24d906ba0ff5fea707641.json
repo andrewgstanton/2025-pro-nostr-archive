@@ -1,0 +1,26 @@
+{
+  "id": "95fc7926c68ccf24ffc8ee24ce83e41890907f4af0f24d906ba0ff5fea707641",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748959690,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "4fcfe29502679ab2537e03f28afd521cd0a3d0cc03ba4b9cbc058d781f2611d7",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "4d7842051782e0d3feb034d150adc2b6bae4ee3b49786793bffa468b6f5b96b3",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "That’s good but “crypto” is not the same as “bitcoin”.  But it helps so I will take that ",
+  "sig": "6ee5518289db034c5fcc4e1ba954ee8aef86b3518c07637922ee370551c80656e65faa29afdf90f2e552a8ba02efda70cc68a3049bf7d190d483acbcc0cbec46",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

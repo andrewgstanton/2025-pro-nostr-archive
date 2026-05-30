@@ -1,0 +1,26 @@
+{
+  "id": "01bc3bd1161bb5109d9d4192ce09103814bfecc0b8632f7c3c1eec279eda7c5d",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1754946760,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "812c82625017edfefc7eb6d50d71e1b270707b666d164a4abafa028ed396743f",
+      "wss://nostr.oxtr.dev",
+      "root"
+    ],
+    [
+      "p",
+      "749a6b9022e9f4baae75adf9febd21730a2ce177e6011813750a0f14b3a1031f",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Truth!!",
+  "sig": "f7b0470b0d2bd03aa60ca5342135f72583d964776734a35b24cbfdee141d509f5e109a20764aae48e46cb2cb1e39de8852c34cc01b9c142ae3da05aa7dd2feca",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

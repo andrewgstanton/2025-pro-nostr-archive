@@ -1,0 +1,26 @@
+{
+  "id": "a7f012089a9b42a49cf8579eddb939d28aac4aa70114a08a4ca39d4e9bead930",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1757570433,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "4452967e23d6e787497d30926bc68e403cf6296fa1bf6ac20c25ca55a69e5b4d",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "738f7873ac2c6cb7701e3150616afc824379b132b467ba5a8429d5964af1b136",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Yes comfort all those affected by this tragic loss !!",
+  "sig": "13f0355b14f2475255d2d8697ae24bceca88cbe15b18224cf671254738f966b48e8274f4c5ba0060796cfcca6dcfa8e7fb0ed7719afe2f56c56a1ec2dfb04cc2",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

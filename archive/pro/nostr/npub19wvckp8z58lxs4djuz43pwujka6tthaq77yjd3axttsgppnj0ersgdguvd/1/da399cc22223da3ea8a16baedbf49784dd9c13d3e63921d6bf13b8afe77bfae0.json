@@ -1,0 +1,26 @@
+{
+  "id": "da399cc22223da3ea8a16baedbf49784dd9c13d3e63921d6bf13b8afe77bfae0",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1754013766,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "22198f64b7cb38ab4cb04cbe1e13c5ce883f21b068036de944daf4fb225b4655",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "9e65bfcc142b6bf0da8e662467b549628c9c37f0bb53b34176c524f1ae2ee2de",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Dint get me started",
+  "sig": "639edbd1923ec951a59f5957b564ac41b0f2d9eab6425590106e492e969922856bfb888b6ee53377e38e27a33a3c8926e167f218a9bc62cb44a96d1795558239",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

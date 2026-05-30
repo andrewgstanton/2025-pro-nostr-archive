@@ -1,0 +1,32 @@
+{
+  "id": "9499746bf53616a02a23202cc13c6d128b175f3d1f628733da2d8876b771336f",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1751424713,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "1c9c9b8b3030c8f2675ccf883fcae42f8d8c1ae75e5a4f3167652ed5223f84ea",
+      "wss://nostr.oxtr.dev",
+      "root"
+    ],
+    [
+      "p",
+      "83d999a148625c3d2bb819af3064c0f6a12d7da88f68b2c69221f3a746171d19",
+      "wss://relay.f7z.io/",
+      "mention"
+    ],
+    [
+      "p",
+      "0eef96197f5c6be3859b6817e6a5736685856c416e29a2925bd5a15b2a57c8b1",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Love the concept nostr:nprofile1qqsg8kve59yxyhpa9wupntesvnq0dgfd0k5g769jc6fzrua8gct36xgpzdmhxue69uhhyetvv9ujue3h0ghxjme0qy08wumn8ghj7mn0wd68yttsw43zuam9d3kx7unyv4ezumn9wshscplzkc  let me know how we can build truly sovereign applications !!",
+  "sig": "f7621efd261aac55cc7576fc9d65268fa24adabbb680e372fe8cef86bb1cd4f1af0c168da49310adeafa5fa61a75be274a3ef4f6016c74530f3ee6e735060724",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

@@ -1,0 +1,26 @@
+{
+  "id": "4318e5c91f57ab0bc6acc92699076501435796a24dc2c8137a1791324032ca24",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1752335729,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "909cfc42bbba899f5cf967aea5519820c8d30d24cc6dd9e529da1d67ae2eab34",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "a44dbc9aaa357176a7d4f5c3106846ea096b66de0b50ee39aff54baab6c4bf4b",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "So very true Ben !\n\nThank you for sharing!!",
+  "sig": "4755cfc1730e13fab9d6f5d6689f8b7c3b0425ae8edfa35815c665bfbcc16d2ed72a3da5c18eb6c80cab64b3ad3db81c0962844d9e286e871c50f7a7dabcffaf",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

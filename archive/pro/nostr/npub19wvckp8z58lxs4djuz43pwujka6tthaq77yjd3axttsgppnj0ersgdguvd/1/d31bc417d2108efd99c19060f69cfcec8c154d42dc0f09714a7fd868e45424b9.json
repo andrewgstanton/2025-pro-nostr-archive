@@ -1,0 +1,26 @@
+{
+  "id": "d31bc417d2108efd99c19060f69cfcec8c154d42dc0f09714a7fd868e45424b9",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1752649110,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "0017c1e29bf6a1f4d87b6e531dbd6a4c37bce104f40c38a6a13b6ebf90875aa6",
+      "wss://relay.damus.io/%20wss://relay.notoshi.win/%20wss://nos.lol/%20wss://relay.siamstr.com/%20wss://relay.0xchat.com/%20wss://nfrelay.app/%20wss://relayrs.notoshi.win/%20wss://relay.nexterz.com/%20wss://fenrir-s.notoshi.win",
+      "root"
+    ],
+    [
+      "p",
+      "8d34bd2432240c5637174a3db191878baa1c133aec739b64a264259f414be32b",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Great example and I live your scripture  example ",
+  "sig": "7ccc28f48508ff71cb729d31a359a61f6a3728602341d3e1806843749e7ec13c1f83c71e463c37052fec3b9c42288dcb4f2f614d656b0dda4a71d34dd9852fec",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

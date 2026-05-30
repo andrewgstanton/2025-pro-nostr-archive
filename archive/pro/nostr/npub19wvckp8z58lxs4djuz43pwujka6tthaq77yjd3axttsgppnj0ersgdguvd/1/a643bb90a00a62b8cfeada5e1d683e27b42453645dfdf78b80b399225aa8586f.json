@@ -1,0 +1,26 @@
+{
+  "id": "a643bb90a00a62b8cfeada5e1d683e27b42453645dfdf78b80b399225aa8586f",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1752979761,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "25fb03ce3c27692db0b2701b0e0251b1ec123831f9e1e14920685dd2295e003f",
+      "wss://nos.lol",
+      "root"
+    ],
+    [
+      "p",
+      "63fe6318dc58583cfe16810f86dd09e18bfd76aabc24a0081ce2856f330504ed",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Nice you are speaking my language Kieran!!",
+  "sig": "55485d625bbfd97c61e751a9bcaf35d4f8c4a51efb72747b94f537ad4c397db4f3f1d6d7f2a91f78f58498ee7035f896809a70533113c0c5ee71775268fdd3cf",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

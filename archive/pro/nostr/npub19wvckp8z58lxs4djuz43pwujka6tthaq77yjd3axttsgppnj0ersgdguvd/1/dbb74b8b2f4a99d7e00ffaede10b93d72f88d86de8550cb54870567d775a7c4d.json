@@ -1,0 +1,32 @@
+{
+  "id": "dbb74b8b2f4a99d7e00ffaede10b93d72f88d86de8550cb54870567d775a7c4d",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1751429786,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "1776881b44391a559296036653237b762c97c4195e633d34c1ad7a9d2c67dc8d",
+      "wss://relay.snort.social:57",
+      "root"
+    ],
+    [
+      "p",
+      "781a1527055f74c1f70230f10384609b34548f8ab6a0a6caa74025827f9fdae5",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "0f6ad7e156bc6e410035cd6dff0ea69e15d22a1c85e84cad4b8ac5affe6459df",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I am going to start asking similar questions soon I think",
+  "sig": "2496934c3743974b82725628b8b0f7e2674e9fad291a078a630ff23732b3e3144ea0d34a46c69aa5fa6fd6cce8a686b96e94101672434b4ae21ffff8ec2548da",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

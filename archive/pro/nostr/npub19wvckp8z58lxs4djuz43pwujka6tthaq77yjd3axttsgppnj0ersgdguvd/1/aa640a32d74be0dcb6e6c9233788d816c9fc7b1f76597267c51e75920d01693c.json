@@ -1,0 +1,26 @@
+{
+  "id": "aa640a32d74be0dcb6e6c9233788d816c9fc7b1f76597267c51e75920d01693c",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748658393,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "6e44450e796b4581cd7edba9e8176faa5fc1ee964e7ca33073179d0b9b3191a3",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "c43bbb58e2e6bc2f9455758257f6ba5329107bd4e8274068c2936c69d9980b7d",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Every time someone or some institution talks about bitcoin dying buy sone more BTC almost 100% guaranteed you will see it go up",
+  "sig": "3600a764315aa6e8c4a0e46dfbab57afb5fa10fbb1f4a6d9f58fde708bf55bab786d64857d79ce87e6a3680c91f24bc1c3a4cf6cab895577ce74ab0ee32e32a7",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

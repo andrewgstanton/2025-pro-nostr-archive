@@ -1,0 +1,20 @@
+{
+  "id": "beea7c394474d07c28313a87a43911796433bf7fd5394c347ac2f73b3aa6d973",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1752470850,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "024bf63306e3b2b9297e515e4f0133d0fd922fffc1b90f47297d6b7d27c66474",
+      "wss://relay.damus.io/%20wss://relay.notoshi.win/%20wss://nos.lol/%20wss://relay.siamstr.com/%20wss://relay.0xchat.com/%20wss://nfrelay.app/%20wss://relayrs.notoshi.win/%20wss://relay.nexterz.com/%20wss://fenrir-s.notoshi.win",
+      "root"
+    ]
+  ],
+  "content": "Thanks for  the sats !!",
+  "sig": "dcb9f004284892687166852555ab02d0d547982a330f60b0a86c32c8022a3d4b1023e9ffcee03ebd10d959067f17c7ddc6c4fc3daaa5d4df4585ac131b27b8c4",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

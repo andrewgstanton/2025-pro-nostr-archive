@@ -1,0 +1,26 @@
+{
+  "id": "a0796d57ab5227605113f7aa8bf966e0afb7e4dccfab77a70d9a5df0b3a6e147",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1751592934,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "2234668f40db32abace1361de25f755277d620eff627965bf3b7707e5abe9b24",
+      "wss://a.nos.lol",
+      "root"
+    ],
+    [
+      "p",
+      "21335073401a310cc9179fe3a77e9666710cfdf630dfd840f972c183a244b1ad",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "And 60",
+  "sig": "5d06de7599b55313e3655523cf04e449765de22bb3b084f89213006d8ef4cc6edebb8908d22e03a411237c5aba48485d4b3c590b54d04b57fdb8a4e5f4aad864",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

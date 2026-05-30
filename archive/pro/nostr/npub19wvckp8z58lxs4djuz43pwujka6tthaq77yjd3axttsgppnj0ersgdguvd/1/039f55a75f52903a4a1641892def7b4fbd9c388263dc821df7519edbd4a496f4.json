@@ -1,0 +1,20 @@
+{
+  "id": "039f55a75f52903a4a1641892def7b4fbd9c388263dc821df7519edbd4a496f4",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1749925696,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "68f19af91c35bdca32e499879707f4a816fd5fdf8999df356e0f05dc5d9745e3",
+      "wss://relay.primal.net",
+      "root"
+    ]
+  ],
+  "content": "\nForgot to include the image with this series intro — here it is 🌺👇\n(More to come in Day 1 tomorrow — mahalo for following)\n\n\nhttps://blossom.primal.net/a8d0d64df834147b4dd7e0d24d064ab12de51ef63ff74481bca0adc019365cdc.png",
+  "sig": "fc089aa6a416a8aad808629f5228287e40441519080af2be36f06274f700378f5b3310d6fcd78195940d9398d6da7e18ff3e8ddbcc6b2cc03edb311e0b7b5b1d",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

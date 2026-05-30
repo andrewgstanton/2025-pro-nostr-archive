@@ -1,0 +1,56 @@
+{
+  "id": "74f14a09e7b0f82ec15e5ca7699b775f5ccdfb119231878449ab0a62f9f1b051",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748718779,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "fda7684f3d53f398821a735b05325a7244a83541c9d84bfa34875816cdf4c3ac",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "e5c3fe4366291811454d7460b9346334ef3f4e149751a8fa5f5119bb8ddd2757",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "5b0183ab6c3e322bf4d41c6b3aef98562a144847b7499543727c5539a114563e",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "9fce3aea32b35637838fb45b75be32595742e16bb3e4742cc82bb3d50f9087e6",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "5eb3fabed3800f7d8c237ef4b5c56f58ea16e497fad40cfdd742ddd735a033cd",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "31cdd8b5de2f068cb0e16704db7b9c0e06c048b8737807908110ac37ee28b3ad",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "4fa80a3d386f1a214b02921fc7bb2ab0c15cd4e9a8b0ff4f8c4773f90e61b311",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Replying !!",
+  "sig": "e43491e5a6a9f43f8db4fdee048c60629611c86b906f112779dee36275e8be088e81e38b9910bfc41ee2be9a56eea6054de65311fca97e2264d855988c2c1a76",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

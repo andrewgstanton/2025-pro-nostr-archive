@@ -1,0 +1,26 @@
+{
+  "id": "530d9faf31336cfe2d033997f19006a916004c62152449dd15c2afac8234b16f",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748841767,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "1485fbe8400f0f1a3cdb04bc000952a88722930e5745d77cb888382300b5c3f7",
+      "wss://nostrue.com",
+      "root"
+    ],
+    [
+      "p",
+      "d4cf3423b64bfeb540b3e0ce22946191c033d38b5d32b37a8f0f3a4cf514cd23",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I think about this all the time whenever I trade equities … am I creating real value or just shuffling numbers ",
+  "sig": "f6d18bdf2551c46293df06d471be62bc0b74c4c0b986f93f1b41f074107995947d688bdcd55ee7c6a7a449c00c4e6b30c02d8232268a172dc48bf5e0c7581b4d",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

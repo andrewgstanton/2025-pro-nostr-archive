@@ -1,0 +1,26 @@
+{
+  "id": "58249e19f4f36afa0eb078180a9f1f45e0d8582e2a09ef76e241879de8dc733e",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1755911614,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "842c4e3b77f74a0cc1ab4f085370a77a6f7de53d1d4ca463aed436958885e95c",
+      "wss://nostr.oxtr.dev",
+      "root"
+    ],
+    [
+      "p",
+      "bd9eb657c25b4f6cda68871ce26259d1f9bc62420487e3224905b674a710a45a",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I can write articles or post about ANYTHING here.  And that is priceless.  ",
+  "sig": "ed95b56bcdda8bdc9f274898d610d9b294d8802177814d216266841e8dedb91b1bb77926a66287d6bfed2ec9a69b810f6474612188b24c5e978912496b400ec1",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

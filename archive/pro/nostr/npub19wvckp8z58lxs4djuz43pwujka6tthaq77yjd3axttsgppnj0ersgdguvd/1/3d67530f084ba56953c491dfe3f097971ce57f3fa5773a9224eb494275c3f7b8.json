@@ -1,0 +1,26 @@
+{
+  "id": "3d67530f084ba56953c491dfe3f097971ce57f3fa5773a9224eb494275c3f7b8",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1751592774,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "c5e2a75253d151759c92a62af5a8406d20c908e21af4eabf98e97ed9d20f0c14",
+      "wss://relay.damus.io",
+      "root"
+    ],
+    [
+      "p",
+      "7b3f7803750746f455413a221f80965eecb69ef308f2ead1da89cc2c8912e968",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Know any more on graduates nostr:npub10vlhsqm4qar0g42p8g3plqyktmktd8hnprew45w638xzezgja95qapsp42 ",
+  "sig": "6d022af620664e9127cdd955dfd2580b2f39eb96e9c2858f4a48b02a3dc2a9385f96b9b2f3f185438934ad4b6c7d6ae1e43018940a8179e466c0ad5a5d04e284",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

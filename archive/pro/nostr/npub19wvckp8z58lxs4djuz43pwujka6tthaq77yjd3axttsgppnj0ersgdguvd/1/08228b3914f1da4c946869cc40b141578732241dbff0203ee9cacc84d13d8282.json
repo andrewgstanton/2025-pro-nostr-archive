@@ -1,0 +1,26 @@
+{
+  "id": "08228b3914f1da4c946869cc40b141578732241dbff0203ee9cacc84d13d8282",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1750286565,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "f7ef71f9ca4e70d1aaf8683ada98205d3ab8889f11defe9043fcae3bd5590773",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "eab0e756d32b80bcd464f3d844b8040303075a13eabc3599a762c9ac7ab91f4f",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Alrightee then ",
+  "sig": "05e755f4058f233af09cf0198541fc1eb494f70b22fac1f20ae8dfb4128faa81055f2c641bc5855869f0710631b77c53bad2ffda99ce7f65c661b9ef3fe135fb",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

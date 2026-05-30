@@ -1,0 +1,26 @@
+{
+  "id": "e11beb58a241ca7b50e361cb0ae67ab5e9c184b789b9477d749736695acf5b4b",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1757571824,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "346ad5959d24660a57a4fb285a369fa477b2790968d976a2c12fdaa28679bf46",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "de5d34f29113446cf081d8850cfeb37c2014434cec2803bcc089df65568df8b4",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "He will be dearly missed ",
+  "sig": "8e92d493729954e60b468954fd33b7b4d5166d018b57036e82cd0697e6e6eef6efb8848388d2d32b74c04601f34e9870aa7736fe087ac72ef4fd879d722de8b1",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

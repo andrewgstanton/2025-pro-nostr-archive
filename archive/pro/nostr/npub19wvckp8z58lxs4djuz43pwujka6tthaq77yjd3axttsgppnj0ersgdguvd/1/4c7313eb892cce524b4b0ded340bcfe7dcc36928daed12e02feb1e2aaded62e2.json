@@ -1,0 +1,32 @@
+{
+  "id": "4c7313eb892cce524b4b0ded340bcfe7dcc36928daed12e02feb1e2aaded62e2",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1752330974,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "966a3becdb3cf2dc2951dc40d2613ec12862adfe3df6e5d46edbe7541158abc8",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "43baaf0c28e6cfb195b17ee083e19eb3a4afdfac54d9b6baf170270ed193e34c",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "9020fe7857bd2392d504beeb9e568776f507784fb5b5a94af7b5ef1ae9780289",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "It’s the ikea era \n\nCheap disposable furniture",
+  "sig": "b671f0ed4837a6e15b18650d69393751d40ef7c43bf2389309ffe3d1b390084a9bbaec09ce123b547f50f785c23977342b88aed2fe75096f2ee01e65fd665122",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

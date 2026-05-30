@@ -1,0 +1,32 @@
+{
+  "id": "9824019d4a567ffb168cde8b839c72a19fb5aadcc0e48c66c7b47ee05a289c06",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748959442,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "f4faddc219d8cff181391f0aa91ca99f9f2a98caf889dfc8516282e108587927",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "b83a28b7e4e5d20bd960c5faeb6625f95529166b8bdb045d42634a2f35919450",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "5b0183ab6c3e322bf4d41c6b3aef98562a144847b7499543727c5539a114563e",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I want to do similar have several ideas for a novel and a number of businesses I run where I want to incorporate Bitcoin in the operations",
+  "sig": "49743116f1602eddaab45dc10f4d1436ec69ff3d4d53d9faace7acc05119a0c5dc867a99979a67a76732027f47e7b43b3e0b5b5378a9c7edf3de5e78918d417b",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

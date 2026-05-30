@@ -1,0 +1,26 @@
+{
+  "id": "2b97dc97ef3197b330e8ef60f1221d748c4dfb5f8a9edf06f587f4a9cd531648",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1755985474,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "584b88be6b71b2ad32af84cb44f863df6d5461d183d1b31ff8d3b60e5bf341d6",
+      "",
+      "root"
+    ],
+    [
+      "p",
+      "6a359852238dc902aed19fbbf6a055f9abf21c1ca8915d1c4e27f50df2f290d9",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "This us why we need control of iut own keys money and identity ",
+  "sig": "aa598dd7bb54dfc23a09412563e2dfca172149dd80a017e5d2f0f35b836ab96cd81be986d13c0fce7278d0856dcdeb00157a1931c544ac10c8e4ac12c01cc000",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

@@ -1,0 +1,32 @@
+{
+  "id": "c0dab4f9d2f354b1730db50337d2010a95c9d6eb719597ed95520146f8681e40",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1752361558,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "6d2b06c735b6a515a1378107a3c5366efd78237fac8c983037f492305c53c3e1",
+      "wss://nostr.einundzwanzig.space",
+      "root"
+    ],
+    [
+      "p",
+      "b8a9df8218084e490d888342a9d488b7cf0fb20b1a19b963becd68ed6ab5cbbd",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "f240be2b684f85cc81566f2081386af81d7427ea86250c8bde6b7a8500c761ba",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Ha! Das stimmt! ",
+  "sig": "5e551fae4bb333ed37426d0fa65b28a7c3cd7b0090db06777b806b9a42d441284e4f9f6984ef26ab42b0b70f228da90bdeceed17e6d1e61a800698d702bebc9e",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

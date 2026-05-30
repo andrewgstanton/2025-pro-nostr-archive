@@ -1,0 +1,26 @@
+{
+  "id": "2c0c5732ae2fff49a5f610cce4ef97729cfdc8d0f34a5f3e6bfd582a066dca19",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748731064,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "54eda143cb87cbda9487c6ae646caddc37a25dd0ba0270ffd30e7cbd42f0f48b",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "4d7842051782e0d3feb034d150adc2b6bae4ee3b49786793bffa468b6f5b96b3",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Of course not surprising at all  basically from every coin/blockchain needs to be regulated to none  so you have to fend fir yourself which is actually better maybe !  I don’t really know how I feel about this I guess it’s good for Bitcoin in the end.",
+  "sig": "3feb9793d8acc66ffb2a9f32c68fb049f22945480a2265d767c4aeba2042a07224eaf910d1200f87fc8a6074476f26e9dfe321c20cae4d90085c38a8c3807523",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

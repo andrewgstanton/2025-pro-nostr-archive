@@ -1,0 +1,32 @@
+{
+  "id": "3e90e6ff7d96fdbc88728dd398002aef541886c7088cd87dd55c84102288fab9",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1753759082,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "cff6f965ed5252ac67b9741c12d96bc3a4064e23fb2bb14315a7fc5a898662ec",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "ef4dfd8ee55f9dff53ec8223e83080688597abfdfac32b6bb05a20609c0623fb",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "805b34f708837dfb3e7f05815ac5760564628b58d5a0ce839ccbb6ef3620fac3",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Amén",
+  "sig": "c6a2168bd93a766fb05b2873b8e420a501bdddcf00d332a869754f933ddcf484b1a01653e2819e64ed927c32af734f5ba8509158fa52f23445aafe903a98d45e",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

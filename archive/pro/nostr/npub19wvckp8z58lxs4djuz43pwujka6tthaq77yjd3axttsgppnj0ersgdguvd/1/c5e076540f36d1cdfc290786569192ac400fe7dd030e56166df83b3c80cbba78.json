@@ -1,0 +1,32 @@
+{
+  "id": "c5e076540f36d1cdfc290786569192ac400fe7dd030e56166df83b3c80cbba78",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1757373410,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "023db576836c58befe9217ee6881ec5c2057f45daedbf4f6c69a923c8ca5b758",
+      "wss://nos.lol/%20wss://nostr.land/%20%20avatar%20wss://nostr.wine/%20%20avatar%20wss://purplerelay.com/%20wss://relay.damus.io/%20wss://relay.snort.social/",
+      "root"
+    ],
+    [
+      "p",
+      "805b34f708837dfb3e7f05815ac5760564628b58d5a0ce839ccbb6ef3620fac3",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "a530f7f75b62f86073078fd0d82302508c9273ec846d19766ef41417eb820644",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Congratulations to you and Paul !!",
+  "sig": "35ba3054b8ef14cb0540ac25a24812420e06937cb83be3a078c41944e4bcd5614f85e656e62990b1574cabc0d71719a39effea0e9ab6925a90ec72afb735a7a5",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

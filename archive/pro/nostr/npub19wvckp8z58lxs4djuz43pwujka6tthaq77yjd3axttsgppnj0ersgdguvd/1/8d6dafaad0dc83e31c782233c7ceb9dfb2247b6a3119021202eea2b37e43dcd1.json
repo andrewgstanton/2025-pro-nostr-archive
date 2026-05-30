@@ -1,0 +1,26 @@
+{
+  "id": "8d6dafaad0dc83e31c782233c7ceb9dfb2247b6a3119021202eea2b37e43dcd1",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748889802,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "e2c505d780634f89fbff38de2e6ae357208ea80ec61070f28da6153aba984c72",
+      "wss://a.nos.lol",
+      "root"
+    ],
+    [
+      "p",
+      "9f20e39b742067e2763bd8e589913b7a0a1abe2cc52b297bca0473318ff4d47d",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Hello just joined ?  Welcome Jon!",
+  "sig": "b5e65084b73f1eeab2a431d87d1ed1c84cea6580963d1a742d8196190bb3fab57c0424b968c3f82831116a6a493dbe826f0b01476b3f3cb7367bc365a0450f7c",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

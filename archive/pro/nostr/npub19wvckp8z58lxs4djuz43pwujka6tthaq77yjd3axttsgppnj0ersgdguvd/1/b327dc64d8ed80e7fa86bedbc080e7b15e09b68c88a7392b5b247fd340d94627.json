@@ -1,0 +1,26 @@
+{
+  "id": "b327dc64d8ed80e7fa86bedbc080e7b15e09b68c88a7392b5b247fd340d94627",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1749087572,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "472bddc2a4b709397dfe531aea6d4fc0023bc4f67df716de509ef1f788599a49",
+      "wss://relay.wellorder.net",
+      "root"
+    ],
+    [
+      "p",
+      "83e818dfbeccea56b0f551576b3fd39a7a50e1d8159343500368fa085ccd964b",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Ah Nara one of my favorite places in Japan!",
+  "sig": "f4320a2c2ba5fa4a766c09367995dfec68c82ebb889b7ae3cea4f8acfca36aa16e745d4931e42cbe46d874070b9d8af9dfd2c1584d833feb0b9b1afd4428bb32",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

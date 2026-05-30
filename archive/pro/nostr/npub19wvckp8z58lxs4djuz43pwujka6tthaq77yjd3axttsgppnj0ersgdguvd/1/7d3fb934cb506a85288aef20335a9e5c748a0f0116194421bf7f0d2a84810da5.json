@@ -1,0 +1,20 @@
+{
+  "id": "7d3fb934cb506a85288aef20335a9e5c748a0f0116194421bf7f0d2a84810da5",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1749950033,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "c4fe7d3cd3ffb6b3e1a5b58b3b7a0b31878e9350573121c783c94118d4307564",
+      "wss://relay.primal.net",
+      "root"
+    ]
+  ],
+  "content": "Person who accused me of having a dual citizenship (an Israeli passport) does not know anything about me I even sent him some sats earlier today for a comment I resonated with. \n\nJust be honest people if you include a quote back it up or argue the case on its merits\n\nMakes me angry and sad \n\n",
+  "sig": "bfc1cdcec2ec8570e42012fc73029640d936b1bc33917bb04d7f37249fd405260a5cead75bd783af94429ebdb90cd8cb5de160196dfc0623b6091221ee275508",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

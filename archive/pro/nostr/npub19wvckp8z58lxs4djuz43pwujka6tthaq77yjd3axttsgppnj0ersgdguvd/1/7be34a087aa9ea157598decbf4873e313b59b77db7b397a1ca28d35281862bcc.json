@@ -1,0 +1,26 @@
+{
+  "id": "7be34a087aa9ea157598decbf4873e313b59b77db7b397a1ca28d35281862bcc",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1750100610,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "3f86a1f72ecb0c2e4a4bbc648b8023135a4580c2f75c045eb27cc33a81c5b2d7",
+      "wss://puravida.nostr.land",
+      "root"
+    ],
+    [
+      "p",
+      "32e1827635450ebb3c5a7d12c1f8e7b2b514439ac10a67eef3d9fd9c5c68e245",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Great idea",
+  "sig": "591fd2d0e52e6986e8bfa83ee55c98019f4b072ab8dba70daf04d6c3a7694cf2de664c4e47e7257580935d79f15e94faf7e58843609583f4cddc70eb311dc610",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

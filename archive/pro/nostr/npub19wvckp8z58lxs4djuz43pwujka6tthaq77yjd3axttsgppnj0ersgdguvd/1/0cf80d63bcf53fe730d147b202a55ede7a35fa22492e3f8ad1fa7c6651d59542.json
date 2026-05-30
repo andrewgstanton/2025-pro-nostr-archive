@@ -1,0 +1,26 @@
+{
+  "id": "0cf80d63bcf53fe730d147b202a55ede7a35fa22492e3f8ad1fa7c6651d59542",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1753109890,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "00003cfbfa6b2d90435514f0a82c11b622c0a8ca481885ede3ca01fe86fe51cc",
+      "wss://@nos.lol",
+      "root"
+    ],
+    [
+      "p",
+      "b7cf9f42a796b091e843dce919d3ef4c0dc82e029452edf0bdbcdeb9ecb93e78",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Yes building more open systems is not free it’s very hard work but the the rewards are incalculable ",
+  "sig": "9882747dccb4a19885f479d962b70dffbf92fea39137abce2a14621df6ba6f15a2e090bd5b9fe8038c9dae900e48200bb8083efd01380bbdea36f3f5ddba287e",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

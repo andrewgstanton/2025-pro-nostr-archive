@@ -1,0 +1,32 @@
+{
+  "id": "da4796c2a18d95a2a76a443308b605cb02e134ea9ea4fc018f0d148d897f892d",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1757122267,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "62ff642c59df5651849e5ea84751dd0e7f7f819de29b0a82a829fa5b7892dcb7",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "p",
+      "1afe0c74e3d7784eba93a5e3fa554a6eeb01928d12739ae8ba4832786808e36d",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "424c827d105d7f8ceed25df466b30c07bf938d7f1937e7749bfea201c9089a3a",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "You quote starting with 1 btc my stack is nit even that high but I agree with you ",
+  "sig": "7ead06b0188ef5f9afd1b9f5a638f641a9819edd9bf17e4da970b44521567cced8206eb7726cb66a2e864ecdf4261586e9321f7471535d0a379a474b10dcb8f2",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

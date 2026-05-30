@@ -1,0 +1,80 @@
+{
+  "id": "9b4d06de9e48bfa11b5a2f9c64a590ef78e6e1296ee7549e854f90210f2a2a97",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1750098964,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "5a620cd35a1fb87baa1c8a5f1df91fb34602a4b5f5414585f5ce1acc007c61d4",
+      "wss://relay.damus.io/%20wss://relay.notoshi.win/%20wss://nos.lol/%20wss://relay.siamstr.com/%20wss://relay.0xchat.com/%20wss://nfrelay.app/%20wss://relayrs.notoshi.win/%20wss://relay.nexterz.com/%20wss://fenrir-s.notoshi.win",
+      "root"
+    ],
+    [
+      "p",
+      "7a6576649f478bd1efb8b8bc99cacb23ef5e11b7d8524cf6b1750d939315c0b5"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://relay.nostr.band/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ],
+    [
+      "r",
+      "wss://wot.utxo.one/"
+    ]
+  ],
+  "content": "my heart goes out to you.   I know what it's like to lose a furry friend.",
+  "sig": "0f2c16f709190ad3d3ca6c73a3f2168cb0a3677ba650b40757d742e429a449dd20b91c2539773632e5b1416b1064d5414eb0665014ed4e3a7181ad738b3fd91a",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}
