@@ -1,0 +1,32 @@
+{
+  "id": "18ec6bff3b29f863177797c188ea7a1c37c234c0d1c84b8808b42d8d6749c11a",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1766258320,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:54609048284d2a151c8df625f40c389d423ed057fcef927db88956d28e22ba03:manufactured-villains--heroes-for-sale",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "49f65c1064281f120c8474519590aaf9251cc391692fd2ad4699534a72d0d7e4",
+      "wss://relay.snort.social",
+      "reply"
+    ],
+    [
+      "p",
+      "54609048284d2a151c8df625f40c389d423ed057fcef927db88956d28e22ba03",
+      "wss://nostr.bitmatk.io",
+      "mention"
+    ]
+  ],
+  "content": "You are most welcome I wish I could give more honestly.  I really like your articles and I think we have a very similar approach to always „verify don‘t trust“ ",
+  "sig": "7ac5b44fede4c63535703c4cb5d4b57e0047d0ac18c351a8f2dab7fd6e35ec78e0187bf27d13f432722887c253e33edb7bb4449c791166df1231d4eb82c6dad6",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

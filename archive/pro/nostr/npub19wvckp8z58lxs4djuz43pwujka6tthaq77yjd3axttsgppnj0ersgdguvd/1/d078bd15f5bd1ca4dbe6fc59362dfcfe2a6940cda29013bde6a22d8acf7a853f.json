@@ -1,0 +1,32 @@
+{
+  "id": "d078bd15f5bd1ca4dbe6fc59362dfcfe2a6940cda29013bde6a22d8acf7a853f",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1750377753,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47:how-i-built-a-decentralized-cms-with-nostr--github-actions--part-2",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "7d421b9764b7b307981fcc9cef9466e47d6ab93c9f1ba1b2b85c22e9a38a402a",
+      "wss://relay.damus.io/%20wss://relay.notoshi.win/%20wss://nos.lol/%20wss://relay.siamstr.com/%20wss://relay.0xchat.com/%20wss://nfrelay.app/%20wss://relayrs.notoshi.win/%20wss://relay.nexterz.com/%20wss://fenrir-s.notoshi.win",
+      "reply"
+    ],
+    [
+      "p",
+      "0fa80bd393004965e971b8f1d5dcf1de3f6425f51dd29f784931a684ea7325de",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I also another one that is public for various tools",
+  "sig": "b2fdcf6e866ffc91ba7b610e57cbaaf0de27e5602dbc22be04eb0f35f86dbef542844a71b5c19cd15d94ef1eb6f15fe238f0319b528bc573cd73e2c5f4d278f2",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

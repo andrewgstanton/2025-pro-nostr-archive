@@ -1,0 +1,32 @@
+{
+  "id": "bdac3b08da326a4790f6881a17b6ce43d6e4f73295d241f3e9ece1e57839e1e8",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1749017045,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "beaf89f0e9250fd5b927402f8098d0422a541251e0c7d5c6b3075f198759938a",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "36c3421948e66f7841114744ad1b376f64f0b6313e8f4a62f125d8cf9eb0503d",
+      "wss://relay.primal.net",
+      "reply"
+    ],
+    [
+      "p",
+      "4eb88310d6b4ed95c6d66a395b3d3cf559b85faec8f7691dafd405a92e055d6d",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Grew up in Honolulu ",
+  "sig": "fb41d376f5da75e9a8a7d2d5383c9397734f709ecbe95b080969bfab4ed07a0ad6c7a82688421f72ac7bf2e970cd54b92d1c9abd0a20e1645db0f9be8d4feae9",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

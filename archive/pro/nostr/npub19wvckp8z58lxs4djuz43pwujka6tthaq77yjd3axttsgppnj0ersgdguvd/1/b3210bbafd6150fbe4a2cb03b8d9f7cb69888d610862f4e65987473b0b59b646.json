@@ -1,0 +1,32 @@
+{
+  "id": "b3210bbafd6150fbe4a2cb03b8d9f7cb69888d610862f4e65987473b0b59b646",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756440502,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "92cd9506bb0a07b03982b717b8b98ba96b657d8325dd2f366668bf2673c7f34d",
+      "wss://nos.lol/%20wss://nostr.land/%20%20avatar%20wss://nostr.wine/%20%20avatar%20wss://purplerelay.com/%20wss://relay.damus.io/%20wss://relay.snort.social/",
+      "root"
+    ],
+    [
+      "e",
+      "6b085fadfab29c16c012b6254b36c27161939afb321558308e95106271d725ea",
+      "wss://relay.primal.net",
+      "reply"
+    ],
+    [
+      "p",
+      "1140e4fc580c7e47d093fc26492b9b76856e630385209ae862182286446f65a8",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Anyway just wanted to help ihoined nostr may 4",
+  "sig": "e1c73d1930a67ac9755bd1ab0de3f9d458cd07f51ff0acc3968f7bcbbdc22471ba43bc5fc2f969eb3732c4cfb0b45f0c6562644a4e1b7b4dfd3432dcf0b14635",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5a7e020063ff491ccfc32b69fc3ba5ded552e0aa8a7382a445226bd300a4a5a1",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1758568064,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "9a98540b527bb3b22a30d98b8033fc3f3b8bd0326c900ccaef22f71a9b4f98c9",
+      "wss://nostrelites.org/",
+      "root",
+      "e8ed3798c6ffebffa08501ac39e271662bfd160f688f94c45d692d8767dd345a"
+    ],
+    [
+      "e",
+      "6cfadb916ee53e6a5aa81f7c2ca52ee6da02965579e389b9cfb2824ebc0eeedd",
+      "wss://relay.lumina.rocks",
+      "reply"
+    ],
+    [
+      "p",
+      "e8ed3798c6ffebffa08501ac39e271662bfd160f688f94c45d692d8767dd345a",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Hmm I am going to write up a proposal in how we could eliminate some of the friction and onboard travelers using boat and npubs would  you critique it I have already written a few articles on “sovereign credit” and a few other topics ",
+  "sig": "3b9ee24b715e694c034be3693e09ab95a85d09d7258f365307acc38d4bcc2249f441e038c743c1d9dba7440c60f6908c2404f8a4232e9d6596424fdad3a678b8",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

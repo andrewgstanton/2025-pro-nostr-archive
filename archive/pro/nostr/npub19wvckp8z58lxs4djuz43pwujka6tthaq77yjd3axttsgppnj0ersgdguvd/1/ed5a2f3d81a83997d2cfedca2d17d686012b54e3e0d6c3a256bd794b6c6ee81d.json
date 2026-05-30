@@ -1,0 +1,32 @@
+{
+  "id": "ed5a2f3d81a83997d2cfedca2d17d686012b54e3e0d6c3a256bd794b6c6ee81d",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756441272,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "92cd9506bb0a07b03982b717b8b98ba96b657d8325dd2f366668bf2673c7f34d",
+      "wss://nos.lol/%20wss://nostr.land/%20%20avatar%20wss://nostr.wine/%20%20avatar%20wss://purplerelay.com/%20wss://relay.damus.io/%20wss://relay.snort.social/",
+      "root"
+    ],
+    [
+      "e",
+      "dd7ee95f686d5ac1e6962437b739ec852222f3980601780278c4bdcddd118fd2",
+      "wss://relay.primal.net",
+      "reply"
+    ],
+    [
+      "p",
+      "1140e4fc580c7e47d093fc26492b9b76856e630385209ae862182286446f65a8",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Then yiu woukd have a verified checkmark next to your npub makini you mire trustworthy",
+  "sig": "ea136e7a3c00a747062e9fad93d329b2cfda42564cada8e19dafe5eebc0587dd27f6c67b73c2f803c579896f9577e6967ece7993de9692906b638ac577b22f53",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

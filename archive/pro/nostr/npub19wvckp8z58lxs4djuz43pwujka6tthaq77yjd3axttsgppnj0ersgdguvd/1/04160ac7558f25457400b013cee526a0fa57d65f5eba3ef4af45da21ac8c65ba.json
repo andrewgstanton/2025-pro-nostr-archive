@@ -1,0 +1,32 @@
+{
+  "id": "04160ac7558f25457400b013cee526a0fa57d65f5eba3ef4af45da21ac8c65ba",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756441328,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "92cd9506bb0a07b03982b717b8b98ba96b657d8325dd2f366668bf2673c7f34d",
+      "wss://nos.lol/%20wss://nostr.land/%20%20avatar%20wss://nostr.wine/%20%20avatar%20wss://purplerelay.com/%20wss://relay.damus.io/%20wss://relay.snort.social/",
+      "root"
+    ],
+    [
+      "e",
+      "dd7ee95f686d5ac1e6962437b739ec852222f3980601780278c4bdcddd118fd2",
+      "wss://relay.primal.net",
+      "reply"
+    ],
+    [
+      "p",
+      "1140e4fc580c7e47d093fc26492b9b76856e630385209ae862182286446f65a8",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Sad people assume i am a scammer i guess i have to be clearer ?",
+  "sig": "4429f76db1b082e8a1e9c916fe71f2ffc20628c0b11ba9672d7e39672a6e8eb0b7c6e09889429a4fe62ff0527b0dcfb843510716fb72d9ec069a5c5e9a639ffe",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

@@ -1,0 +1,33 @@
+{
+  "id": "80c8409cf024786e74903f133bfc57adb82e499c3ee05e63e159b5966aef3e59",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756269556,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "99e0480c3892d1bde651f4510a8f493de80ce57f331eb6d8fcdc91af046fbe94",
+      "wss://nostr-pub.wellorder.net",
+      "root",
+      "eb8fd39bf77e0d7897c04aea68637ebfdd15747c3fef31f78be3ddbe0b9496ea"
+    ],
+    [
+      "e",
+      "eedddb05190722c43fa643ababbd34d491231ee0b1cec326517fb41e429d84f1",
+      "wss://relay.wellorder.net",
+      "reply"
+    ],
+    [
+      "p",
+      "eb8fd39bf77e0d7897c04aea68637ebfdd15747c3fef31f78be3ddbe0b9496ea",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I agree (though i havent got  a multifamiky yet) ",
+  "sig": "a07a7d188e7a7527f91e0bbca049cef31a3610c2889dafb0d3c5e2c0f4f3500dc26d9ccf999824aa8a88618f7e07c98291f3d710a60c6e1acd6d0fd6b2462311",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

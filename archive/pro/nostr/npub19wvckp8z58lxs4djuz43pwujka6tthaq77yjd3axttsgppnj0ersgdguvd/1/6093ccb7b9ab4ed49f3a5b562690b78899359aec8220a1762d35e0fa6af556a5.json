@@ -1,0 +1,32 @@
+{
+  "id": "6093ccb7b9ab4ed49f3a5b562690b78899359aec8220a1762d35e0fa6af556a5",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756441211,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "92cd9506bb0a07b03982b717b8b98ba96b657d8325dd2f366668bf2673c7f34d",
+      "wss://nos.lol/%20wss://nostr.land/%20%20avatar%20wss://nostr.wine/%20%20avatar%20wss://purplerelay.com/%20wss://relay.damus.io/%20wss://relay.snort.social/",
+      "root"
+    ],
+    [
+      "e",
+      "dd7ee95f686d5ac1e6962437b739ec852222f3980601780278c4bdcddd118fd2",
+      "wss://relay.primal.net",
+      "reply"
+    ],
+    [
+      "p",
+      "1140e4fc580c7e47d093fc26492b9b76856e630385209ae862182286446f65a8",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I am not asking for your private key only if yiu would like to have a verified NIP-05 address i only use your public key i can give you a free address that looks like “onesat@mycontinuum.xyz”  Ir something like that ",
+  "sig": "af4b41d4d2d7eb507b1faf88f2dbf86f74483e928689dfc73b41237514edd19f46e7efcf67cc1247c23298ed48f68ca600cc9298b6b767680b61e0e773ed4bb1",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

@@ -1,0 +1,38 @@
+{
+  "id": "5a58a509118928274d00a24caa5dce5975fc460786e8912d325fb042d2361cf7",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748732113,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "1f0ea9d76531e1c4152240826132c25d9a09099f7148e37d36d2ea93176ef0f7",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "64c86106171f819816e874db1b376ef52d9712a4cf55e3eb98020f9dd4e0ce23",
+      "wss://nostr.bitcoiner.social",
+      "reply"
+    ],
+    [
+      "p",
+      "2efaa715bbb46dd5be6b7da8d7700266d11674b913b8178addb5c2e63d987331",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "d5415a313d38461ff93a8c170f941b2cd4a66a5cfdbb093406960f6cb317849f",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Anytime I can always come with some good ones I think politicians (no matter the party) are an endless source of amusement",
+  "sig": "04ac69a00e3516e7010f6d0ca6046d4cfda092786264c8e6405f1194677ff97a3d8eb5a57137eaa84d21f40ad2f3c5c66e0e827fc074f3453c393f9657998321",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

@@ -1,0 +1,38 @@
+{
+  "id": "6a852939ccbd24c62040ece03d1316509915ab49417a3f381a9ac7ec48371d8b",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748748838,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "54eda143cb87cbda9487c6ae646caddc37a25dd0ba0270ffd30e7cbd42f0f48b",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "5b27cf2fe4d2504f211850ac6ed1ecfa4fcbcf277b7b1ecfce4c9a82dd1d4b58",
+      "wss://relay.damus.io",
+      "reply"
+    ],
+    [
+      "p",
+      "4d7842051782e0d3feb034d150adc2b6bae4ee3b49786793bffa468b6f5b96b3",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "0f4011159c24a6a53eeea72e1c2e97e0425be8af15e7de397003dd65d9e8d278",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "We do have freedoms in this country don’t get me wrong but they are continually being eroded slowly over time ",
+  "sig": "767835eef6237254970e1ec579710730580f38c2a396dad17ef052a22578624cb3d68f9709304b12eff4e3b9c27214bb9a13a46d2b39605c1408c14e9c9f9911",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

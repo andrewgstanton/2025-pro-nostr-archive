@@ -1,0 +1,39 @@
+{
+  "id": "353599e2dd5415491699ebe409c8d5e2ee668c7530e536c33513d8ddaf9b2b77",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1755326994,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "03f8551bc7c55f0529c59c9fd6eda93b18acfaf7130e3b12d5a887b76d471a98",
+      "wss://eden.nostr.land/",
+      "root",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "e",
+      "00002d96362be7adc8f7bccac86410ca50e06c511f9e133d891a0ea28e19eda9",
+      "wss://relay.primal.net",
+      "reply"
+    ],
+    [
+      "p",
+      "b7cf9f42a796b091e843dce919d3ef4c0dc82e029452edf0bdbcdeb9ecb93e78",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "926c3b2159cdfc7ac6274cd7c40767a8e28c6f28e22516a0dd10463ca24ffd25",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Thank you!!",
+  "sig": "0bb8aefb2c7ed8a228642b584233c76752cfe14a7bf25bdd98973ff8c5ffd5205206936511b91845b2a50f7b1f37ac1820ee0936960e74aab01952ddcb02e745",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

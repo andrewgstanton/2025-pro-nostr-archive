@@ -1,0 +1,32 @@
+{
+  "id": "fa82685b1d6d140ad21c4f0b33c91c87d056f4b975098e3fc8e1faac12ff7342",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756444542,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "92cd9506bb0a07b03982b717b8b98ba96b657d8325dd2f366668bf2673c7f34d",
+      "wss://nos.lol/%20wss://nostr.land/%20%20avatar%20wss://nostr.wine/%20%20avatar%20wss://purplerelay.com/%20wss://relay.damus.io/%20wss://relay.snort.social/",
+      "root"
+    ],
+    [
+      "e",
+      "b7f13f63d74a3e488f7d7f3e76ec86652a33dd5f34fe1b3a590d79f45c525e30",
+      "wss://relay.primal.net",
+      "reply"
+    ],
+    [
+      "p",
+      "1140e4fc580c7e47d093fc26492b9b76856e630385209ae862182286446f65a8",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I have thought about what you need to turn your phone into a full fledged pc (they are powerful enough) will revisit later perhaps",
+  "sig": "b0eb105c019f28a5773183047662a3994b4ffe8152b488e85d1c88da73f587ca39a6bd3893825cf09c413df3fef165da8aefa84e4f89c67ff94ef4faedad7927",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

@@ -1,0 +1,32 @@
+{
+  "id": "d2469904141beb24441e28b34f31cae177b28972cb7ee622d22df881d8a88b87",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756327317,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "a0c9dd7acfca41762da31eb2d775d3ced73be1a0d28d1812a29b64bc1b5de34c",
+      "wss://nostr-verified.wellorder.net",
+      "root"
+    ],
+    [
+      "e",
+      "54f59011f2e5c7536e69a03595000c64688b2b1e9326e544df4b8c43deef466a",
+      "wss://relay.primal.net",
+      "reply"
+    ],
+    [
+      "p",
+      "3c7aee7ad0cd6d8e3ddf2ab8e23815353fcce3cce528d4ce7505654ebbce3b6f",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I have actually implemeted what i talked about in the article maybe i need to put together a short demo reel ",
+  "sig": "33972ed7605d5f42684cf07ec56d009d196cc24d7751730c7ff32facb32fe1a5ca08b98eb62f0aab779813396b77dbf1cf1a098e2809cfc3814fd012aece5f40",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

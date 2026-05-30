@@ -1,0 +1,32 @@
+{
+  "id": "eaf92454b7d8d71c6b80035866a37c91151605e9ba7bcc6b24e65f84d28cc5bf",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1766914336,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47:growth-is-not-the-enemy--control-is",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "1d6981208f2719c2d160fdc3c6d20fac2c49ba58098bed1b9cb802b03449559b",
+      "wss://nostr-01.yakihonne.com",
+      "reply"
+    ],
+    [
+      "p",
+      "c94aef45f43e7e8cb3224ea8327453159331e6771676b1f799912630bc94cad4",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Thanks for that feedback ",
+  "sig": "b76e639bce2c4a48b4d63ea23654a19c7535baa10c1ddca788e220ea8763a94a5b399f0e268bef6a46f16a4eff07735cb08543333df1aed2f90aae868c47bd19",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

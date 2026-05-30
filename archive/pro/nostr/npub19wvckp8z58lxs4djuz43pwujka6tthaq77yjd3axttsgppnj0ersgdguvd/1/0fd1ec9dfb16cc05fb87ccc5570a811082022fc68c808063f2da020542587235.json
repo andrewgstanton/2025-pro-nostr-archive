@@ -1,0 +1,33 @@
+{
+  "id": "0fd1ec9dfb16cc05fb87ccc5570a811082022fc68c808063f2da020542587235",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1755728103,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "833c8b99ff8b5694524a36d9cb4d15c94a4cff74486aaf193a1a3d9c75db95af",
+      "",
+      "root",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "e",
+      "5208d802317fcb2b1ff24d772bf64e55c2a5265a056c365d23555db61fd7f405",
+      "wss://feeds.nostr.band",
+      "reply"
+    ],
+    [
+      "p",
+      "327c19b153c1a1b58f15bae8f308f23b9b1e4de88e0b9c485d885142ead55b19",
+      "wss://relay.damus.io/",
+      "mention"
+    ]
+  ],
+  "content": "Bill, your points sharpened my thinking, I’d like to include them in a short follow-up piece and credit you — are you ok with that?",
+  "sig": "8e5ef28a4ee601522a5b164e4590234e436186252e185b7d1114c380c8377ada21a0e567af69642a9bbe5f384326ec45a7b5728aec61310c7d8ab2b6fb9aacb9",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

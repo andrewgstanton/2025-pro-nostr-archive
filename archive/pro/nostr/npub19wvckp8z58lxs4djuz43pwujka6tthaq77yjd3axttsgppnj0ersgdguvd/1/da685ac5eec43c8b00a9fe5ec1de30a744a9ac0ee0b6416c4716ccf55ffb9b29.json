@@ -1,0 +1,38 @@
+{
+  "id": "da685ac5eec43c8b00a9fe5ec1de30a744a9ac0ee0b6416c4716ccf55ffb9b29",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1759613640,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47:free-article-1-sept-23-2025-freedom-in-the-fire-when-cultures-collide",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "a29a20e0028424f6982552021c81bb52fd7dedec74dfaedaecfbb29130edad4f",
+      "wss://relay.primal.net",
+      "reply"
+    ],
+    [
+      "p",
+      "0ee827a36e8bb0cfc483cf1872781182c4a16c58acba3ae2d7b155e0370e93b8",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "d700fc10d457eeae4f02eb04d715a054837e68a2e2d010971382c5e1016dc99e",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I don’t recall tagging you specifically if I did it was an honest mistake",
+  "sig": "6db4c38056318d5ac08d45fd389c7afa36b21e4b66fa76cd22d34819c0910ee52e494117d088b0466007250ec4d7f4150b5a06c4980057b1bff21bb98cef9847",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

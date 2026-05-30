@@ -1,0 +1,32 @@
+{
+  "id": "5d3718f8aa788a91e747ecd78b0140e5708dd1f5fc391ef2a427a51d61777962",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756442039,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "92cd9506bb0a07b03982b717b8b98ba96b657d8325dd2f366668bf2673c7f34d",
+      "wss://nos.lol/%20wss://nostr.land/%20%20avatar%20wss://nostr.wine/%20%20avatar%20wss://purplerelay.com/%20wss://relay.damus.io/%20wss://relay.snort.social/",
+      "root"
+    ],
+    [
+      "e",
+      "495a110cdfcbd9c9c105533bab67b6d4702495d5f89864e8a30d2a44da365f84",
+      "wss://relay.primal.net",
+      "reply"
+    ],
+    [
+      "p",
+      "1140e4fc580c7e47d093fc26492b9b76856e630385209ae862182286446f65a8",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Ok i have hurned too so i get it anyway best maybe i will write an article shiwing hiw to set up your own NIP-05 address",
+  "sig": "0e66ebdf21fd65f426b0759acbc16688cebeff20b2a7c5250f966d3710f637ff42109f375479defcd81dc8cc6472bd2f378fde01fc22b5737bbc173f03d71914",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

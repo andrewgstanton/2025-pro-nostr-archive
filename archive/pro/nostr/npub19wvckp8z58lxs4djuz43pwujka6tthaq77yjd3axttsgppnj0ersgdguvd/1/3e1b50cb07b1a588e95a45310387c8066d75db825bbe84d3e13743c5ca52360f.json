@@ -1,0 +1,38 @@
+{
+  "id": "3e1b50cb07b1a588e95a45310387c8066d75db825bbe84d3e13743c5ca52360f",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748748780,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "54eda143cb87cbda9487c6ae646caddc37a25dd0ba0270ffd30e7cbd42f0f48b",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "5b27cf2fe4d2504f211850ac6ed1ecfa4fcbcf277b7b1ecfce4c9a82dd1d4b58",
+      "wss://relay.damus.io",
+      "reply"
+    ],
+    [
+      "p",
+      "0f4011159c24a6a53eeea72e1c2e97e0425be8af15e7de397003dd65d9e8d278",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "4d7842051782e0d3feb034d150adc2b6bae4ee3b49786793bffa468b6f5b96b3",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Amen could not agree with you more and sometimes reducing constraints to give us the illusion we live in a free society ",
+  "sig": "584a81276d060d466eb9b6c1c2aaf5d85abefb7ea6973a025f3715bad775d922b1a6289738c6476894e19077ee37d73d135bbef717899b7c8febd2a6ab6bccd3",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

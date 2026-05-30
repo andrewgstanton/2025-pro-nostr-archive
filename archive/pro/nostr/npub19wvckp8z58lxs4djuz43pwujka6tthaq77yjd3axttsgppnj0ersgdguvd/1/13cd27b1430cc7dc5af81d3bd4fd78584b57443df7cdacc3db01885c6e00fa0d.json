@@ -1,0 +1,33 @@
+{
+  "id": "13cd27b1430cc7dc5af81d3bd4fd78584b57443df7cdacc3db01885c6e00fa0d",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756303334,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "99e0480c3892d1bde651f4510a8f493de80ce57f331eb6d8fcdc91af046fbe94",
+      "wss://nostr-pub.wellorder.net",
+      "root",
+      "eb8fd39bf77e0d7897c04aea68637ebfdd15747c3fef31f78be3ddbe0b9496ea"
+    ],
+    [
+      "e",
+      "34b3f7ba7255109018058dc8fb87fc64ec262d9fe32c48d80dd854c9bbdf4f8a",
+      "wss://relay.wellorder.net",
+      "reply"
+    ],
+    [
+      "p",
+      "eb8fd39bf77e0d7897c04aea68637ebfdd15747c3fef31f78be3ddbe0b9496ea",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Let me kniw if you would lije to get a verified NIP-05 address ",
+  "sig": "e79252500d16a11e596336f414b4b011c8b17540c2219bd4b71eee7592364388627c1961d5d44face2ad889375df1046593ed93461c4afe639b29568d8360597",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

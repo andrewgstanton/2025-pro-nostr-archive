@@ -1,0 +1,32 @@
+{
+  "id": "211bbc0e47c491d3617bbd69cd1c8671aebd6f54d596d0bf5bc45e89bf8fb51f",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1766694592,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "70293d61ed12b2d605ef580a3159ab77b0df5fa008cf1601b802b5d46a6386c7",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "e",
+      "8fac71435ec2e6df581a221fa5a24b9addfcbbf71ad3305e057128cbbe56868c",
+      "wss://nostr-pub.wellorder.net",
+      "reply"
+    ],
+    [
+      "p",
+      "ab7d91705025289d6149ad9ea1abc4ce4c49555df71904f29136c223785ea6f7",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Your welcome !! Merry Christmas !!",
+  "sig": "93820e360ac8bf654a8f94f537fab4ecd793f19c5eda18b39bd10d2793f7b6b8fa816141749ed3a07ac769e3389989b8e98aca0f34e508386be92aae9958c5d4",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

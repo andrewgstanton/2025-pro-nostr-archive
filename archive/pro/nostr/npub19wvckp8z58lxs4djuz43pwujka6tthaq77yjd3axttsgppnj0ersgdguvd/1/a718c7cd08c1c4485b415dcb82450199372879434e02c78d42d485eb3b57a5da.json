@@ -1,0 +1,32 @@
+{
+  "id": "a718c7cd08c1c4485b415dcb82450199372879434e02c78d42d485eb3b57a5da",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756441415,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "92cd9506bb0a07b03982b717b8b98ba96b657d8325dd2f366668bf2673c7f34d",
+      "wss://nos.lol/%20wss://nostr.land/%20%20avatar%20wss://nostr.wine/%20%20avatar%20wss://purplerelay.com/%20wss://relay.damus.io/%20wss://relay.snort.social/",
+      "root"
+    ],
+    [
+      "e",
+      "dd7ee95f686d5ac1e6962437b739ec852222f3980601780278c4bdcddd118fd2",
+      "wss://relay.primal.net",
+      "reply"
+    ],
+    [
+      "p",
+      "1140e4fc580c7e47d093fc26492b9b76856e630385209ae862182286446f65a8",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Some (like primal ) will charge you for having a verified address ",
+  "sig": "a892bcfa1e5680d307beacd663b524d5789e5d0c72403d1c87df1ea4578eb1ec2645bddcb439a00e61d20f1c20ef5d8dccd7e5e2aab0be774a0d77dad7a8ac84",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

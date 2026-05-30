@@ -1,0 +1,32 @@
+{
+  "id": "8551bb4f7793863d3f093526ae6a2ccb4ed7b598d164358752e9fb37d37ea4ea",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1750377685,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47:how-i-built-a-decentralized-cms-with-nostr--github-actions--part-2",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "7d421b9764b7b307981fcc9cef9466e47d6ab93c9f1ba1b2b85c22e9a38a402a",
+      "wss://relay.damus.io/%20wss://relay.notoshi.win/%20wss://nos.lol/%20wss://relay.siamstr.com/%20wss://relay.0xchat.com/%20wss://nfrelay.app/%20wss://relayrs.notoshi.win/%20wss://relay.nexterz.com/%20wss://fenrir-s.notoshi.win",
+      "reply"
+    ],
+    [
+      "p",
+      "0fa80bd393004965e971b8f1d5dcf1de3f6425f51dd29f784931a684ea7325de",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I am working on a dockerized app to self publish notes and articles on mycontinuum.xyz",
+  "sig": "a72de4f49404db506af85bd425a2b50381700efeae44411d284a90ea8c98fe459ff873841cbe7adbdae6c1e389c2e1f042745150453da912c34bf9478f43a99f",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

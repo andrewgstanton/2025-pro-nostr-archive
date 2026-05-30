@@ -1,0 +1,44 @@
+{
+  "id": "d53903754f0104fae35289f6b7acf61455dee13be2512286077352c4372e26ac",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1752473819,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "782dece5905ef1b54b819a37edb0463a18a20a975e76f1fd034fd7ce801023c1",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "d0db095aefcd36c37c5cc67ba81e5bf0bdfecfbbdf631ddf65db5e7412851c07",
+      "wss://relay.damus.io/%20wss://relay.notoshi.win/%20wss://nos.lol/%20wss://relay.siamstr.com/%20wss://relay.0xchat.com/%20wss://nfrelay.app/%20wss://relayrs.notoshi.win/%20wss://relay.nexterz.com/%20wss://fenrir-s.notoshi.win",
+      "reply"
+    ],
+    [
+      "p",
+      "fca0e02e831d2e16c7393ea75004bc603a9b2a3177e0c9b4dcf40c8380e72a4d",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "9d68c0e86da299aeb962cfb8cce4ddfa061e98cd6c544ea72942f051993a4529",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "0018b7ee33fb253843639c62e292fec700a69a93b08ee374c5bda971c9b39564",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I agree also very well said",
+  "sig": "b4cf04c33ce97bb1e86d65bd858fd4ffd34625a231c5e1c528184afb3e2b168f173f90de99f8c30d2f1036005b90bcdd39bc9c7e42ffbad6394daf4467d9339c",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

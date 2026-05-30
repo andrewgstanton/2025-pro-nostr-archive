@@ -1,0 +1,32 @@
+{
+  "id": "47e784218e34a752fe912a19641822531c17673d285c78d04645746367b9f637",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1749691170,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47:github-is-still-free--but-youre-the-product",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "ccbc5e8702b2927656f2123f767e43e2d80cfc4e077fc6fe13ebe386805f7da6",
+      "wss://nos.lol",
+      "reply"
+    ],
+    [
+      "p",
+      "dec1bdf488bc0430e05267a0de8a867bb893c4b599f58d65f8423a9f7ca34ef2",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Agreed there are trade offs",
+  "sig": "3ea2d9fb0526dabae13575e0bf07289d61550ace435a5dc63a2d124c1d0494f8f6d312e0e9f7f76981b99fc83ec53d87596c9ccd4c9ccc140e7798ebc38a18ff",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

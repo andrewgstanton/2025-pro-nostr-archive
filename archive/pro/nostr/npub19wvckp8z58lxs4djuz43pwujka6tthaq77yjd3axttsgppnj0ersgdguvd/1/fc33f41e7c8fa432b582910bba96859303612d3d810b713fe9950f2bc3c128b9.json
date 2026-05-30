@@ -1,0 +1,32 @@
+{
+  "id": "fc33f41e7c8fa432b582910bba96859303612d3d810b713fe9950f2bc3c128b9",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756354956,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "3322fc4011406e00ca70a28de858458d5811e3d83f8ffebce13ee1a70ce8bde8",
+      "wss://nostr-verified.wellorder.net/",
+      "root"
+    ],
+    [
+      "e",
+      "20182e67a4c783cdf067a92b290b1d2aacb7704f0a8cc5e1532102c9c650b3fb",
+      "wss://relay.primal.net",
+      "reply"
+    ],
+    [
+      "p",
+      "87da83b4278dd41227c000fa09ffd039fb189d74e95fe8f39fb1b6948c95a127",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Great i will make more like these  i was trying to pattern this like a DUST sci fi short but using  words instead of a cool short video",
+  "sig": "cc9193381a351e9a56d3e954540393bc04e06e99d40dae9f1c3f01a53787190b039a6a698cf552c07e8063a12812787d84253c85f457ed8c14a141069cfea94c",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

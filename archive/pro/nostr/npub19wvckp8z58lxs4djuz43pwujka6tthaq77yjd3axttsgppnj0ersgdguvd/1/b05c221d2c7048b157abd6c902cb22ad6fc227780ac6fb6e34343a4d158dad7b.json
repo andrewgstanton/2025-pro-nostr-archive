@@ -1,0 +1,38 @@
+{
+  "id": "b05c221d2c7048b157abd6c902cb22ad6fc227780ac6fb6e34343a4d158dad7b",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1766693867,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "19f810849a6e368ff6fdd9052ebd82038ea466b2498b8a79ad7a70026469f7f7",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "e803ef5aa7035c8da3b29cc2d4eb70a17e723ea1b529782a19e98092fe6cf5c8",
+      "wss://nos.lol",
+      "reply"
+    ],
+    [
+      "p",
+      "3f770d65d3a764a9c5cb503ae123e62ec7598ad035d836e2a810f3877a745b24",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "5069ea44d8977e77c6aea605d0c5386b24504a3abd0fe8a3d1cf5f4cedca40a7",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "How about the highest in long form posts (kind 30023)? \n\n",
+  "sig": "20fb5a81f94ec0e4400484817a498961056196997cb1237eb7bc59f77ded81ad9486bc6b33842a88c8b0439e9d74ccdb01968d7647388f6cfe958595ee930505",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

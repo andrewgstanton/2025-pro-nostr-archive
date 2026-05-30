@@ -1,0 +1,33 @@
+{
+  "id": "577a52998c4299f7835eea94c919d558e4c4657f954b72ed4c18ca050936dc57",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1755725989,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "833c8b99ff8b5694524a36d9cb4d15c94a4cff74486aaf193a1a3d9c75db95af",
+      "",
+      "root",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "e",
+      "5208d802317fcb2b1ff24d772bf64e55c2a5265a056c365d23555db61fd7f405",
+      "wss://feeds.nostr.band",
+      "reply"
+    ],
+    [
+      "p",
+      "327c19b153c1a1b58f15bae8f308f23b9b1e4de88e0b9c485d885142ead55b19",
+      "wss://relay.damus.io/",
+      "mention"
+    ]
+  ],
+  "content": "Thank you nostr:nprofile1qqsrylqek9furgd43u2m468nprerhxc7fh5guzuufpwcs52zat24kxgpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsz9nhwden5te0v4jx2m3wdehhxarj9ekxzmny9ur0yejy  those are very important to name",
+  "sig": "41abc3f0dfeecfd171a0bee7fc10ed1018e950bbdd34c7e5040fc23b6b761915660aa0482730bb7016781fe42ff9e95bf58ea42a78b76bcbffedcb4b1c64395b",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

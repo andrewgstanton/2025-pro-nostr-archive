@@ -1,0 +1,32 @@
+{
+  "id": "31fd417c538156162b6f1e031868f2f7cb89fdd209c24e2f3a7442b998f64bbe",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1750377628,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47:how-i-built-a-decentralized-cms-with-nostr--github-actions--part-2",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "7d421b9764b7b307981fcc9cef9466e47d6ab93c9f1ba1b2b85c22e9a38a402a",
+      "wss://relay.damus.io/%20wss://relay.notoshi.win/%20wss://nos.lol/%20wss://relay.siamstr.com/%20wss://relay.0xchat.com/%20wss://nfrelay.app/%20wss://relayrs.notoshi.win/%20wss://relay.nexterz.com/%20wss://fenrir-s.notoshi.win",
+      "reply"
+    ],
+    [
+      "p",
+      "0fa80bd393004965e971b8f1d5dcf1de3f6425f51dd29f784931a684ea7325de",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "You woukd need to modify a few things first your own situation this is using my npub to pull arrows cakes tagged with blog or article and building an index json from those ",
+  "sig": "d0f84317fc13fa71575272da458a9586246f289ce8caa1c2a760c847632277dcde29c09b2a680f34cc8db3f5b7c910ed64b99d3ddd2fcc3f5d69d73481c1a5ed",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

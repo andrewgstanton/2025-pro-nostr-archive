@@ -1,0 +1,32 @@
+{
+  "id": "0966c345f85fafb3a098a690fb000350c82f2ab0bcea6698b86b69675ff6caed",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748314842,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "36ab0b1a9ccda46217373ccb1056c5cca12fc236880f3c2ad16b6c73ee4df86c",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "e",
+      "937d31e03d5c67a715ed4dfb66f234d88accc51f0b1c3138a345ae756b8099fd",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "ae8ef5576370b5cb91d262cf0d31d5ce9f5ca26c3ad2d56d5c58f6023633e453",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "That’s what I was referring to He is the same Person in Narnia as He is on our world just having a different name but it’s clear I think it’s the same Person speaking to them in that magical world",
+  "sig": "23f158c7c5cc28f34146b4b2374093744484a4d4d883e1299ee8c2d9af72e30ba7438a50c2ad4654ac2e6adf7c0dac2bb2e33f9e304a328bbc44d5e7ce2c577e",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

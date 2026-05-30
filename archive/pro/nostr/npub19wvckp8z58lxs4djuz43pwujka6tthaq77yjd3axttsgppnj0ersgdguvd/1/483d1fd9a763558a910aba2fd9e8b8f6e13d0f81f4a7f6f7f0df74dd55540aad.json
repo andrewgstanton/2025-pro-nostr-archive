@@ -1,0 +1,32 @@
+{
+  "id": "483d1fd9a763558a910aba2fd9e8b8f6e13d0f81f4a7f6f7f0df74dd55540aad",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756442512,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "92cd9506bb0a07b03982b717b8b98ba96b657d8325dd2f366668bf2673c7f34d",
+      "wss://nos.lol/%20wss://nostr.land/%20%20avatar%20wss://nostr.wine/%20%20avatar%20wss://purplerelay.com/%20wss://relay.damus.io/%20wss://relay.snort.social/",
+      "root"
+    ],
+    [
+      "e",
+      "e10b09f0c5108309b9116e0672a8211a6d9d65e1af779c433c0075e9b128689c",
+      "wss://relay.primal.net",
+      "reply"
+    ],
+    [
+      "p",
+      "1140e4fc580c7e47d093fc26492b9b76856e630385209ae862182286446f65a8",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Perfect then you are good\n\nRemeber to add a file  (no content with the name .nojekyll to bypass GitHubs page rues it will not serve .well-kniwn/nostr.json otherwise",
+  "sig": "47b763946284444a4e4c7879754254d9330749bf7b3ddfd0a96d39438811ea59de73080fff2c903c6ea0191722e716b1cbd73c59b35fb57db79f4015dce63787",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

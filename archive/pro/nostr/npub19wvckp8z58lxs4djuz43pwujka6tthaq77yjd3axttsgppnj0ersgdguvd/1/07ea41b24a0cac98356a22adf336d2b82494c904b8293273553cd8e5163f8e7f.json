@@ -1,0 +1,32 @@
+{
+  "id": "07ea41b24a0cac98356a22adf336d2b82494c904b8293273553cd8e5163f8e7f",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756440436,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "92cd9506bb0a07b03982b717b8b98ba96b657d8325dd2f366668bf2673c7f34d",
+      "wss://nos.lol/%20wss://nostr.land/%20%20avatar%20wss://nostr.wine/%20%20avatar%20wss://purplerelay.com/%20wss://relay.damus.io/%20wss://relay.snort.social/",
+      "root"
+    ],
+    [
+      "e",
+      "6b085fadfab29c16c012b6254b36c27161939afb321558308e95106271d725ea",
+      "wss://relay.primal.net",
+      "reply"
+    ],
+    [
+      "p",
+      "1140e4fc580c7e47d093fc26492b9b76856e630385209ae862182286446f65a8",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Not a scammer at all if i were i wouldnt be verified \n\n",
+  "sig": "fd49b45355c5eed8290e9192cbaad2a69738096ff83976beb091a3f3c60f9c979efe773d53cf3b4411fa91bb5e44908d40b9cfcb331903089d0f8c97a4db4d6a",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

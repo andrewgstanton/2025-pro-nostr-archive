@@ -1,0 +1,32 @@
+{
+  "id": "88ac2db6a9d48f07e494f361bc373ab660c853024fcb6b6f3ee5c73ccdad7784",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1757173718,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "ff5114cf85904f1734b54f5f90263c453b152077115efc071b694702878cfcfb",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "6043a849b76310e9bed9c5ae4719676ca0e271b960330edf9930591e4978dd35",
+      "wss://nostr.mom",
+      "reply"
+    ],
+    [
+      "p",
+      "6597a1668c0436f59aa39da7b0660198879944c26c8b20bc227c2c4378762b5e",
+      "wss://yabu.me",
+      "mention"
+    ]
+  ],
+  "content": ":)",
+  "sig": "a61484f27246642fc0988b03b598b474405cd9dedeac1ca8f282524519ff21fb10383f4a4cffcd7a33eac0ffbf43f39db0afc68337f69aa4c55ef11b29f834d3",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

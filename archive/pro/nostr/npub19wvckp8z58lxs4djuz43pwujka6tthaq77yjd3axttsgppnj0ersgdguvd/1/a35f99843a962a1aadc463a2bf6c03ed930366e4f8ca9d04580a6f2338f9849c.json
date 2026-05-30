@@ -1,0 +1,38 @@
+{
+  "id": "a35f99843a962a1aadc463a2bf6c03ed930366e4f8ca9d04580a6f2338f9849c",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1759613428,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47:free-article-1-sept-23-2025-freedom-in-the-fire-when-cultures-collide",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "a29a20e0028424f6982552021c81bb52fd7dedec74dfaedaecfbb29130edad4f",
+      "wss://relay.primal.net",
+      "reply"
+    ],
+    [
+      "p",
+      "d700fc10d457eeae4f02eb04d715a054837e68a2e2d010971382c5e1016dc99e",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "0ee827a36e8bb0cfc483cf1872781182c4a16c58acba3ae2d7b155e0370e93b8",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I am seeing my article on primal coracle, snort and njump\n\nIt is found on the following relays\n\nnostr.bitcoiner.social\nnos.lol\nrelay.nostr.band\nrelay.damus.io\nNostr-pub.wellorder.net\nrelay.primal.net\nnostr.mon\ntelay.snort.social\n\nPlease  tag me if you have any questions \n\n",
+  "sig": "500eac358c2e830b13eabaa580a87a54cd7876ff7ead73b0358419222d9f1193ad1ac2375fb3ffa272767aa5abc8654ba65ddaf2b751880208ffa652e5103d9d",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

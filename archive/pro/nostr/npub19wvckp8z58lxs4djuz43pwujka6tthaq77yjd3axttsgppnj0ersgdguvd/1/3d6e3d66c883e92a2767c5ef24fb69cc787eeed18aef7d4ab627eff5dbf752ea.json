@@ -1,0 +1,32 @@
+{
+  "id": "3d6e3d66c883e92a2767c5ef24fb69cc787eeed18aef7d4ab627eff5dbf752ea",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748439900,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:1d7ff02a58602a852d17ed3bb909fe15bdb18f12395dffcc8533af70d042b5be:ccBuOQAv2pDtds11vF5RU",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "3e0060e54c2846b53ed4fbd7353f732a4e0b32cf19f8b2eb9af7c21f8b64e7a4",
+      "wss://offchain.pub",
+      "reply"
+    ],
+    [
+      "p",
+      "1d7ff02a58602a852d17ed3bb909fe15bdb18f12395dffcc8533af70d042b5be",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Which one ?",
+  "sig": "911bebcad4d9556b0c3b30782ce8cadb967da7f5e0c930719a1d1dfb38dba833e5f88713cf813b52157160ceef490ae7129efdebdb76311764329e4f86c8b7e9",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

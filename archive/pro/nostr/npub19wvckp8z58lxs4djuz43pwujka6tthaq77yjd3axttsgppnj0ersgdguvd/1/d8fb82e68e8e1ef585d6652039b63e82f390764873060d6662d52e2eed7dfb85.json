@@ -1,0 +1,39 @@
+{
+  "id": "d8fb82e68e8e1ef585d6652039b63e82f390764873060d6662d52e2eed7dfb85",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1755613300,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "833c8b99ff8b5694524a36d9cb4d15c94a4cff74486aaf193a1a3d9c75db95af",
+      "",
+      "root",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "e",
+      "5208d802317fcb2b1ff24d772bf64e55c2a5265a056c365d23555db61fd7f405",
+      "wss://feeds.nostr.band",
+      "reply"
+    ],
+    [
+      "p",
+      "869d6a95f1807234ddb153cdbb6382336c9958548476d853c684b1ff54a89c6e",
+      "wss://relay.current.fyi",
+      "mention"
+    ],
+    [
+      "p",
+      "327c19b153c1a1b58f15bae8f308f23b9b1e4de88e0b9c485d885142ead55b19",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Thank you nostr:nprofile1qqsgd8t2jhccqu35mkc48ndmvwprxmyetp2ggakc20rgfv0l2j5fcmspzamhxue69uhhyetvv9ujucm4wfex2mn59en8j6gpp3mhxue69uhkyunz9e5k7myya70  those are very important to name as well ",
+  "sig": "2d77df892cf126305b6addf8dc282331c271c12e588f334c3bc678f5479e7d5bbaab0823756f53d71c83a35bb009f6b3401c7983876d9acf34509e984c13bea1",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

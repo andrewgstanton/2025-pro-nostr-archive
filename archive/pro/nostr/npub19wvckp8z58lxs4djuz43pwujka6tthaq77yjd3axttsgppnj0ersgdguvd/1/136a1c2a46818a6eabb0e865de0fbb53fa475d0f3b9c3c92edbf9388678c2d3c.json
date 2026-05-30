@@ -1,0 +1,38 @@
+{
+  "id": "136a1c2a46818a6eabb0e865de0fbb53fa475d0f3b9c3c92edbf9388678c2d3c",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748663706,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "ff2b9727399841298aebf77ab574c8cccaf739eeaae2e9a77665cce7c3ec8114",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "e",
+      "d0bf302d4ee5507e1bcbcfbb8cc3d039b496224fa6dee1ff88cdfea4a60fc17c",
+      "wss://relay.primal.net",
+      "reply"
+    ],
+    [
+      "p",
+      "e2ccf7cf20403f3f2a4a55b328f0de3be38558a7d5f33632fdaaefc726c1c8eb",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "a10260a2aa2f092d85e2c0b82e95eac5f8c60ea19c68e4898719b58ccaa23e3e",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Ah yes 1/10 of a cent you are right! )I ",
+  "sig": "7b5c5b027d0fa2d27f7a373529b8dadb77e224d0b170ee39255b1d9cdaf8ea3f8b5e1eea85db8bc1865c51973ab570b707525f183d23aaf0c5ed6d12089b0797",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

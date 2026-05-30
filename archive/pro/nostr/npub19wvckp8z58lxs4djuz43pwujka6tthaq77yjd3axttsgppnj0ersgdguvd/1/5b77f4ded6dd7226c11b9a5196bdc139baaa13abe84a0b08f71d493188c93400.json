@@ -1,0 +1,32 @@
+{
+  "id": "5b77f4ded6dd7226c11b9a5196bdc139baaa13abe84a0b08f71d493188c93400",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756440667,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "92cd9506bb0a07b03982b717b8b98ba96b657d8325dd2f366668bf2673c7f34d",
+      "wss://nos.lol/%20wss://nostr.land/%20%20avatar%20wss://nostr.wine/%20%20avatar%20wss://purplerelay.com/%20wss://relay.damus.io/%20wss://relay.snort.social/",
+      "root"
+    ],
+    [
+      "e",
+      "6b085fadfab29c16c012b6254b36c27161939afb321558308e95106271d725ea",
+      "wss://relay.primal.net",
+      "reply"
+    ],
+    [
+      "p",
+      "1140e4fc580c7e47d093fc26492b9b76856e630385209ae862182286446f65a8",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Here is an article i write to help \n\nhttps://primal.net/andrewgstanton/how-nip-05-verification-works-and-why-it-matters",
+  "sig": "404291958081342809b1f5f8aadbaff7b2607a906c1eebeeabcb65b37c9cb2d140a138d63c57f1fb41c4cb1cde499f495a6ab94a930d7b2df59e9bb86f370bcb",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

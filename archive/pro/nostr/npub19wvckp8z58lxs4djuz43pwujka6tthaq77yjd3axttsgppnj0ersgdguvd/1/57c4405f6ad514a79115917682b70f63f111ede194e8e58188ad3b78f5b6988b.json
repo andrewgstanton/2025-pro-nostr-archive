@@ -1,0 +1,32 @@
+{
+  "id": "57c4405f6ad514a79115917682b70f63f111ede194e8e58188ad3b78f5b6988b",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1755735547,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "833c8b99ff8b5694524a36d9cb4d15c94a4cff74486aaf193a1a3d9c75db95af",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "02fe0e219ea3a24c5b5abe9a347cfd35ec2f00de2af443ab5c330c2dbef30f4a",
+      "wss://nos.lol",
+      "reply"
+    ],
+    [
+      "p",
+      "327c19b153c1a1b58f15bae8f308f23b9b1e4de88e0b9c485d885142ead55b19",
+      "wss://relay.damus.io/",
+      "mention"
+    ]
+  ],
+  "content": "Here’s the link to the updated article\n\nhttps://primal.net/andrewgstanton/toward-a-sharper-definition-of-sovereign-technology",
+  "sig": "20baf2f24a3bc3965ef7bd2b700000c48248e0cf609f434397d0014950f6811795f197bc6429675215ca820128ccd59eabab84edbfa06de3836d6c5be9661a03",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

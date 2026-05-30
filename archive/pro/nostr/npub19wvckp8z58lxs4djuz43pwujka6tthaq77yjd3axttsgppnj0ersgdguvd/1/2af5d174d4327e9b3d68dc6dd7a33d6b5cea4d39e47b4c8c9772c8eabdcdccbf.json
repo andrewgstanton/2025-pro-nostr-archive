@@ -1,0 +1,33 @@
+{
+  "id": "2af5d174d4327e9b3d68dc6dd7a33d6b5cea4d39e47b4c8c9772c8eabdcdccbf",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1758409228,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "78c911ce1581d924701e22519542746bff0bddb36097e37589136e2c6a1d59a4",
+      "",
+      "root",
+      "0a380f63e1a7b0015117a5c21eb4878da085fb8a19e13601b862cbe3ad09293b"
+    ],
+    [
+      "e",
+      "9fac26d9972fe86bcbfb34c786582a22521477af49fa17f7c4e6eeebf98cb504",
+      "wss://relay.damus.io",
+      "reply"
+    ],
+    [
+      "p",
+      "0a380f63e1a7b0015117a5c21eb4878da085fb8a19e13601b862cbe3ad09293b",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "My latest article \n\nhttps://primal.net/andrewgstanton/free-article-2-sept-18-2025-the-hidden-tax-of-convenience\n",
+  "sig": "78f9e2584d5714930c96ae3493972f3b3fa5d1741887c31d06afbc9cb626eb0b2b260b8e5a5c722b17010665b4a07b3d128e560128cedd576b1b798735f13fbd",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

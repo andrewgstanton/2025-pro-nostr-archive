@@ -1,0 +1,32 @@
+{
+  "id": "83f36a8928758c96cd1d4513a898063c487564cc57ecc9229fb2d286c91b9580",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748314725,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "36ab0b1a9ccda46217373ccb1056c5cca12fc236880f3c2ad16b6c73ee4df86c",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "e",
+      "937d31e03d5c67a715ed4dfb66f234d88accc51f0b1c3138a345ae756b8099fd",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "ae8ef5576370b5cb91d262cf0d31d5ce9f5ca26c3ad2d56d5c58f6023633e453",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "There was a line (forget which book maybe the last battle not the first one) where Aslan is telling the children now older ( I think at university) that He is known by a different name in their world ( Christ  the Son of God on ours )",
+  "sig": "2e945a3025433f6139fbcce15874597f256d4476b8571e1801ac9d4b7f0c068e9f5f29fcf7d9e059f9439a48f986c00f25cb9b7c0c63b9e19556695d088ad56e",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

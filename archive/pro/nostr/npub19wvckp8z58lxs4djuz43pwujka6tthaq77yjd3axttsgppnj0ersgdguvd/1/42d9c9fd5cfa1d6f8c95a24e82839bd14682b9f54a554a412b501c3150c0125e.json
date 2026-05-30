@@ -1,0 +1,32 @@
+{
+  "id": "42d9c9fd5cfa1d6f8c95a24e82839bd14682b9f54a554a412b501c3150c0125e",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1750010304,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "c4fe7d3cd3ffb6b3e1a5b58b3b7a0b31878e9350573121c783c94118d4307564",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "e",
+      "a94363554af6b27e3c2f8020a5e5aba95b7a428aa81c315312b3a95aa287820f",
+      "wss://a.nos.lol",
+      "reply"
+    ],
+    [
+      "p",
+      "0f4011159c24a6a53eeea72e1c2e97e0425be8af15e7de397003dd65d9e8d278",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Thank you!",
+  "sig": "bc7676cf93e4a93737b936314d9265a6255f0c717fd98c44aa46d672bd7c1697ff47d00f4ebb203be33e800a0968e7cba0f768645962dfadcc3d322684cf7be2",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

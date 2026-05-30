@@ -1,0 +1,32 @@
+{
+  "id": "a9882a247cc1c9134d90c95000dc432ed4e01a8d55177c0124fc3344767c5836",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756444119,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "92cd9506bb0a07b03982b717b8b98ba96b657d8325dd2f366668bf2673c7f34d",
+      "wss://nos.lol/%20wss://nostr.land/%20%20avatar%20wss://nostr.wine/%20%20avatar%20wss://purplerelay.com/%20wss://relay.damus.io/%20wss://relay.snort.social/",
+      "root"
+    ],
+    [
+      "e",
+      "825ec0c284c78e4f4a1f0d726ac5df4371d34ab3e85c46724759c7ac84c82b21",
+      "wss://relay.orangehat.vip:",
+      "reply"
+    ],
+    [
+      "p",
+      "1140e4fc580c7e47d093fc26492b9b76856e630385209ae862182286446f65a8",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Almost impossibke to do this on your phone  (it is possible i suppose but a miserable experience if you tried)",
+  "sig": "bfee602701c3bb816774ca69806907a93438569e81cf989ad88ac36fdf2260cf4b0d34cdbdfd2cbb09e20ca987e81b3ad748625a1665367ba2177891ad0bac58",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

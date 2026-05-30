@@ -1,0 +1,32 @@
+{
+  "id": "c7ef3622cab146eea6c1e94dbb801324399b247ebff35116558a27146f99a0dd",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1755222257,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:54609048284d2a151c8df625f40c389d423ed057fcef927db88956d28e22ba03:permission-is-the-new-currency",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "51ffd7728e579125265623577bf6f9b65c6404e1362f60cba52ad9d68a8af3c2",
+      "wss://Nostr.einundzwanzig.space",
+      "reply"
+    ],
+    [
+      "p",
+      "54609048284d2a151c8df625f40c389d423ed057fcef927db88956d28e22ba03",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Yeah 5 years is probably optimistic",
+  "sig": "99c54ca157b02265fbb11d4a46bf43d9fd1a2b97de61a9f1c366b78843b38f01af82791eb49e07f066a8751e10c54787e35d003abc36ed10b154d0838ce6a5d5",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

@@ -1,0 +1,33 @@
+{
+  "id": "eee19c0bca5fd6929b010263eb1cc87fc1a85111e9a84e3a625564cee911e116",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1765072982,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "4955cf86a18baaed50b847f88c0db06270ae3119ab0d2858e47826828698db57",
+      "",
+      "root",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "e",
+      "099bc97a6aa193fde68e49121fe2a7c466189b2984dafc9d058b0143aafb720e",
+      "wss://feeds.nostr.band/lang/en",
+      "reply"
+    ],
+    [
+      "p",
+      "43921debe74de7a1c0f191c7294e48b340c397176a92db9342c2b8c0f1c98959",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Also I publish 2 free articles daily (often more) and I daily paid article on the weekend all my content is free I cast the paid article Saturday as a “sabbath” piece ( usually on the topic of sabbath aka rest and the paid article for Sunday on the topic of renewal",
+  "sig": "20cf7f9be3e9dfb40ceaecc5233f9fe956d5122cf7bb7d3576a86cfa31366a1e84a2e6e0f6c974887d034f05182132fc62fdb4638dd77e9ebae03804a290295d",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

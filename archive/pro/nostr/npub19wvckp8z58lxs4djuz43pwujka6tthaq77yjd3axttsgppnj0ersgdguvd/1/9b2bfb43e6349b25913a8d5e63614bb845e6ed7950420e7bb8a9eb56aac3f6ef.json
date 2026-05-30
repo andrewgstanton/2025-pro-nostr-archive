@@ -1,0 +1,32 @@
+{
+  "id": "9b2bfb43e6349b25913a8d5e63614bb845e6ed7950420e7bb8a9eb56aac3f6ef",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748889755,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "01888f95906563cb18213d4a085729a85d4b882d0bff3524f5fc68db781a3c8e",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "e",
+      "718178387f0822b77e4166b7f416d1d401a0b2544eac4c59d6816e060c5698bd",
+      "wss://nostr.decentony.com",
+      "reply"
+    ],
+    [
+      "p",
+      "548aed73cf0bd94c0637872b6acd2c83977dde03d745db65c8af72516c7993d2",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "ChatGPT",
+  "sig": "5235c5baf660393969f6b5c87314f27eafb74955a0b33b4ca14da84eb77b4bde8d231b17fcbde53bcdff32f6e6441b652e0d2b27f66e78ff4a94667ef6cc90a9",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

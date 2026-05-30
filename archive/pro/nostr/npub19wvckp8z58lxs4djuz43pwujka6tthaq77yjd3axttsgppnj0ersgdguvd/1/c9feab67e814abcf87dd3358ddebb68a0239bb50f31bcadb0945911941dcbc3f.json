@@ -1,0 +1,32 @@
+{
+  "id": "c9feab67e814abcf87dd3358ddebb68a0239bb50f31bcadb0945911941dcbc3f",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756441619,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "92cd9506bb0a07b03982b717b8b98ba96b657d8325dd2f366668bf2673c7f34d",
+      "wss://nos.lol/%20wss://nostr.land/%20%20avatar%20wss://nostr.wine/%20%20avatar%20wss://purplerelay.com/%20wss://relay.damus.io/%20wss://relay.snort.social/",
+      "root"
+    ],
+    [
+      "e",
+      "5054d10613c297bdfc62aeddcd2c22dfb54a2a231ecff3828e1c2f6706d75a11",
+      "wss://relay.orangehat.vip:",
+      "reply"
+    ],
+    [
+      "p",
+      "1140e4fc580c7e47d093fc26492b9b76856e630385209ae862182286446f65a8",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I suppose that is true but then you could just remove the nip address from your profile And use a different service ",
+  "sig": "3334928825dba40d3e54a87da2b623a3c0ee072a603b5516c82961d5a1194cec880a8aa0447284a746cc2663b2872aca8ddeb81e9e2c794b5f4e1c314ca2ec8d",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

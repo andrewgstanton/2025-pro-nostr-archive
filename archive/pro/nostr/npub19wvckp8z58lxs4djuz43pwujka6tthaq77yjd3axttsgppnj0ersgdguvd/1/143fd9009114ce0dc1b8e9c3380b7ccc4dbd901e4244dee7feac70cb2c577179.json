@@ -1,0 +1,32 @@
+{
+  "id": "143fd9009114ce0dc1b8e9c3380b7ccc4dbd901e4244dee7feac70cb2c577179",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1755733700,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "833c8b99ff8b5694524a36d9cb4d15c94a4cff74486aaf193a1a3d9c75db95af",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "02fe0e219ea3a24c5b5abe9a347cfd35ec2f00de2af443ab5c330c2dbef30f4a",
+      "wss://nos.lol",
+      "reply"
+    ],
+    [
+      "p",
+      "327c19b153c1a1b58f15bae8f308f23b9b1e4de88e0b9c485d885142ead55b19",
+      "wss://relay.damus.io/",
+      "mention"
+    ]
+  ],
+  "content": "Great !!",
+  "sig": "9f7ceea26fedaf04811e1dc375abbc7093eb409211ec84c3bf19b942947c237719d44d694476ae4ea68683aa261c982b6d7da16f8ded5770d628a73128e14d5f",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

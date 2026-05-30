@@ -1,0 +1,32 @@
+{
+  "id": "20a1d2e30967fb4b8bdc29a1b56cd83ba59758777b42c1358052b4dd4953bf1c",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756316137,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "a0c9dd7acfca41762da31eb2d775d3ced73be1a0d28d1812a29b64bc1b5de34c",
+      "wss://nostr-verified.wellorder.net",
+      "root"
+    ],
+    [
+      "e",
+      "8117958c50c6213208d066556e28cb327280b3754122799b31ee230b4e98f9c4",
+      "wss://relay.primal.net",
+      "reply"
+    ],
+    [
+      "p",
+      "3c7aee7ad0cd6d8e3ddf2ab8e23815353fcce3cce528d4ce7505654ebbce3b6f",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "The same flow is simpler with npubs + signed messages And you don’t need to deal with having a metamask wallet and setting it uo as a plugin in your browser (notoriously fickle)",
+  "sig": "05cd4310e3073b84b048078fcab4f6c8035d0f81bd06419e32333e477cd8a9d57a6582a981c2fb3cd89552cddab2ae71f7c64c71ee7c4c4952578ae7488b5a8a",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

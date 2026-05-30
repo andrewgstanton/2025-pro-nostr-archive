@@ -1,0 +1,32 @@
+{
+  "id": "bf53a54eb2ec018a04fd310b79a5a4ef991444a03d125f881d733bf3de6fec1b",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756442286,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "92cd9506bb0a07b03982b717b8b98ba96b657d8325dd2f366668bf2673c7f34d",
+      "wss://nos.lol/%20wss://nostr.land/%20%20avatar%20wss://nostr.wine/%20%20avatar%20wss://purplerelay.com/%20wss://relay.damus.io/%20wss://relay.snort.social/",
+      "root"
+    ],
+    [
+      "e",
+      "495a110cdfcbd9c9c105533bab67b6d4702495d5f89864e8a30d2a44da365f84",
+      "wss://relay.primal.net",
+      "reply"
+    ],
+    [
+      "p",
+      "1140e4fc580c7e47d093fc26492b9b76856e630385209ae862182286446f65a8",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "And Yes there are  scammers on nostr i have encountered a few of them impersinatung “Jeff Booth” (at least separate noubs claiming to be the real one but only one has 100k followers And hes legit (most likely) \n\nThe others tried to get me to talk about my “tradingstrategies And investing in his company ugh”",
+  "sig": "a8cd8732495a4f1d24ec59be9660fcb0a656c5c40580851c24c9976db22a53e9fad862fe592012a69516f3782a357ba5112f391cab1a4ffdb6c912d7e0575c09",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

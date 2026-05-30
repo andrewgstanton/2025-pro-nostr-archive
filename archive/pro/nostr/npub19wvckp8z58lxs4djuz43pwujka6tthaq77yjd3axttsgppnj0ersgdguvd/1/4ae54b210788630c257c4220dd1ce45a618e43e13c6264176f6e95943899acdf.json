@@ -1,0 +1,32 @@
+{
+  "id": "4ae54b210788630c257c4220dd1ce45a618e43e13c6264176f6e95943899acdf",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1753064200,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47:bitcoin-the-scientific-method-and-the-gospel",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "a0829574dbdb65bedc1cdbe82337d5a05bb1d203363bc681ef0f9be04a6af3fb",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "5f55785440c7b7e7c7cf975ea4b3428f1f2145a0698361f7f6bb03e9a8a6e3c3",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Amén !! ",
+  "sig": "d1fbfa1b25e1dde481fce6f28ac5f92d3087fbd6ef1395f3eda9c4f49b5d9839d5516649181a5b92d249341efaec3d84f7590c37ce96bc9f64f82feb50a89f74",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

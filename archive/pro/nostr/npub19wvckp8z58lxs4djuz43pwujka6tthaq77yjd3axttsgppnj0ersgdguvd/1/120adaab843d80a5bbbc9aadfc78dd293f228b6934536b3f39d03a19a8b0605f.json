@@ -1,0 +1,32 @@
+{
+  "id": "120adaab843d80a5bbbc9aadfc78dd293f228b6934536b3f39d03a19a8b0605f",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1752336171,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "909cfc42bbba899f5cf967aea5519820c8d30d24cc6dd9e529da1d67ae2eab34",
+      "wss://nostr-dev.wellorder.net",
+      "root"
+    ],
+    [
+      "e",
+      "9dd2aef3796ea2fd065ea5b6f43dfd0a87bdbc77e1feebe51f4d67214da9be83",
+      "wss://nostr-dev.wellorder.net",
+      "reply"
+    ],
+    [
+      "p",
+      "a44dbc9aaa357176a7d4f5c3106846ea096b66de0b50ee39aff54baab6c4bf4b",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Your welcome!!",
+  "sig": "9b703d03e62c6d10193fc8cdae9c132a33f44282af375ac5c6306fefa7f6d4289bf24b57669be4057c746a9d91def55ee21e1b327410b1933c32bdd8db4abc53",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

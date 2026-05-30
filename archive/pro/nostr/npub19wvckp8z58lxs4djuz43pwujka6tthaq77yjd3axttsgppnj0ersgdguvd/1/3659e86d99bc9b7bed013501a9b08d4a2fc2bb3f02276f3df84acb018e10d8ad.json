@@ -1,0 +1,32 @@
+{
+  "id": "3659e86d99bc9b7bed013501a9b08d4a2fc2bb3f02276f3df84acb018e10d8ad",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1750377503,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47:how-i-built-a-decentralized-cms-with-nostr--github-actions--part-2",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "7d421b9764b7b307981fcc9cef9466e47d6ab93c9f1ba1b2b85c22e9a38a402a",
+      "wss://relay.damus.io/%20wss://relay.notoshi.win/%20wss://nos.lol/%20wss://relay.siamstr.com/%20wss://relay.0xchat.com/%20wss://nfrelay.app/%20wss://relayrs.notoshi.win/%20wss://relay.nexterz.com/%20wss://fenrir-s.notoshi.win",
+      "reply"
+    ],
+    [
+      "p",
+      "0fa80bd393004965e971b8f1d5dcf1de3f6425f51dd29f784931a684ea7325de",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Yes \n\nhttps://github.com/andrewgstanton/blog-stantonweb-site",
+  "sig": "b34b03a63e4785df6a1f3eb691c513d58b053e38fe119ada2e431bd5def220639d739cd970ada7a11103d5f16df76dec99b8cb7bb0378dab83bfeef3c45767b0",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

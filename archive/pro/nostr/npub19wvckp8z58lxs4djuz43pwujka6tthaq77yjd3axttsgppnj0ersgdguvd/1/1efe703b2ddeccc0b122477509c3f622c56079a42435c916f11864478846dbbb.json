@@ -1,0 +1,32 @@
+{
+  "id": "1efe703b2ddeccc0b122477509c3f622c56079a42435c916f11864478846dbbb",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1755811341,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47:part-2-the-scope-of-all",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "5134ce675a64339f49d9bd264a397ed22f8bb3d0fd32ab512ce7ae665dc9191f",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "3c7aee7ad0cd6d8e3ddf2ab8e23815353fcce3cce528d4ce7505654ebbce3b6f",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "I am asking for the same thing I have zapped a lot since May  but these days I need to see some coming in \n\nI will check out your articles first sure !",
+  "sig": "39c69a7e4e93a97d7452b2e6485c2eaa10690c10fe89aae808a9378845c695c4f7e7149120f3ca284c21fb140090fad84cf1d2abedcf0ba3adcc8caed679bf32",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

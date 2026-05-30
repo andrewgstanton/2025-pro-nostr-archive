@@ -1,0 +1,38 @@
+{
+  "id": "6de26848e88f0eaf4ea0d41098f12ffff6a3058be7e2db711c3bfea20d5d49b3",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1752473624,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "782dece5905ef1b54b819a37edb0463a18a20a975e76f1fd034fd7ce801023c1",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "ba9d6f5ef715b114e8ddaf1e13390db3d0775765f6d8e5296b48c44363b790a7",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "fca0e02e831d2e16c7393ea75004bc603a9b2a3177e0c9b4dcf40c8380e72a4d",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "0018b7ee33fb253843639c62e292fec700a69a93b08ee374c5bda971c9b39564",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Freedom means we don’t ban even those we strongly disagree with\n\nIt’s horrible and cowardly to ban\n\nFor the record I strongly disagree with many of your positions but it’s just wrong to ban you \n\n-akamaister",
+  "sig": "1f24164794682964d79f5bc1379739c3a631489d5eaa62fe3a80f394678fd03fbce8be71433ab4e10f789d0db3eee6118d9d192961e40692bfccb71b73b4f4c8",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

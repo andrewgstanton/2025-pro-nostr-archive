@@ -1,0 +1,32 @@
+{
+  "id": "f5393802d3c41821619299f317e3cdd75e9cb8e920edbf5f8fe13aa08aa61d00",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1749017015,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "beaf89f0e9250fd5b927402f8098d0422a541251e0c7d5c6b3075f198759938a",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "36c3421948e66f7841114744ad1b376f64f0b6313e8f4a62f125d8cf9eb0503d",
+      "wss://relay.primal.net",
+      "reply"
+    ],
+    [
+      "p",
+      "4eb88310d6b4ed95c6d66a395b3d3cf559b85faec8f7691dafd405a92e055d6d",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Not recently my sister was actually  born in Saipan",
+  "sig": "c139b438635265b39cae3c69110b90e244278157073796396734bb86978af6049926402d082729368f3df742c4c09fe7916da026c4c4fae105a50c9786b5fa54",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

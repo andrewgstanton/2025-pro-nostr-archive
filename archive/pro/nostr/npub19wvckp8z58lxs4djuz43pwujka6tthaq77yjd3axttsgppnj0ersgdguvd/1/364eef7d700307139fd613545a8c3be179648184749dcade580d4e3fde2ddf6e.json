@@ -1,0 +1,38 @@
+{
+  "id": "364eef7d700307139fd613545a8c3be179648184749dcade580d4e3fde2ddf6e",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1753755559,
+  "kind": 1,
+  "tags": [
+    [
+      "a",
+      "30023:ab8cb80e5e42a5c45fcf0a6c297e758b113a87daa5028b10b22b8adf5395d502:UJ2syDL4X3MmNTg-TVfBV",
+      "",
+      "root"
+    ],
+    [
+      "e",
+      "85d05464d39bfeb625b621ca13ad13447142484fb4768bbc2db46d5d1e2352fb",
+      "wss://pyramid.fiatjaf.com/",
+      "reply"
+    ],
+    [
+      "p",
+      "d36e8083fa7b36daee646cb8b3f99feaa3d89e5a396508741f003e21ac0b6bec",
+      "",
+      "mention"
+    ],
+    [
+      "p",
+      "ab8cb80e5e42a5c45fcf0a6c297e758b113a87daa5028b10b22b8adf5395d502",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Excellent write up. ",
+  "sig": "d25f89768b5f60fee3f2af11fc1d248f346c6252df2667f522dcf15a39157ca9d76f990fdca68a79bf1c3a068b79bd71323187565b1c6befb08670359b150b9a",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

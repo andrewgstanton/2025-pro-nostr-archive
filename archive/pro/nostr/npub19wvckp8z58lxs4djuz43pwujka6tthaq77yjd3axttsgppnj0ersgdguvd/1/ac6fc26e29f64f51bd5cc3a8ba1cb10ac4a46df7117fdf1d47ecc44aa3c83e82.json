@@ -1,0 +1,33 @@
+{
+  "id": "ac6fc26e29f64f51bd5cc3a8ba1cb10ac4a46df7117fdf1d47ecc44aa3c83e82",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1758390719,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "78c911ce1581d924701e22519542746bff0bddb36097e37589136e2c6a1d59a4",
+      "",
+      "root",
+      "0a380f63e1a7b0015117a5c21eb4878da085fb8a19e13601b862cbe3ad09293b"
+    ],
+    [
+      "e",
+      "0c68243fec03dc5121ed434dad013612a247d87ada39d68f709d085378c5398e",
+      "",
+      "reply"
+    ],
+    [
+      "p",
+      "0a380f63e1a7b0015117a5c21eb4878da085fb8a19e13601b862cbe3ad09293b",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Amen I have written a lot about sovereignty and what it really means ",
+  "sig": "d3d3e90133494113db3cfe5b39d71878e60b79f8e1d5c75f3fbd69b3dab47556b7afe1492c0d704fb298dbc40664cd2bace6ca59fe3f952d0e262a4f2b78079b",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

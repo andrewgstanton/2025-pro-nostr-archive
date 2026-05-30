@@ -1,0 +1,32 @@
+{
+  "id": "d004d317d83a73e1ee3da4404a517d9bf618dd801e07d39519826cca1941f38d",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1749946630,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "a1e581b708bf6b6cc7a9b6e5e73c6064f1398aa72adcd91ac83c1471fc030d13",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "e",
+      "79410e3b04fc1e3323f61490738935327879ee68bc0a95862859166fb0cedb4b",
+      "wss://relay.primal.net",
+      "reply"
+    ],
+    [
+      "p",
+      "8aedc87160819e490cb0162acbd8c9a26d79e63db74f5b1b65939012924a7f05",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Bullshit I have never even been to Israel ",
+  "sig": "f6fb638ea868cb512a2f0dab1c61471cd429f460859fdb3ba607a3df318e2e54c6b194a423402f68e575cb05d0cebbdea0522b6835343d7c71215861378e2dfd",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

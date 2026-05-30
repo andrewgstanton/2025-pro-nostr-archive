@@ -1,0 +1,32 @@
+{
+  "id": "0ac5c458e39533e6810fd4004fefaac528a0a6b93bf13e74aa145b7d3fe42f9a",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756441711,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "92cd9506bb0a07b03982b717b8b98ba96b657d8325dd2f366668bf2673c7f34d",
+      "wss://nos.lol/%20wss://nostr.land/%20%20avatar%20wss://nostr.wine/%20%20avatar%20wss://purplerelay.com/%20wss://relay.damus.io/%20wss://relay.snort.social/",
+      "root"
+    ],
+    [
+      "e",
+      "5054d10613c297bdfc62aeddcd2c22dfb54a2a231ecff3828e1c2f6706d75a11",
+      "wss://relay.orangehat.vip:",
+      "reply"
+    ],
+    [
+      "p",
+      "1140e4fc580c7e47d093fc26492b9b76856e630385209ae862182286446f65a8",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Its a service i am offering fir free because i want to help others  but sure if u dont trust verify \n\nMycontinuum is on HTTPS ",
+  "sig": "ed1085fd31491517efa9b605d3e63216c5c75d086e73651579d046f820e747a7f7d1c47b2d175ad042c2eb432020fe51da98caa85b90ab43e56c3b3845573086",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

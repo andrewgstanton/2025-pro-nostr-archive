@@ -1,0 +1,32 @@
+{
+  "id": "976f1ecafa795d4f2c459daa780d9398c87dbb13b9ffa7cc72b0817d01605def",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1748475304,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "36f7428c5205eb3901ea34726f7fdd519d53a8c4efabbe839d3abf605ba4ceda",
+      "wss://nostr.land",
+      "root"
+    ],
+    [
+      "e",
+      "54a0db59155f96760ea852037bf90173d7711b72e1f592b2e551d88e49101b4e",
+      "wss://relay.primal.net",
+      "reply"
+    ],
+    [
+      "p",
+      "ee6ea13ab9fe5c4a68eaf9b1a34fe014a66b40117c50ee2a614f4cda959b6e74",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Thank you for those sats!!",
+  "sig": "88ebf578c2cccee545889c464da5f9ba5c09be35877ae83d22336b3fd9823d016e1d71f4e91b4fc777bb2800dfe3b72fd58437c74b5b5b0778d3a68af2aa9637",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

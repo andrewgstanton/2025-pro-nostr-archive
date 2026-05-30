@@ -1,0 +1,83 @@
+{
+  "id": "1fab17a8628769816cdd10f176886d67827a74fe657559cf7a526701f68380ad",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1765070847,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "4955cf86a18baaed50b847f88c0db06270ae3119ab0d2858e47826828698db57",
+      "wss://relay.damus.io",
+      "root",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "e",
+      "099bc97a6aa193fde68e49121fe2a7c466189b2984dafc9d058b0143aafb720e",
+      "wss://relay.damus.io",
+      "reply"
+    ],
+    [
+      "p",
+      "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47"
+    ],
+    [
+      "p",
+      "43921debe74de7a1c0f191c7294e48b340c397176a92db9342c2b8c0f1c98959"
+    ],
+    [
+      "r",
+      "wss://eden.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://nostr.land/"
+    ],
+    [
+      "r",
+      "wss://nostr.mom/"
+    ],
+    [
+      "r",
+      "wss://premium.primal.net/"
+    ],
+    [
+      "r",
+      "wss://puravida.nostr.land/"
+    ],
+    [
+      "r",
+      "wss://purplepag.es/"
+    ],
+    [
+      "r",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io/"
+    ],
+    [
+      "r",
+      "wss://relay.nostr.band/"
+    ],
+    [
+      "r",
+      "wss://relay.nostrplebs.com/"
+    ],
+    [
+      "r",
+      "wss://relay.snort.social/"
+    ],
+    [
+      "r",
+      "wss://relay.primal.net/"
+    ]
+  ],
+  "content": "On key distribution:\nI don’t distribute the master key at all — users never see it.\nWhat they get is a per-article unlock code, which is derived deterministically from the article’s slug + my master secret (HMAC).\n\nSo:\n\nI keep one root secret, offline in my .env\n\nEach paid article generates a unique unlock code deterministically\n\nThe viewer derives the AES key locally from code + slug\n\nNo DRM, no extra infra, no hidden server checks\n\nIf someone pays, I just send them their unlock link (?code=...)\n\nIt basically gives you pay-to-decrypt without introducing any central gatekeeper logic.\n\nManual for now, but fully automatable since the unlock codes are deterministic.\n",
+  "sig": "c63ef01760d9cab59e7d98bb8953161e95abcf14050021315af91fe0743dee17d98948c73a9fb635fcf9d5885057f06dd09103c3e0735af2b7c172739c343eff",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}

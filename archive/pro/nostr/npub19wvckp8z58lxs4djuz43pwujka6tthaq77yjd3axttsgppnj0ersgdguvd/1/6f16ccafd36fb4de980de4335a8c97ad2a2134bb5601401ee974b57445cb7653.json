@@ -1,0 +1,32 @@
+{
+  "id": "6f16ccafd36fb4de980de4335a8c97ad2a2134bb5601401ee974b57445cb7653",
+  "pubkey": "2b998b04e2a1fe6855b2e0ab10bb92b774b5dfa0f78926c7a65ae08086727e47",
+  "created_at": 1756330216,
+  "kind": 1,
+  "tags": [
+    [
+      "e",
+      "a0c9dd7acfca41762da31eb2d775d3ced73be1a0d28d1812a29b64bc1b5de34c",
+      "wss://relay.primal.net",
+      "root"
+    ],
+    [
+      "e",
+      "6ad395d1a7aba6dceecf32b78843a692834ee3b94ef232146e1f65ba2603c0e2",
+      "wss://nostr.mom",
+      "reply"
+    ],
+    [
+      "p",
+      "3c7aee7ad0cd6d8e3ddf2ab8e23815353fcce3cce528d4ce7505654ebbce3b6f",
+      "",
+      "mention"
+    ]
+  ],
+  "content": "Obrigado",
+  "sig": "36b0418f63c99707ee2df709bf6abc47521a35b6d742d0f87ff9bcf0c249315f3b787c1f5322ffb11635226e0db6f78d0e99b21ce446bfbaa9bbb74d9e55f63e",
+  "_source": [
+    "primal backup"
+  ],
+  "published": 1
+}
